@@ -1,0 +1,112 @@
+{
+  "scene": "Scene",
+  "rest_frame": 1,
+  "frames": [1, 2.5, 4, 6, 8.5, 10, 12, 15.5, 18],
+  "checks": [
+    {"id": "fixed-eye-closed-outward", "type": "closed_single_shell", "object": "FixedEye", "frames": [1]},
+    {"id": "swing-eye-closed-outward", "type": "closed_single_shell", "object": "SwingEye", "frames": [1]},
+    {"id": "pin-closed-outward", "type": "closed_single_shell", "object": "Pin", "frames": [1]},
+    {"id": "sleeve-closed-outward", "type": "closed_single_shell", "object": "Sleeve", "frames": [1]},
+    {
+      "id": "radial-clearance-fixed-eye-and-pin",
+      "type": "ray_gap", "outer_surface": "FixedEye", "inner_surface": "Pin",
+      "origin": {"object": "FixedEye", "point": [0, 0, 2]},
+      "axis": {"object": "FixedEye", "direction": [1, 0, 0]},
+      "min_mm": 0.049, "max_mm": 0.051
+    },
+    {
+      "id": "radial-clearance-lower-swing-eye-and-pin-at-neutral",
+      "type": "ray_gap", "outer_surface": "SwingEye", "inner_surface": "Pin", "frames": [1, 18],
+      "origin": {"object": "FixedEye", "point": [0, 0, 4.25]},
+      "axis": {"object": "FixedEye", "direction": [1, 0, 0]},
+      "min_mm": 0.049, "max_mm": 0.051
+    },
+    {
+      "id": "radial-clearance-upper-swing-eye-and-pin-over-motion",
+      "type": "ray_gap", "outer_surface": "SwingEye", "inner_surface": "Pin",
+      "origin": {"object": "FixedEye", "point": [0, 0, 7.95]},
+      "axis": {"object": "FixedEye", "direction": [-1, 0, 0]},
+      "min_mm": 0.010, "max_mm": 0.051
+    },
+    {
+      "id": "bore-at-lower-pin-station",
+      "type": "distance",
+      "a": {"object": "SwingEye", "vertex": 0},
+      "b": {"object": "Pin", "point": [0, 0, 0.05]},
+      "min_mm": 1.049, "max_mm": 1.051
+    },
+    {
+      "id": "bore-at-upper-pin-station",
+      "type": "distance",
+      "a": {"object": "SwingEye", "vertex": 30},
+      "b": {"object": "Pin", "point": [0, 0, 4.05]},
+      "min_mm": 1.049, "max_mm": 1.051
+    },
+    {
+      "id": "swing-eye-retains-shape",
+      "type": "rigid", "object": "SwingEye",
+      "basis_vertices": [0, 3, 6], "max_error_mm": 0.001
+    },
+    {
+      "id": "axial-clearance-between-eye-faces",
+      "type": "axis_gap",
+      "a": {"object": "SwingEye", "vertex": 0},
+      "b": {"object": "FixedEye", "vertex": 24},
+      "axis": {"object": "FixedEye", "direction": [0, 0, 1]},
+      "min_mm": 0.099, "max_mm": 0.101
+    },
+    {
+      "id": "positive-angle-stop",
+      "type": "distance", "frames": [6],
+      "a": {"object": "SwingEye", "vertex": 12},
+      "b": {"object": "FixedEye", "point": [4.2426407, 4.2426407, 4.1]},
+      "min_mm": 0, "max_mm": 0.001
+    },
+    {
+      "id": "negative-angle-stop",
+      "type": "distance", "frames": [12],
+      "a": {"object": "SwingEye", "vertex": 12},
+      "b": {"object": "FixedEye", "point": [4.5962667, -3.8567257, 4.1]},
+      "min_mm": 0, "max_mm": 0.001
+    },
+    {
+      "id": "neutral-return",
+      "type": "distance", "frames": [1, 18],
+      "a": {"object": "SwingEye", "vertex": 12},
+      "b": {"object": "FixedEye", "point": [6, 0, 4.1]},
+      "min_mm": 0, "max_mm": 0.001
+    },
+    {
+      "id": "sleeve-skin-and-attachments",
+      "type": "skin", "object": "Sleeve", "armature": "FixtureRig",
+      "weight_sum_tolerance": 0.00001, "max_influences": 2,
+      "regions": [
+        {"vertices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+         "allowed_bones": ["SleeveRoot"]},
+        {"vertices": [72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83],
+         "allowed_bones": ["SleeveTip"]}
+      ]
+    },
+    {
+      "id": "sleeve-base-stays-attached",
+      "type": "distance",
+      "a": {"object": "Sleeve", "vertex": 0},
+      "b": {"object": "FixedEye", "point": [15, 0, 0]},
+      "min_mm": 0, "max_mm": 0.001
+    },
+    {
+      "id": "sleeve-tip-reaches-bent-target",
+      "type": "distance", "frames": [6],
+      "a": {"object": "Sleeve", "vertex": 72},
+      "b": {"object": "FixedEye", "point": [17.8660254, 10.6961524, 0]},
+      "min_mm": 0, "max_mm": 0.001
+    },
+    {
+      "id": "sleeve-bend-retains-section",
+      "type": "distance",
+      "a": {"object": "Sleeve", "vertex": 36},
+      "b": {"object": "Sleeve", "vertex": 42},
+      "min_mm": 1.88, "max_mm": 2.001
+    }
+  ]
+}

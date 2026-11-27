@@ -9,7 +9,7 @@ import sys
 
 
 RESERVED = re.compile(r"(con|prn|aux|nul|com[1-9]|lpt[1-9])(?:\..*)?", re.I)
-FIELDS = {"id", "mode", "brief", "references", "source", "deliverables", "resolution", "acceptance"}
+FIELDS = {"id", "mode", "brief", "references", "source", "deliverables", "resolution", "acceptance", "review"}
 
 
 def nonempty_text(value):
@@ -57,12 +57,19 @@ def make_brief(product, base):
     ):
         raise ValueError("resolution 需要 [宽, 高] 两个正整数像素值")
     route = "从零建模" if mode == "create" else "接手现有工程，在副本上修复"
+    review = text_list(product, "review") if "review" in product else ""
     return "\n".join([
         f"# {key} 制作工单", "", f"{route}。目标画幅 {resolution[0]} × {resolution[1]} px。",
         "", "## 产品简报", "", product["brief"].strip(),
         "", "## 输入", "", *(inputs or ["- 依据本工单的文字概念进行原创设计。"]),
         *([f"- 输入文件基准目录：{base}"] if inputs else []),
         "", "## 交付物", "", text_list(product, "deliverables"),
+        "", "## 模型复核与重渲", "",
+        "1. 标明尺寸来源、单位和装配基准。按部件登记接合对象、支承和各组倒角，量取壁厚与缝隙。",
+        "2. 在有尺度的基准上沿三轴每 1 mm 取截面，给偏差标注部件和站位。缺少对照的特征列为待证。",
+        "3. 修回源模型，复跑同截面与保留视角。运动件实绑，检查默认、常用、极限和连续组合动作。",
+        "4. 冻结已复验版本，重渲受影响镜头，检查整套联系表、原寸细节和实际版位。交付证据与剩余未知项。",
+        *(["", "本款专项核对项", "", review] if review else []),
         "", "## 验收", "", text_list(product, "acceptance"), "",
     ])
 
