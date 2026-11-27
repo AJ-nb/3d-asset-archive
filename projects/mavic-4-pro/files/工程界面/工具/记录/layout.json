@@ -1,0 +1,67 @@
+{
+  "id": "layout",
+  "file": "01-预演体块.png",
+  "sha256": "a76994fa1d83d9ff582ec27360deb689e3aaa5e5db2cb141ceb9639a8e19d086",
+  "screen_px": [
+    2560,
+    1369
+  ],
+  "captured_utc": "2026-11-27T08:29:22.816345+00:00",
+  "method": "bpy.ops.screen.screenshot (full Blender application window, uncropped)",
+  "blender": "5.2.3 LTS",
+  "source": "D:\\oc\\output\\mavic-4-pro\\review\\layout.blend",
+  "source_sha256": "26061777349f0df24000f8933e90ea4e29fca412691277c7f39cc859e6346168",
+  "scene": "Scene",
+  "frame": 32,
+  "description": "真实预演工程中的十个体块。包含四个机臂轮廓、四个旋翼占位、一处机身、一处云台。",
+  "mode": "OBJECT",
+  "active": "Blockout shell",
+  "viewport_px": [
+    2100,
+    1221
+  ],
+  "viewport_subject_NDC_bounds": [
+    [
+      -0.8399999141693115,
+      -0.6642738580703735
+    ],
+    [
+      0.8399999141693115,
+      0.6642738580703735
+    ]
+  ],
+  "editors": [
+    {
+      "type": "PROPERTIES",
+      "ui_type": "PROPERTIES",
+      "x": 2105,
+      "y": 23,
+      "w": 453,
+      "h": 1075
+    },
+    {
+      "type": "OUTLINER",
+      "ui_type": "OUTLINER",
+      "x": 2105,
+      "y": 1101,
+      "w": 453,
+      "h": 242
+    },
+    {
+      "type": "DOPESHEET_EDITOR",
+      "ui_type": "TIMELINE",
+      "x": 2,
+      "y": 23,
+      "w": 2100,
+      "h": 96
+    },
+    {
+      "type": "VIEW_3D",
+      "ui_type": "VIEW_3D",
+      "x": 2,
+      "y": 122,
+      "w": 2100,
+      "h": 1221
+    }
+  ]
+}

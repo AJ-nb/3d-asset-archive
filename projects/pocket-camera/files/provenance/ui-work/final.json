@@ -1,0 +1,107 @@
+[
+  {
+    "id": "clay",
+    "file": "04_Blender工程实拍\\02_V7_整机白模.png",
+    "caption": "打开 V7 Final，用视口单色工作室照明观察整机。该图是对最终几何的白模复查。",
+    "frame": 62,
+    "source": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\DJI-Osmo-Pocket-4P-V7-Final.blend",
+    "source_sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+    "recaptured": true,
+    "window_pixels": [
+      2260,
+      1280
+    ],
+    "screenshot_sha256": "def1bdd709941915866bc1f008de3e976ecd45c1eb966d0f009be493effcbdb7",
+    "scene": "Osmo Pocket 4P | V7",
+    "workspace": "布局",
+    "app_version": "5.2.3 LTS",
+    "source_saved_during_capture": false,
+    "capture_method": "bpy.ops.screen.screenshot (native window framebuffer; full Blender client area)",
+    "active_object": "04P | Dual camera rear housing",
+    "native_areas": [
+      "PROPERTIES",
+      "OUTLINER",
+      "DOPESHEET_EDITOR",
+      "VIEW_3D"
+    ]
+  },
+  {
+    "id": "wire",
+    "file": "04_Blender工程实拍\\03_V7_镜头面板与线框.png",
+    "caption": "V7 Final 镜头正面。白色实体与原生拓扑边同屏，展示保护窗、镜圈与倒角排线。",
+    "frame": 62,
+    "source": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\DJI-Osmo-Pocket-4P-V7-Final.blend",
+    "source_sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+    "recaptured": true,
+    "window_pixels": [
+      2260,
+      1280
+    ],
+    "screenshot_sha256": "669c31697b6e3dc4704719eea4a74af96dc22763e305ef36acd5edd14132bd91",
+    "scene": "Osmo Pocket 4P | V7",
+    "workspace": "布局",
+    "app_version": "5.2.3 LTS",
+    "source_saved_during_capture": false,
+    "capture_method": "bpy.ops.screen.screenshot (native window framebuffer; full Blender client area)",
+    "active_object": "04P | Milled dual-pocket optical face",
+    "native_areas": [
+      "PROPERTIES",
+      "OUTLINER",
+      "DOPESHEET_EDITOR",
+      "VIEW_3D"
+    ]
+  },
+  {
+    "id": "joints",
+    "file": "04_Blender工程实拍\\04_V7_云台传动支承.png",
+    "caption": "V7 Final 云台后侧，隔离偏航、横滚、俯仰相关的实际零件。隔离仅用于显示内部支撑关系。",
+    "frame": 62,
+    "source": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\DJI-Osmo-Pocket-4P-V7-Final.blend",
+    "source_sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+    "recaptured": true,
+    "window_pixels": [
+      2260,
+      1280
+    ],
+    "screenshot_sha256": "459e802be34b03648d553344e07610a725777ba83151f443e7957db9bd23be05",
+    "scene": "Osmo Pocket 4P | V7",
+    "workspace": "布局",
+    "app_version": "5.2.3 LTS",
+    "source_saved_during_capture": false,
+    "capture_method": "bpy.ops.screen.screenshot (native window framebuffer; full Blender client area)",
+    "active_object": "04P | Offset rising pan arm",
+    "native_areas": [
+      "PROPERTIES",
+      "OUTLINER",
+      "DOPESHEET_EDITOR",
+      "VIEW_3D"
+    ]
+  },
+  {
+    "id": "shader",
+    "file": "04_Blender工程实拍\\05_V7_支臂材质节点.png",
+    "caption": "V7 Final 偏航支臂着色树。显示工程内的切线空间法线贴图、法线节点与 Principled 材质。",
+    "frame": 62,
+    "source": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\DJI-Osmo-Pocket-4P-V7-Final.blend",
+    "source_sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+    "recaptured": true,
+    "window_pixels": [
+      2260,
+      1280
+    ],
+    "screenshot_sha256": "5f0ca1af63ab1d05e255c1fd15e31b52bab55ef447abe4a8d5bbf269e6d6262a",
+    "scene": "Osmo Pocket 4P | V7",
+    "workspace": "布局",
+    "app_version": "5.2.3 LTS",
+    "source_saved_during_capture": false,
+    "capture_method": "bpy.ops.screen.screenshot (native window framebuffer; full Blender client area)",
+    "active_object": "04P | Offset rising pan arm",
+    "native_areas": [
+      "PROPERTIES",
+      "OUTLINER",
+      "DOPESHEET_EDITOR",
+      "NODE_EDITOR",
+      "VIEW_3D"
+    ]
+  }
+]

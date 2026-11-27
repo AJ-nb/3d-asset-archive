@@ -1,0 +1,67 @@
+{
+  "id": "first",
+  "file": "02-首轮装配.png",
+  "sha256": "3315c2f0303572f67e4dc391f8e4970a1ac5df46a8d0047c327eac3b8a17dc88",
+  "screen_px": [
+    2560,
+    1369
+  ],
+  "captured_utc": "2026-11-27T08:30:06.967829+00:00",
+  "method": "bpy.ops.screen.screenshot (full Blender application window, uncropped)",
+  "blender": "5.2.3 LTS",
+  "source": "D:\\oc\\output\\mavic-4-pro\\review\\first-assembly\\first-assembly.blend",
+  "source_sha256": "6ab249936a9a9b81140a6ef7bdfe23e97650acba1f13fccc128a0eb34a0ede2b",
+  "scene": "Scene",
+  "frame": 32,
+  "description": "首轮装配存档中的机体、旋翼和光学总成。工程视口按各对象材质的基础色显示。",
+  "mode": "OBJECT",
+  "active": "Fuselage | sculpted composite & open gimbal chamber",
+  "viewport_px": [
+    2100,
+    1221
+  ],
+  "viewport_subject_NDC_bounds": [
+    [
+      -0.8399998545646667,
+      -0.6808314323425293
+    ],
+    [
+      0.8399999737739563,
+      0.6808314323425293
+    ]
+  ],
+  "editors": [
+    {
+      "type": "PROPERTIES",
+      "ui_type": "PROPERTIES",
+      "x": 2105,
+      "y": 23,
+      "w": 453,
+      "h": 1075
+    },
+    {
+      "type": "OUTLINER",
+      "ui_type": "OUTLINER",
+      "x": 2105,
+      "y": 1101,
+      "w": 453,
+      "h": 242
+    },
+    {
+      "type": "DOPESHEET_EDITOR",
+      "ui_type": "TIMELINE",
+      "x": 2,
+      "y": 23,
+      "w": 2100,
+      "h": 96
+    },
+    {
+      "type": "VIEW_3D",
+      "ui_type": "VIEW_3D",
+      "x": 2,
+      "y": 122,
+      "w": 2100,
+      "h": 1221
+    }
+  ]
+}

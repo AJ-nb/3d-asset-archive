@@ -1,0 +1,68 @@
+{
+  "source_path": "mavic-4-pro-fit-work/rear-shoulder/Mavic-4-Pro-Rear-Fit-Final.blend",
+  "archive_path": "源工程与记录/05-后肩修订/Mavic-4-Pro-Rear-Fit-Final.blend",
+  "source_sha256": "57b641958dae8172326e534ede99674fdff11af6f9df332058352f71fc6e3463",
+  "camera_orbit_vector_mm": [
+    355,
+    -690,
+    386
+  ],
+  "camera_target_mm": [
+    0,
+    -8,
+    64
+  ],
+  "world_camera_matrix": [
+    [
+      0.8892128467559814,
+      -0.20375922322273254,
+      0.4096128046512604,
+      0.35500001907348633
+    ],
+    [
+      0.45749369263648987,
+      0.39603903889656067,
+      -0.7961485981941223,
+      -0.6980000138282776
+    ],
+    [
+      -2.9062647399769048e-08,
+      0.8953408598899841,
+      0.4453815519809723,
+      0.45000001788139343
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "ortho_span_mm": 699.0000009536743,
+  "resolution": [
+    3840,
+    2160
+  ],
+  "frame": 1,
+  "scene": "Mavic 4 Pro | Product studio & FK",
+  "blender_version": "5.2.3 LTS",
+  "bounds_normalized_lower_upper_xy": [
+    0.14890718460083008,
+    0.1886887550354004,
+    0.8607548475265503,
+    0.8368884325027466
+  ],
+  "engine": "CYCLES",
+  "device": "GPU",
+  "sample_limit": 112,
+  "outputs": {
+    "03-材质灯光-4K补渲.png": {
+      "sha256": "bc4288f6146e531070bfa60413eab3589995afa92cc4a30aa3b281ca1ec2e88e",
+      "method": "Cycles product render from the final assembly with native materials and studio lighting."
+    },
+    "02-白模-补绘.png": {
+      "sha256": "d7a35ad9aff64b2f3182da6a51803e5bbdb58a8efebd9047d59dc3656418d818",
+      "method": "The same final assembly, camera and lighting with a uniform clay material."
+    }
+  }
+}

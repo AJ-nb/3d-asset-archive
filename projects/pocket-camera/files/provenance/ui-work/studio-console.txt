@@ -1,0 +1,7 @@
+00:01.031  blend            | Read blend: "D:\oc\output\dji-osmo-pocket-4p-v7\DJI-Osmo-Pocket-4P-V7-Final.blend"
+OPEN D:\oc\output\dji-osmo-pocket-4p-v7\DJI-Osmo-Pocket-4P-V7-Final.blend [('PROPERTIES', 400, 1002), ('OUTLINER', 400, 226), ('DOPESHEET_EDITOR', 1853, 89), ('VIEW_3D', 1853, 1139)]
+configure studio
+OK 07_V7_棚灯机位与主视觉.png
+00:07.844  blend            | Saved session recovery to "C:\Users\Arjen\AppData\Local\Temp\quit.blend"
+
+Blender quit

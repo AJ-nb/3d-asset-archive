@@ -1,0 +1,99 @@
+{
+  "baseline_file": "DJI-Osmo-Pocket-4P-V7.blend",
+  "baseline_sha256": "bfe87db4162421066892bbb4beccead4ad88349b44713d4951a2d47e43aeefc3",
+  "final_file": "DJI-Osmo-Pocket-4P-V7-Final.blend",
+  "final_sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+  "neutral_frame": 62,
+  "native_size": [
+    1440,
+    1440
+  ],
+  "mode": "Two independent native renders. Direct absolute 8-bit RGBA pixel differences. PNG metadata is ignored in image comparisons.",
+  "records": [
+    {
+      "filename": "01-face-clay.png",
+      "baseline_sha256": "6c34fba17cb43210583af550b595487200728872ddcd3b99e7c4d079be4134f6",
+      "final_sha256": "fa7fa102039a54af229cb3c96a4cb42d03115f3beb49d00023e4243d6cf5fc04",
+      "width": 1440,
+      "height": 1440,
+      "rgba_exact": true,
+      "different_pixels": 0,
+      "pixels_delta_above_2": 0,
+      "alpha_changed_pixels": 0,
+      "max_channel_difference_8bit": 0,
+      "rmse_8bit": 0.0,
+      "wire_segment_coordinates_identical": true
+    },
+    {
+      "filename": "01-face-wire.png",
+      "baseline_sha256": "8315ff55d3422bf2a2c37afb65c4a4f972a380a3ba6f6830d5f091c015e0d10b",
+      "final_sha256": "8315ff55d3422bf2a2c37afb65c4a4f972a380a3ba6f6830d5f091c015e0d10b",
+      "width": 1440,
+      "height": 1440,
+      "rgba_exact": true,
+      "different_pixels": 0,
+      "pixels_delta_above_2": 0,
+      "alpha_changed_pixels": 0,
+      "max_channel_difference_8bit": 0,
+      "rmse_8bit": 0.0,
+      "wire_segment_coordinates_identical": true
+    },
+    {
+      "filename": "02-joint-clay.png",
+      "baseline_sha256": "1b0546d106e457104ec23d1b5657746f4260ccbe94ffee9a94ab5193e412fc68",
+      "final_sha256": "d4b4f4309331f3e722b90050285486b203f929c06a07b2e3cafb3feca234cec8",
+      "width": 1440,
+      "height": 1440,
+      "rgba_exact": true,
+      "different_pixels": 0,
+      "pixels_delta_above_2": 0,
+      "alpha_changed_pixels": 0,
+      "max_channel_difference_8bit": 0,
+      "rmse_8bit": 0.0,
+      "wire_segment_coordinates_identical": true
+    },
+    {
+      "filename": "02-joint-wire.png",
+      "baseline_sha256": "73777b602e35b65580dcae7bf36ac2973ac2d4505596f2813d0f5ec04f6d7b14",
+      "final_sha256": "73777b602e35b65580dcae7bf36ac2973ac2d4505596f2813d0f5ec04f6d7b14",
+      "width": 1440,
+      "height": 1440,
+      "rgba_exact": true,
+      "different_pixels": 0,
+      "pixels_delta_above_2": 0,
+      "alpha_changed_pixels": 0,
+      "max_channel_difference_8bit": 0,
+      "rmse_8bit": 0.0,
+      "wire_segment_coordinates_identical": true
+    },
+    {
+      "filename": "03-internal-clay.png",
+      "baseline_sha256": "af4bf51637dc3e6ec0d510beafa7411f4e8b31c22a3e749982a63b022388f5c7",
+      "final_sha256": "89b9ae1e7197cd9cb1bf6c02ad7a5877e8dc588593ae8a5e6aea8844cef43908",
+      "width": 1440,
+      "height": 1440,
+      "rgba_exact": true,
+      "different_pixels": 0,
+      "pixels_delta_above_2": 0,
+      "alpha_changed_pixels": 0,
+      "max_channel_difference_8bit": 0,
+      "rmse_8bit": 0.0,
+      "wire_segment_coordinates_identical": true
+    },
+    {
+      "filename": "03-internal-wire.png",
+      "baseline_sha256": "3e73260392f413f60d512ad74b8ab4874816f863544330e05b94aab33e886077",
+      "final_sha256": "3e73260392f413f60d512ad74b8ab4874816f863544330e05b94aab33e886077",
+      "width": 1440,
+      "height": 1440,
+      "rgba_exact": true,
+      "different_pixels": 0,
+      "pixels_delta_above_2": 0,
+      "alpha_changed_pixels": 0,
+      "max_channel_difference_8bit": 0,
+      "rmse_8bit": 0.0,
+      "wire_segment_coordinates_identical": true
+    }
+  ],
+  "exact_views": 6
+}

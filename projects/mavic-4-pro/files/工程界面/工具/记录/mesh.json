@@ -1,0 +1,67 @@
+{
+  "id": "mesh",
+  "file": "04-后肩编辑网格.png",
+  "sha256": "d2e3316fd80a3171b618c23c2c53c1cbc2ceaebc440f98a5fd0ed3b46b7e410f",
+  "screen_px": [
+    2560,
+    1369
+  ],
+  "captured_utc": "2026-11-27T08:29:38.834616+00:00",
+  "method": "bpy.ops.screen.screenshot (full Blender application window, uncropped)",
+  "blender": "5.2.3 LTS",
+  "source": "D:\\oc\\output\\mavic-4-pro-fit-work\\rear-shoulder\\Mavic-4-Pro-Rear-Fit-Final.blend",
+  "source_sha256": "57b641958dae8172326e534ede99674fdff11af6f9df332058352f71fc6e3463",
+  "scene": "Mavic 4 Pro | Product studio & FK",
+  "frame": 1,
+  "description": "左后机臂根部的真实多对象编辑模式，周围壳体和臂梁保持可见以便辨认装配位置。",
+  "mode": "EDIT",
+  "active": "Rear.L | rounded shoulder boot",
+  "viewport_px": [
+    2100,
+    1221
+  ],
+  "viewport_subject_NDC_bounds": [
+    [
+      -0.18594267964363098,
+      -0.140688955783844
+    ],
+    [
+      0.053764984011650085,
+      0.32904118299484253
+    ]
+  ],
+  "editors": [
+    {
+      "type": "PROPERTIES",
+      "ui_type": "PROPERTIES",
+      "x": 2105,
+      "y": 23,
+      "w": 453,
+      "h": 1075
+    },
+    {
+      "type": "OUTLINER",
+      "ui_type": "OUTLINER",
+      "x": 2105,
+      "y": 1101,
+      "w": 453,
+      "h": 242
+    },
+    {
+      "type": "DOPESHEET_EDITOR",
+      "ui_type": "TIMELINE",
+      "x": 2,
+      "y": 23,
+      "w": 2100,
+      "h": 96
+    },
+    {
+      "type": "VIEW_3D",
+      "ui_type": "VIEW_3D",
+      "x": 2,
+      "y": 122,
+      "w": 2100,
+      "h": 1221
+    }
+  ]
+}

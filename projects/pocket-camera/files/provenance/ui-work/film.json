@@ -1,0 +1,29 @@
+[
+  {
+    "id": "film",
+    "file": "04_Blender工程实拍\\06_CG_转屏与动画时间线.png",
+    "caption": "打开成片源工程，查看转屏过程与原生控制器的关键帧、切镜时间标记。画面为实体视图。",
+    "frame": 95,
+    "source": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\Pulse-15s.blend",
+    "source_sha256": "b8866c77f41802db12b36fb9fa67a4460bfb005564e59f91ff0f5d684e169a4b",
+    "recaptured": true,
+    "window_pixels": [
+      2260,
+      1280
+    ],
+    "screenshot_sha256": "e78dd97faef4c9d80307c3eb407922b46baf5c2aa89d7f068749718cb2b99a86",
+    "scene": "Pulse | 15s studio",
+    "workspace": "布局",
+    "app_version": "5.2.3 LTS",
+    "source_saved_during_capture": false,
+    "capture_method": "bpy.ops.screen.screenshot (native window framebuffer; full Blender client area)",
+    "active_object": "Osmo 4P | mechanical FK",
+    "native_areas": [
+      "PROPERTIES",
+      "OUTLINER",
+      "DOPESHEET_EDITOR",
+      "VIEW_3D",
+      "DOPESHEET_EDITOR"
+    ]
+  }
+]

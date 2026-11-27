@@ -1,0 +1,1439 @@
+{
+  "blend_sha256": "57b641958dae8172326e534ede99674fdff11af6f9df332058352f71fc6e3463",
+  "classified_surface": "evaluated object-local Blender mesh frame 1",
+  "broad_phase": "complete AABB tree",
+  "bvh_margin_mm": 1e-10,
+  "strict_plane_filter_mm": 1e-10,
+  "counts": {},
+  "kernel_validation": {
+    "all_pairs": 435,
+    "strict_positive_and_extra_contact_pairs": 109,
+    "missed_pairs": 0,
+    "known_topologies_checked": 7
+  },
+  "modified_objects": 203,
+  "objects": [
+    {
+      "object": "Battery | power button",
+      "modified": 1,
+      "triangles": 276,
+      "broad_phase_pairs": 2144,
+      "exact_tests": 26
+    },
+    {
+      "object": "Battery | power button surround",
+      "modified": 1,
+      "triangles": 430,
+      "broad_phase_pairs": 3772,
+      "exact_tests": 83
+    },
+    {
+      "object": "Battery | release catch port",
+      "modified": 1,
+      "triangles": 950,
+      "broad_phase_pairs": 12322,
+      "exact_tests": 12
+    },
+    {
+      "object": "Battery | release catch starboard",
+      "modified": 1,
+      "triangles": 950,
+      "broad_phase_pairs": 12188,
+      "exact_tests": 11
+    },
+    {
+      "object": "Battery | release surround port",
+      "modified": 1,
+      "triangles": 432,
+      "broad_phase_pairs": 3287,
+      "exact_tests": 14
+    },
+    {
+      "object": "Battery | release surround starboard",
+      "modified": 1,
+      "triangles": 432,
+      "broad_phase_pairs": 3287,
+      "exact_tests": 14
+    },
+    {
+      "object": "Battery | removable flight pack",
+      "modified": 1,
+      "triangles": 4352,
+      "broad_phase_pairs": 46892,
+      "exact_tests": 689
+    },
+    {
+      "object": "Battery | state-of-charge window",
+      "modified": 1,
+      "triangles": 276,
+      "broad_phase_pairs": 2160,
+      "exact_tests": 25
+    },
+    {
+      "object": "Battery | state-of-charge window.001",
+      "modified": 1,
+      "triangles": 276,
+      "broad_phase_pairs": 2160,
+      "exact_tests": 25
+    },
+    {
+      "object": "Battery | state-of-charge window.002",
+      "modified": 1,
+      "triangles": 276,
+      "broad_phase_pairs": 2160,
+      "exact_tests": 25
+    },
+    {
+      "object": "Battery | state-of-charge window.003",
+      "modified": 1,
+      "triangles": 276,
+      "broad_phase_pairs": 2160,
+      "exact_tests": 25
+    },
+    {
+      "object": "Camera • captive tilt trunnion L",
+      "modified": 1,
+      "triangles": 1532,
+      "broad_phase_pairs": 12723,
+      "exact_tests": 0
+    },
+    {
+      "object": "Camera • captive tilt trunnion R",
+      "modified": 1,
+      "triangles": 1532,
+      "broad_phase_pairs": 12759,
+      "exact_tests": 0
+    },
+    {
+      "object": "Camera • floating graphite drum",
+      "modified": 1,
+      "triangles": 8738,
+      "broad_phase_pairs": 81380,
+      "exact_tests": 189
+    },
+    {
+      "object": "Camera • rotating rear journal",
+      "modified": 1,
+      "triangles": 2108,
+      "broad_phase_pairs": 18592,
+      "exact_tests": 261
+    },
+    {
+      "object": "Camera • sculpted face / three recessed optical wells",
+      "modified": 1,
+      "triangles": 9344,
+      "broad_phase_pairs": 73256,
+      "exact_tests": 116
+    },
+    {
+      "object": "Camera • thin perimeter gasket",
+      "modified": 1,
+      "triangles": 2496,
+      "broad_phase_pairs": 21094,
+      "exact_tests": 453
+    },
+    {
+      "object": "Cooling | recessed exhaust vane",
+      "modified": 1,
+      "triangles": 234,
+      "broad_phase_pairs": 1763,
+      "exact_tests": 33
+    },
+    {
+      "object": "Cooling | recessed exhaust vane.001",
+      "modified": 1,
+      "triangles": 234,
+      "broad_phase_pairs": 1764,
+      "exact_tests": 31
+    },
+    {
+      "object": "Cooling | recessed exhaust vane.002",
+      "modified": 1,
+      "triangles": 234,
+      "broad_phase_pairs": 1764,
+      "exact_tests": 34
+    },
+    {
+      "object": "Cooling | recessed exhaust vane.003",
+      "modified": 1,
+      "triangles": 234,
+      "broad_phase_pairs": 1765,
+      "exact_tests": 33
+    },
+    {
+      "object": "Cooling | recessed exhaust vane.004",
+      "modified": 1,
+      "triangles": 234,
+      "broad_phase_pairs": 1765,
+      "exact_tests": 33
+    },
+    {
+      "object": "Cooling | recessed exhaust vane.005",
+      "modified": 1,
+      "triangles": 234,
+      "broad_phase_pairs": 1765,
+      "exact_tests": 33
+    },
+    {
+      "object": "Cooling | recessed exhaust vane.006",
+      "modified": 1,
+      "triangles": 234,
+      "broad_phase_pairs": 1764,
+      "exact_tests": 34
+    },
+    {
+      "object": "Cooling | recessed exhaust vane.007",
+      "modified": 1,
+      "triangles": 234,
+      "broad_phase_pairs": 1764,
+      "exact_tests": 31
+    },
+    {
+      "object": "Cooling | recessed exhaust vane.008",
+      "modified": 1,
+      "triangles": 234,
+      "broad_phase_pairs": 1763,
+      "exact_tests": 33
+    },
+    {
+      "object": "Cooling | underside thermal carrier",
+      "modified": 1,
+      "triangles": 33542,
+      "broad_phase_pairs": 260976,
+      "exact_tests": 239
+    },
+    {
+      "object": "Front.L | blade 1",
+      "modified": 1,
+      "triangles": 1032,
+      "broad_phase_pairs": 9300,
+      "exact_tests": 31
+    },
+    {
+      "object": "Front.L | blade 1 pivot stud",
+      "modified": 1,
+      "triangles": 546,
+      "broad_phase_pairs": 6007,
+      "exact_tests": 64
+    },
+    {
+      "object": "Front.L | blade 1 retaining head",
+      "modified": 1,
+      "triangles": 1152,
+      "broad_phase_pairs": 8521,
+      "exact_tests": 18
+    },
+    {
+      "object": "Front.L | blade 2",
+      "modified": 1,
+      "triangles": 1032,
+      "broad_phase_pairs": 9412,
+      "exact_tests": 42
+    },
+    {
+      "object": "Front.L | blade 2 pivot stud",
+      "modified": 1,
+      "triangles": 548,
+      "broad_phase_pairs": 6106,
+      "exact_tests": 67
+    },
+    {
+      "object": "Front.L | blade 2 retaining head",
+      "modified": 1,
+      "triangles": 1152,
+      "broad_phase_pairs": 8521,
+      "exact_tests": 18
+    },
+    {
+      "object": "Front.L | crown centre web",
+      "modified": 1,
+      "triangles": 188,
+      "broad_phase_pairs": 1696,
+      "exact_tests": 41
+    },
+    {
+      "object": "Front.L | dark front fastener",
+      "modified": 1,
+      "triangles": 572,
+      "broad_phase_pairs": 5177,
+      "exact_tests": 5
+    },
+    {
+      "object": "Front.L | front housing part line 1",
+      "modified": 1,
+      "triangles": 2276,
+      "broad_phase_pairs": 18512,
+      "exact_tests": 1
+    },
+    {
+      "object": "Front.L | front housing part line 2",
+      "modified": 1,
+      "triangles": 296,
+      "broad_phase_pairs": 2240,
+      "exact_tests": 2
+    },
+    {
+      "object": "Front.L | lower isolating collar",
+      "modified": 1,
+      "triangles": 1008,
+      "broad_phase_pairs": 8766,
+      "exact_tests": 41
+    },
+    {
+      "object": "Front.L | motor spindle",
+      "modified": 1,
+      "triangles": 536,
+      "broad_phase_pairs": 4918,
+      "exact_tests": 25
+    },
+    {
+      "object": "Front.L | motor spindle retainer",
+      "modified": 1,
+      "triangles": 1152,
+      "broad_phase_pairs": 8011,
+      "exact_tests": 26
+    },
+    {
+      "object": "Front.L | nose-facing pod bezel",
+      "modified": 1,
+      "triangles": 3200,
+      "broad_phase_pairs": 23070,
+      "exact_tests": 18
+    },
+    {
+      "object": "Front.L | nose-facing pod carrier bond",
+      "modified": 1,
+      "triangles": 5760,
+      "broad_phase_pairs": 42785,
+      "exact_tests": 99
+    },
+    {
+      "object": "Front.L | nose-facing pod optical bond",
+      "modified": 1,
+      "triangles": 1920,
+      "broad_phase_pairs": 16318,
+      "exact_tests": 97
+    },
+    {
+      "object": "Front.L | nose-facing pod window",
+      "modified": 1,
+      "triangles": 4160,
+      "broad_phase_pairs": 84716,
+      "exact_tests": 3
+    },
+    {
+      "object": "Front.L | outboard green light bezel",
+      "modified": 1,
+      "triangles": 3200,
+      "broad_phase_pairs": 21944,
+      "exact_tests": 7
+    },
+    {
+      "object": "Front.L | outboard green light carrier bond",
+      "modified": 1,
+      "triangles": 5760,
+      "broad_phase_pairs": 40432,
+      "exact_tests": 148
+    },
+    {
+      "object": "Front.L | outboard green light optical bond",
+      "modified": 1,
+      "triangles": 1920,
+      "broad_phase_pairs": 16568,
+      "exact_tests": 103
+    },
+    {
+      "object": "Front.L | outboard green light window",
+      "modified": 1,
+      "triangles": 4160,
+      "broad_phase_pairs": 71415,
+      "exact_tests": 0
+    },
+    {
+      "object": "Front.L | propeller crown",
+      "modified": 1,
+      "triangles": 4980,
+      "broad_phase_pairs": 54489,
+      "exact_tests": 273
+    },
+    {
+      "object": "Front.L | propeller crown 1 key stripe",
+      "modified": 1,
+      "triangles": 188,
+      "broad_phase_pairs": 1588,
+      "exact_tests": 24
+    },
+    {
+      "object": "Front.L | propeller crown 1 root ear",
+      "modified": 1,
+      "triangles": 720,
+      "broad_phase_pairs": 6387,
+      "exact_tests": 53
+    },
+    {
+      "object": "Front.L | propeller crown 1 turn arrow",
+      "modified": 1,
+      "triangles": 180,
+      "broad_phase_pairs": 1426,
+      "exact_tests": 22
+    },
+    {
+      "object": "Front.L | propeller crown 2 key stripe",
+      "modified": 1,
+      "triangles": 188,
+      "broad_phase_pairs": 1542,
+      "exact_tests": 8
+    },
+    {
+      "object": "Front.L | propeller crown 2 root ear",
+      "modified": 1,
+      "triangles": 720,
+      "broad_phase_pairs": 6466,
+      "exact_tests": 53
+    },
+    {
+      "object": "Front.L | propeller crown 2 turn arrow",
+      "modified": 1,
+      "triangles": 180,
+      "broad_phase_pairs": 1403,
+      "exact_tests": 13
+    },
+    {
+      "object": "Front.L | root joint seam",
+      "modified": 1,
+      "triangles": 628,
+      "broad_phase_pairs": 9975,
+      "exact_tests": 6
+    },
+    {
+      "object": "Front.L | rounded shoulder boot",
+      "modified": 1,
+      "triangles": 1992,
+      "broad_phase_pairs": 27203,
+      "exact_tests": 10
+    },
+    {
+      "object": "Front.L | sculpted lower motor cup",
+      "modified": 1,
+      "triangles": 11274,
+      "broad_phase_pairs": 84791,
+      "exact_tests": 68
+    },
+    {
+      "object": "Front.L | short dark slit",
+      "modified": 1,
+      "triangles": 380,
+      "broad_phase_pairs": 4180,
+      "exact_tests": 3
+    },
+    {
+      "object": "Front.L | shoulder pivot journal",
+      "modified": 1,
+      "triangles": 536,
+      "broad_phase_pairs": 5302,
+      "exact_tests": 6
+    },
+    {
+      "object": "Front.L | shoulder retaining cap",
+      "modified": 1,
+      "triangles": 1152,
+      "broad_phase_pairs": 8544,
+      "exact_tests": 2
+    },
+    {
+      "object": "Front.L | stepped satin motor bell",
+      "modified": 1,
+      "triangles": 3044,
+      "broad_phase_pairs": 25387,
+      "exact_tests": 28
+    },
+    {
+      "object": "Front.L | swept front landing foot",
+      "modified": 1,
+      "triangles": 1628,
+      "broad_phase_pairs": 12984,
+      "exact_tests": 0
+    },
+    {
+      "object": "Front.L | tapered composite arm",
+      "modified": 1,
+      "triangles": 3666,
+      "broad_phase_pairs": 52960,
+      "exact_tests": 208
+    },
+    {
+      "object": "Front.L | top motor collar",
+      "modified": 1,
+      "triangles": 1412,
+      "broad_phase_pairs": 15503,
+      "exact_tests": 36
+    },
+    {
+      "object": "Front.L | underside molded pad",
+      "modified": 1,
+      "triangles": 572,
+      "broad_phase_pairs": 5129,
+      "exact_tests": 0
+    },
+    {
+      "object": "Front.R | blade 1",
+      "modified": 1,
+      "triangles": 1032,
+      "broad_phase_pairs": 9542,
+      "exact_tests": 33
+    },
+    {
+      "object": "Front.R | blade 1 pivot stud",
+      "modified": 1,
+      "triangles": 548,
+      "broad_phase_pairs": 6043,
+      "exact_tests": 62
+    },
+    {
+      "object": "Front.R | blade 1 retaining head",
+      "modified": 1,
+      "triangles": 1152,
+      "broad_phase_pairs": 9070,
+      "exact_tests": 8
+    },
+    {
+      "object": "Front.R | blade 2",
+      "modified": 1,
+      "triangles": 1032,
+      "broad_phase_pairs": 9550,
+      "exact_tests": 34
+    },
+    {
+      "object": "Front.R | blade 2 pivot stud",
+      "modified": 1,
+      "triangles": 546,
+      "broad_phase_pairs": 6113,
+      "exact_tests": 57
+    },
+    {
+      "object": "Front.R | blade 2 retaining head",
+      "modified": 1,
+      "triangles": 1152,
+      "broad_phase_pairs": 9070,
+      "exact_tests": 8
+    },
+    {
+      "object": "Front.R | crown centre web",
+      "modified": 1,
+      "triangles": 188,
+      "broad_phase_pairs": 1751,
+      "exact_tests": 40
+    },
+    {
+      "object": "Front.R | dark front fastener",
+      "modified": 1,
+      "triangles": 572,
+      "broad_phase_pairs": 5059,
+      "exact_tests": 3
+    },
+    {
+      "object": "Front.R | front housing part line 1",
+      "modified": 1,
+      "triangles": 3876,
+      "broad_phase_pairs": 29634,
+      "exact_tests": 2
+    },
+    {
+      "object": "Front.R | lower isolating collar",
+      "modified": 1,
+      "triangles": 1008,
+      "broad_phase_pairs": 9051,
+      "exact_tests": 41
+    },
+    {
+      "object": "Front.R | motor spindle",
+      "modified": 1,
+      "triangles": 536,
+      "broad_phase_pairs": 4927,
+      "exact_tests": 18
+    },
+    {
+      "object": "Front.R | motor spindle retainer",
+      "modified": 1,
+      "triangles": 1152,
+      "broad_phase_pairs": 8337,
+      "exact_tests": 12
+    },
+    {
+      "object": "Front.R | outboard green light bezel",
+      "modified": 1,
+      "triangles": 3200,
+      "broad_phase_pairs": 21869,
+      "exact_tests": 3
+    },
+    {
+      "object": "Front.R | outboard green light carrier bond",
+      "modified": 1,
+      "triangles": 5760,
+      "broad_phase_pairs": 40177,
+      "exact_tests": 31
+    },
+    {
+      "object": "Front.R | outboard green light optical bond",
+      "modified": 1,
+      "triangles": 1920,
+      "broad_phase_pairs": 16155,
+      "exact_tests": 103
+    },
+    {
+      "object": "Front.R | outboard green light window",
+      "modified": 1,
+      "triangles": 4160,
+      "broad_phase_pairs": 71305,
+      "exact_tests": 0
+    },
+    {
+      "object": "Front.R | propeller crown",
+      "modified": 1,
+      "triangles": 4974,
+      "broad_phase_pairs": 55248,
+      "exact_tests": 323
+    },
+    {
+      "object": "Front.R | propeller crown 1 key stripe",
+      "modified": 1,
+      "triangles": 188,
+      "broad_phase_pairs": 1575,
+      "exact_tests": 26
+    },
+    {
+      "object": "Front.R | propeller crown 1 root ear",
+      "modified": 1,
+      "triangles": 720,
+      "broad_phase_pairs": 6598,
+      "exact_tests": 31
+    },
+    {
+      "object": "Front.R | propeller crown 1 turn arrow",
+      "modified": 1,
+      "triangles": 180,
+      "broad_phase_pairs": 1430,
+      "exact_tests": 23
+    },
+    {
+      "object": "Front.R | propeller crown 2 key stripe",
+      "modified": 1,
+      "triangles": 188,
+      "broad_phase_pairs": 1551,
+      "exact_tests": 12
+    },
+    {
+      "object": "Front.R | propeller crown 2 root ear",
+      "modified": 1,
+      "triangles": 720,
+      "broad_phase_pairs": 6572,
+      "exact_tests": 33
+    },
+    {
+      "object": "Front.R | propeller crown 2 turn arrow",
+      "modified": 1,
+      "triangles": 180,
+      "broad_phase_pairs": 1395,
+      "exact_tests": 11
+    },
+    {
+      "object": "Front.R | root joint seam",
+      "modified": 1,
+      "triangles": 628,
+      "broad_phase_pairs": 9985,
+      "exact_tests": 5
+    },
+    {
+      "object": "Front.R | rounded shoulder boot",
+      "modified": 1,
+      "triangles": 1992,
+      "broad_phase_pairs": 25864,
+      "exact_tests": 15
+    },
+    {
+      "object": "Front.R | sculpted lower motor cup",
+      "modified": 1,
+      "triangles": 12064,
+      "broad_phase_pairs": 92037,
+      "exact_tests": 35
+    },
+    {
+      "object": "Front.R | shoulder pivot journal",
+      "modified": 1,
+      "triangles": 536,
+      "broad_phase_pairs": 5374,
+      "exact_tests": 4
+    },
+    {
+      "object": "Front.R | shoulder retaining cap",
+      "modified": 1,
+      "triangles": 1152,
+      "broad_phase_pairs": 8535,
+      "exact_tests": 4
+    },
+    {
+      "object": "Front.R | stepped satin motor bell",
+      "modified": 1,
+      "triangles": 3044,
+      "broad_phase_pairs": 25458,
+      "exact_tests": 22
+    },
+    {
+      "object": "Front.R | swept front landing foot",
+      "modified": 1,
+      "triangles": 1628,
+      "broad_phase_pairs": 13418,
+      "exact_tests": 0
+    },
+    {
+      "object": "Front.R | tapered composite arm",
+      "modified": 1,
+      "triangles": 3638,
+      "broad_phase_pairs": 51921,
+      "exact_tests": 192
+    },
+    {
+      "object": "Front.R | top motor collar",
+      "modified": 1,
+      "triangles": 1412,
+      "broad_phase_pairs": 16097,
+      "exact_tests": 34
+    },
+    {
+      "object": "Front.R | underside molded pad",
+      "modified": 1,
+      "triangles": 572,
+      "broad_phase_pairs": 5176,
+      "exact_tests": 0
+    },
+    {
+      "object": "Fuselage | flank parting line port",
+      "modified": 1,
+      "triangles": 13012,
+      "broad_phase_pairs": 82677,
+      "exact_tests": 1
+    },
+    {
+      "object": "Fuselage | flank parting line starboard",
+      "modified": 1,
+      "triangles": 13012,
+      "broad_phase_pairs": 82686,
+      "exact_tests": 0
+    },
+    {
+      "object": "Fuselage | nose escutcheon port0",
+      "modified": 1,
+      "triangles": 316,
+      "broad_phase_pairs": 2355,
+      "exact_tests": 0
+    },
+    {
+      "object": "Fuselage | nose escutcheon port1",
+      "modified": 1,
+      "triangles": 316,
+      "broad_phase_pairs": 2355,
+      "exact_tests": 0
+    },
+    {
+      "object": "Fuselage | nose escutcheon starboard0",
+      "modified": 1,
+      "triangles": 316,
+      "broad_phase_pairs": 2355,
+      "exact_tests": 0
+    },
+    {
+      "object": "Fuselage | nose escutcheon starboard1",
+      "modified": 1,
+      "triangles": 316,
+      "broad_phase_pairs": 2355,
+      "exact_tests": 0
+    },
+    {
+      "object": "Fuselage | rear arm socket port",
+      "modified": 1,
+      "triangles": 3600,
+      "broad_phase_pairs": 33518,
+      "exact_tests": 1
+    },
+    {
+      "object": "Fuselage | rear arm socket starboard",
+      "modified": 1,
+      "triangles": 3600,
+      "broad_phase_pairs": 33599,
+      "exact_tests": 2
+    },
+    {
+      "object": "Fuselage | sculpted composite & open gimbal chamber",
+      "modified": 1,
+      "triangles": 120782,
+      "broad_phase_pairs": 1060218,
+      "exact_tests": 1993
+    },
+    {
+      "object": "Fuselage | upper cowl panel seam",
+      "modified": 1,
+      "triangles": 8256,
+      "broad_phase_pairs": 52873,
+      "exact_tests": 1
+    },
+    {
+      "object": "Gimbal • cheek bearing L",
+      "modified": 1,
+      "triangles": 10454,
+      "broad_phase_pairs": 104874,
+      "exact_tests": 194
+    },
+    {
+      "object": "Gimbal • cheek bearing R",
+      "modified": 1,
+      "triangles": 10454,
+      "broad_phase_pairs": 104909,
+      "exact_tests": 215
+    },
+    {
+      "object": "Gimbal • fixed annular race",
+      "modified": 1,
+      "triangles": 1920,
+      "broad_phase_pairs": 14492,
+      "exact_tests": 288
+    },
+    {
+      "object": "Gimbal • fixed seat foot L",
+      "modified": 1,
+      "triangles": 956,
+      "broad_phase_pairs": 9493,
+      "exact_tests": 302
+    },
+    {
+      "object": "Gimbal • fixed seat foot R",
+      "modified": 1,
+      "triangles": 956,
+      "broad_phase_pairs": 9493,
+      "exact_tests": 302
+    },
+    {
+      "object": "Gimbal • rear saddle",
+      "modified": 1,
+      "triangles": 4428,
+      "broad_phase_pairs": 58597,
+      "exact_tests": 993
+    },
+    {
+      "object": "Gimbal • rear thrust collar",
+      "modified": 1,
+      "triangles": 1148,
+      "broad_phase_pairs": 9375,
+      "exact_tests": 192
+    },
+    {
+      "object": "Gimbal • rotating fork crossmember",
+      "modified": 1,
+      "triangles": 2516,
+      "broad_phase_pairs": 51600,
+      "exact_tests": 469
+    },
+    {
+      "object": "Gimbal • tilt bearing sleeve L",
+      "modified": 1,
+      "triangles": 1920,
+      "broad_phase_pairs": 14396,
+      "exact_tests": 0
+    },
+    {
+      "object": "Gimbal • tilt bearing sleeve R",
+      "modified": 1,
+      "triangles": 1920,
+      "broad_phase_pairs": 14396,
+      "exact_tests": 0
+    },
+    {
+      "object": "Hasselblad 28 mm • coated objective",
+      "modified": 1,
+      "triangles": 2108,
+      "broad_phase_pairs": 18877,
+      "exact_tests": 48
+    },
+    {
+      "object": "Hasselblad 28 mm • lens carrier",
+      "modified": 1,
+      "triangles": 5952,
+      "broad_phase_pairs": 44480,
+      "exact_tests": 280
+    },
+    {
+      "object": "Hasselblad 28 mm • protective glass",
+      "modified": 1,
+      "triangles": 1340,
+      "broad_phase_pairs": 15385,
+      "exact_tests": 50
+    },
+    {
+      "object": "I/O | cover perimeter seal",
+      "modified": 1,
+      "triangles": 1680,
+      "broad_phase_pairs": 13418,
+      "exact_tests": 189
+    },
+    {
+      "object": "I/O | sealed USB-C and microSD cover",
+      "modified": 1,
+      "triangles": 3360,
+      "broad_phase_pairs": 71587,
+      "exact_tests": 64
+    },
+    {
+      "object": "Lighting | auxiliary lamp bezel",
+      "modified": 1,
+      "triangles": 1536,
+      "broad_phase_pairs": 10461,
+      "exact_tests": 25
+    },
+    {
+      "object": "Lighting | diffusing lens",
+      "modified": 1,
+      "triangles": 894,
+      "broad_phase_pairs": 8747,
+      "exact_tests": 0
+    },
+    {
+      "object": "MAVIC 4 PRO | forward arm marking",
+      "modified": 1,
+      "triangles": 3888,
+      "broad_phase_pairs": 37856,
+      "exact_tests": 41
+    },
+    {
+      "object": "Medium tele 70 mm • coated objective",
+      "modified": 1,
+      "triangles": 2108,
+      "broad_phase_pairs": 18905,
+      "exact_tests": 52
+    },
+    {
+      "object": "Medium tele 70 mm • lens carrier",
+      "modified": 1,
+      "triangles": 5952,
+      "broad_phase_pairs": 44418,
+      "exact_tests": 245
+    },
+    {
+      "object": "Medium tele 70 mm • protective glass",
+      "modified": 1,
+      "triangles": 1340,
+      "broad_phase_pairs": 15385,
+      "exact_tests": 46
+    },
+    {
+      "object": "Print | DJI deck signature 1",
+      "modified": 1,
+      "triangles": 448,
+      "broad_phase_pairs": 3228,
+      "exact_tests": 11
+    },
+    {
+      "object": "Print | DJI deck signature 2",
+      "modified": 1,
+      "triangles": 236,
+      "broad_phase_pairs": 1584,
+      "exact_tests": 4
+    },
+    {
+      "object": "Print | DJI deck signature 3",
+      "modified": 1,
+      "triangles": 772,
+      "broad_phase_pairs": 5373,
+      "exact_tests": 19
+    },
+    {
+      "object": "Rear.L | blade 1",
+      "modified": 1,
+      "triangles": 1032,
+      "broad_phase_pairs": 10077,
+      "exact_tests": 29
+    },
+    {
+      "object": "Rear.L | blade 1 pivot stud",
+      "modified": 1,
+      "triangles": 546,
+      "broad_phase_pairs": 5812,
+      "exact_tests": 76
+    },
+    {
+      "object": "Rear.L | blade 1 retaining head",
+      "modified": 1,
+      "triangles": 1152,
+      "broad_phase_pairs": 8665,
+      "exact_tests": 30
+    },
+    {
+      "object": "Rear.L | blade 2",
+      "modified": 1,
+      "triangles": 1032,
+      "broad_phase_pairs": 10068,
+      "exact_tests": 33
+    },
+    {
+      "object": "Rear.L | blade 2 pivot stud",
+      "modified": 1,
+      "triangles": 546,
+      "broad_phase_pairs": 5757,
+      "exact_tests": 81
+    },
+    {
+      "object": "Rear.L | blade 2 retaining head",
+      "modified": 1,
+      "triangles": 1152,
+      "broad_phase_pairs": 8665,
+      "exact_tests": 30
+    },
+    {
+      "object": "Rear.L | crown centre web",
+      "modified": 1,
+      "triangles": 188,
+      "broad_phase_pairs": 1718,
+      "exact_tests": 43
+    },
+    {
+      "object": "Rear.L | lower isolating collar",
+      "modified": 1,
+      "triangles": 1008,
+      "broad_phase_pairs": 8839,
+      "exact_tests": 29
+    },
+    {
+      "object": "Rear.L | motor spindle",
+      "modified": 1,
+      "triangles": 536,
+      "broad_phase_pairs": 4922,
+      "exact_tests": 36
+    },
+    {
+      "object": "Rear.L | motor spindle retainer",
+      "modified": 1,
+      "triangles": 1152,
+      "broad_phase_pairs": 8041,
+      "exact_tests": 25
+    },
+    {
+      "object": "Rear.L | propeller crown",
+      "modified": 1,
+      "triangles": 4978,
+      "broad_phase_pairs": 54052,
+      "exact_tests": 304
+    },
+    {
+      "object": "Rear.L | propeller crown 1 key stripe",
+      "modified": 1,
+      "triangles": 188,
+      "broad_phase_pairs": 1544,
+      "exact_tests": 22
+    },
+    {
+      "object": "Rear.L | propeller crown 1 root ear",
+      "modified": 1,
+      "triangles": 720,
+      "broad_phase_pairs": 6242,
+      "exact_tests": 38
+    },
+    {
+      "object": "Rear.L | propeller crown 1 turn arrow",
+      "modified": 1,
+      "triangles": 180,
+      "broad_phase_pairs": 1425,
+      "exact_tests": 23
+    },
+    {
+      "object": "Rear.L | propeller crown 2 key stripe",
+      "modified": 1,
+      "triangles": 188,
+      "broad_phase_pairs": 1527,
+      "exact_tests": 16
+    },
+    {
+      "object": "Rear.L | propeller crown 2 root ear",
+      "modified": 1,
+      "triangles": 720,
+      "broad_phase_pairs": 6323,
+      "exact_tests": 38
+    },
+    {
+      "object": "Rear.L | propeller crown 2 turn arrow",
+      "modified": 1,
+      "triangles": 180,
+      "broad_phase_pairs": 1381,
+      "exact_tests": 7
+    },
+    {
+      "object": "Rear.L | rear smoked indicator",
+      "modified": 1,
+      "triangles": 1536,
+      "broad_phase_pairs": 15274,
+      "exact_tests": 0
+    },
+    {
+      "object": "Rear.L | rear socket lip",
+      "modified": 1,
+      "triangles": 2124,
+      "broad_phase_pairs": 23786,
+      "exact_tests": 100
+    },
+    {
+      "object": "Rear.L | rear socket parting",
+      "modified": 1,
+      "triangles": 756,
+      "broad_phase_pairs": 8509,
+      "exact_tests": 6
+    },
+    {
+      "object": "Rear.L | rear underside molded pad",
+      "modified": 1,
+      "triangles": 572,
+      "broad_phase_pairs": 5691,
+      "exact_tests": 0
+    },
+    {
+      "object": "Rear.L | root joint seam",
+      "modified": 1,
+      "triangles": 380,
+      "broad_phase_pairs": 3987,
+      "exact_tests": 0
+    },
+    {
+      "object": "Rear.L | rounded shoulder boot",
+      "modified": 1,
+      "triangles": 1296,
+      "broad_phase_pairs": 15625,
+      "exact_tests": 149
+    },
+    {
+      "object": "Rear.L | sculpted lower motor cup",
+      "modified": 1,
+      "triangles": 3160,
+      "broad_phase_pairs": 29165,
+      "exact_tests": 175
+    },
+    {
+      "object": "Rear.L | shoulder pivot journal",
+      "modified": 1,
+      "triangles": 536,
+      "broad_phase_pairs": 6255,
+      "exact_tests": 3
+    },
+    {
+      "object": "Rear.L | shoulder retaining cap",
+      "modified": 1,
+      "triangles": 1152,
+      "broad_phase_pairs": 8241,
+      "exact_tests": 4
+    },
+    {
+      "object": "Rear.L | stepped satin motor bell",
+      "modified": 1,
+      "triangles": 3044,
+      "broad_phase_pairs": 25741,
+      "exact_tests": 43
+    },
+    {
+      "object": "Rear.L | tapered composite arm",
+      "modified": 1,
+      "triangles": 2156,
+      "broad_phase_pairs": 25506,
+      "exact_tests": 100
+    },
+    {
+      "object": "Rear.L | top motor collar",
+      "modified": 1,
+      "triangles": 1412,
+      "broad_phase_pairs": 15679,
+      "exact_tests": 66
+    },
+    {
+      "object": "Rear.R | blade 1",
+      "modified": 1,
+      "triangles": 1032,
+      "broad_phase_pairs": 10011,
+      "exact_tests": 36
+    },
+    {
+      "object": "Rear.R | blade 1 pivot stud",
+      "modified": 1,
+      "triangles": 548,
+      "broad_phase_pairs": 5960,
+      "exact_tests": 59
+    },
+    {
+      "object": "Rear.R | blade 1 retaining head",
+      "modified": 1,
+      "triangles": 1152,
+      "broad_phase_pairs": 9136,
+      "exact_tests": 41
+    },
+    {
+      "object": "Rear.R | blade 2",
+      "modified": 1,
+      "triangles": 1032,
+      "broad_phase_pairs": 10051,
+      "exact_tests": 41
+    },
+    {
+      "object": "Rear.R | blade 2 pivot stud",
+      "modified": 1,
+      "triangles": 548,
+      "broad_phase_pairs": 5819,
+      "exact_tests": 42
+    },
+    {
+      "object": "Rear.R | blade 2 retaining head",
+      "modified": 1,
+      "triangles": 1152,
+      "broad_phase_pairs": 9136,
+      "exact_tests": 41
+    },
+    {
+      "object": "Rear.R | crown centre web",
+      "modified": 1,
+      "triangles": 188,
+      "broad_phase_pairs": 1756,
+      "exact_tests": 42
+    },
+    {
+      "object": "Rear.R | lower isolating collar",
+      "modified": 1,
+      "triangles": 1008,
+      "broad_phase_pairs": 9081,
+      "exact_tests": 55
+    },
+    {
+      "object": "Rear.R | motor spindle",
+      "modified": 1,
+      "triangles": 536,
+      "broad_phase_pairs": 5020,
+      "exact_tests": 27
+    },
+    {
+      "object": "Rear.R | motor spindle retainer",
+      "modified": 1,
+      "triangles": 1152,
+      "broad_phase_pairs": 8490,
+      "exact_tests": 39
+    },
+    {
+      "object": "Rear.R | propeller crown",
+      "modified": 1,
+      "triangles": 4980,
+      "broad_phase_pairs": 54605,
+      "exact_tests": 272
+    },
+    {
+      "object": "Rear.R | propeller crown 1 key stripe",
+      "modified": 1,
+      "triangles": 188,
+      "broad_phase_pairs": 1608,
+      "exact_tests": 24
+    },
+    {
+      "object": "Rear.R | propeller crown 1 root ear",
+      "modified": 1,
+      "triangles": 720,
+      "broad_phase_pairs": 6543,
+      "exact_tests": 50
+    },
+    {
+      "object": "Rear.R | propeller crown 1 turn arrow",
+      "modified": 1,
+      "triangles": 180,
+      "broad_phase_pairs": 1445,
+      "exact_tests": 22
+    },
+    {
+      "object": "Rear.R | propeller crown 2 key stripe",
+      "modified": 1,
+      "triangles": 188,
+      "broad_phase_pairs": 1588,
+      "exact_tests": 15
+    },
+    {
+      "object": "Rear.R | propeller crown 2 root ear",
+      "modified": 1,
+      "triangles": 720,
+      "broad_phase_pairs": 6522,
+      "exact_tests": 53
+    },
+    {
+      "object": "Rear.R | propeller crown 2 turn arrow",
+      "modified": 1,
+      "triangles": 180,
+      "broad_phase_pairs": 1447,
+      "exact_tests": 21
+    },
+    {
+      "object": "Rear.R | rear smoked indicator",
+      "modified": 1,
+      "triangles": 1536,
+      "broad_phase_pairs": 15270,
+      "exact_tests": 0
+    },
+    {
+      "object": "Rear.R | rear socket lip",
+      "modified": 1,
+      "triangles": 2120,
+      "broad_phase_pairs": 22763,
+      "exact_tests": 88
+    },
+    {
+      "object": "Rear.R | rear socket parting",
+      "modified": 1,
+      "triangles": 756,
+      "broad_phase_pairs": 8234,
+      "exact_tests": 3
+    },
+    {
+      "object": "Rear.R | rear underside molded pad",
+      "modified": 1,
+      "triangles": 572,
+      "broad_phase_pairs": 5684,
+      "exact_tests": 0
+    },
+    {
+      "object": "Rear.R | root joint seam",
+      "modified": 1,
+      "triangles": 380,
+      "broad_phase_pairs": 4031,
+      "exact_tests": 2
+    },
+    {
+      "object": "Rear.R | rounded shoulder boot",
+      "modified": 1,
+      "triangles": 1300,
+      "broad_phase_pairs": 15699,
+      "exact_tests": 161
+    },
+    {
+      "object": "Rear.R | sculpted lower motor cup",
+      "modified": 1,
+      "triangles": 3158,
+      "broad_phase_pairs": 29366,
+      "exact_tests": 215
+    },
+    {
+      "object": "Rear.R | shoulder pivot journal",
+      "modified": 1,
+      "triangles": 536,
+      "broad_phase_pairs": 5943,
+      "exact_tests": 6
+    },
+    {
+      "object": "Rear.R | shoulder retaining cap",
+      "modified": 1,
+      "triangles": 1152,
+      "broad_phase_pairs": 8249,
+      "exact_tests": 1
+    },
+    {
+      "object": "Rear.R | stepped satin motor bell",
+      "modified": 1,
+      "triangles": 3044,
+      "broad_phase_pairs": 25833,
+      "exact_tests": 28
+    },
+    {
+      "object": "Rear.R | tapered composite arm",
+      "modified": 1,
+      "triangles": 2162,
+      "broad_phase_pairs": 25566,
+      "exact_tests": 114
+    },
+    {
+      "object": "Rear.R | top motor collar",
+      "modified": 1,
+      "triangles": 1412,
+      "broad_phase_pairs": 15717,
+      "exact_tests": 34
+    },
+    {
+      "object": "Tele 168 mm • coated objective",
+      "modified": 1,
+      "triangles": 2108,
+      "broad_phase_pairs": 19517,
+      "exact_tests": 72
+    },
+    {
+      "object": "Tele 168 mm • lens carrier",
+      "modified": 1,
+      "triangles": 5952,
+      "broad_phase_pairs": 42010,
+      "exact_tests": 165
+    },
+    {
+      "object": "Tele 168 mm • protective glass",
+      "modified": 1,
+      "triangles": 1340,
+      "broad_phase_pairs": 15385,
+      "exact_tests": 53
+    },
+    {
+      "object": "Underbody | ventral runner and rear heel port",
+      "modified": 1,
+      "triangles": 7164,
+      "broad_phase_pairs": 52545,
+      "exact_tests": 3
+    },
+    {
+      "object": "Underbody | ventral runner and rear heel starboard",
+      "modified": 1,
+      "triangles": 7164,
+      "broad_phase_pairs": 53530,
+      "exact_tests": 2
+    },
+    {
+      "object": "Vision | central upper fisheye",
+      "modified": 1,
+      "triangles": 1148,
+      "broad_phase_pairs": 9527,
+      "exact_tests": 0
+    },
+    {
+      "object": "Vision | downward IR emitter",
+      "modified": 1,
+      "triangles": 1916,
+      "broad_phase_pairs": 14677,
+      "exact_tests": 0
+    },
+    {
+      "object": "Vision | downward IR receiver",
+      "modified": 1,
+      "triangles": 1916,
+      "broad_phase_pairs": 14685,
+      "exact_tests": 0
+    },
+    {
+      "object": "Vision | downward port",
+      "modified": 1,
+      "triangles": 1916,
+      "broad_phase_pairs": 14803,
+      "exact_tests": 0
+    },
+    {
+      "object": "Vision | downward starboard",
+      "modified": 1,
+      "triangles": 1916,
+      "broad_phase_pairs": 14876,
+      "exact_tests": 0
+    },
+    {
+      "object": "Vision | upward fisheye port",
+      "modified": 1,
+      "triangles": 1916,
+      "broad_phase_pairs": 14641,
+      "exact_tests": 0
+    },
+    {
+      "object": "Vision | upward fisheye starboard",
+      "modified": 1,
+      "triangles": 1916,
+      "broad_phase_pairs": 14665,
+      "exact_tests": 0
+    }
+  ],
+  "pairs": []
+}

@@ -1,0 +1,23 @@
+00:00.562  blend            | Read blend: "D:\oc\output\mavic-4-pro\review\layout.blend"
+Reloading external rigs...
+Reloading external metarigs...
+RENDER_DEVICE ['NVIDIA GeForce RTX 5070']
+00:01.781  render           | Saved: 'D:\oc\output\mavic-4-pro\review\look\mavic_0001.png'
+FRAME_WRITTEN 1 D:\oc\output\mavic-4-pro\review\look\mavic_0001.png
+00:02.453  render           | Saved: 'D:\oc\output\mavic-4-pro\review\look\mavic_0064.png'
+FRAME_WRITTEN 64 D:\oc\output\mavic-4-pro\review\look\mavic_0064.png
+00:04.453  render           | Saved: 'D:\oc\output\mavic-4-pro\review\look\mavic_0065.png'
+FRAME_WRITTEN 65 D:\oc\output\mavic-4-pro\review\look\mavic_0065.png
+00:05.843  render           | Saved: 'D:\oc\output\mavic-4-pro\review\look\mavic_0118.png'
+FRAME_WRITTEN 118 D:\oc\output\mavic-4-pro\review\look\mavic_0118.png
+00:06.531  render           | Saved: 'D:\oc\output\mavic-4-pro\review\look\mavic_0155.png'
+FRAME_WRITTEN 155 D:\oc\output\mavic-4-pro\review\look\mavic_0155.png
+00:07.234  render           | Saved: 'D:\oc\output\mavic-4-pro\review\look\mavic_0247.png'
+FRAME_WRITTEN 247 D:\oc\output\mavic-4-pro\review\look\mavic_0247.png
+00:08.093  render           | Saved: 'D:\oc\output\mavic-4-pro\review\look\mavic_0280.png'
+FRAME_WRITTEN 280 D:\oc\output\mavic-4-pro\review\look\mavic_0280.png
+00:08.812  render           | Saved: 'D:\oc\output\mavic-4-pro\review\look\mavic_0360.png'
+FRAME_WRITTEN 360 D:\oc\output\mavic-4-pro\review\look\mavic_0360.png
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

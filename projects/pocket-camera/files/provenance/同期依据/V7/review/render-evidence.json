@@ -1,0 +1,227 @@
+{
+  "scene": "DJI-Osmo-Pocket-4P-V7-Final.blend",
+  "scene_sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+  "plates": {
+    "01-Hero": {
+      "pixels": [
+        1680,
+        2048
+      ],
+      "depth": 16,
+      "color_type": 2,
+      "chunks": [
+        "IHDR",
+        "sRGB",
+        "gAMA",
+        "cHRM",
+        "eXIf",
+        "oFFs",
+        "pHYs",
+        "tEXt",
+        "IDAT",
+        "IEND"
+      ],
+      "sha256": "225dbbd174e5e166fb0f33a8b370b2540142b708e4c12f425b3bac4b134952e3",
+      "all_rgb_255_fraction": 0.0
+    },
+    "02-Optics": {
+      "pixels": [
+        1760,
+        1760
+      ],
+      "depth": 16,
+      "color_type": 2,
+      "chunks": [
+        "IHDR",
+        "sRGB",
+        "gAMA",
+        "cHRM",
+        "eXIf",
+        "oFFs",
+        "pHYs",
+        "tEXt",
+        "IDAT",
+        "IEND"
+      ],
+      "sha256": "b519ef12483e72c7777d0663d420c3b31066ae1711e12aa7a360632d580865de",
+      "all_rgb_255_fraction": 0.0
+    },
+    "03-Axis": {
+      "pixels": [
+        1920,
+        1536
+      ],
+      "depth": 16,
+      "color_type": 2,
+      "chunks": [
+        "IHDR",
+        "sRGB",
+        "gAMA",
+        "cHRM",
+        "eXIf",
+        "oFFs",
+        "pHYs",
+        "tEXt",
+        "IDAT",
+        "IEND"
+      ],
+      "sha256": "6c9b0d13492eeae95ea6729a19f2ae83776d97ff075d0ad1775ff606cb6e9767",
+      "all_rgb_255_fraction": 0.0
+    },
+    "04-Controls": {
+      "pixels": [
+        1600,
+        1800
+      ],
+      "depth": 16,
+      "color_type": 2,
+      "chunks": [
+        "IHDR",
+        "sRGB",
+        "gAMA",
+        "cHRM",
+        "eXIf",
+        "oFFs",
+        "pHYs",
+        "tEXt",
+        "IDAT",
+        "IEND"
+      ],
+      "sha256": "c9b147560115f08828e30d5bb0524fc68fa9d12daeaaeff6832c11b32bb76dec",
+      "all_rgb_255_fraction": 0.0
+    },
+    "05-Standby": {
+      "pixels": [
+        1550,
+        1940
+      ],
+      "depth": 16,
+      "color_type": 2,
+      "chunks": [
+        "IHDR",
+        "sRGB",
+        "gAMA",
+        "cHRM",
+        "eXIf",
+        "oFFs",
+        "pHYs",
+        "tEXt",
+        "IDAT",
+        "IEND"
+      ],
+      "sha256": "5670e9dd035f85ccfe877ce7f4118f768bb4c40182b7a57ff51ee7e264a0c499",
+      "all_rgb_255_fraction": 0.0
+    },
+    "06-Cutout": {
+      "pixels": [
+        1550,
+        1940
+      ],
+      "depth": 16,
+      "color_type": 6,
+      "chunks": [
+        "IHDR",
+        "sRGB",
+        "gAMA",
+        "cHRM",
+        "eXIf",
+        "oFFs",
+        "pHYs",
+        "tEXt",
+        "IDAT",
+        "IEND"
+      ],
+      "sha256": "4b0a28813c868d2c41b7a7553f9742ec6d765ed952270e9196ffd3db3bbe4fd6",
+      "alpha_bbox": [
+        432,
+        130,
+        1041,
+        1787
+      ],
+      "all_rgb_255_fraction": 3e-06
+    },
+    "07-Front": {
+      "pixels": [
+        1450,
+        2080
+      ],
+      "depth": 16,
+      "color_type": 2,
+      "chunks": [
+        "IHDR",
+        "sRGB",
+        "gAMA",
+        "cHRM",
+        "eXIf",
+        "oFFs",
+        "pHYs",
+        "tEXt",
+        "IDAT",
+        "IEND"
+      ],
+      "sha256": "54d60f1f5b65c76710d2cacdaea1262273c4f29bf380bf3b1eaf6402d4b2582a",
+      "all_rgb_255_fraction": 0.0
+    },
+    "08-Optics-Oblique": {
+      "pixels": [
+        1856,
+        1640
+      ],
+      "depth": 16,
+      "color_type": 2,
+      "chunks": [
+        "IHDR",
+        "sRGB",
+        "gAMA",
+        "cHRM",
+        "eXIf",
+        "oFFs",
+        "pHYs",
+        "tEXt",
+        "IDAT",
+        "IEND"
+      ],
+      "sha256": "67b366d729c75906cd4293655e975c9d5cbd8d6800babd251fa5bc4c2babb49a",
+      "all_rgb_255_fraction": 0.0
+    }
+  },
+  "EXR_channels": [
+    "ViewLayer.Combined.A",
+    "ViewLayer.Combined.B",
+    "ViewLayer.Combined.G",
+    "ViewLayer.Combined.R",
+    "ViewLayer.Depth.Z",
+    "ViewLayer.Normal.X",
+    "ViewLayer.Normal.Y",
+    "ViewLayer.Normal.Z",
+    "ViewLayer.Diffuse Color.B",
+    "ViewLayer.Diffuse Color.G",
+    "ViewLayer.Diffuse Color.R",
+    "ViewLayer.CryptoObject00.a",
+    "ViewLayer.CryptoObject00.b",
+    "ViewLayer.CryptoObject00.g",
+    "ViewLayer.CryptoObject00.r",
+    "ViewLayer.CryptoObject01.a",
+    "ViewLayer.CryptoObject01.b",
+    "ViewLayer.CryptoObject01.g",
+    "ViewLayer.CryptoObject01.r",
+    "ViewLayer.CryptoObject02.a",
+    "ViewLayer.CryptoObject02.b",
+    "ViewLayer.CryptoObject02.g",
+    "ViewLayer.CryptoObject02.r",
+    "ViewLayer.Noisy Image.A",
+    "ViewLayer.Noisy Image.B",
+    "ViewLayer.Noisy Image.G",
+    "ViewLayer.Noisy Image.R"
+  ],
+  "video": {
+    "codec_name": "h264",
+    "width": 640,
+    "height": 800,
+    "avg_frame_rate": "30/1",
+    "duration": "4.533333",
+    "nb_frames": "136",
+    "sha256": "c5994cbc393b933849e10580d18e7ad78f287714aa507e5b78c0f9feb59f7759",
+    "full_decode": true
+  }
+}

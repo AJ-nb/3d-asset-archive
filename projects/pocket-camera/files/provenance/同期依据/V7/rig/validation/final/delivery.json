@@ -1,0 +1,115 @@
+{
+  "source": "DJI-Osmo-Pocket-4P-V7-Final.blend",
+  "source_sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+  "glb": "Osmo-Pocket-4P-V7-Animated-Final.glb",
+  "glb_sha256": "9d4521cdae2b031e8d7c8bc2123eb5adf66748939ed48865d59f239ac9b59692",
+  "bytes": 23933684,
+  "triangles": 560045,
+  "rigid_parts": 155,
+  "old_geometry_and_actions_bitwise_identical": true,
+  "yaw_casting_triangle_corners_checked": 233496,
+  "normal_texture_dimensions": [
+    2048,
+    2048
+  ],
+  "native_and_imported_texture_bytes_identical": true,
+  "casting_image_comparison": {
+    "crop_from_full_resolution": [
+      780,
+      932,
+      1220,
+      1228
+    ],
+    "quantitative_roi_xyxy_in_crop": [
+      150,
+      25,
+      395,
+      221
+    ],
+    "metrics": "Display-referred 8-bit RGB, identical camera and lighting.",
+    "imported_vs_native": {
+      "rgb_rmse_8bit": 0.09744764396990467,
+      "rgb_absolute_p95_8bit": 0.0
+    },
+    "normal_disabled_vs_native": {
+      "rgb_rmse_8bit": 3.3493354617805524,
+      "rgb_absolute_p95_8bit": 7.0
+    },
+    "control_changed_pixels_threshold_8": 2105,
+    "gated_imported_rgb_rmse": 0.14347789575978173,
+    "gated_disabled_rgb_rmse": 13.712544897621283,
+    "passed": true
+  },
+  "action_results": {
+    "Startup": {
+      "frames_evaluated": 136,
+      "part_bounds_checked_at": [
+        1,
+        16,
+        28,
+        45,
+        62,
+        90,
+        113,
+        136
+      ],
+      "max_bone_head_delta_mm": 1.4901161193847656e-05,
+      "max_rigid_world_rotation_delta_deg": 3.082490435346939e-05,
+      "emissive_rgb_linear_max_delta": 7.339382435134212e-09,
+      "max_world_bounds_delta_mm": 2.288818359375e-05,
+      "worst_bounds_object": "Display • recessed outer carrier",
+      "worst_bounds_frame": 90,
+      "imported_action_range": [
+        1.0,
+        136.0
+      ]
+    },
+    "Mechanism review": {
+      "frames_evaluated": 535,
+      "part_bounds_checked_at": [
+        1,
+        31,
+        141,
+        243,
+        285,
+        325,
+        369,
+        433,
+        507,
+        535
+      ],
+      "max_bone_head_delta_mm": 1.4901161193847656e-05,
+      "max_rigid_world_rotation_delta_deg": 4.236840792410401e-05,
+      "emissive_rgb_linear_max_delta": 0,
+      "max_world_bounds_delta_mm": 6.103515625e-05,
+      "worst_bounds_object": "04P | Rear grille dark cavity liner",
+      "worst_bounds_frame": 433,
+      "imported_action_range": [
+        1.0,
+        535.0
+      ]
+    }
+  },
+  "khronos_errors": 0,
+  "khronos_warnings": 0,
+  "rigid_weight_failures": 0,
+  "tangent_repair": [
+    {
+      "mesh": "04P | service passage.002",
+      "vertices": 30,
+      "adjacent_fallback": 30,
+      "axis_fallback": 0,
+      "uv_bbox": [
+        [
+          0.21891345083713531,
+          0.0055702924728393555
+        ],
+        [
+          0.8640606999397278,
+          0.7183610796928406
+        ]
+      ]
+    }
+  ],
+  "passed": true
+}

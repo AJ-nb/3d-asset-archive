@@ -1,0 +1,239 @@
+{
+  "comparison_scope": "Positive difference is the total projected X interval that only one of the model or photo occupies. It is not a 3D residual or an OEM tolerance.",
+  "full_integer_z": {
+    "row_count": 159,
+    "v2": {
+      "mean_difference_mm": 0.7362,
+      "max_difference_mm": 8.9577,
+      "max_difference_at_z_mm": [
+        57
+      ],
+      "sampled_silhouette_iou": 0.980534
+    },
+    "v3": {
+      "mean_difference_mm": 0.4671,
+      "max_difference_mm": 8.6528,
+      "max_difference_at_z_mm": [
+        57
+      ],
+      "sampled_silhouette_iou": 0.987555
+    },
+    "mean_difference_reduction_fraction": 0.365526
+  },
+  "excluding_screen_transition": {
+    "row_count": 157,
+    "v2": {
+      "mean_difference_mm": 0.6511,
+      "max_difference_mm": 4.6966,
+      "max_difference_at_z_mm": [
+        112
+      ],
+      "sampled_silhouette_iou": 0.982761
+    },
+    "v3": {
+      "mean_difference_mm": 0.3805,
+      "max_difference_mm": 1.6642,
+      "max_difference_at_z_mm": [
+        148
+      ],
+      "sampled_silhouette_iou": 0.98985
+    },
+    "mean_difference_reduction_fraction": 0.415604
+  },
+  "screen_transition_z_mm": [
+    57,
+    90
+  ],
+  "datum_endpoints_z_mm": [
+    0,
+    159.5
+  ],
+  "bands": {
+    "grip_base": {
+      "row_count": 8,
+      "v2": {
+        "mean_difference_mm": 1.0386,
+        "max_difference_mm": 3.2843,
+        "max_difference_at_z_mm": [
+          1
+        ],
+        "sampled_silhouette_iou": 0.966985
+      },
+      "v3": {
+        "mean_difference_mm": 0.3937,
+        "max_difference_mm": 0.4257,
+        "max_difference_at_z_mm": [
+          1
+        ],
+        "sampled_silhouette_iou": 0.987202
+      },
+      "mean_difference_reduction_fraction": 0.620932
+    },
+    "grip": {
+      "row_count": 48,
+      "v2": {
+        "mean_difference_mm": 0.3798,
+        "max_difference_mm": 0.4111,
+        "max_difference_at_z_mm": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ],
+        "sampled_silhouette_iou": 0.988616
+      },
+      "v3": {
+        "mean_difference_mm": 0.3798,
+        "max_difference_mm": 0.4111,
+        "max_difference_at_z_mm": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ],
+        "sampled_silhouette_iou": 0.988616
+      },
+      "mean_difference_reduction_fraction": 0.0
+    },
+    "screen": {
+      "row_count": 32,
+      "v2": {
+        "mean_difference_mm": 0.503,
+        "max_difference_mm": 2.0449,
+        "max_difference_at_z_mm": [
+          58
+        ],
+        "sampled_silhouette_iou": 0.990605
+      },
+      "v3": {
+        "mean_difference_mm": 0.3191,
+        "max_difference_mm": 0.7495,
+        "max_difference_at_z_mm": [
+          85
+        ],
+        "sampled_silhouette_iou": 0.994017
+      },
+      "mean_difference_reduction_fraction": 0.365606
+    },
+    "display_shoulder": {
+      "row_count": 9,
+      "v2": {
+        "mean_difference_mm": 0.3912,
+        "max_difference_mm": 0.4239,
+        "max_difference_at_z_mm": [
+          91
+        ],
+        "sampled_silhouette_iou": 0.985609
+      },
+      "v3": {
+        "mean_difference_mm": 0.3912,
+        "max_difference_mm": 0.4239,
+        "max_difference_at_z_mm": [
+          91
+        ],
+        "sampled_silhouette_iou": 0.985609
+      },
+      "mean_difference_reduction_fraction": 0.0
+    },
+    "pan_neck": {
+      "row_count": 12,
+      "v2": {
+        "mean_difference_mm": 0.9099,
+        "max_difference_mm": 1.9117,
+        "max_difference_at_z_mm": [
+          109
+        ],
+        "sampled_silhouette_iou": 0.955776
+      },
+      "v3": {
+        "mean_difference_mm": 0.3557,
+        "max_difference_mm": 0.4264,
+        "max_difference_at_z_mm": [
+          108
+        ],
+        "sampled_silhouette_iou": 0.982449
+      },
+      "mean_difference_reduction_fraction": 0.609078
+    },
+    "camera_lower_transition": {
+      "row_count": 15,
+      "v2": {
+        "mean_difference_mm": 1.7405,
+        "max_difference_mm": 4.6966,
+        "max_difference_at_z_mm": [
+          112
+        ],
+        "sampled_silhouette_iou": 0.943373
+      },
+      "v3": {
+        "mean_difference_mm": 0.3863,
+        "max_difference_mm": 0.4575,
+        "max_difference_at_z_mm": [
+          126
+        ],
+        "sampled_silhouette_iou": 0.986774
+      },
+      "mean_difference_reduction_fraction": 0.778052
+    },
+    "camera_motors": {
+      "row_count": 22,
+      "v2": {
+        "mean_difference_mm": 0.4214,
+        "max_difference_mm": 1.8019,
+        "max_difference_at_z_mm": [
+          148
+        ],
+        "sampled_silhouette_iou": 0.99143
+      },
+      "v3": {
+        "mean_difference_mm": 0.472,
+        "max_difference_mm": 1.6642,
+        "max_difference_at_z_mm": [
+          148
+        ],
+        "sampled_silhouette_iou": 0.990417
+      },
+      "mean_difference_reduction_fraction": -0.120076
+    },
+    "camera_upper_transition": {
+      "row_count": 11,
+      "v2": {
+        "mean_difference_mm": 0.8879,
+        "max_difference_mm": 1.7327,
+        "max_difference_at_z_mm": [
+          159
+        ],
+        "sampled_silhouette_iou": 0.970329
+      },
+      "v3": {
+        "mean_difference_mm": 0.3798,
+        "max_difference_mm": 0.4167,
+        "max_difference_at_z_mm": [
+          155
+        ],
+        "sampled_silhouette_iou": 0.987017
+      },
+      "mean_difference_reduction_fraction": 0.572249
+    }
+  },
+  "geometry_counts": {
+    "v2": {
+      "x": 53,
+      "y": 33,
+      "z": 161
+    },
+    "v3": {
+      "x": 53,
+      "y": 33,
+      "z": 161
+    }
+  }
+}

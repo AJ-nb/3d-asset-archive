@@ -1,0 +1,64 @@
+{
+  "source_path": "mavic-4-pro/review/layout.blend",
+  "archive_path": "源工程与记录/01-预演/layout.blend",
+  "source_sha256": "26061777349f0df24000f8933e90ea4e29fca412691277c7f39cc859e6346168",
+  "camera_orbit_vector_mm": [
+    355,
+    -690,
+    386
+  ],
+  "camera_target_mm": [
+    0,
+    -8,
+    64
+  ],
+  "world_camera_matrix": [
+    [
+      0.8892128467559814,
+      -0.20375922322273254,
+      0.4096128046512604,
+      0.35500001907348633
+    ],
+    [
+      0.45749369263648987,
+      0.39603903889656067,
+      -0.7961485981941223,
+      -0.6980000138282776
+    ],
+    [
+      -2.9062647399769048e-08,
+      0.8953408598899841,
+      0.4453815519809723,
+      0.45000001788139343
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "ortho_span_mm": 699.0000009536743,
+  "resolution": [
+    3840,
+    2160
+  ],
+  "frame": 32,
+  "scene": "Scene",
+  "blender_version": "5.2.3 LTS",
+  "bounds_normalized_lower_upper_xy": [
+    0.044810712337493896,
+    0.2367514967918396,
+    0.9656615257263184,
+    0.8431236743927002
+  ],
+  "engine": "CYCLES",
+  "device": "GPU",
+  "sample_limit": 112,
+  "outputs": {
+    "01-基础体块-补绘.png": {
+      "sha256": "dac096da7a50e9010ff84cae11efc90e552e0a45dc22303bdd8ea3354a6aff60",
+      "method": "Re-rendered archived layout.blend blockout. Archived materials and lighting."
+    }
+  }
+}

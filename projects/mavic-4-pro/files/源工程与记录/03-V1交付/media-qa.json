@@ -1,0 +1,322 @@
+{
+  "proxy": {
+    "technical_pass": true,
+    "stage": "complete",
+    "updated_at": "2026-11-26T08:46:39.435856+00:00",
+    "frame_directory": "D:\\oc\\output\\mavic-4-pro\\review\\proxy",
+    "expected_frames": 360,
+    "present_frames": 360,
+    "missing_frames": [],
+    "source_size": [
+      422,
+      237
+    ],
+    "encoded_size": [
+      422,
+      238
+    ],
+    "fps": "24",
+    "right_bottom_padding_px": [
+      0,
+      1
+    ],
+    "expected_seconds": 15.0,
+    "target": "D:\\oc\\output\\mavic-4-pro\\review\\Mavic-4-Pro-Proxy.mp4",
+    "encoded_frames": 360,
+    "streams": {
+      "format": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video_codec": "h264",
+      "size": [
+        422,
+        238
+      ],
+      "fps": "24/1",
+      "decoded_video_frames": 360,
+      "video_seconds": 15.0,
+      "audio_codec": "aac",
+      "audio_channels": 2,
+      "audio_rate_hz": 48000,
+      "audio_seconds": 15.0,
+      "decoded_audio_frames": 704,
+      "complete_audio_video_decode": true
+    },
+    "shots": [
+      {
+        "name": "01  /  Front three-quarter",
+        "range": [
+          1,
+          64
+        ],
+        "review_frames": [
+          15,
+          49
+        ],
+        "within_shot_transitions": 63,
+        "max_pixel_difference": 0.584097,
+        "pixel_difference_threshold": 3.5,
+        "mean_brightness_shift_threshold": 3.0,
+        "review_flags": []
+      },
+      {
+        "name": "02  /  Leading arm to optics",
+        "range": [
+          65,
+          118
+        ],
+        "review_frames": [
+          77,
+          105
+        ],
+        "within_shot_transitions": 53,
+        "max_pixel_difference": 5.13028,
+        "pixel_difference_threshold": 10.464,
+        "mean_brightness_shift_threshold": 3.0,
+        "review_flags": []
+      },
+      {
+        "name": "03  /  Infinity Gimbal  |  locked",
+        "range": [
+          119,
+          246
+        ],
+        "review_frames": [
+          148,
+          216
+        ],
+        "within_shot_transitions": 127,
+        "max_pixel_difference": 1.77687,
+        "pixel_difference_threshold": 3.5,
+        "mean_brightness_shift_threshold": 3.0,
+        "review_flags": []
+      },
+      {
+        "name": "04  /  Plan view",
+        "range": [
+          247,
+          278
+        ],
+        "review_frames": [
+          254,
+          271
+        ],
+        "within_shot_transitions": 31,
+        "max_pixel_difference": 1.78722,
+        "pixel_difference_threshold": 4.645,
+        "mean_brightness_shift_threshold": 3.0,
+        "review_flags": []
+      },
+      {
+        "name": "05  /  Closing hero",
+        "range": [
+          279,
+          360
+        ],
+        "review_frames": [
+          298,
+          341
+        ],
+        "within_shot_transitions": 81,
+        "max_pixel_difference": 0.372569,
+        "pixel_difference_threshold": 3.5,
+        "mean_brightness_shift_threshold": 3.0,
+        "review_flags": []
+      }
+    ],
+    "expected_cuts": [
+      {
+        "before": 64,
+        "after": 65,
+        "incoming_shot": "02  /  Leading arm to optics",
+        "mean_absolute_pixel_difference": 52.8842,
+        "absolute_mean_shift": 27.29
+      },
+      {
+        "before": 118,
+        "after": 119,
+        "incoming_shot": "03  /  Infinity Gimbal  |  locked",
+        "mean_absolute_pixel_difference": 38.9419,
+        "absolute_mean_shift": 10.001
+      },
+      {
+        "before": 246,
+        "after": 247,
+        "incoming_shot": "04  /  Plan view",
+        "mean_absolute_pixel_difference": 35.901,
+        "absolute_mean_shift": 10.693
+      },
+      {
+        "before": 278,
+        "after": 279,
+        "incoming_shot": "05  /  Closing hero",
+        "mean_absolute_pixel_difference": 39.4711,
+        "absolute_mean_shift": 24.681
+      }
+    ],
+    "luminance_method": "160-pixel-wide decoded 8-bit Y plane. Within shots, flag differences above median + 6 scaled MAD, with floors of 3.5 pixel-difference or 3.0 mean-brightness units. Planned cuts are reported separately.",
+    "flagged_transitions": 0,
+    "sha256": "ce5cf38500dc5efae292aa813cfb6602b3603b5f1fb0d2ada335e62103f9e378",
+    "review_reel": "D:\\oc\\output\\mavic-4-pro\\review\\proxy-shot-review.mp4",
+    "contact_sheet": "D:\\oc\\output\\mavic-4-pro\\review\\proxy-shots.jpg",
+    "review_scope": "Luma flags and scheduled cut values guide visual review."
+  },
+  "film": {
+    "technical_pass": true,
+    "stage": "complete",
+    "updated_at": "2026-11-26T09:17:26.418705+00:00",
+    "frame_directory": "D:\\oc\\output\\mavic-4-pro\\frames",
+    "expected_frames": 360,
+    "present_frames": 360,
+    "missing_frames": [],
+    "source_size": [
+      1920,
+      1080
+    ],
+    "encoded_size": [
+      1920,
+      1080
+    ],
+    "fps": "24",
+    "right_bottom_padding_px": [
+      0,
+      0
+    ],
+    "expected_seconds": 15.0,
+    "target": "D:\\oc\\output\\mavic-4-pro\\Mavic-4-Pro-Studio.mp4",
+    "encoded_frames": 360,
+    "streams": {
+      "format": "mov,mp4,m4a,3gp,3g2,mj2",
+      "video_codec": "h264",
+      "size": [
+        1920,
+        1080
+      ],
+      "fps": "24/1",
+      "decoded_video_frames": 360,
+      "video_seconds": 15.0,
+      "audio_codec": "aac",
+      "audio_channels": 2,
+      "audio_rate_hz": 48000,
+      "audio_seconds": 15.0,
+      "decoded_audio_frames": 704,
+      "complete_audio_video_decode": true
+    },
+    "shots": [
+      {
+        "name": "01  /  Front three-quarter",
+        "range": [
+          1,
+          64
+        ],
+        "review_frames": [
+          15,
+          49
+        ],
+        "within_shot_transitions": 63,
+        "max_pixel_difference": 0.473403,
+        "pixel_difference_threshold": 3.5,
+        "mean_brightness_shift_threshold": 3.0,
+        "review_flags": []
+      },
+      {
+        "name": "02  /  Leading arm to optics",
+        "range": [
+          65,
+          118
+        ],
+        "review_frames": [
+          77,
+          105
+        ],
+        "within_shot_transitions": 53,
+        "max_pixel_difference": 5.46632,
+        "pixel_difference_threshold": 12.136,
+        "mean_brightness_shift_threshold": 3.0,
+        "review_flags": []
+      },
+      {
+        "name": "03  /  Infinity Gimbal  |  locked",
+        "range": [
+          119,
+          246
+        ],
+        "review_frames": [
+          148,
+          216
+        ],
+        "within_shot_transitions": 127,
+        "max_pixel_difference": 1.8259,
+        "pixel_difference_threshold": 3.5,
+        "mean_brightness_shift_threshold": 3.0,
+        "review_flags": []
+      },
+      {
+        "name": "04  /  Plan view",
+        "range": [
+          247,
+          278
+        ],
+        "review_frames": [
+          254,
+          271
+        ],
+        "within_shot_transitions": 31,
+        "max_pixel_difference": 1.81646,
+        "pixel_difference_threshold": 4.619,
+        "mean_brightness_shift_threshold": 3.0,
+        "review_flags": []
+      },
+      {
+        "name": "05  /  Closing hero",
+        "range": [
+          279,
+          360
+        ],
+        "review_frames": [
+          298,
+          341
+        ],
+        "within_shot_transitions": 81,
+        "max_pixel_difference": 0.301597,
+        "pixel_difference_threshold": 3.5,
+        "mean_brightness_shift_threshold": 3.0,
+        "review_flags": []
+      }
+    ],
+    "expected_cuts": [
+      {
+        "before": 64,
+        "after": 65,
+        "incoming_shot": "02  /  Leading arm to optics",
+        "mean_absolute_pixel_difference": 53.0465,
+        "absolute_mean_shift": 27.247
+      },
+      {
+        "before": 118,
+        "after": 119,
+        "incoming_shot": "03  /  Infinity Gimbal  |  locked",
+        "mean_absolute_pixel_difference": 39.4487,
+        "absolute_mean_shift": 10.353
+      },
+      {
+        "before": 246,
+        "after": 247,
+        "incoming_shot": "04  /  Plan view",
+        "mean_absolute_pixel_difference": 35.914,
+        "absolute_mean_shift": 11.395
+      },
+      {
+        "before": 278,
+        "after": 279,
+        "incoming_shot": "05  /  Closing hero",
+        "mean_absolute_pixel_difference": 39.5107,
+        "absolute_mean_shift": 25.069
+      }
+    ],
+    "luminance_method": "160-pixel-wide decoded 8-bit Y plane. Within shots, flag differences above median + 6 scaled MAD, with floors of 3.5 pixel-difference or 3.0 mean-brightness units. Planned cuts are reported separately.",
+    "flagged_transitions": 0,
+    "sha256": "50c663386479f4f0a8c7c12bea38ce6bee77b3f4b3296e2698fcef5760caf611",
+    "review_reel": "D:\\oc\\output\\mavic-4-pro\\review\\film-shot-review.mp4",
+    "contact_sheet": "D:\\oc\\output\\mavic-4-pro\\review\\film-shots.jpg",
+    "review_scope": "Luma flags and scheduled cut values guide visual review."
+  }
+}

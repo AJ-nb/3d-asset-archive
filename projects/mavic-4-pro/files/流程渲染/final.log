@@ -1,0 +1,10 @@
+00:00.485  blend            | Read blend: "D:\oc\output\mavic-4-pro-fit-work\rear-shoulder\Mavic-4-Pro-Rear-Fit-Final.blend"
+00:18.594  render           | Saved: 'D:\oc\output\mavic-4-pro-xhs-evidence\流程渲染\03-材质灯光-4K补渲.png'
+D:\oc\output\mavic-4-pro-xhs-evidence\流程渲染\render_flow.py:92: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  clay.use_nodes=True
+00:35.438  render           | Saved: 'D:\oc\output\mavic-4-pro-xhs-evidence\流程渲染\02-白模-补绘.png'
+Reloading external rigs...
+Reloading external metarigs...
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

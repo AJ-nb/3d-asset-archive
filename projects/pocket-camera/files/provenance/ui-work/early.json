@@ -1,0 +1,28 @@
+[
+  {
+    "id": "early",
+    "file": "04_Blender工程实拍\\01_V1_早期分件与装配.png",
+    "caption": "打开现存第一版完整工程，以零件颜色观察早期外观装配。界面分色由 Blender 对象显示生成。",
+    "frame": 1,
+    "source": "D:\\oc\\output\\dji-osmo-pocket-4p\\DJI-Osmo-Pocket-4P-Classic-Black.blend",
+    "source_sha256": "dc24ae6d9d30a0b125d51ebdae2e0312c946a7796e3fb350e1d25547e4191708",
+    "recaptured": true,
+    "window_pixels": [
+      2260,
+      1280
+    ],
+    "screenshot_sha256": "461cb48e5c4a105c388722ffa8fae0e970f8027acc7f45e8137bf879875137a9",
+    "scene": "DJI Osmo Pocket 4P | Classic Black",
+    "workspace": "Layout",
+    "app_version": "5.2.3 LTS",
+    "source_saved_during_capture": false,
+    "capture_method": "bpy.ops.screen.screenshot (native window framebuffer; full Blender client area)",
+    "active_object": "04P | Dual camera rear housing",
+    "native_areas": [
+      "PROPERTIES",
+      "OUTLINER",
+      "DOPESHEET_EDITOR",
+      "VIEW_3D"
+    ]
+  }
+]

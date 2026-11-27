@@ -1,0 +1,307 @@
+{
+  "input": "Pulse-15s.mp4",
+  "sha256": "7d119e4a748b9af2d3a87c95bf366822e4bb4e33d438ff8f43f67a726aef0876",
+  "capturedAt": "2026-11-27T06:40:47.631Z",
+  "environment": "Headless installed desktop browser over 127.0.0.1 HTTP with range support. A mobile touch viewport emulates layout on this same Windows host. Speakers, phones and public-network delivery were not measured.",
+  "metricNotes": "Browser native droppedVideoFrames and totalVideoFrames track dropped and total frames. An rVFC timestamp gap may indicate an observer missed compositor frames; this is reported separately from decoder drops and clock stalls.",
+  "profiles": {
+    "desktop": {
+      "metadata": {
+        "width": 1080,
+        "height": 1920,
+        "durationSeconds": 15,
+        "muted": false,
+        "naturalDisplayedSize": [
+          506,
+          900
+        ],
+        "viewport": [
+          1440,
+          900
+        ]
+      },
+      "ended": true,
+      "mediaTimeAtEnd": 15,
+      "wallSecondsAfterPlaying": 15.044,
+      "decodedFramesTotal": 450,
+      "decodedFramesDropped": 2,
+      "corruptedVideoFrames": 0,
+      "decodedAudioBytes": 562073,
+      "callbackCount": 448,
+      "firstFrameS": 0,
+      "lastFrameS": 14.966667,
+      "estimatedFramePeriod": 0.033333,
+      "timelineStepExceptions": [
+        {
+          "atS": 2.3667,
+          "deltaS": 0.1,
+          "compositorOrdinalDelta": 1
+        }
+      ],
+      "compositorCallbacksWithLongWallGap": [],
+      "clockGapsOver200ms": [],
+      "waitingAfterPlaying": [],
+      "mediaErrors": [],
+      "events": [
+        {
+          "name": "play",
+          "wallMs": 1,
+          "mediaS": 0,
+          "readyState": 0,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "waiting",
+          "wallMs": 1,
+          "mediaS": 0,
+          "readyState": 0,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "suspend",
+          "wallMs": 6,
+          "mediaS": 0,
+          "readyState": 0,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "loadedmetadata",
+          "wallMs": 8,
+          "mediaS": 0,
+          "readyState": 1,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "suspend",
+          "wallMs": 58,
+          "mediaS": 0,
+          "readyState": 1,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "suspend",
+          "wallMs": 63,
+          "mediaS": 0,
+          "readyState": 1,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "loadeddata",
+          "wallMs": 91,
+          "mediaS": 0,
+          "readyState": 4,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "canplay",
+          "wallMs": 91,
+          "mediaS": 0,
+          "readyState": 4,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "playing",
+          "wallMs": 91,
+          "mediaS": 0,
+          "readyState": 4,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "suspend",
+          "wallMs": 111,
+          "mediaS": 0.0144,
+          "readyState": 4,
+          "afterInitialPlaying": true
+        },
+        {
+          "name": "suspend",
+          "wallMs": 1495,
+          "mediaS": 1.3665,
+          "readyState": 4,
+          "afterInitialPlaying": true
+        },
+        {
+          "name": "pause",
+          "wallMs": 15135,
+          "mediaS": 15,
+          "readyState": 4,
+          "afterInitialPlaying": true
+        },
+        {
+          "name": "ended",
+          "wallMs": 15135,
+          "mediaS": 15,
+          "readyState": 4,
+          "afterInitialPlaying": true
+        }
+      ],
+      "checks": {
+        "expectedMedia": true,
+        "zeroReportedDecoderDrops": false,
+        "playsUninterrupted": true,
+        "viewportMatches": true
+      },
+      "passed": false,
+      "browser": "Edg/158.0.4370.33",
+      "screenshot": {
+        "file": "browser-desktop.png",
+        "mediaSeconds": 3.3
+      }
+    },
+    "mobile": {
+      "metadata": {
+        "width": 1080,
+        "height": 1920,
+        "durationSeconds": 15,
+        "muted": false,
+        "naturalDisplayedSize": [
+          390,
+          693
+        ],
+        "viewport": [
+          390,
+          844
+        ]
+      },
+      "ended": true,
+      "mediaTimeAtEnd": 15,
+      "wallSecondsAfterPlaying": 15.06,
+      "decodedFramesTotal": 450,
+      "decodedFramesDropped": 0,
+      "corruptedVideoFrames": 0,
+      "decodedAudioBytes": 562073,
+      "callbackCount": 450,
+      "firstFrameS": 0,
+      "lastFrameS": 14.966667,
+      "estimatedFramePeriod": 0.033333,
+      "timelineStepExceptions": [],
+      "compositorCallbacksWithLongWallGap": [],
+      "clockGapsOver200ms": [],
+      "waitingAfterPlaying": [],
+      "mediaErrors": [],
+      "events": [
+        {
+          "name": "play",
+          "wallMs": 2,
+          "mediaS": 0,
+          "readyState": 0,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "waiting",
+          "wallMs": 2,
+          "mediaS": 0,
+          "readyState": 0,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "suspend",
+          "wallMs": 5,
+          "mediaS": 0,
+          "readyState": 0,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "loadedmetadata",
+          "wallMs": 8,
+          "mediaS": 0,
+          "readyState": 1,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "suspend",
+          "wallMs": 19,
+          "mediaS": 0,
+          "readyState": 1,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "suspend",
+          "wallMs": 23,
+          "mediaS": 0,
+          "readyState": 1,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "loadeddata",
+          "wallMs": 24,
+          "mediaS": 0,
+          "readyState": 4,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "canplay",
+          "wallMs": 24,
+          "mediaS": 0,
+          "readyState": 4,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "playing",
+          "wallMs": 24,
+          "mediaS": 0,
+          "readyState": 4,
+          "afterInitialPlaying": false
+        },
+        {
+          "name": "suspend",
+          "wallMs": 45,
+          "mediaS": 0.0109,
+          "readyState": 4,
+          "afterInitialPlaying": true
+        },
+        {
+          "name": "suspend",
+          "wallMs": 1444,
+          "mediaS": 1.3675,
+          "readyState": 4,
+          "afterInitialPlaying": true
+        },
+        {
+          "name": "pause",
+          "wallMs": 15085,
+          "mediaS": 15,
+          "readyState": 4,
+          "afterInitialPlaying": true
+        },
+        {
+          "name": "ended",
+          "wallMs": 15085,
+          "mediaS": 15,
+          "readyState": 4,
+          "afterInitialPlaying": true
+        }
+      ],
+      "checks": {
+        "expectedMedia": true,
+        "zeroReportedDecoderDrops": true,
+        "playsUninterrupted": true,
+        "viewportMatches": true
+      },
+      "passed": true,
+      "browser": "Edg/158.0.4370.33",
+      "screenshot": {
+        "file": "browser-mobile.png",
+        "mediaSeconds": 14.1
+      }
+    }
+  },
+  "requests": [
+    {
+      "method": "GET",
+      "code": 206,
+      "start": 0,
+      "end": 10992142
+    },
+    {
+      "method": "GET",
+      "code": 206,
+      "start": 0,
+      "end": 10992142
+    }
+  ],
+  "browser": "Edg/158.0.4370.33",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/158.0.0.0 Safari/537.36 Edg/158.0.0.0",
+  "httpRangeConfirmed": true,
+  "passed": false
+}

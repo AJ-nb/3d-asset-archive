@@ -1,0 +1,272 @@
+{
+  "source": "DJI-Osmo-Pocket-4P-V7-Final.blend",
+  "source_sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+  "approved_source_sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+  "film": "Pulse-15s.blend",
+  "film_sha256": "b8866c77f41802db12b36fb9fa67a4460bfb005564e59f91ff0f5d684e169a4b",
+  "blender": "5.2.3 LTS",
+  "scene": "Pulse | 15s studio",
+  "frame_range_fps_size": [
+    1,
+    450,
+    30,
+    1080,
+    1920
+  ],
+  "cameras": [
+    {
+      "name": "P01 | Red contact",
+      "frames": [
+        1,
+        24
+      ],
+      "type": "PERSP",
+      "native_object_action": "P01 | Red contactAction",
+      "native_lens_action": "P01 | Red contactAction",
+      "rendered_frames": 24
+    },
+    {
+      "name": "P02 | Optical relay",
+      "frames": [
+        25,
+        48
+      ],
+      "type": "PERSP",
+      "native_object_action": "P02 | Optical relayAction",
+      "native_lens_action": "P02 | Optical relayAction",
+      "rendered_frames": 24
+    },
+    {
+      "name": "P03 | Head reveal",
+      "frames": [
+        49,
+        72
+      ],
+      "type": "PERSP",
+      "native_object_action": "P03 | Head revealAction",
+      "native_lens_action": "P03 | Head revealAction",
+      "rendered_frames": 24
+    },
+    {
+      "name": "P04 | Wake",
+      "frames": [
+        73,
+        120
+      ],
+      "type": "PERSP",
+      "native_object_action": "P04 | WakeAction",
+      "native_lens_action": "P04 | WakeAction",
+      "rendered_frames": 48
+    },
+    {
+      "name": "P05 | Pan seat",
+      "frames": [
+        121,
+        168
+      ],
+      "type": "PERSP",
+      "native_object_action": "P05 | Pan seatAction",
+      "native_lens_action": "P05 | Pan seatAction",
+      "rendered_frames": 48
+    },
+    {
+      "name": "P06 | Rear bridge",
+      "frames": [
+        169,
+        204
+      ],
+      "type": "PERSP",
+      "native_object_action": "P06 | Rear bridgeAction",
+      "native_lens_action": "P06 | Rear bridgeAction",
+      "rendered_frames": 36
+    },
+    {
+      "name": "P07 | Tilt axis",
+      "frames": [
+        205,
+        240
+      ],
+      "type": "PERSP",
+      "native_object_action": "P07 | Tilt axisAction",
+      "native_lens_action": "P07 | Tilt axisAction",
+      "rendered_frames": 36
+    },
+    {
+      "name": "P08 | Twin optics",
+      "frames": [
+        241,
+        276
+      ],
+      "type": "PERSP",
+      "native_object_action": "P08 | Twin opticsAction",
+      "native_lens_action": "P08 | Twin opticsAction",
+      "rendered_frames": 36
+    },
+    {
+      "name": "P09 | Glass descent",
+      "frames": [
+        277,
+        312
+      ],
+      "type": "PERSP",
+      "native_object_action": "P09 | Glass descentAction",
+      "native_lens_action": "P09 | Glass descentAction",
+      "rendered_frames": 36
+    },
+    {
+      "name": "P10 | Hand controls",
+      "frames": [
+        313,
+        336
+      ],
+      "type": "PERSP",
+      "native_object_action": "P10 | Hand controlsAction",
+      "native_lens_action": "P10 | Hand controlsAction",
+      "rendered_frames": 24
+    },
+    {
+      "name": "P11 | Active screen",
+      "frames": [
+        337,
+        372
+      ],
+      "type": "PERSP",
+      "native_object_action": "P11 | Active screenAction",
+      "native_lens_action": "P11 | Active screenAction",
+      "rendered_frames": 36
+    },
+    {
+      "name": "P12 | Wide orbit",
+      "frames": [
+        373,
+        408
+      ],
+      "type": "PERSP",
+      "native_object_action": "P12 | Wide orbitAction",
+      "native_lens_action": "P12 | Wide orbitAction",
+      "rendered_frames": 36
+    },
+    {
+      "name": "P13 | Resolve",
+      "frames": [
+        409,
+        450
+      ],
+      "type": "PERSP",
+      "native_object_action": "P13 | ResolveAction",
+      "native_lens_action": "P13 | ResolveAction",
+      "rendered_frames": 42
+    }
+  ],
+  "camera_mismatch_frames": [],
+  "lens_fill": {
+    "name": "Film | Wide optical card",
+    "energy_watts": 0.36000001430511475,
+    "receivers": [
+      "04P | 1-inch wide angle / coated convex front element",
+      "04P | 1-inch wide angle / flat removable glass",
+      "04P | 1-inch wide angle / inset retaining ring",
+      "04P | 1-inch wide angle / internal reflection element"
+    ]
+  },
+  "first_cut": {
+    "measured_projected_meshes": [
+      {
+        "frame": 24,
+        "camera": "P01 | Red contact",
+        "target": "REC • red ring",
+        "center_px": [
+          540.0000160932541,
+          960.0006580352783
+        ],
+        "diameter_px": [
+          368.2495415210724,
+          368.2495307922363
+        ]
+      },
+      {
+        "frame": 25,
+        "camera": "P02 | Optical relay",
+        "target": "04P | 3X telephoto / outer barrel lip",
+        "center_px": [
+          540.0,
+          960.0007152557373
+        ],
+        "diameter_px": [
+          368.8926601409912,
+          368.8928031921387
+        ]
+      }
+    ],
+    "center_difference_px": 5.944050600026129e-05,
+    "max_diameter_difference_percent": 0.17468383422469946
+  },
+  "visible_text_frame_counts": {
+    "C": 450,
+    "3X": 450,
+    "1-INCH": 450
+  },
+  "render_stamps": false,
+  "render_sequencer": false,
+  "render_compositor": false,
+  "image_resources": [
+    {
+      "material": "04P | Graphite gimbal alloy · yaw deck",
+      "image": "V7 | yaw deck tangent normal",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "embedded_bytes": 247237,
+      "packed_sha256": "43ddd579d2f4f3ab7295536d004fb64abba33035cf5d4be6a403dc67f2df8f8f",
+      "external_copy_matches_embedded": true,
+      "decode_pixel_sample": [
+        0.501960813999176,
+        0.501960813999176,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "material": "Touchscreen • OLED standby",
+      "image": "DJI | sample gallery, official screen artwork",
+      "dimensions": [
+        462,
+        260
+      ],
+      "embedded_bytes": 70788,
+      "packed_sha256": "a986df29b1c64860b1e8085301140e31c53e6dfa92cdcac5565f8cfd8e7745a8",
+      "external_copy_matches_embedded": true,
+      "decode_pixel_sample": [
+        0.08627451211214066,
+        0.08627451211214066,
+        0.09019608050584793,
+        1.0
+      ]
+    }
+  ],
+  "visually_reviewed_gallery_pixels_embedded": true,
+  "external_render_resource_dependencies": [],
+  "score": [
+    {
+      "strip": "Original score | 150 BPM",
+      "frames_inclusive": [
+        1,
+        450
+      ],
+      "muted": false,
+      "gain": 1.0,
+      "packed_bytes": 4320102,
+      "embedded_sha256": "945ba4636657f2a8b2059503a201bcedc76ad440109ba043252d389dacbb90e5",
+      "matches_supplied_wave": true,
+      "pcm_contains_signal": true,
+      "channels": 2,
+      "sample_rate": 48000,
+      "sample_frames": 720000,
+      "seconds": 15.0,
+      "sample_width_bytes": 3
+    }
+  ],
+  "scope": "Reopened native edit. Visually inspected the linked gallery, preview contact sheet and material sources. Video stream decoding is checked separately after encoding.",
+  "passed": true
+}

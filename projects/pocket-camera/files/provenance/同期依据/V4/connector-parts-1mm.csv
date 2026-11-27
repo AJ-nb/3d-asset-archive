@@ -1,0 +1,1930 @@
+﻿version,axis,at_mm,uv_axes,part,group,u_min_mm,u_max_mm,v_min_mm,v_max_mm,segments
+v3,X,-24,YZ,04P | Left tilt side casing,pitch,-12.3121,8.3121,126.9379,143.0,134
+v3,X,-23,YZ,04P | Left tilt side casing,pitch,-13.1,9.1,126.15,143.0,131
+v3,X,-23,YZ,04P | Rear roll bridge,bridge,11.602,13.7234,132.6637,137.3889,32
+v3,X,-22,YZ,04P | Left tilt side casing,pitch,-13.1,9.1,126.15,143.0,131
+v3,X,-22,YZ,04P | Left tilt support web,pitch,7.4351,12.1,130.1473,140.4527,40
+v3,X,-22,YZ,04P | Rear roll bridge,bridge,11.1584,14.2,129.5,139.2778,58
+v3,X,-21,YZ,04P | Left tilt side casing,pitch,-13.1,9.1,126.15,143.0,130
+v3,X,-21,YZ,04P | Left tilt support web,pitch,5.18,12.1,129.374,141.226,56
+v3,X,-21,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.5,140.702,61
+v3,X,-20,YZ,04P | Left tilt side casing,pitch,-13.1,9.1,126.15,143.0,130
+v3,X,-20,YZ,04P | Left tilt support web,pitch,5.18,12.1,129.25,141.35,34
+v3,X,-20,YZ,04P | Rear roll bridge,bridge,11.12,14.2,127.5872,141.1132,66
+v3,X,-19,YZ,04P | Left tilt side casing,pitch,-13.1,9.1,126.15,143.0,131
+v3,X,-19,YZ,04P | Left tilt support web,pitch,5.18,12.1,129.25,141.35,30
+v3,X,-19,YZ,04P | Rear roll bridge,bridge,11.12,14.2,127.3,141.5079,62
+v3,X,-18,YZ,04P | Left tilt side casing,pitch,-13.1,9.1,126.15,143.0,131
+v3,X,-18,YZ,04P | Left tilt support web,pitch,5.18,12.1,129.25,141.35,44
+v3,X,-18,YZ,04P | Rear roll bridge,bridge,11.12,14.2,127.1,141.9027,62
+v3,X,-17,YZ,04P | Left tilt side casing,pitch,-13.0979,9.0979,126.1521,143.0,131
+v3,X,-17,YZ,04P | Left tilt support web,pitch,5.7203,12.1,129.5074,141.0926,58
+v3,X,-17,YZ,04P | Rear roll bridge,bridge,11.12,14.2,126.9,142.0855,66
+v3,X,-16,YZ,04P | Left tilt side casing,pitch,-12.32,8.32,126.93,143.0,134
+v3,X,-16,YZ,04P | Left tilt support web,pitch,8.8392,9.6968,130.819,139.7811,18
+v3,X,-16,YZ,04P | Rear roll bridge,bridge,11.12,14.2,126.7,142.0565,62
+v3,X,-15,YZ,04P | Dual camera rear housing,head,-12.8275,9.1778,117.4994,143.0,45
+v3,X,-15,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,117.5862,143.0,29
+v3,X,-15,YZ,04P | Rear roll bridge,bridge,11.12,14.2,126.5729,142.0276,65
+v3,X,-14,YZ,04P | Dual camera rear housing,head,-13.04,9.73,115.3379,143.0,46
+v3,X,-14,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,115.3951,143.0,41
+v3,X,-14,YZ,04P | Rear roll bridge,bridge,11.12,14.2,126.85,141.9986,58
+v3,X,-13,YZ,04P | Dual camera rear housing,head,-13.04,9.73,114.0656,143.0,38
+v3,X,-13,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,114.117,143.0,66
+v3,X,-13,YZ,04P | Rear roll bridge,bridge,11.12,14.2,127.2,141.9696,58
+v3,X,-12,YZ,04P | Dual camera rear housing,head,-13.04,9.73,113.2205,143.0,34
+v3,X,-12,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,113.2688,140.9417,60
+v3,X,-12,YZ,04P | Rear roll bridge,bridge,11.12,14.2,127.55,141.9406,58
+v3,X,-11,YZ,04P | Dual camera rear housing,head,-13.04,9.73,112.6567,143.0,32
+v3,X,-11,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,112.7037,139.6846,54
+v3,X,-11,YZ,04P | Pan motor rotating collar,seat,-2.5599,2.5599,99.7636,106.5134,42
+v3,X,-11,YZ,04P | Pan seat seam,seat,-2.824,2.824,99.7054,100.18,34
+v3,X,-11,YZ,04P | Rear roll bridge,bridge,11.12,14.2,127.9,141.9116,59
+v3,X,-11,YZ,Handle • molded upper shell,base,-4.012,4.0883,99.0,99.65,12
+v3,X,-10,YZ,04P | Dual camera rear housing,head,-13.04,9.73,112.2854,143.0,32
+v3,X,-10,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,112.3325,139.0425,54
+v3,X,-10,YZ,04P | Pan motor rotating collar,seat,-5.2498,5.2498,99.6,107.4093,64
+v3,X,-10,YZ,04P | Pan seat seam,seat,-5.377,5.377,99.65,100.18,38
+v3,X,-10,YZ,04P | Rear roll bridge,bridge,11.12,14.2,127.9572,141.8815,59
+v3,X,-10,YZ,Handle • molded upper shell,base,-6.3339,6.4102,99.0,99.65,16
+v3,X,-9,YZ,04P | Dual camera rear housing,head,-13.04,9.73,112.0464,143.0,66
+v3,X,-9,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,112.0938,138.6608,50
+v3,X,-9,YZ,04P | Pan motor rotating collar,seat,-6.83,6.83,99.6,108.06,68
+v3,X,-9,YZ,04P | Pan seat seam,seat,-6.9308,6.9308,99.65,100.18,38
+v3,X,-9,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.0143,141.8505,59
+v3,X,-9,YZ,Handle • molded upper shell,base,-7.6778,7.7541,99.0,99.65,16
+v3,X,-8,YZ,04P | Dual camera rear housing,head,-13.04,9.73,111.9214,143.0,68
+v3,X,-8,YZ,04P | Lower rear cooling bank,head,9.39,10.2271,117.373,123.727,32
+v3,X,-8,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,111.9702,138.4184,50
+v3,X,-8,YZ,04P | Offset rising pan arm,arm,3.6561,11.3699,105.2258,106.4767,29
+v3,X,-8,YZ,04P | Pan motor rotating collar,seat,-7.98,7.98,99.6,108.06,56
+v3,X,-8,YZ,04P | Pan seat seam,seat,-8.0634,8.0634,99.65,100.18,34
+v3,X,-8,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.0714,141.8196,59
+v3,X,-8,YZ,Handle • molded upper shell,base,-8.6433,8.7196,99.0,99.65,19
+v3,X,-7,YZ,04P | Dual camera rear housing,head,-13.04,9.73,111.8671,143.0,68
+v3,X,-7,YZ,04P | Lower rear cooling bank,head,9.39,10.28,116.3233,124.7767,80
+v3,X,-7,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,111.9168,138.2701,43
+v3,X,-7,YZ,04P | Offset rising pan arm,arm,2.7551,11.9783,105.1793,109.03,54
+v3,X,-7,YZ,04P | Pan motor rotating collar,seat,-8.8656,8.8656,99.6,108.06,54
+v3,X,-7,YZ,04P | Pan seat seam,seat,-8.9432,8.9432,99.65,100.18,30
+v3,X,-7,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.1286,141.7887,59
+v3,X,-7,YZ,Handle • molded upper shell,base,-9.3405,9.4168,99.0,99.65,16
+v3,X,-6,YZ,04P | Dual camera rear housing,head,-13.04,9.73,111.8524,143.0,68
+v3,X,-6,YZ,04P | Lower rear cooling bank,head,9.39,10.28,115.9947,125.1053,99
+v3,X,-6,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,111.902,138.1769,45
+v3,X,-6,YZ,04P | Offset rising pan arm,arm,2.6,12.0,105.1655,112.0416,62
+v3,X,-6,YZ,04P | Pan motor rotating collar,seat,-9.5684,9.5684,99.6,108.06,54
+v3,X,-6,YZ,04P | Pan seat seam,seat,-9.6391,9.6391,99.65,100.18,34
+v3,X,-6,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.1857,141.7577,59
+v3,X,-6,YZ,Handle • molded upper shell,base,-9.8701,9.9465,99.0,99.65,17
+v3,X,-5,YZ,04P | Dual camera rear housing,head,-13.04,9.73,111.85,143.0,75
+v3,X,-5,YZ,04P | Lower rear cooling bank,head,9.39,10.28,115.975,125.125,99
+v3,X,-5,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,111.9,138.1243,43
+v3,X,-5,YZ,04P | Offset rising pan arm,arm,2.6,12.0,105.1517,112.4515,54
+v3,X,-5,YZ,04P | Pan motor rotating collar,seat,-10.1335,10.1335,99.6,108.06,52
+v3,X,-5,YZ,04P | Pan seat seam,seat,-10.1995,10.1995,99.65,100.18,38
+v3,X,-5,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.2429,141.7268,59
+v3,X,-5,YZ,Handle • molded upper shell,base,-10.2567,10.333,99.0,99.65,17
+v3,X,-4,YZ,04P | Dual camera rear housing,head,-13.04,9.73,111.85,143.0,63
+v3,X,-4,YZ,04P | Lower rear cooling bank,head,9.39,10.28,115.975,125.125,123
+v3,X,-4,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,111.9,138.0984,43
+v3,X,-4,YZ,04P | Offset rising pan arm,arm,2.6,12.0,105.1379,112.7948,54
+v3,X,-4,YZ,04P | Pan motor rotating collar,seat,-10.5619,10.5619,99.6,108.06,52
+v3,X,-4,YZ,04P | Pan seat seam,seat,-10.626,10.626,99.65,100.18,34
+v3,X,-4,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.3,141.6959,59
+v3,X,-4,YZ,Handle • molded upper shell,base,-10.5103,10.5866,99.0,99.65,16
+v3,X,-3,YZ,04P | Dual camera rear housing,head,-13.04,9.73,111.85,143.0,61
+v3,X,-3,YZ,04P | Lower rear cooling bank,head,9.39,10.28,115.975,125.125,104
+v3,X,-3,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,111.9,138.0859,43
+v3,X,-3,YZ,04P | Offset rising pan arm,arm,2.6,12.0,105.1241,113.138,54
+v3,X,-3,YZ,04P | Pan motor rotating collar,seat,-10.8921,10.8921,99.6,108.06,52
+v3,X,-3,YZ,04P | Pan seat seam,seat,-10.9548,10.9548,99.65,100.18,34
+v3,X,-3,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.3572,141.665,59
+v3,X,-3,YZ,Handle • molded upper shell,base,-10.6407,10.7171,99.0,99.65,17
+v3,X,-2,YZ,04P | Dual camera rear housing,head,-13.04,9.73,111.85,143.0,70
+v3,X,-2,YZ,04P | Lower rear cooling bank,head,9.39,10.28,115.975,125.125,109
+v3,X,-2,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,111.9,138.0831,43
+v3,X,-2,YZ,04P | Offset rising pan arm,arm,2.6,12.0,105.1103,113.4813,54
+v3,X,-2,YZ,04P | Pan motor rotating collar,seat,-11.1166,11.1166,99.6,108.06,52
+v3,X,-2,YZ,04P | Pan seat seam,seat,-11.1774,11.1774,99.65,100.18,34
+v3,X,-2,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.4143,141.634,59
+v3,X,-2,YZ,Handle • molded upper shell,base,-10.6754,10.7517,99.0,99.65,17
+v3,X,-1,YZ,04P | Dual camera rear housing,head,-13.04,9.73,111.85,143.0,73
+v3,X,-1,YZ,04P | Lower rear cooling bank,head,9.39,10.28,115.975,125.125,109
+v3,X,-1,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,111.9,138.0803,43
+v3,X,-1,YZ,04P | Offset rising pan arm,arm,2.6,12.0,105.0966,113.8246,54
+v3,X,-1,YZ,04P | Pan motor rotating collar,seat,-11.2501,11.2501,99.6,108.06,50
+v3,X,-1,YZ,04P | Pan seat seam,seat,-11.3104,11.3104,99.65,100.18,34
+v3,X,-1,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.4714,141.6031,58
+v3,X,-1,YZ,Handle • molded upper shell,base,-10.6754,10.7517,99.0,99.65,17
+v3,X,0,YZ,04P | Dual camera rear housing,head,-13.04,9.73,111.85,143.0,57
+v3,X,0,YZ,04P | Lower rear cooling bank,head,9.39,10.28,115.975,125.125,76
+v3,X,0,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,111.9,138.0775,37
+v3,X,0,YZ,04P | Offset rising pan arm,arm,2.6,12.0,105.0828,114.1679,54
+v3,X,0,YZ,04P | Pan motor rotating collar,seat,-11.3,11.3,99.6,108.06,30
+v3,X,0,YZ,04P | Pan seat seam,seat,-11.36,11.36,99.65,100.18,22
+v3,X,0,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.5286,141.6327,59
+v3,X,0,YZ,Handle • molded upper shell,base,-10.6754,10.7517,99.0,99.65,16
+v3,X,1,YZ,04P | Dual camera rear housing,head,-13.04,9.73,111.85,143.0,77
+v3,X,1,YZ,04P | Lower rear cooling bank,head,9.39,10.28,115.975,125.125,102
+v3,X,1,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,111.9,138.0803,44
+v3,X,1,YZ,04P | Offset rising pan arm,arm,2.6,12.0,105.069,114.5112,54
+v3,X,1,YZ,04P | Pan motor rotating collar,seat,-11.2501,11.2501,99.6,108.06,50
+v3,X,1,YZ,04P | Pan seat seam,seat,-11.3104,11.3104,99.65,100.18,34
+v3,X,1,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.5857,141.6691,59
+v3,X,1,YZ,Handle • molded upper shell,base,-10.6754,10.7517,99.0,99.65,17
+v3,X,2,YZ,04P | Dual camera rear housing,head,-13.04,9.73,111.85,143.0,77
+v3,X,2,YZ,04P | Lower rear cooling bank,head,9.39,10.28,115.975,125.125,98
+v3,X,2,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,111.9,138.0831,44
+v3,X,2,YZ,04P | Offset rising pan arm,arm,2.6,12.0,105.0552,114.8545,54
+v3,X,2,YZ,04P | Pan motor rotating collar,seat,-11.1166,11.1166,99.6,108.06,52
+v3,X,2,YZ,04P | Pan seat seam,seat,-11.1774,11.1774,99.65,100.18,34
+v3,X,2,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.6429,141.7055,59
+v3,X,2,YZ,Handle • molded upper shell,base,-10.6754,10.7517,99.0,99.65,17
+v3,X,3,YZ,04P | Dual camera rear housing,head,-13.04,9.73,111.85,143.0,73
+v3,X,3,YZ,04P | Lower rear cooling bank,head,9.39,10.28,115.975,125.125,91
+v3,X,3,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,111.9,138.0859,44
+v3,X,3,YZ,04P | Offset rising pan arm,arm,2.6,12.0,105.0414,115.2389,60
+v3,X,3,YZ,04P | Pan motor rotating collar,seat,-10.8921,10.8921,99.6,108.06,52
+v3,X,3,YZ,04P | Pan seat seam,seat,-10.9548,10.9548,99.65,100.18,34
+v3,X,3,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.7,141.7418,53
+v3,X,3,YZ,Handle • molded upper shell,base,-10.6407,10.7171,99.0,99.65,17
+v3,X,4,YZ,04P | Dual camera rear housing,head,-13.04,9.73,111.85,143.0,77
+v3,X,4,YZ,04P | Lower rear cooling bank,head,9.39,10.28,115.975,125.125,109
+v3,X,4,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,111.9,138.0984,46
+v3,X,4,YZ,04P | Offset rising pan arm,arm,2.6,12.0,105.0276,116.2812,58
+v3,X,4,YZ,04P | Pan motor rotating collar,seat,-10.5619,10.5619,99.6,108.06,52
+v3,X,4,YZ,04P | Pan seat seam,seat,-10.626,10.626,99.65,100.18,34
+v3,X,4,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.7323,141.7782,56
+v3,X,4,YZ,Handle • molded upper shell,base,-10.5103,10.5866,99.0,99.65,15
+v3,X,5,YZ,04P | Dual camera rear housing,head,-13.04,9.73,111.85,143.0,90
+v3,X,5,YZ,04P | Lower rear cooling bank,head,9.39,10.28,115.975,125.125,84
+v3,X,5,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,111.9,138.1243,48
+v3,X,5,YZ,04P | Offset rising pan arm,arm,2.6,12.0,105.0138,117.5937,58
+v3,X,5,YZ,04P | Pan motor rotating collar,seat,-10.1335,10.1335,99.6,108.06,52
+v3,X,5,YZ,04P | Pan seat seam,seat,-10.1995,10.1995,99.65,100.18,38
+v3,X,5,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.7645,141.8146,56
+v3,X,5,YZ,Handle • molded upper shell,base,-10.2567,10.333,99.0,99.65,17
+v3,X,6,YZ,04P | Dual camera rear housing,head,-13.04,9.73,111.8524,143.0,60
+v3,X,6,YZ,04P | Lower rear cooling bank,head,9.39,10.28,115.9947,125.1053,75
+v3,X,6,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,111.902,138.1769,50
+v3,X,6,YZ,04P | Offset rising pan arm,arm,2.6,12.0,105.0,118.9062,55
+v3,X,6,YZ,04P | Pan motor rotating collar,seat,-9.5684,9.5684,99.6,108.06,58
+v3,X,6,YZ,04P | Pan seat seam,seat,-9.6391,9.6391,99.65,100.18,36
+v3,X,6,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.7968,141.8509,56
+v3,X,6,YZ,Handle • molded upper shell,base,-9.8701,9.9465,99.0,99.65,17
+v3,X,7,YZ,04P | Dual camera rear housing,head,-13.04,9.73,111.8671,143.0,64
+v3,X,7,YZ,04P | Lower rear cooling bank,head,9.39,10.28,116.3233,124.7767,59
+v3,X,7,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,111.9168,138.2701,52
+v3,X,7,YZ,04P | Offset rising pan arm,arm,2.6,12.0,105.3636,120.2187,77
+v3,X,7,YZ,04P | Pan motor rotating collar,seat,-8.8656,8.8656,99.6,108.06,58
+v3,X,7,YZ,04P | Pan seat seam,seat,-8.9432,8.9432,99.65,100.18,34
+v3,X,7,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.829,141.8873,56
+v3,X,7,YZ,Handle • molded upper shell,base,-9.3405,9.4169,99.0,99.65,16
+v3,X,8,YZ,04P | Dual camera rear housing,head,-13.04,9.73,111.9214,143.0,64
+v3,X,8,YZ,04P | Lower rear cooling bank,head,9.39,10.2271,117.373,123.727,29
+v3,X,8,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,111.9702,138.4184,60
+v3,X,8,YZ,04P | Offset rising pan arm,arm,2.6,12.0,105.7273,121.8087,99
+v3,X,8,YZ,04P | Pan motor rotating collar,seat,-7.98,7.98,99.6,108.06,60
+v3,X,8,YZ,04P | Pan seat seam,seat,-8.0634,8.0634,99.65,100.18,38
+v3,X,8,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.8613,141.9237,56
+v3,X,8,YZ,04P | Roll motor stator,roll,12.0,14.7419,133.0659,137.5342,39
+v3,X,8,YZ,Handle • molded upper shell,base,-8.6432,8.7196,99.0,99.65,19
+v3,X,9,YZ,04P | Dual camera rear housing,head,-13.04,9.73,112.0464,143.0,63
+v3,X,9,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,112.0938,138.6608,56
+v3,X,9,YZ,04P | Offset rising pan arm,arm,2.6,12.0,106.283,125.8956,82
+v3,X,9,YZ,04P | Pan motor rotating collar,seat,-6.83,6.83,99.6,108.06,72
+v3,X,9,YZ,04P | Pan seat seam,seat,-6.9308,6.9308,99.65,100.18,42
+v3,X,9,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.8936,141.96,56
+v3,X,9,YZ,04P | Roll motor face,roll,15.29,15.9763,132.5254,138.0746,38
+v3,X,9,YZ,04P | Roll motor stator,roll,11.5575,15.3,130.7908,139.8093,58
+v3,X,9,YZ,Handle • molded upper shell,base,-7.6778,7.7541,99.0,99.65,16
+v3,X,10,YZ,04P | Dual camera rear housing,head,-13.04,9.73,112.2854,143.0,65
+v3,X,10,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,112.3325,139.0425,58
+v3,X,10,YZ,04P | Offset rising pan arm,arm,2.6,12.0,113.2259,129.9826,53
+v3,X,10,YZ,04P | Pan motor rotating collar,seat,-5.2498,5.2498,99.6,107.4093,66
+v3,X,10,YZ,04P | Pan seat seam,seat,-5.377,5.377,99.65,100.18,42
+v3,X,10,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.9258,141.9964,60
+v3,X,10,YZ,04P | Roll motor face,roll,15.29,16.07,130.7055,139.8945,38
+v3,X,10,YZ,04P | Roll motor stator,roll,11.5,15.3,129.492,141.108,50
+v3,X,10,YZ,Handle • molded upper shell,base,-6.3339,6.4103,99.0,99.65,14
+v3,X,11,YZ,04P | Dual camera rear housing,head,-13.04,9.73,112.6567,143.0,65
+v3,X,11,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,112.7037,139.6846,63
+v3,X,11,YZ,04P | Offset rising pan arm,arm,2.6,12.0,113.7722,133.7053,53
+v3,X,11,YZ,04P | Pan motor rotating collar,seat,-2.5599,2.5599,99.7636,106.5134,42
+v3,X,11,YZ,04P | Pan seat seam,seat,-2.824,2.824,99.7054,100.18,36
+v3,X,11,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.9581,142.0139,58
+v3,X,11,YZ,04P | Roll motor face,roll,15.29,16.07,129.5987,141.0013,34
+v3,X,11,YZ,04P | Roll motor stator,roll,11.5,15.3,128.5775,142.0226,42
+v3,X,11,YZ,Handle • molded upper shell,base,-4.012,4.0883,99.0,99.65,13
+v3,X,12,YZ,04P | Dual camera rear housing,head,-13.04,9.73,113.2205,143.0,67
+v3,X,12,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,113.2688,140.9417,68
+v3,X,12,YZ,04P | Offset rising pan arm,arm,2.6,12.0,114.6889,137.2329,58
+v3,X,12,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.9903,142.0293,62
+v3,X,12,YZ,04P | Roll motor face,roll,15.29,16.07,128.8257,141.7743,36
+v3,X,12,YZ,04P | Roll motor stator,roll,11.5,15.3,127.9121,142.688,44
+v3,X,13,YZ,04P | Dual camera rear housing,head,-13.04,9.73,114.0656,143.0,38
+v3,X,13,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,114.117,143.0,55
+v3,X,13,YZ,04P | Offset rising pan arm,arm,2.6,12.0,116.1611,138.2921,59
+v3,X,13,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.975,142.0446,57
+v3,X,13,YZ,04P | Roll motor face,roll,15.29,16.07,128.279,142.321,36
+v3,X,13,YZ,04P | Roll motor stator,roll,11.5,15.3,127.4272,143.0,41
+v3,X,14,YZ,04P | Accessory contact insulator,roll,15.32,16.13,134.0991,136.5009,29
+v3,X,14,YZ,04P | Dual camera rear housing,head,-13.04,9.73,115.3379,143.0,46
+v3,X,14,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,115.3951,143.0,62
+v3,X,14,YZ,04P | Offset rising pan arm,arm,2.6,12.0,117.6333,138.95,59
+v3,X,14,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.9393,142.06,57
+v3,X,14,YZ,04P | Roll motor face,roll,15.29,16.07,127.9043,142.6957,34
+v3,X,14,YZ,04P | Roll motor stator,roll,11.5,15.3,127.0897,143.0,33
+v3,X,15,YZ,04P | Accessory contact insulator,roll,15.32,16.13,133.965,136.635,26
+v3,X,15,YZ,04P | Dual camera rear housing,head,-12.8275,9.1778,117.4994,143.0,44
+v3,X,15,YZ,04P | Milled dual-pocket optical face,head,-16.04,-12.82,117.5862,143.0,68
+v3,X,15,YZ,04P | Offset rising pan arm,arm,2.6,12.0,119.1056,139.6079,59
+v3,X,15,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.9036,142.0754,57
+v3,X,15,YZ,04P | Roll motor face,roll,15.29,16.07,127.6778,142.9222,34
+v3,X,15,YZ,04P | Roll motor stator,roll,11.5,15.3,126.8877,143.0,32
+v3,X,16,YZ,04P | Accessory contact insulator,roll,15.32,16.13,133.965,136.635,26
+v3,X,16,YZ,04P | Gold accessory contact 1,roll,16.03,16.2,135.0174,135.5826,55
+v3,X,16,YZ,04P | Offset rising pan arm,arm,2.6,12.0,125.3024,140.2091,63
+v3,X,16,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.8679,142.0908,55
+v3,X,16,YZ,04P | Right tilt side casing,pitch,-12.32,8.32,126.93,143.0,134
+v3,X,16,YZ,04P | Right tilt support web,pitch,8.8392,9.6968,130.819,139.7811,18
+v3,X,16,YZ,04P | Roll motor face,roll,15.29,16.07,127.5866,143.0,31
+v3,X,16,YZ,04P | Roll motor stator,roll,11.5,15.3,126.8066,143.0,29
+v3,X,17,YZ,04P | Accessory contact insulator,roll,15.32,16.13,133.965,136.635,26
+v3,X,17,YZ,04P | Offset rising pan arm,arm,2.6,12.0,126.5996,140.3,59
+v3,X,17,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.8322,141.9222,59
+v3,X,17,YZ,04P | Right tilt side casing,pitch,-13.0979,9.0979,126.1521,143.0,131
+v3,X,17,YZ,04P | Right tilt support web,pitch,5.7203,12.1,129.5074,141.0926,58
+v3,X,17,YZ,04P | Roll motor face,roll,15.29,16.07,127.6256,142.9744,34
+v3,X,17,YZ,04P | Roll motor stator,roll,11.5,15.3,126.8422,143.0,31
+v3,X,18,YZ,04P | Accessory contact insulator,roll,15.32,16.13,133.965,136.635,26
+v3,X,18,YZ,04P | Gold accessory contact 2,roll,16.03,16.2,134.9573,135.6427,44
+v3,X,18,YZ,04P | Offset rising pan arm,arm,2.6,12.0,127.1473,140.3909,57
+v3,X,18,YZ,04P | Rear roll bridge,bridge,11.12,14.2,128.8356,141.4778,64
+v3,X,18,YZ,04P | Right tilt side casing,pitch,-13.1,9.1,126.15,143.0,131
+v3,X,18,YZ,04P | Right tilt support web,pitch,5.18,12.1,129.25,141.35,44
+v3,X,18,YZ,04P | Roll motor face,roll,15.29,16.07,127.7969,142.8031,36
+v3,X,18,YZ,04P | Roll motor stator,roll,11.5,15.3,126.9964,143.0,33
+v3,X,19,YZ,04P | Accessory contact insulator,roll,15.32,16.13,133.965,136.635,26
+v3,X,19,YZ,04P | Offset rising pan arm,arm,2.6,12.0,127.6949,140.404,62
+v3,X,19,YZ,04P | Rear roll bridge,bridge,11.12,14.2,129.1911,141.0334,64
+v3,X,19,YZ,04P | Right tilt side casing,pitch,-13.1,9.1,126.15,143.0,131
+v3,X,19,YZ,04P | Right tilt support web,pitch,5.18,12.1,129.25,141.35,30
+v3,X,19,YZ,04P | Roll motor face,roll,15.29,16.07,128.1096,142.4904,36
+v3,X,19,YZ,04P | Roll motor stator,roll,11.5,15.3,127.2766,143.0,36
+v3,X,20,YZ,04P | Accessory contact insulator,roll,15.32,16.13,133.965,136.635,26
+v3,X,20,YZ,04P | Gold accessory contact 3,roll,16.03,16.2,134.9127,135.6874,34
+v3,X,20,YZ,04P | Offset rising pan arm,arm,2.6,12.0,128.2425,139.8067,57
+v3,X,20,YZ,04P | Rear roll bridge,bridge,11.12,14.2,129.5467,140.5889,66
+v3,X,20,YZ,04P | Right tilt side casing,pitch,-13.1,9.1,126.15,143.0,130
+v3,X,20,YZ,04P | Right tilt support web,pitch,5.18,12.1,129.25,141.35,34
+v3,X,20,YZ,04P | Roll motor face,roll,15.29,16.07,128.5822,142.0178,36
+v3,X,20,YZ,04P | Roll motor stator,roll,11.5,15.3,127.6983,142.9018,40
+v3,X,21,YZ,04P | Accessory contact insulator,roll,15.32,16.13,133.9911,136.6089,30
+v3,X,21,YZ,04P | Offset rising pan arm,arm,2.6,12.0,128.8806,138.94,64
+v3,X,21,YZ,04P | Rear roll bridge,bridge,11.12,14.2,129.9022,140.0622,65
+v3,X,21,YZ,04P | Right tilt side casing,pitch,-13.1,9.1,126.15,143.0,130
+v3,X,21,YZ,04P | Right tilt support web,pitch,5.18,12.1,129.374,141.226,57
+v3,X,21,YZ,04P | Roll motor face,roll,15.29,16.07,129.2577,141.3423,36
+v3,X,21,YZ,04P | Roll motor stator,roll,11.5,15.3,128.2882,142.3119,46
+v3,X,22,YZ,04P | Offset rising pan arm,arm,2.614,12.0,130.2727,138.0037,60
+v3,X,22,YZ,04P | Rear roll bridge,bridge,11.3654,14.1375,130.26,137.76,48
+v3,X,22,YZ,04P | Right tilt side casing,pitch,-13.1,9.1,126.15,143.0,131
+v3,X,22,YZ,04P | Right tilt support web,pitch,7.4351,12.1,130.1473,140.4527,41
+v3,X,22,YZ,04P | Roll motor face,roll,15.29,16.07,130.2054,140.3946,42
+v3,X,22,YZ,04P | Roll motor stator,roll,11.5,15.3,129.0925,141.5075,48
+v3,X,23,YZ,04P | Offset rising pan arm,arm,3.2659,11.6449,132.0909,134.8846,35
+v3,X,23,YZ,04P | Rear roll bridge,bridge,11.8975,13.2724,134.2572,135.16,18
+v3,X,23,YZ,04P | Right tilt side casing,pitch,-13.1,9.1,126.15,143.0,131
+v3,X,23,YZ,04P | Roll motor face,roll,15.29,16.07,131.6538,138.9462,50
+v3,X,23,YZ,04P | Roll motor stator,roll,11.5,15.3,130.2044,140.3956,62
+v3,X,24,YZ,04P | Right tilt side casing,pitch,-12.8425,8.8425,126.4075,143.0,131
+v3,X,24,YZ,04P | Roll motor stator,roll,11.823,15.3,131.9303,138.6697,57
+v3,Y,-16,XZ,04P | Milled dual-pocket optical face,head,-15.169,15.169,112.606,143.0,375
+v3,Y,-15,XZ,04P | Milled dual-pocket optical face,head,-15.7921,15.7921,111.9829,143.0,376
+v3,Y,-14,XZ,04P | Milled dual-pocket optical face,head,-15.875,15.875,111.9,143.0,378
+v3,Y,-13,XZ,04P | Dual camera rear housing,head,-14.31,14.31,113.599,143.0,325
+v3,Y,-13,XZ,04P | Left tilt side casing,pitch,-23.61,-16.738,135.7706,138.7294,30
+v3,Y,-13,XZ,04P | Milled dual-pocket optical face,head,-15.8687,15.8687,111.9063,143.0,377
+v3,Y,-13,XZ,04P | Right tilt side casing,pitch,16.738,23.91,135.7706,138.7294,30
+v3,Y,-12,XZ,04P | Dual camera rear housing,head,-15.7488,15.7488,112.023,143.0,322
+v3,Y,-12,XZ,04P | Left tilt motor end cap,pitch,-24.3063,-24.225,136.9445,137.5555,6
+v3,Y,-12,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,132.4393,142.0607,76
+v3,Y,-12,XZ,04P | Right tilt motor end cap,pitch,24.525,24.6063,136.9445,137.5555,6
+v3,Y,-12,XZ,04P | Right tilt side casing,pitch,15.67,24.43,132.4393,142.0607,76
+v3,Y,-11,XZ,04P | Dual camera rear housing,head,-15.8935,15.8935,111.8601,143.0,101
+v3,Y,-11,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,132.8719,141.6281,38
+v3,Y,-11,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,130.7632,143.0,48
+v3,Y,-11,XZ,04P | Pan motor rotating collar,seat,-2.5599,2.5599,99.7636,106.5134,42
+v3,Y,-11,XZ,04P | Pan seat seam,seat,-2.824,2.824,99.7054,100.18,32
+v3,Y,-11,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,132.8719,141.6281,38
+v3,Y,-11,XZ,04P | Right tilt side casing,pitch,15.67,24.43,130.7632,143.0,49
+v3,Y,-10,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,101
+v3,Y,-10,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,131.238,143.0,29
+v3,Y,-10,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,129.5625,143.0,30
+v3,Y,-10,XZ,04P | Pan motor rotating collar,seat,-5.2498,5.2498,99.6,107.4093,62
+v3,Y,-10,XZ,04P | Pan seat seam,seat,-5.377,5.377,99.65,100.18,34
+v3,Y,-10,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,131.238,143.0,30
+v3,Y,-10,XZ,04P | Right tilt side casing,pitch,15.67,24.43,129.5625,143.0,32
+v3,Y,-10,XZ,Handle • molded upper shell,base,-5.7173,5.7173,99.0,99.65,16
+v3,Y,-9,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,101
+v3,Y,-9,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,130.0987,143.0,20
+v3,Y,-9,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,128.643,143.0,30
+v3,Y,-9,XZ,04P | Pan motor rotating collar,seat,-6.83,6.83,99.6,108.06,68
+v3,Y,-9,XZ,04P | Pan seat seam,seat,-6.9308,6.9308,99.65,100.18,42
+v3,Y,-9,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,130.0987,143.0,22
+v3,Y,-9,XZ,04P | Right tilt side casing,pitch,15.67,24.43,128.643,143.0,29
+v3,Y,-9,XZ,Handle • molded upper shell,base,-7.519,7.519,99.0,99.65,16
+v3,Y,-8,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,101
+v3,Y,-8,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,129.2414,143.0,18
+v3,Y,-8,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,127.917,143.0,28
+v3,Y,-8,XZ,04P | Pan motor rotating collar,seat,-7.98,7.98,99.6,108.06,58
+v3,Y,-8,XZ,04P | Pan seat seam,seat,-8.0634,8.0634,99.65,100.18,38
+v3,Y,-8,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,129.2414,143.0,21
+v3,Y,-8,XZ,04P | Right tilt side casing,pitch,15.67,24.43,127.917,143.0,28
+v3,Y,-8,XZ,Handle • molded upper shell,base,-8.708,8.708,99.0,99.65,18
+v3,Y,-7,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,102
+v3,Y,-7,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,128.5784,143.0,22
+v3,Y,-7,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,127.3431,143.0,29
+v3,Y,-7,XZ,04P | Pan motor rotating collar,seat,-8.8656,8.8656,99.6,108.06,58
+v3,Y,-7,XZ,04P | Pan seat seam,seat,-8.9432,8.9432,99.65,100.18,34
+v3,Y,-7,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,128.5784,143.0,22
+v3,Y,-7,XZ,04P | Right tilt side casing,pitch,15.67,24.43,127.3431,143.0,29
+v3,Y,-7,XZ,Handle • molded upper shell,base,-9.5527,9.5527,99.0,99.65,15
+v3,Y,-6,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,102
+v3,Y,-6,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,128.0787,143.0,20
+v3,Y,-6,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,126.9017,143.0,30
+v3,Y,-6,XZ,04P | Pan motor rotating collar,seat,-9.5684,9.5684,99.6,108.06,58
+v3,Y,-6,XZ,04P | Pan seat seam,seat,-9.6391,9.6391,99.65,100.18,36
+v3,Y,-6,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,128.0787,143.0,20
+v3,Y,-6,XZ,04P | Right tilt side casing,pitch,15.67,24.43,126.9017,143.0,30
+v3,Y,-6,XZ,Handle • molded upper shell,base,-10.2001,10.2002,99.0,99.65,16
+v3,Y,-5,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,102
+v3,Y,-5,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,127.7052,143.0,20
+v3,Y,-5,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,126.5668,143.0,28
+v3,Y,-5,XZ,04P | Pan motor rotating collar,seat,-10.1335,10.1335,99.6,108.06,52
+v3,Y,-5,XZ,04P | Pan seat seam,seat,-10.1995,10.1995,99.65,100.18,38
+v3,Y,-5,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,127.7052,143.0,20
+v3,Y,-5,XZ,04P | Right tilt side casing,pitch,15.67,24.43,126.5668,143.0,28
+v3,Y,-5,XZ,Handle • molded upper shell,base,-10.6738,10.6738,99.0,99.65,18
+v3,Y,-4,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,102
+v3,Y,-4,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,127.4433,143.0,20
+v3,Y,-4,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,126.336,143.0,28
+v3,Y,-4,XZ,04P | Pan motor rotating collar,seat,-10.5619,10.5619,99.6,108.06,52
+v3,Y,-4,XZ,04P | Pan seat seam,seat,-10.626,10.626,99.65,100.18,34
+v3,Y,-4,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,127.4433,143.0,20
+v3,Y,-4,XZ,04P | Right tilt side casing,pitch,15.67,24.43,126.336,143.0,30
+v3,Y,-4,XZ,Handle • molded upper shell,base,-11.003,11.003,99.0,99.65,17
+v3,Y,-3,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,102
+v3,Y,-3,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,127.2954,143.0,20
+v3,Y,-3,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,126.2008,143.0,28
+v3,Y,-3,XZ,04P | Pan motor rotating collar,seat,-10.8921,10.8921,99.6,108.06,52
+v3,Y,-3,XZ,04P | Pan seat seam,seat,-10.9548,10.9548,99.65,100.18,34
+v3,Y,-3,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,127.2954,143.0,20
+v3,Y,-3,XZ,04P | Right tilt side casing,pitch,15.67,24.43,126.2008,143.0,28
+v3,Y,-3,XZ,Handle • molded upper shell,base,-11.2119,11.2119,99.0,99.65,16
+v3,Y,-2,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,102
+v3,Y,-2,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,127.24,143.0,14
+v3,Y,-2,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,126.15,143.0,17
+v3,Y,-2,XZ,04P | Pan motor rotating collar,seat,-11.1166,11.1166,99.6,108.06,52
+v3,Y,-2,XZ,04P | Pan seat seam,seat,-11.1774,11.1774,99.65,100.18,34
+v3,Y,-2,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,127.24,143.0,14
+v3,Y,-2,XZ,04P | Right tilt side casing,pitch,15.67,24.43,126.15,143.0,17
+v3,Y,-2,XZ,Handle • molded upper shell,base,-11.3076,11.3075,99.0,99.65,17
+v3,Y,-1,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,102
+v3,Y,-1,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,127.2954,143.0,22
+v3,Y,-1,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,126.2008,143.0,30
+v3,Y,-1,XZ,04P | Pan motor rotating collar,seat,-11.2501,11.2501,99.6,108.06,50
+v3,Y,-1,XZ,04P | Pan seat seam,seat,-11.3104,11.3104,99.65,100.18,34
+v3,Y,-1,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,127.2954,143.0,22
+v3,Y,-1,XZ,04P | Right tilt side casing,pitch,15.67,24.43,126.2008,143.0,30
+v3,Y,-1,XZ,Handle • molded upper shell,base,-11.325,11.325,99.0,99.65,18
+v3,Y,0,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,101
+v3,Y,0,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,127.4433,143.0,22
+v3,Y,0,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,126.336,143.0,32
+v3,Y,0,XZ,04P | Pan motor rotating collar,seat,-11.3,11.3,99.6,108.06,27
+v3,Y,0,XZ,04P | Pan seat seam,seat,-11.36,11.36,99.65,100.18,19
+v3,Y,0,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,127.4433,143.0,22
+v3,Y,0,XZ,04P | Right tilt side casing,pitch,15.67,24.43,126.336,143.0,30
+v3,Y,0,XZ,Handle • molded upper shell,base,-11.325,11.325,99.0,99.65,17
+v3,Y,1,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,101
+v3,Y,1,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,127.7052,143.0,22
+v3,Y,1,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,126.5668,143.0,30
+v3,Y,1,XZ,04P | Pan motor rotating collar,seat,-11.2501,11.2501,99.6,108.06,50
+v3,Y,1,XZ,04P | Pan seat seam,seat,-11.3104,11.3104,99.65,100.18,34
+v3,Y,1,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,127.7052,143.0,22
+v3,Y,1,XZ,04P | Right tilt side casing,pitch,15.67,24.43,126.5668,143.0,30
+v3,Y,1,XZ,Handle • molded upper shell,base,-11.325,11.325,99.0,99.65,18
+v3,Y,2,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,101
+v3,Y,2,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,128.0787,143.0,22
+v3,Y,2,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,126.9017,143.0,32
+v3,Y,2,XZ,04P | Pan motor rotating collar,seat,-11.1166,11.1166,99.6,108.06,52
+v3,Y,2,XZ,04P | Pan seat seam,seat,-11.1774,11.1774,99.65,100.18,34
+v3,Y,2,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,128.0787,143.0,22
+v3,Y,2,XZ,04P | Right tilt side casing,pitch,15.67,24.43,126.9017,143.0,32
+v3,Y,2,XZ,Handle • molded upper shell,base,-11.3113,11.3113,99.0,99.65,18
+v3,Y,3,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,101
+v3,Y,3,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,128.5784,143.0,24
+v3,Y,3,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,127.3431,143.0,30
+v3,Y,3,XZ,04P | Offset rising pan arm,arm,-7.3913,22.7708,105.7427,139.6526,105
+v3,Y,3,XZ,04P | Pan motor rotating collar,seat,-10.8921,10.8921,99.6,108.06,52
+v3,Y,3,XZ,04P | Pan seat seam,seat,-10.9548,10.9548,99.65,100.18,34
+v3,Y,3,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,128.5784,143.0,24
+v3,Y,3,XZ,04P | Right tilt side casing,pitch,15.67,24.43,127.3431,143.0,30
+v3,Y,3,XZ,Handle • molded upper shell,base,-11.2232,11.2232,99.0,99.65,17
+v3,Y,4,XZ,04P | Dual camera rear housing,head,-15.8904,15.8904,111.8642,143.0,101
+v3,Y,4,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,129.2414,143.0,24
+v3,Y,4,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,127.917,143.0,32
+v3,Y,4,XZ,04P | Offset rising pan arm,arm,-8.192,23.358,105.0493,140.3974,116
+v3,Y,4,XZ,04P | Pan motor rotating collar,seat,-10.5619,10.5619,99.6,108.06,52
+v3,Y,4,XZ,04P | Pan seat seam,seat,-10.626,10.626,99.65,100.18,34
+v3,Y,4,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,129.2414,143.0,22
+v3,Y,4,XZ,04P | Right tilt side casing,pitch,15.67,24.43,127.917,143.0,32
+v3,Y,4,XZ,Handle • molded upper shell,base,-11.0221,11.0222,99.0,99.65,17
+v3,Y,5,XZ,04P | Dual camera rear housing,head,-15.8629,15.8629,111.9046,143.0,102
+v3,Y,5,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,130.0987,143.0,26
+v3,Y,5,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,128.643,143.0,33
+v3,Y,5,XZ,04P | Offset rising pan arm,arm,-8.29,23.3741,105.0,140.4464,112
+v3,Y,5,XZ,04P | Pan motor rotating collar,seat,-10.1335,10.1335,99.6,108.06,52
+v3,Y,5,XZ,04P | Pan seat seam,seat,-10.1995,10.1995,99.65,100.18,38
+v3,Y,5,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,130.0987,143.0,25
+v3,Y,5,XZ,04P | Right tilt side casing,pitch,15.67,24.43,128.643,143.0,33
+v3,Y,5,XZ,Handle • molded upper shell,base,-10.7012,10.7012,99.0,99.65,20
+v3,Y,6,XZ,04P | Dual camera rear housing,head,-15.8354,15.8354,111.9451,143.0,101
+v3,Y,6,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,131.238,143.0,34
+v3,Y,6,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,129.5625,143.0,36
+v3,Y,6,XZ,04P | Left tilt support web,pitch,-21.4424,-16.8576,130.6635,139.9365,104
+v3,Y,6,XZ,04P | Offset rising pan arm,arm,-8.29,23.3742,105.0,140.4464,112
+v3,Y,6,XZ,04P | Pan motor rotating collar,seat,-9.5684,9.5684,99.6,108.06,58
+v3,Y,6,XZ,04P | Pan seat seam,seat,-9.6391,9.6391,99.65,100.18,36
+v3,Y,6,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,131.238,143.0,34
+v3,Y,6,XZ,04P | Right tilt side casing,pitch,15.67,24.43,129.5625,143.0,35
+v3,Y,6,XZ,04P | Right tilt support web,pitch,16.8576,21.4424,130.6635,139.9365,104
+v3,Y,6,XZ,Handle • molded upper shell,base,-10.2459,10.2459,99.0,99.65,18
+v3,Y,7,XZ,04P | Dual camera rear housing,head,-15.7594,15.7594,112.0261,143.0,101
+v3,Y,7,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,132.8719,141.6281,42
+v3,Y,7,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,130.7632,143.0,53
+v3,Y,7,XZ,04P | Left tilt support web,pitch,-21.907,-16.3929,129.8571,140.743,104
+v3,Y,7,XZ,04P | Offset rising pan arm,arm,-8.29,23.3742,105.0,140.4464,112
+v3,Y,7,XZ,04P | Pan motor rotating collar,seat,-8.8656,8.8656,99.6,108.06,58
+v3,Y,7,XZ,04P | Pan seat seam,seat,-8.9432,8.9432,99.65,100.18,34
+v3,Y,7,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,132.8719,141.6281,42
+v3,Y,7,XZ,04P | Right tilt side casing,pitch,15.67,24.43,130.7632,143.0,52
+v3,Y,7,XZ,04P | Right tilt support web,pitch,16.393,21.907,129.8571,140.743,104
+v3,Y,7,XZ,Handle • molded upper shell,base,-9.6093,9.6093,99.0,99.65,15
+v3,Y,8,XZ,04P | Dual camera rear housing,head,-15.5292,15.5292,112.2408,143.0,101
+v3,Y,8,XZ,04P | Left tilt motor end cap,pitch,-24.3062,-24.225,136.9445,137.5555,6
+v3,Y,8,XZ,04P | Left tilt side casing,pitch,-24.13,-15.67,132.4393,142.0607,80
+v3,Y,8,XZ,04P | Left tilt support web,pitch,-22.1207,-16.1793,129.5707,141.0293,104
+v3,Y,8,XZ,04P | Offset rising pan arm,arm,-8.29,23.3742,105.0,140.4464,112
+v3,Y,8,XZ,04P | Pan motor rotating collar,seat,-7.98,7.98,99.6,108.06,60
+v3,Y,8,XZ,04P | Pan seat seam,seat,-8.0634,8.0634,99.65,100.18,38
+v3,Y,8,XZ,04P | Right tilt motor end cap,pitch,24.525,24.6063,136.9445,137.5555,6
+v3,Y,8,XZ,04P | Right tilt side casing,pitch,15.67,24.43,132.4393,142.0607,80
+v3,Y,8,XZ,04P | Right tilt support web,pitch,16.1793,22.1207,129.5707,141.0293,104
+v3,Y,8,XZ,Handle • molded upper shell,base,-8.7772,8.7772,99.0,99.65,18
+v3,Y,9,XZ,04P | Dual camera rear housing,head,-15.1159,15.1159,112.6446,143.0,101
+v3,Y,9,XZ,04P | Left tilt side casing,pitch,-23.61,-16.738,135.7707,138.7294,30
+v3,Y,9,XZ,04P | Left tilt support web,pitch,-22.3344,-15.9656,129.2844,141.3156,104
+v3,Y,9,XZ,04P | Offset rising pan arm,arm,-8.29,23.3742,105.0,140.4464,112
+v3,Y,9,XZ,04P | Pan motor rotating collar,seat,-6.83,6.83,99.6,108.06,68
+v3,Y,9,XZ,04P | Pan seat seam,seat,-6.9308,6.9308,99.65,100.18,42
+v3,Y,9,XZ,04P | Right tilt side casing,pitch,16.738,23.91,135.7707,138.7294,30
+v3,Y,9,XZ,04P | Right tilt support web,pitch,15.9656,22.3344,129.2844,141.3156,104
+v3,Y,9,XZ,Handle • molded upper shell,base,-7.6219,7.6219,99.0,99.65,15
+v3,Y,10,XZ,04P | Left tilt support web,pitch,-22.2685,-16.0315,129.3534,141.2467,104
+v3,Y,10,XZ,04P | Lower rear cooling bank,head,-8.1982,8.1982,116.0741,125.0259,936
+v3,Y,10,XZ,04P | Offset rising pan arm,arm,-8.29,23.3743,105.0,140.4464,112
+v3,Y,10,XZ,04P | Pan motor rotating collar,seat,-5.2498,5.2498,99.6,107.4093,62
+v3,Y,10,XZ,04P | Pan seat seam,seat,-5.377,5.377,99.65,100.18,34
+v3,Y,10,XZ,04P | Right tilt support web,pitch,16.0315,22.2685,129.3534,141.2467,104
+v3,Y,10,XZ,Handle • molded upper shell,base,-5.8869,5.8868,99.0,99.65,16
+v3,Y,11,XZ,04P | Left tilt support web,pitch,-22.1644,-16.1356,129.4708,141.1292,104
+v3,Y,11,XZ,04P | Offset rising pan arm,arm,-8.2611,23.3128,105.1126,140.3087,76
+v3,Y,11,XZ,04P | Pan motor rotating collar,seat,-2.5599,2.5599,99.7636,106.5134,42
+v3,Y,11,XZ,04P | Pan seat seam,seat,-2.824,2.824,99.7054,100.18,32
+v3,Y,11,XZ,04P | Right tilt support web,pitch,16.1356,22.1644,129.4708,141.1292,104
+v3,Y,12,XZ,04P | Left tilt support web,pitch,-22.0604,-16.2396,129.5883,141.0118,104
+v3,Y,12,XZ,04P | Offset rising pan arm,arm,-6.8912,22.332,106.2528,139.1264,20
+v3,Y,12,XZ,04P | Rear roll bridge,bridge,-23.3582,23.0538,126.5686,142.0855,77
+v3,Y,12,XZ,04P | Right tilt support web,pitch,16.2396,22.0604,129.5883,141.0118,104
+v3,Y,12,XZ,04P | Roll motor stator,roll,8.0,24.4,127.1,143.0,86
+v3,Y,13,XZ,04P | Rear roll bridge,bridge,-23.3856,23.0843,126.5612,142.1,79
+v3,Y,13,XZ,04P | Roll motor stator,roll,7.8378,24.5622,126.9378,143.0,168
+v3,Y,14,XZ,04P | Rear roll bridge,bridge,-22.7051,22.288,126.8511,141.8249,66
+v3,Y,14,XZ,04P | Roll motor stator,roll,7.7476,24.6524,126.8477,143.0,167
+v3,Y,15,XZ,04P | Roll motor stator,roll,8.185,24.215,127.285,143.0,176
+v3,Y,16,XZ,04P | Accessory contact insulator,roll,13.5381,21.7619,134.0513,136.5487,104
+v3,Y,16,XZ,04P | Roll motor face,roll,9.0808,23.3192,128.1808,142.4192,192
+v3,Z,99,XY,Handle • molded upper shell,base,-11.325,11.325,-10.6754,10.7517,136
+v3,Z,100,XY,04P | Pan motor rotating collar,seat,-11.2297,11.2297,-11.2297,11.2297,192
+v3,Z,100,XY,04P | Pan seat seam,seat,-11.3078,11.3078,-11.3078,11.3078,192
+v3,Z,101,XY,04P | Pan motor rotating collar,seat,-11.3,11.3,-11.3,11.3,192
+v3,Z,102,XY,04P | Pan motor rotating collar,seat,-11.3,11.3,-11.3,11.3,192
+v3,Z,103,XY,04P | Pan motor rotating collar,seat,-11.3,11.3,-11.3,11.3,192
+v3,Z,104,XY,04P | Pan motor rotating collar,seat,-11.3,11.3,-11.3,11.3,192
+v3,Z,105,XY,04P | Offset rising pan arm,arm,6.0,6.0,4.2923,10.4077,1
+v3,Z,105,XY,04P | Pan motor rotating collar,seat,-11.3,11.3,-11.3,11.3,192
+v3,Z,106,XY,04P | Offset rising pan arm,arm,-8.1867,8.7439,2.8194,11.9499,55
+v3,Z,106,XY,04P | Pan motor rotating collar,seat,-11.3,11.3,-11.3,11.3,192
+v3,Z,107,XY,04P | Offset rising pan arm,arm,-7.795,9.0287,2.6,12.0,66
+v3,Z,107,XY,04P | Pan motor rotating collar,seat,-10.4568,10.4568,-10.4568,10.4568,192
+v3,Z,108,XY,04P | Offset rising pan arm,arm,-7.4034,8.4734,2.6,12.0,61
+v3,Z,108,XY,04P | Pan motor rotating collar,seat,-9.3214,9.3214,-9.3214,9.3214,192
+v3,Z,109,XY,04P | Offset rising pan arm,arm,-7.0117,7.6934,2.6,12.0,67
+v3,Z,110,XY,04P | Offset rising pan arm,arm,-6.9815,7.2639,2.6,12.0,57
+v3,Z,111,XY,04P | Offset rising pan arm,arm,-6.9624,7.3536,2.6,12.0,56
+v3,Z,112,XY,04P | Dual camera rear housing,head,-8.6733,8.6733,-11.9137,6.8671,34
+v3,Z,112,XY,04P | Milled dual-pocket optical face,head,-8.3183,8.3183,-15.0719,-12.8517,32
+v3,Z,112,XY,04P | Offset rising pan arm,arm,-6.0725,7.8154,2.6,12.0,58
+v3,Z,113,XY,04P | Dual camera rear housing,head,-11.6469,11.6469,-12.8639,9.7198,86
+v3,Z,113,XY,04P | Milled dual-pocket optical face,head,-11.5696,11.5696,-16.04,-12.82,80
+v3,Z,113,XY,04P | Offset rising pan arm,arm,-3.4021,9.5865,2.6,12.0,48
+v3,Z,114,XY,04P | Dual camera rear housing,head,-12.9384,12.9384,-13.04,9.73,82
+v3,Z,114,XY,04P | Milled dual-pocket optical face,head,-12.8902,12.8902,-16.04,-12.82,94
+v3,Z,114,XY,04P | Offset rising pan arm,arm,-0.4891,11.417,2.6,12.0,48
+v3,Z,115,XY,04P | Dual camera rear housing,head,-13.7739,13.7739,-13.04,9.73,110
+v3,Z,115,XY,04P | Milled dual-pocket optical face,head,-13.7356,13.7356,-16.04,-12.82,137
+v3,Z,115,XY,04P | Offset rising pan arm,arm,2.424,12.2113,2.6,12.0,52
+v3,Z,116,XY,04P | Dual camera rear housing,head,-14.3787,14.3787,-13.04,9.73,141
+v3,Z,116,XY,04P | Lower rear cooling bank,head,-6.0532,6.0532,9.39,9.8878,22
+v3,Z,116,XY,04P | Milled dual-pocket optical face,head,-14.3461,14.3461,-16.04,-12.82,126
+v3,Z,116,XY,04P | Offset rising pan arm,arm,3.7857,12.8906,2.6,12.0,44
+v3,Z,117,XY,04P | Dual camera rear housing,head,-14.8203,14.8203,-13.04,9.73,133
+v3,Z,117,XY,04P | Lower rear cooling bank,head,-7.7679,7.7679,9.39,10.28,82
+v3,Z,117,XY,04P | Milled dual-pocket optical face,head,-14.7904,14.7904,-16.04,-12.82,110
+v3,Z,117,XY,04P | Offset rising pan arm,arm,4.5476,13.5698,2.6,12.0,44
+v3,Z,118,XY,04P | Dual camera rear housing,head,-15.1599,15.1599,-13.04,9.73,133
+v3,Z,118,XY,04P | Lower rear cooling bank,head,-8.2309,8.2309,9.39,10.28,213
+v3,Z,118,XY,04P | Milled dual-pocket optical face,head,-15.133,15.133,-16.04,-12.82,98
+v3,Z,118,XY,04P | Offset rising pan arm,arm,5.3095,14.2491,2.6,12.0,44
+v3,Z,119,XY,04P | Dual camera rear housing,head,-15.4067,15.4067,-13.04,9.73,133
+v3,Z,119,XY,04P | Lower rear cooling bank,head,-8.3,8.3,9.39,10.28,187
+v3,Z,119,XY,04P | Milled dual-pocket optical face,head,-15.3808,15.3808,-16.04,-12.82,92
+v3,Z,119,XY,04P | Offset rising pan arm,arm,6.0714,14.9283,2.6,12.0,44
+v3,Z,120,XY,04P | Dual camera rear housing,head,-15.5901,15.5901,-13.04,9.73,129
+v3,Z,120,XY,04P | Lower rear cooling bank,head,-8.3,8.3,9.39,10.28,187
+v3,Z,120,XY,04P | Milled dual-pocket optical face,head,-15.5648,15.5648,-16.04,-12.82,114
+v3,Z,120,XY,04P | Offset rising pan arm,arm,6.8333,15.2797,2.6,12.0,42
+v3,Z,121,XY,04P | Dual camera rear housing,head,-15.7203,15.7203,-13.04,9.73,137
+v3,Z,121,XY,04P | Lower rear cooling bank,head,-8.3,8.3,9.39,10.28,187
+v3,Z,121,XY,04P | Milled dual-pocket optical face,head,-15.6954,15.6954,-16.04,-12.82,114
+v3,Z,121,XY,04P | Offset rising pan arm,arm,7.5952,15.4125,2.6,12.0,42
+v3,Z,122,XY,04P | Dual camera rear housing,head,-15.8068,15.8068,-13.04,9.73,127
+v3,Z,122,XY,04P | Lower rear cooling bank,head,-8.3,8.3,9.39,10.28,187
+v3,Z,122,XY,04P | Milled dual-pocket optical face,head,-15.7821,15.7821,-16.04,-12.82,106
+v3,Z,122,XY,04P | Offset rising pan arm,arm,8.0468,15.5453,2.6,12.0,51
+v3,Z,123,XY,04P | Dual camera rear housing,head,-15.8589,15.8589,-13.04,9.73,116
+v3,Z,123,XY,04P | Lower rear cooling bank,head,-8.2508,8.2508,9.39,10.28,236
+v3,Z,123,XY,04P | Milled dual-pocket optical face,head,-15.8342,15.8342,-16.04,-12.82,103
+v3,Z,123,XY,04P | Offset rising pan arm,arm,8.2915,15.6781,2.6,12.0,51
+v3,Z,124,XY,04P | Dual camera rear housing,head,-15.887,15.887,-13.04,9.73,110
+v3,Z,124,XY,04P | Lower rear cooling bank,head,-7.8347,7.8347,9.39,10.28,43
+v3,Z,124,XY,04P | Milled dual-pocket optical face,head,-15.8621,15.8621,-16.04,-12.82,103
+v3,Z,124,XY,04P | Offset rising pan arm,arm,8.5362,15.8109,2.6,12.0,51
+v3,Z,125,XY,04P | Dual camera rear housing,head,-15.8948,15.8948,-13.04,9.73,106
+v3,Z,125,XY,04P | Lower rear cooling bank,head,-6.4802,6.4802,9.39,10.0392,24
+v3,Z,125,XY,04P | Milled dual-pocket optical face,head,-15.8699,15.8699,-16.04,-12.82,103
+v3,Z,125,XY,04P | Offset rising pan arm,arm,8.7809,15.9438,2.6,12.0,51
+v3,Z,126,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,99
+v3,Z,126,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,101
+v3,Z,126,XY,04P | Offset rising pan arm,arm,9.0255,16.3432,2.6,12.0,50
+v3,Z,127,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,99
+v3,Z,127,XY,04P | Left tilt side casing,pitch,-24.0348,-15.67,-6.2589,2.2589,74
+v3,Z,127,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,101
+v3,Z,127,XY,04P | Offset rising pan arm,arm,9.2702,17.7311,2.6,12.0,48
+v3,Z,127,XY,04P | Rear roll bridge,bridge,-17.5,-13.5714,11.3092,14.1263,41
+v3,Z,127,XY,04P | Right tilt side casing,pitch,15.67,24.3348,-6.2589,2.2589,74
+v3,Z,127,XY,04P | Roll motor stator,roll,14.3845,18.0155,12.6167,14.4796,30
+v3,Z,128,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,106
+v3,Z,128,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-5.8254,1.8254,38
+v3,Z,128,XY,04P | Left tilt side casing,pitch,-24.13,-15.67,-8.1336,4.1336,54
+v3,Z,128,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,101
+v3,Z,128,XY,04P | Offset rising pan arm,arm,9.5149,19.5572,2.6,12.0,48
+v3,Z,128,XY,04P | Rear roll bridge,bridge,-20.5,-9.2503,11.12,14.2,60
+v3,Z,128,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-5.8254,1.8254,38
+v3,Z,128,XY,04P | Right tilt side casing,pitch,15.67,24.43,-8.1336,4.1336,52
+v3,Z,128,XY,04P | Roll motor face,roll,13.6911,18.7089,15.29,15.9423,34
+v3,Z,128,XY,04P | Roll motor stator,roll,11.8516,20.5484,11.6018,15.3,60
+v3,Z,129,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,120
+v3,Z,129,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-7.6631,3.6631,38
+v3,Z,129,XY,04P | Left tilt side casing,pitch,-24.13,-15.67,-9.4206,5.4206,62
+v3,Z,129,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,100
+v3,Z,129,XY,04P | Offset rising pan arm,arm,9.7596,21.1351,2.6,12.0,52
+v3,Z,129,XY,04P | Rear roll bridge,bridge,-21.5,18.4624,11.12,14.2,80
+v3,Z,129,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-7.6631,3.6631,40
+v3,Z,129,XY,04P | Right tilt side casing,pitch,15.67,24.43,-9.4206,5.4206,62
+v3,Z,129,XY,04P | Roll motor face,roll,11.745,20.655,15.29,16.07,36
+v3,Z,129,XY,04P | Roll motor stator,roll,10.4988,21.9012,11.5,15.3,52
+v3,Z,130,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,140
+v3,Z,130,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-8.8946,4.8946,40
+v3,Z,130,XY,04P | Left tilt side casing,pitch,-24.13,-15.67,-10.4018,6.4018,60
+v3,Z,130,XY,04P | Left tilt support web,pitch,-21.8907,-16.4093,6.7387,12.1,48
+v3,Z,130,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,101
+v3,Z,130,XY,04P | Offset rising pan arm,arm,10.0043,21.85,2.6,12.0,50
+v3,Z,130,XY,04P | Rear roll bridge,bridge,-22.3245,21.275,11.12,14.2,68
+v3,Z,130,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-8.8946,4.8946,40
+v3,Z,130,XY,04P | Right tilt side casing,pitch,15.67,24.43,-10.4018,6.4018,60
+v3,Z,130,XY,04P | Right tilt support web,pitch,16.4093,21.8907,6.7387,12.1,48
+v3,Z,130,XY,04P | Roll motor face,roll,10.5924,21.8076,15.29,16.07,38
+v3,Z,130,XY,04P | Roll motor stator,roll,9.5595,22.8405,11.5,15.3,46
+v3,Z,131,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,161
+v3,Z,131,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-9.8132,5.8132,40
+v3,Z,131,XY,04P | Left tilt side casing,pitch,-24.13,-15.67,-11.1697,7.1697,56
+v3,Z,131,XY,04P | Left tilt support web,pitch,-22.336,-15.964,5.6253,12.1,63
+v3,Z,131,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,104
+v3,Z,131,XY,04P | Offset rising pan arm,arm,10.2551,22.4,2.6,12.0,49
+v3,Z,131,XY,04P | Rear roll bridge,bridge,-22.5933,22.4933,11.12,14.2,66
+v3,Z,131,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-9.8132,5.8132,40
+v3,Z,131,XY,04P | Right tilt side casing,pitch,15.67,24.43,-11.1697,7.1697,56
+v3,Z,131,XY,04P | Right tilt support web,pitch,15.964,22.336,5.6253,12.1,63
+v3,Z,131,XY,04P | Roll motor face,roll,9.7889,22.6111,15.29,16.07,36
+v3,Z,131,XY,04P | Roll motor stator,roll,8.8699,23.5301,11.5,15.3,40
+v3,Z,132,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,156
+v3,Z,132,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-10.5166,6.5166,40
+v3,Z,132,XY,04P | Left tilt side casing,pitch,-24.13,-15.67,-11.7732,7.7732,58
+v3,Z,132,XY,04P | Left tilt support web,pitch,-22.36,-15.94,5.18,12.1,49
+v3,Z,132,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,111
+v3,Z,132,XY,04P | Offset rising pan arm,arm,10.5304,22.95,2.6,12.0,53
+v3,Z,132,XY,04P | Rear roll bridge,bridge,-22.8378,22.6489,11.12,14.2,63
+v3,Z,132,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-10.5166,6.5166,40
+v3,Z,132,XY,04P | Right tilt side casing,pitch,15.67,24.43,-11.7732,7.7732,58
+v3,Z,132,XY,04P | Right tilt support web,pitch,15.94,22.36,5.18,12.1,49
+v3,Z,132,XY,04P | Roll motor face,roll,9.2243,23.1757,15.29,16.07,36
+v3,Z,132,XY,04P | Roll motor stator,roll,8.3684,24.0316,11.5,15.3,40
+v3,Z,133,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,156
+v3,Z,133,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-11.058,7.058,40
+v3,Z,133,XY,04P | Left tilt side casing,pitch,-24.13,-15.67,-12.2541,8.2541,54
+v3,Z,133,XY,04P | Left tilt support web,pitch,-22.36,-15.94,5.18,12.1,32
+v3,Z,133,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,123
+v3,Z,133,XY,04P | Offset rising pan arm,arm,10.8058,23.3432,2.6,12.0,59
+v3,Z,133,XY,04P | Rear roll bridge,bridge,-23.0822,22.8044,11.12,14.2,63
+v3,Z,133,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-11.058,7.058,40
+v3,Z,133,XY,04P | Right tilt side casing,pitch,15.67,24.43,-12.2541,8.2541,54
+v3,Z,133,XY,04P | Right tilt support web,pitch,15.94,22.36,5.18,12.1,32
+v3,Z,133,XY,04P | Roll motor face,roll,8.8346,23.5654,15.29,16.07,36
+v3,Z,133,XY,04P | Roll motor stator,roll,8.02,24.38,11.5,15.3,40
+v3,Z,134,XY,04P | Accessory contact insulator,roll,14.2552,21.0448,15.32,15.8276,22
+v3,Z,134,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,156
+v3,Z,134,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-11.4666,7.4666,38
+v3,Z,134,XY,04P | Left tilt side casing,pitch,-24.13,-15.67,-12.6074,8.6074,56
+v3,Z,134,XY,04P | Left tilt support web,pitch,-22.36,-15.94,5.18,12.1,32
+v3,Z,134,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,143
+v3,Z,134,XY,04P | Offset rising pan arm,arm,11.0812,23.2347,2.6,12.0,59
+v3,Z,134,XY,04P | Rear roll bridge,bridge,-23.3267,22.96,11.12,14.2,63
+v3,Z,134,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-11.4666,7.4666,38
+v3,Z,134,XY,04P | Right tilt side casing,pitch,15.67,24.43,-12.6074,8.6074,56
+v3,Z,134,XY,04P | Right tilt support web,pitch,15.94,22.36,5.18,12.1,32
+v3,Z,134,XY,04P | Roll motor face,roll,8.5943,23.8057,15.29,16.07,34
+v3,Z,134,XY,04P | Roll motor stator,roll,7.8042,24.5958,11.5,15.3,38
+v3,Z,135,XY,04P | Accessory contact insulator,roll,13.4062,21.8938,15.32,16.13,28
+v3,Z,135,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,156
+v3,Z,135,XY,04P | Gold accessory contact 1,roll,15.2127,15.9873,16.03,16.2,34
+v3,Z,135,XY,04P | Gold accessory contact 2,roll,17.2627,18.0373,16.03,16.2,34
+v3,Z,135,XY,04P | Gold accessory contact 3,roll,19.3127,20.0873,16.03,16.2,34
+v3,Z,135,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-11.7484,7.7484,38
+v3,Z,135,XY,04P | Left tilt side casing,pitch,-24.13,-15.67,-12.867,8.867,54
+v3,Z,135,XY,04P | Left tilt support web,pitch,-22.36,-15.94,5.18,12.1,32
+v3,Z,135,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,164
+v3,Z,135,XY,04P | Offset rising pan arm,arm,11.3565,22.9694,2.6,12.0,59
+v3,Z,135,XY,04P | Rear roll bridge,bridge,-23.3276,23.0615,11.12,14.2,64
+v3,Z,135,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-11.7484,7.7484,38
+v3,Z,135,XY,04P | Right tilt side casing,pitch,15.67,24.43,-12.867,8.867,54
+v3,Z,135,XY,04P | Right tilt support web,pitch,15.94,22.36,5.18,12.1,32
+v3,Z,135,XY,04P | Roll motor face,roll,8.4898,23.9102,15.29,16.07,34
+v3,Z,135,XY,04P | Roll motor stator,roll,7.7098,24.6902,11.5,15.3,38
+v3,Z,136,XY,04P | Accessory contact insulator,roll,13.5169,21.7831,15.32,16.13,23
+v3,Z,136,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,156
+v3,Z,136,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-11.9299,7.9299,40
+v3,Z,136,XY,04P | Left tilt side casing,pitch,-24.13,-15.67,-13.0246,9.0246,54
+v3,Z,136,XY,04P | Left tilt support web,pitch,-22.36,-15.94,5.18,12.1,32
+v3,Z,136,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,220
+v3,Z,136,XY,04P | Offset rising pan arm,arm,11.6319,22.7041,2.6,12.0,59
+v3,Z,136,XY,04P | Rear roll bridge,bridge,-23.2241,22.6769,11.12,14.2,64
+v3,Z,136,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-11.9299,7.9299,40
+v3,Z,136,XY,04P | Right tilt side casing,pitch,15.67,24.43,-13.0246,9.0246,54
+v3,Z,136,XY,04P | Right tilt support web,pitch,15.94,22.36,5.18,12.1,32
+v3,Z,136,XY,04P | Roll motor face,roll,8.5157,23.8843,15.29,16.07,34
+v3,Z,136,XY,04P | Roll motor stator,roll,7.7324,24.6676,11.5,15.3,38
+v3,Z,137,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,156
+v3,Z,137,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-12.0018,8.0018,38
+v3,Z,137,XY,04P | Left tilt side casing,pitch,-24.13,-15.67,-13.0918,9.0918,54
+v3,Z,137,XY,04P | Left tilt support web,pitch,-22.36,-15.94,5.18,12.1,32
+v3,Z,137,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,245
+v3,Z,137,XY,04P | Offset rising pan arm,arm,11.9072,22.4388,2.6,12.0,65
+v3,Z,137,XY,04P | Rear roll bridge,bridge,-23.1207,22.2923,11.12,14.2,64
+v3,Z,137,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-12.0018,8.0018,38
+v3,Z,137,XY,04P | Right tilt side casing,pitch,15.67,24.43,-13.0918,9.0918,54
+v3,Z,137,XY,04P | Right tilt support web,pitch,15.94,22.36,5.18,12.1,32
+v3,Z,137,XY,04P | Roll motor face,roll,8.6735,23.7265,15.29,16.07,34
+v3,Z,137,XY,04P | Roll motor stator,roll,7.8731,24.5269,11.5,15.3,38
+v3,Z,138,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,156
+v3,Z,138,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-11.9792,7.9792,38
+v3,Z,138,XY,04P | Left tilt side casing,pitch,-24.13,-15.67,-13.0739,9.0739,54
+v3,Z,138,XY,04P | Left tilt support web,pitch,-22.36,-15.94,5.18,12.1,34
+v3,Z,138,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,245
+v3,Z,138,XY,04P | Offset rising pan arm,arm,12.5713,22.0023,2.6,12.0,70
+v3,Z,138,XY,04P | Rear roll bridge,bridge,-22.6765,21.9077,11.12,14.2,66
+v3,Z,138,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-11.9792,7.9792,38
+v3,Z,138,XY,04P | Right tilt side casing,pitch,15.67,24.43,-13.0739,9.0739,54
+v3,Z,138,XY,04P | Right tilt support web,pitch,15.94,22.36,5.18,12.1,34
+v3,Z,138,XY,04P | Roll motor face,roll,8.9719,23.4281,15.29,16.07,36
+v3,Z,138,XY,04P | Roll motor stator,roll,8.1413,24.2587,11.5,15.3,42
+v3,Z,139,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,156
+v3,Z,139,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-11.8512,7.8512,38
+v3,Z,139,XY,04P | Left tilt side casing,pitch,-24.13,-15.67,-12.9553,8.9553,54
+v3,Z,139,XY,04P | Left tilt support web,pitch,-22.36,-15.94,5.18,12.1,57
+v3,Z,139,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,178
+v3,Z,139,XY,04P | Offset rising pan arm,arm,14.076,20.9308,2.6803,12.0,56
+v3,Z,139,XY,04P | Rear roll bridge,bridge,-22.1471,21.5231,11.12,14.2,66
+v3,Z,139,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-11.8512,7.8512,38
+v3,Z,139,XY,04P | Right tilt side casing,pitch,15.67,24.43,-12.9553,8.9553,54
+v3,Z,139,XY,04P | Right tilt support web,pitch,15.94,22.36,5.18,12.1,57
+v3,Z,139,XY,04P | Roll motor face,roll,9.4288,22.9712,15.29,16.07,36
+v3,Z,139,XY,04P | Roll motor stator,roll,8.5496,23.8504,11.5,15.3,44
+v3,Z,140,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,156
+v3,Z,140,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-11.6206,7.6206,38
+v3,Z,140,XY,04P | Left tilt side casing,pitch,-24.13,-15.67,-12.7504,8.7504,58
+v3,Z,140,XY,04P | Left tilt support web,pitch,-22.2326,-16.0674,6.0707,12.1,58
+v3,Z,140,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,139
+v3,Z,140,XY,04P | Offset rising pan arm,arm,15.596,19.7769,3.287,11.559,42
+v3,Z,140,XY,04P | Rear roll bridge,bridge,-21.6177,21.0591,11.12,14.2,76
+v3,Z,140,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-11.6206,7.6206,38
+v3,Z,140,XY,04P | Right tilt side casing,pitch,15.67,24.43,-12.7504,8.7504,58
+v3,Z,140,XY,04P | Right tilt support web,pitch,16.0674,22.2326,6.0707,12.1,58
+v3,Z,140,XY,04P | Roll motor face,roll,10.0756,22.3244,15.29,16.07,34
+v3,Z,140,XY,04P | Roll motor stator,roll,9.1186,23.2814,11.5,15.3,48
+v3,Z,141,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,156
+v3,Z,141,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-11.2784,7.2784,40
+v3,Z,141,XY,04P | Left tilt side casing,pitch,-24.13,-15.67,-12.4424,8.4424,54
+v3,Z,141,XY,04P | Left tilt support web,pitch,-21.4478,-16.8522,7.8977,12.1,40
+v3,Z,141,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,111
+v3,Z,141,XY,04P | Rear roll bridge,bridge,-20.2867,19.075,11.12,14.2,77
+v3,Z,141,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-11.2784,7.2784,40
+v3,Z,141,XY,04P | Right tilt side casing,pitch,15.67,24.43,-12.4424,8.4424,54
+v3,Z,141,XY,04P | Right tilt support web,pitch,16.8522,21.4478,7.8977,12.1,40
+v3,Z,141,XY,04P | Roll motor face,roll,10.9986,21.4014,15.29,16.07,38
+v3,Z,141,XY,04P | Roll motor stator,roll,9.8989,22.5011,11.5,15.3,50
+v3,Z,142,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,156
+v3,Z,142,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-10.8052,6.8052,40
+v3,Z,142,XY,04P | Left tilt side casing,pitch,-24.13,-15.67,-12.0275,8.0275,58
+v3,Z,142,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,99
+v3,Z,142,XY,04P | Rear roll bridge,bridge,-17.7534,16.825,11.6778,13.606,40
+v3,Z,142,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-10.8052,6.8052,40
+v3,Z,142,XY,04P | Right tilt side casing,pitch,15.67,24.43,-12.0275,8.0275,58
+v3,Z,142,XY,04P | Roll motor face,roll,12.3667,20.0333,15.29,16.07,42
+v3,Z,142,XY,04P | Roll motor stator,roll,10.9725,21.4275,11.5,15.3,56
+v3,Z,143,XY,04P | Dual camera rear housing,head,-15.9,15.9,-13.04,9.73,146
+v3,Z,143,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-10.1878,6.1878,40
+v3,Z,143,XY,04P | Left tilt side casing,pitch,-24.13,-15.67,-11.4885,7.4885,58
+v3,Z,143,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-16.04,-12.82,83
+v3,Z,143,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-10.1878,6.1878,40
+v3,Z,143,XY,04P | Right tilt side casing,pitch,15.67,24.43,-11.4885,7.4885,58
+v3,Z,143,XY,04P | Roll motor face,roll,15.6597,16.7403,15.29,15.6354,14
+v3,Z,143,XY,04P | Roll motor stator,roll,12.6095,19.7905,11.7788,15.3,56
+v4,X,-24,YZ,04P | Left tilt side casing,pitch,-22.3121,-1.6879,126.9379,143.0,326
+v4,X,-23,YZ,04P | Left tilt side casing,pitch,-23.1,-0.9,126.15,143.0,323
+v4,X,-23,YZ,04P | Left tilt support web,pitch,-4.5478,7.4525,131.9862,142.5137,112
+v4,X,-22,YZ,04P | Left tilt side casing,pitch,-23.1,-0.9,126.15,143.0,323
+v4,X,-22,YZ,04P | Left tilt support web,pitch,-7.1,11.2026,130.3391,143.0,108
+v4,X,-21,YZ,04P | Left tilt side casing,pitch,-23.1,-0.9,126.15,143.0,322
+v4,X,-21,YZ,04P | Left tilt support web,pitch,-7.1,12.7589,129.8273,143.0,121
+v4,X,-20,YZ,04P | Left tilt bearing spindle,pitch,-15.18,-8.82,134.07,140.43,192
+v4,X,-20,YZ,04P | Left tilt side casing,pitch,-23.1,-0.9,126.15,143.0,322
+v4,X,-20,YZ,04P | Left tilt support web,pitch,-7.1,13.9958,129.725,143.0,131
+v4,X,-19,YZ,04P | Left tilt bearing spindle,pitch,-15.18,-8.82,134.07,140.43,192
+v4,X,-19,YZ,04P | Left tilt side casing,pitch,-23.1,-0.9,126.15,143.0,323
+v4,X,-19,YZ,04P | Left tilt support web,pitch,-7.1,15.0487,129.8477,143.0,142
+v4,X,-18,YZ,04P | Left tilt bearing spindle,pitch,-15.18,-8.82,134.07,140.43,192
+v4,X,-18,YZ,04P | Left tilt side casing,pitch,-23.1,-0.9,126.15,143.0,323
+v4,X,-18,YZ,04P | Left tilt support web,pitch,-7.1,16.0242,130.3917,143.0,155
+v4,X,-17,YZ,04P | Left tilt bearing spindle,pitch,-15.18,-8.82,134.07,140.43,192
+v4,X,-17,YZ,04P | Left tilt side casing,pitch,-23.0979,-0.9021,126.1521,143.0,323
+v4,X,-17,YZ,04P | Left tilt support web,pitch,-3.0539,16.9373,130.5156,143.0,168
+v4,X,-16,YZ,04P | Left tilt bearing spindle,pitch,-15.18,-8.82,134.07,140.43,192
+v4,X,-16,YZ,04P | Left tilt support web,pitch,10.9999,17.7789,130.5847,143.0,108
+v4,X,-16,YZ,04P | Rear roll bridge,bridge,13.3789,14.48,134.9346,139.5654,24
+v4,X,-15,YZ,04P | Dual camera rear housing,head,-24.8302,5.9168,117.5512,143.0,421
+v4,X,-15,YZ,04P | Left tilt support web,pitch,12.2014,18.5086,130.6457,143.0,106
+v4,X,-15,YZ,04P | Milled dual-pocket optical face,head,-28.7634,-22.2448,117.5862,143.0,218
+v4,X,-15,YZ,04P | Rear roll bridge,bridge,13.0,16.7797,132.8207,141.6793,64
+v4,X,-14,YZ,04P | Dual camera rear housing,head,-25.1241,6.7567,115.3659,143.0,445
+v4,X,-14,YZ,04P | Left tilt support web,pitch,13.22,19.0693,130.6981,143.0,107
+v4,X,-14,YZ,04P | Milled dual-pocket optical face,head,-28.5818,-22.0019,115.3951,143.0,255
+v4,X,-14,YZ,04P | Rear roll bridge,bridge,13.0,18.0145,131.8085,142.6915,78
+v4,X,-13,YZ,04P | Dual camera rear housing,head,-25.154,6.7833,114.088,143.0,320
+v4,X,-13,YZ,04P | Left tilt support web,pitch,14.0811,19.5682,130.7476,143.0,108
+v4,X,-13,YZ,04P | Milled dual-pocket optical face,head,-28.4003,-21.6095,114.117,143.0,291
+v4,X,-13,YZ,04P | Rear roll bridge,bridge,13.0,19.1336,131.1282,143.0,77
+v4,X,-12,YZ,04P | Dual camera rear housing,head,-25.1545,4.2901,113.241,143.0,205
+v4,X,-12,YZ,04P | Left tilt support web,pitch,14.9017,19.95,130.8094,143.0,100
+v4,X,-12,YZ,04P | Milled dual-pocket optical face,head,-28.2187,-20.8739,113.2688,140.9417,215
+v4,X,-12,YZ,04P | Rear grille dark cavity liner,head,2.6023,4.7654,121.3884,143.0,12
+v4,X,-12,YZ,04P | Rear grille recessed bezel,head,3.3542,6.2903,120.7604,143.0,19
+v4,X,-12,YZ,04P | Rear roll bridge,bridge,13.0,20.0843,130.6551,143.0,82
+v4,X,-12,YZ,04P | Roll motor rotor flange,roll,17.8445,23.9045,135.5692,138.9308,28
+v4,X,-11,YZ,04P | Dual camera rear housing,head,-25.1545,3.6558,112.6741,143.0,206
+v4,X,-11,YZ,04P | Left tilt support web,pitch,15.7319,19.95,130.8844,143.0,83
+v4,X,-11,YZ,04P | Milled dual-pocket optical face,head,-28.0371,-20.3005,112.7037,139.6846,180
+v4,X,-11,YZ,04P | Offset rising pan arm,arm,-2.5826,34.4307,99.8086,140.7878,431
+v4,X,-11,YZ,04P | Pan motor rotating collar,seat,-2.5599,2.5599,99.7252,100.12,35
+v4,X,-11,YZ,04P | Pan seat seam,seat,-2.4719,2.4719,99.6793,99.8,26
+v4,X,-11,YZ,04P | Rear grille dark cavity liner,head,1.9235,4.8606,118.9518,143.0,24
+v4,X,-11,YZ,04P | Rear grille recessed bezel,head,2.715,3.8075,118.7183,119.7364,14
+v4,X,-11,YZ,04P | Rear roll bridge,bridge,13.0,20.9793,130.3305,143.0,85
+v4,X,-11,YZ,04P | Roll motor rotor flange,roll,16.8577,23.97,132.1762,142.3238,68
+v4,X,-11,YZ,Handle • molded upper shell,base,-4.0028,4.0728,99.0,99.52,11
+v4,X,-10,YZ,04P | Dual camera rear housing,head,-25.1545,3.0663,112.3045,143.0,181
+v4,X,-10,YZ,04P | Left tilt support web,pitch,16.5403,19.95,131.0615,143.0,71
+v4,X,-10,YZ,04P | Milled dual-pocket optical face,head,-27.8556,-19.9566,112.3324,139.0425,164
+v4,X,-10,YZ,04P | Offset rising pan arm,arm,-5.2603,34.4796,99.78,143.0,496
+v4,X,-10,YZ,04P | Pan motor rotating collar,seat,-5.2498,5.2498,99.6,100.26,50
+v4,X,-10,YZ,04P | Pan seat seam,seat,-5.2074,5.2074,99.635,99.8,32
+v4,X,-10,YZ,04P | Rear grille dark cavity liner,head,1.3443,4.9528,117.8369,143.0,32
+v4,X,-10,YZ,04P | Rear grille recessed bezel,head,2.1323,3.2521,117.6643,118.3978,12
+v4,X,-10,YZ,04P | Rear roll bridge,bridge,13.0,21.866,130.1161,143.0,88
+v4,X,-10,YZ,04P | Roll motor face,roll,33.7558,33.92,136.9445,137.5555,6
+v4,X,-10,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,130.4085,143.0,84
+v4,X,-10,YZ,Handle • molded upper shell,base,-6.3254,6.3954,99.0,99.52,38
+v4,X,-9,YZ,04P | Dual camera rear housing,head,-25.1545,2.6461,112.0624,143.0,176
+v4,X,-9,YZ,04P | Left tilt support web,pitch,17.3264,19.95,131.3341,143.0,60
+v4,X,-9,YZ,04P | Milled dual-pocket optical face,head,-27.674,-19.739,112.0938,138.6831,153
+v4,X,-9,YZ,04P | Offset rising pan arm,arm,-6.8321,34.5173,99.78,143.0,398
+v4,X,-9,YZ,04P | Pan motor rotating collar,seat,-6.83,6.83,99.6,100.26,42
+v4,X,-9,YZ,04P | Pan seat seam,seat,-6.7957,6.7957,99.635,99.8,28
+v4,X,-9,YZ,04P | Rear grille dark cavity liner,head,0.9089,5.0348,117.1176,143.0,40
+v4,X,-9,YZ,04P | Rear grille recessed bezel,head,1.7098,2.8038,116.973,117.6127,14
+v4,X,-9,YZ,04P | Rear roll bridge,bridge,13.0,22.76,129.9301,143.0,91
+v4,X,-9,YZ,04P | Roll motor face,roll,33.5909,34.7143,132.8719,141.6281,68
+v4,X,-9,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,129.1388,143.0,94
+v4,X,-9,YZ,Handle • molded upper shell,base,-7.6697,7.7396,99.0,99.52,38
+v4,X,-8,YZ,04P | Dual camera rear housing,head,-25.1546,2.3793,111.9366,143.0,157
+v4,X,-8,YZ,04P | Left tilt support web,pitch,18.0968,19.95,131.6298,142.8702,58
+v4,X,-8,YZ,04P | Lower rear cooling bank,head,1.6497,5.7833,116.6965,135.675,151
+v4,X,-8,YZ,04P | Milled dual-pocket optical face,head,-27.4925,-19.6256,111.9702,138.5317,143
+v4,X,-8,YZ,04P | Offset rising pan arm,arm,-7.9797,34.5198,99.78,143.0,404
+v4,X,-8,YZ,04P | Pan motor rotating collar,seat,-7.98,7.98,99.6,100.26,40
+v4,X,-8,YZ,04P | Pan seat seam,seat,-7.9507,7.9507,99.635,99.8,26
+v4,X,-8,YZ,04P | Rear grille dark cavity liner,head,0.6367,5.0997,116.6758,143.0,48
+v4,X,-8,YZ,04P | Rear grille recessed bezel,head,1.4415,2.5106,116.5389,117.1039,12
+v4,X,-8,YZ,04P | Rear roll bridge,bridge,13.0,23.44,129.7512,143.0,93
+v4,X,-8,YZ,04P | Roll motor face,roll,33.5808,34.72,131.238,143.0,67
+v4,X,-8,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,128.1459,143.0,100
+v4,X,-8,YZ,04P | Upper rear cooling bank,head,5.3442,6.3829,135.675,143.0,59
+v4,X,-8,YZ,Handle • molded upper shell,base,-8.6357,8.7055,99.0,99.52,41
+v4,X,-7,YZ,04P | Dual camera rear housing,head,-25.1546,2.2172,111.8765,143.0,163
+v4,X,-7,YZ,04P | Left tilt support web,pitch,18.9542,19.95,132.2267,142.2733,42
+v4,X,-7,YZ,04P | Milled dual-pocket optical face,head,-27.3109,-19.5776,111.9168,138.4653,126
+v4,X,-7,YZ,04P | Offset rising pan arm,arm,-8.8696,34.5198,99.78,143.0,1745
+v4,X,-7,YZ,04P | Pan motor rotating collar,seat,-8.8656,8.8656,99.6,100.26,40
+v4,X,-7,YZ,04P | Pan seat seam,seat,-8.8397,8.8397,99.635,99.8,26
+v4,X,-7,YZ,04P | Rear grille dark cavity liner,head,0.4757,5.1352,116.4177,143.0,56
+v4,X,-7,YZ,04P | Rear grille recessed bezel,head,1.2804,2.342,116.2855,116.8201,12
+v4,X,-7,YZ,04P | Rear roll bridge,bridge,13.0,23.44,129.5537,143.0,89
+v4,X,-7,YZ,04P | Roll motor face,roll,33.5706,34.72,130.0987,143.0,69
+v4,X,-7,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,127.3636,143.0,112
+v4,X,-7,YZ,Handle • molded upper shell,base,-9.3332,9.4031,99.0,99.52,38
+v4,X,-6,YZ,04P | Dual camera rear housing,head,-25.1546,2.1586,111.8559,143.0,202
+v4,X,-6,YZ,04P | Milled dual-pocket optical face,head,-27.1293,-19.5643,111.902,138.3988,119
+v4,X,-6,YZ,04P | Offset rising pan arm,arm,-9.5751,34.5198,99.78,143.0,761
+v4,X,-6,YZ,04P | Pan motor rotating collar,seat,-9.5684,9.5684,99.6,100.26,42
+v4,X,-6,YZ,04P | Pan seat seam,seat,-9.5449,9.5449,99.635,99.8,30
+v4,X,-6,YZ,04P | Rear grille dark cavity liner,head,0.4161,5.1436,116.325,143.0,71
+v4,X,-6,YZ,04P | Rear grille recessed bezel,head,1.2216,2.277,116.195,116.7075,11
+v4,X,-6,YZ,04P | Rear roll bridge,bridge,13.0,23.44,129.3715,143.0,79
+v4,X,-6,YZ,04P | Roll motor face,roll,33.5604,34.72,129.2414,143.0,73
+v4,X,-6,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,126.7217,143.0,124
+v4,X,-6,YZ,04P | Roll motor stator,roll,24.4624,33.4271,136.1028,138.3972,26
+v4,X,-6,YZ,Handle • molded upper shell,base,-9.863,9.933,99.0,99.52,40
+v4,X,-5,YZ,04P | Dual camera rear housing,head,-25.1546,2.1585,111.8504,143.0,253
+v4,X,-5,YZ,04P | Lower rear cooling bank,head,1.3998,5.9143,116.3,135.675,152
+v4,X,-5,YZ,04P | Milled dual-pocket optical face,head,-26.9478,-19.5628,111.9,138.3323,111
+v4,X,-5,YZ,04P | Offset rising pan arm,arm,-10.1326,34.5198,99.78,143.0,640
+v4,X,-5,YZ,04P | Pan motor rotating collar,seat,-10.1335,10.1335,99.6,100.26,42
+v4,X,-5,YZ,04P | Pan seat seam,seat,-10.1109,10.1109,99.635,99.8,30
+v4,X,-5,YZ,04P | Rear grille dark cavity liner,head,0.4161,5.1434,116.325,143.0,90
+v4,X,-5,YZ,04P | Rear grille recessed bezel,head,1.2215,2.2737,116.195,116.7,12
+v4,X,-5,YZ,04P | Rear roll bridge,bridge,13.0,23.44,129.2239,143.0,76
+v4,X,-5,YZ,04P | Roll motor face,roll,33.32,34.72,128.5784,143.0,57
+v4,X,-5,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,126.2166,143.0,137
+v4,X,-5,YZ,04P | Roll motor stator,roll,24.42,33.48,133.7434,140.7566,86
+v4,X,-5,YZ,04P | Upper rear cooling bank,head,5.3442,6.5138,135.675,143.0,59
+v4,X,-5,YZ,Handle • molded upper shell,base,-10.2498,10.3198,99.0,99.52,43
+v4,X,-4,YZ,04P | Accessory contact insulator,roll,34.67,34.99,136.3383,138.1617,36
+v4,X,-4,YZ,04P | Dual camera rear housing,head,-25.1545,2.1585,111.85,143.0,243
+v4,X,-4,YZ,04P | Milled dual-pocket optical face,head,-26.7662,-19.5628,111.9,138.2659,107
+v4,X,-4,YZ,04P | Offset rising pan arm,arm,-10.5673,34.5198,99.78,143.0,551
+v4,X,-4,YZ,04P | Pan bearing journal,seat,-2.8945,2.8945,99.0,100.12,43
+v4,X,-4,YZ,04P | Pan motor rotating collar,seat,-10.5619,10.5619,99.6,100.26,42
+v4,X,-4,YZ,04P | Pan seat seam,seat,-10.5405,10.5405,99.635,99.8,30
+v4,X,-4,YZ,04P | Rear grille dark cavity liner,head,0.416,5.1419,116.325,143.0,112
+v4,X,-4,YZ,04P | Rear grille recessed bezel,head,1.2215,2.2737,116.195,116.7,12
+v4,X,-4,YZ,04P | Rear roll bridge,bridge,13.0,23.44,129.1393,143.0,73
+v4,X,-4,YZ,04P | Roll motor face,roll,33.32,34.72,128.0787,143.0,47
+v4,X,-4,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,125.8124,143.0,146
+v4,X,-4,YZ,04P | Roll motor stator,roll,24.42,33.48,132.6328,141.8672,118
+v4,X,-4,YZ,Handle • molded upper shell,base,-10.5042,10.5742,99.0,99.52,32
+v4,X,-3,YZ,04P | Accessory contact insulator,roll,34.67,34.99,135.915,138.585,25
+v4,X,-3,YZ,04P | Dual camera rear housing,head,-25.1545,2.1585,111.85,143.0,250
+v4,X,-3,YZ,04P | Gold accessory contact 1,roll,34.94,35.06,136.815,137.685,34
+v4,X,-3,YZ,04P | Milled dual-pocket optical face,head,-26.5847,-19.5628,111.9,138.1994,104
+v4,X,-3,YZ,04P | Offset rising pan arm,arm,-10.8927,34.5198,99.78,143.0,488
+v4,X,-3,YZ,04P | Pan bearing journal,seat,-3.9244,3.9244,99.0,100.12,64
+v4,X,-3,YZ,04P | Pan motor rotating collar,seat,-10.8921,10.8921,99.6,100.26,42
+v4,X,-3,YZ,04P | Pan seat seam,seat,-10.8712,10.8712,99.635,99.8,30
+v4,X,-3,YZ,04P | Rear grille dark cavity liner,head,0.416,5.1438,116.325,143.0,136
+v4,X,-3,YZ,04P | Rear grille recessed bezel,head,1.2215,2.2737,116.195,116.7,12
+v4,X,-3,YZ,04P | Rear roll bridge,bridge,13.0,23.44,129.0755,143.0,71
+v4,X,-3,YZ,04P | Roll bearing spindle,roll,22.5,31.4,136.3285,138.1715,42
+v4,X,-3,YZ,04P | Roll motor face,roll,33.32,34.72,127.7052,143.0,44
+v4,X,-3,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,125.5111,143.0,124
+v4,X,-3,YZ,04P | Roll motor stator,roll,24.42,33.48,131.9292,142.5708,96
+v4,X,-3,YZ,Handle • molded upper shell,base,-10.635,10.7049,99.0,99.52,27
+v4,X,-2,YZ,04P | Accessory contact insulator,roll,34.67,34.99,135.915,138.585,26
+v4,X,-2,YZ,04P | Dual camera rear housing,head,-25.1545,2.1585,111.85,143.0,226
+v4,X,-2,YZ,04P | Lower rear cooling bank,head,1.3998,5.9048,116.3,135.675,151
+v4,X,-2,YZ,04P | Milled dual-pocket optical face,head,-26.4031,-19.5628,111.9,138.1329,104
+v4,X,-2,YZ,04P | Offset rising pan arm,arm,-11.121,34.5198,99.78,131.4605,471
+v4,X,-2,YZ,04P | Pan bearing journal,seat,-4.5143,4.5143,99.0,100.12,39
+v4,X,-2,YZ,04P | Pan motor rotating collar,seat,-11.1166,11.1166,99.6,100.26,42
+v4,X,-2,YZ,04P | Pan seat seam,seat,-11.0964,11.0964,99.635,99.8,30
+v4,X,-2,YZ,04P | Rear grille dark cavity liner,head,0.416,5.1437,116.325,143.0,160
+v4,X,-2,YZ,04P | Rear grille recessed bezel,head,1.2215,2.2737,116.195,116.7,12
+v4,X,-2,YZ,04P | Rear roll bridge,bridge,13.0,23.44,129.0253,143.0,69
+v4,X,-2,YZ,04P | Roll bearing spindle,roll,22.5,31.4,134.8315,139.6685,32
+v4,X,-2,YZ,04P | Roll motor face,roll,33.32,34.72,127.4433,143.0,36
+v4,X,-2,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,125.3027,143.0,73
+v4,X,-2,YZ,04P | Roll motor stator,roll,24.42,33.48,131.4778,143.0,49
+v4,X,-2,YZ,04P | Upper rear cooling bank,head,5.3443,6.5044,135.675,143.0,58
+v4,X,-2,YZ,Handle • molded upper shell,base,-10.6698,10.7398,99.0,99.52,33
+v4,X,-1,YZ,04P | Accessory contact insulator,roll,34.67,34.99,135.915,138.585,26
+v4,X,-1,YZ,04P | Dual camera rear housing,head,-25.1545,2.1585,111.85,143.0,246
+v4,X,-1,YZ,04P | Gold accessory contact 2,roll,34.94,35.06,136.766,137.734,30
+v4,X,-1,YZ,04P | Milled dual-pocket optical face,head,-26.2216,-19.5628,111.9,138.0803,104
+v4,X,-1,YZ,04P | Offset rising pan arm,arm,-11.2547,34.5198,99.78,131.1985,470
+v4,X,-1,YZ,04P | Pan bearing journal,seat,-4.8366,4.8366,99.0,100.12,24
+v4,X,-1,YZ,04P | Pan motor rotating collar,seat,-11.2501,11.2501,99.6,100.26,42
+v4,X,-1,YZ,04P | Pan seat seam,seat,-11.23,11.23,99.635,99.8,30
+v4,X,-1,YZ,04P | Rear grille dark cavity liner,head,0.416,5.1438,116.325,143.0,178
+v4,X,-1,YZ,04P | Rear grille recessed bezel,head,1.2215,2.2736,116.195,116.7,12
+v4,X,-1,YZ,04P | Rear roll bridge,bridge,13.0,23.44,129.0,143.0,66
+v4,X,-1,YZ,04P | Roll bearing spindle,roll,22.5,31.4,134.2738,140.2262,38
+v4,X,-1,YZ,04P | Roll motor face,roll,33.32,34.72,127.2954,143.0,31
+v4,X,-1,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,125.1764,143.0,42
+v4,X,-1,YZ,04P | Roll motor stator,roll,24.42,33.48,131.2257,143.0,30
+v4,X,-1,YZ,Handle • molded upper shell,base,-10.6698,10.7398,99.0,99.52,28
+v4,X,0,YZ,04P | Accessory contact insulator,roll,34.67,34.99,135.915,138.585,26
+v4,X,0,YZ,04P | Dual camera rear housing,head,-25.1545,2.1585,111.85,143.0,219
+v4,X,0,YZ,04P | Milled dual-pocket optical face,head,-26.04,-19.5628,111.9,138.0775,91
+v4,X,0,YZ,04P | Offset rising pan arm,arm,-11.2985,34.5198,99.78,131.1198,307
+v4,X,0,YZ,04P | Pan bearing journal,seat,-4.94,4.94,99.0,100.12,8
+v4,X,0,YZ,04P | Pan motor rotating collar,seat,-11.3,11.3,99.6,100.26,26
+v4,X,0,YZ,04P | Pan seat seam,seat,-11.28,11.28,99.635,99.8,20
+v4,X,0,YZ,04P | Rear grille dark cavity liner,head,0.416,5.1438,116.325,143.0,112
+v4,X,0,YZ,04P | Rear grille recessed bezel,head,1.2214,2.2736,116.195,116.7,12
+v4,X,0,YZ,04P | Rear roll bridge,bridge,13.0,23.44,129.0,143.0,64
+v4,X,0,YZ,04P | Roll bearing spindle,roll,22.5,31.4,134.11,140.39,26
+v4,X,0,YZ,04P | Roll motor face,roll,33.32,34.72,127.24,143.0,22
+v4,X,0,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,125.13,143.0,13
+v4,X,0,YZ,04P | Roll motor stator,roll,24.42,33.48,131.14,143.0,9
+v4,X,0,YZ,Handle • molded upper shell,base,-10.6698,10.7398,99.0,99.52,23
+v4,X,1,YZ,04P | Accessory contact insulator,roll,34.67,34.99,135.915,138.585,26
+v4,X,1,YZ,04P | Dual camera rear housing,head,-25.1546,2.1585,111.85,143.0,244
+v4,X,1,YZ,04P | Gold accessory contact 3,roll,34.94,35.06,136.766,137.734,30
+v4,X,1,YZ,04P | Milled dual-pocket optical face,head,-26.04,-19.5628,111.9,138.0803,104
+v4,X,1,YZ,04P | Offset rising pan arm,arm,-11.2547,34.5198,99.78,131.1985,464
+v4,X,1,YZ,04P | Pan bearing journal,seat,-4.8366,4.8366,99.0,100.12,24
+v4,X,1,YZ,04P | Pan motor rotating collar,seat,-11.2501,11.2501,99.6,100.26,42
+v4,X,1,YZ,04P | Pan seat seam,seat,-11.23,11.23,99.635,99.8,30
+v4,X,1,YZ,04P | Rear grille dark cavity liner,head,0.4159,5.1438,116.325,143.0,178
+v4,X,1,YZ,04P | Rear grille recessed bezel,head,1.2214,2.2736,116.195,116.7,12
+v4,X,1,YZ,04P | Rear roll bridge,bridge,13.0,23.44,129.0,143.0,65
+v4,X,1,YZ,04P | Roll bearing spindle,roll,22.5,31.4,134.2738,140.2262,38
+v4,X,1,YZ,04P | Roll motor face,roll,33.32,34.72,127.2954,143.0,33
+v4,X,1,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,125.1764,143.0,41
+v4,X,1,YZ,04P | Roll motor stator,roll,24.42,33.48,131.2257,143.0,30
+v4,X,1,YZ,Handle • molded upper shell,base,-10.6698,10.7397,99.0,99.52,23
+v4,X,2,YZ,04P | Accessory contact insulator,roll,34.67,34.99,135.915,138.585,26
+v4,X,2,YZ,04P | Dual camera rear housing,head,-25.1546,2.1584,111.85,143.0,223
+v4,X,2,YZ,04P | Lower rear cooling bank,head,1.3997,5.9048,116.3,135.675,151
+v4,X,2,YZ,04P | Milled dual-pocket optical face,head,-26.04,-19.5628,111.9,138.1269,104
+v4,X,2,YZ,04P | Offset rising pan arm,arm,-11.121,34.5198,99.78,131.4606,468
+v4,X,2,YZ,04P | Pan bearing journal,seat,-4.5143,4.5143,99.0,100.12,39
+v4,X,2,YZ,04P | Pan motor rotating collar,seat,-11.1166,11.1166,99.6,100.26,42
+v4,X,2,YZ,04P | Pan seat seam,seat,-11.0964,11.0964,99.635,99.8,30
+v4,X,2,YZ,04P | Rear grille dark cavity liner,head,0.4159,5.1439,116.325,143.0,162
+v4,X,2,YZ,04P | Rear grille recessed bezel,head,1.2214,2.2736,116.195,116.7,12
+v4,X,2,YZ,04P | Rear roll bridge,bridge,13.0,23.44,129.0253,143.0,65
+v4,X,2,YZ,04P | Roll bearing spindle,roll,22.5,31.4,134.8315,139.6685,36
+v4,X,2,YZ,04P | Roll motor face,roll,33.32,34.72,127.4433,143.0,39
+v4,X,2,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,125.3027,143.0,74
+v4,X,2,YZ,04P | Roll motor stator,roll,24.42,33.48,131.4778,143.0,49
+v4,X,2,YZ,04P | Upper rear cooling bank,head,5.3443,6.5045,135.675,143.0,60
+v4,X,2,YZ,Handle • molded upper shell,base,-10.6698,10.7397,99.0,99.52,29
+v4,X,3,YZ,04P | Accessory contact insulator,roll,34.67,34.99,135.915,138.585,24
+v4,X,3,YZ,04P | Dual camera rear housing,head,-25.1546,2.1584,111.85,143.0,263
+v4,X,3,YZ,04P | Gold accessory contact 4,roll,34.94,35.06,136.815,137.685,36
+v4,X,3,YZ,04P | Milled dual-pocket optical face,head,-26.04,-19.5628,111.9,138.1904,104
+v4,X,3,YZ,04P | Offset rising pan arm,arm,-10.8927,34.5198,99.78,143.0,489
+v4,X,3,YZ,04P | Pan bearing journal,seat,-3.9244,3.9244,99.0,100.12,64
+v4,X,3,YZ,04P | Pan motor rotating collar,seat,-10.8921,10.8921,99.6,100.26,42
+v4,X,3,YZ,04P | Pan seat seam,seat,-10.8712,10.8712,99.635,99.8,30
+v4,X,3,YZ,04P | Rear grille dark cavity liner,head,0.4159,5.1437,116.325,143.0,144
+v4,X,3,YZ,04P | Rear grille recessed bezel,head,1.2214,2.2736,116.195,116.7,12
+v4,X,3,YZ,04P | Rear roll bridge,bridge,13.0,23.44,129.0755,143.0,65
+v4,X,3,YZ,04P | Roll bearing spindle,roll,22.5,31.4,136.3285,138.1715,46
+v4,X,3,YZ,04P | Roll motor face,roll,33.32,34.72,127.7052,143.0,45
+v4,X,3,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,125.5111,143.0,126
+v4,X,3,YZ,04P | Roll motor stator,roll,24.42,33.48,131.9292,142.5708,96
+v4,X,3,YZ,Handle • molded upper shell,base,-10.635,10.7049,99.0,99.52,34
+v4,X,4,YZ,04P | Accessory contact insulator,roll,34.67,34.99,136.3383,138.1617,34
+v4,X,4,YZ,04P | Dual camera rear housing,head,-25.1546,2.1584,111.85,143.0,219
+v4,X,4,YZ,04P | Milled dual-pocket optical face,head,-26.1699,-19.5628,111.9,138.2539,107
+v4,X,4,YZ,04P | Offset rising pan arm,arm,-10.5672,34.5198,99.78,143.0,551
+v4,X,4,YZ,04P | Pan bearing journal,seat,-2.8945,2.8945,99.0,100.12,43
+v4,X,4,YZ,04P | Pan motor rotating collar,seat,-10.5619,10.5619,99.6,100.26,42
+v4,X,4,YZ,04P | Pan seat seam,seat,-10.5405,10.5405,99.635,99.8,30
+v4,X,4,YZ,04P | Rear grille dark cavity liner,head,0.4159,5.1411,116.325,143.0,130
+v4,X,4,YZ,04P | Rear grille recessed bezel,head,1.2214,2.2735,116.195,116.7,12
+v4,X,4,YZ,04P | Rear roll bridge,bridge,13.0,23.44,129.1393,143.0,65
+v4,X,4,YZ,04P | Roll motor face,roll,33.32,34.72,128.0787,143.0,49
+v4,X,4,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,125.8124,143.0,148
+v4,X,4,YZ,04P | Roll motor stator,roll,24.42,33.48,132.6328,141.8672,118
+v4,X,4,YZ,Handle • molded upper shell,base,-10.5042,10.5741,99.0,99.52,42
+v4,X,5,YZ,04P | Dual camera rear housing,head,-25.1545,2.1584,111.8505,143.0,273
+v4,X,5,YZ,04P | Lower rear cooling bank,head,1.3996,5.9143,116.3,135.675,152
+v4,X,5,YZ,04P | Milled dual-pocket optical face,head,-26.4054,-19.5628,111.9,138.3174,111
+v4,X,5,YZ,04P | Offset rising pan arm,arm,-10.1326,34.5198,99.78,143.0,641
+v4,X,5,YZ,04P | Pan motor rotating collar,seat,-10.1335,10.1335,99.6,100.26,42
+v4,X,5,YZ,04P | Pan seat seam,seat,-10.1109,10.1109,99.635,99.8,30
+v4,X,5,YZ,04P | Rear grille dark cavity liner,head,0.4159,5.1433,116.325,143.0,114
+v4,X,5,YZ,04P | Rear grille recessed bezel,head,1.2214,2.2735,116.195,116.7,12
+v4,X,5,YZ,04P | Rear roll bridge,bridge,13.0,23.44,129.2239,143.0,66
+v4,X,5,YZ,04P | Roll motor face,roll,33.32,34.72,128.5784,143.0,60
+v4,X,5,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,126.2166,143.0,139
+v4,X,5,YZ,04P | Roll motor stator,roll,24.42,33.48,133.7434,140.7566,86
+v4,X,5,YZ,04P | Upper rear cooling bank,head,5.3443,6.5138,135.675,143.0,60
+v4,X,5,YZ,Handle • molded upper shell,base,-10.2498,10.3198,99.0,99.52,39
+v4,X,6,YZ,04P | Dual camera rear housing,head,-25.1545,2.1583,111.8572,143.0,190
+v4,X,6,YZ,04P | Milled dual-pocket optical face,head,-26.641,-19.5643,111.902,138.3808,118
+v4,X,6,YZ,04P | Offset rising pan arm,arm,-9.575,34.5198,99.78,143.0,769
+v4,X,6,YZ,04P | Pan motor rotating collar,seat,-9.5684,9.5684,99.6,100.26,46
+v4,X,6,YZ,04P | Pan seat seam,seat,-9.5449,9.5449,99.635,99.8,32
+v4,X,6,YZ,04P | Rear grille dark cavity liner,head,0.4158,5.1432,116.325,143.0,97
+v4,X,6,YZ,04P | Rear grille recessed bezel,head,1.2213,2.2767,116.195,116.7075,11
+v4,X,6,YZ,04P | Rear roll bridge,bridge,13.0,23.44,129.3715,143.0,68
+v4,X,6,YZ,04P | Roll motor face,roll,33.5604,34.72,129.2414,143.0,71
+v4,X,6,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,126.7217,143.0,126
+v4,X,6,YZ,04P | Roll motor stator,roll,24.4624,33.4271,136.1028,138.3972,26
+v4,X,6,YZ,Handle • molded upper shell,base,-9.863,9.933,99.0,99.52,40
+v4,X,7,YZ,04P | Dual camera rear housing,head,-25.1545,2.2169,111.8763,143.0,171
+v4,X,7,YZ,04P | Milled dual-pocket optical face,head,-26.8765,-19.5776,111.9168,138.4443,128
+v4,X,7,YZ,04P | Offset rising pan arm,arm,-8.8695,34.5198,99.78,143.0,1495
+v4,X,7,YZ,04P | Pan motor rotating collar,seat,-8.8656,8.8656,99.6,100.26,44
+v4,X,7,YZ,04P | Pan seat seam,seat,-8.8397,8.8397,99.635,99.8,30
+v4,X,7,YZ,04P | Rear grille dark cavity liner,head,0.4754,5.1355,116.4177,143.0,78
+v4,X,7,YZ,04P | Rear grille recessed bezel,head,1.2801,2.3417,116.2855,116.8201,12
+v4,X,7,YZ,04P | Rear roll bridge,bridge,13.0,23.44,129.5537,143.0,73
+v4,X,7,YZ,04P | Right tilt support web,pitch,18.9542,19.95,132.2267,142.2733,42
+v4,X,7,YZ,04P | Roll motor face,roll,33.5706,34.72,130.0987,143.0,69
+v4,X,7,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,127.3636,143.0,116
+v4,X,7,YZ,Handle • molded upper shell,base,-9.3331,9.4031,99.0,99.52,40
+v4,X,8,YZ,04P | Dual camera rear housing,head,-25.1545,2.379,111.9334,143.0,164
+v4,X,8,YZ,04P | Lower rear cooling bank,head,1.6495,5.7834,116.6965,135.675,151
+v4,X,8,YZ,04P | Milled dual-pocket optical face,head,-27.1121,-19.6256,111.9702,138.5078,141
+v4,X,8,YZ,04P | Offset rising pan arm,arm,-7.9796,34.5198,99.78,143.0,395
+v4,X,8,YZ,04P | Pan motor rotating collar,seat,-7.98,7.98,99.6,100.26,44
+v4,X,8,YZ,04P | Pan seat seam,seat,-7.9507,7.9507,99.635,99.8,30
+v4,X,8,YZ,04P | Rear grille dark cavity liner,head,0.6364,5.1003,116.6758,143.0,70
+v4,X,8,YZ,04P | Rear grille recessed bezel,head,1.4412,2.5105,116.5389,117.1039,12
+v4,X,8,YZ,04P | Rear roll bridge,bridge,13.0,23.44,129.7512,143.0,81
+v4,X,8,YZ,04P | Right tilt support web,pitch,18.0968,19.95,131.6298,142.8702,58
+v4,X,8,YZ,04P | Roll motor face,roll,33.5808,34.72,131.238,143.0,69
+v4,X,8,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,128.1459,143.0,104
+v4,X,8,YZ,04P | Upper rear cooling bank,head,5.3443,6.383,135.675,143.0,58
+v4,X,8,YZ,Handle • molded upper shell,base,-8.6356,8.7055,99.0,99.52,43
+v4,X,9,YZ,04P | Dual camera rear housing,head,-25.1545,2.6459,112.0658,143.0,176
+v4,X,9,YZ,04P | Milled dual-pocket optical face,head,-27.3476,-19.739,112.0938,138.6831,151
+v4,X,9,YZ,04P | Offset rising pan arm,arm,-6.8319,34.5167,99.78,143.0,375
+v4,X,9,YZ,04P | Pan motor rotating collar,seat,-6.83,6.83,99.6,100.26,46
+v4,X,9,YZ,04P | Pan seat seam,seat,-6.7957,6.7957,99.635,99.8,32
+v4,X,9,YZ,04P | Rear grille dark cavity liner,head,0.9088,5.0348,117.1176,143.0,58
+v4,X,9,YZ,04P | Rear grille recessed bezel,head,1.7096,2.8038,116.973,117.6127,14
+v4,X,9,YZ,04P | Rear roll bridge,bridge,13.0,22.76,129.9301,143.0,78
+v4,X,9,YZ,04P | Right tilt support web,pitch,17.3264,19.95,131.3341,143.0,52
+v4,X,9,YZ,04P | Roll motor face,roll,33.5909,34.7143,132.8719,141.6281,68
+v4,X,9,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,129.1388,143.0,97
+v4,X,9,YZ,Handle • molded upper shell,base,-7.6697,7.7397,99.0,99.52,37
+v4,X,10,YZ,04P | Dual camera rear housing,head,-25.1545,3.0662,112.299,143.0,190
+v4,X,10,YZ,04P | Milled dual-pocket optical face,head,-27.5832,-19.9566,112.3324,139.0425,166
+v4,X,10,YZ,04P | Offset rising pan arm,arm,-5.2601,34.4796,99.78,143.0,476
+v4,X,10,YZ,04P | Pan motor rotating collar,seat,-5.2498,5.2498,99.6,100.26,54
+v4,X,10,YZ,04P | Pan seat seam,seat,-5.2074,5.2074,99.635,99.8,36
+v4,X,10,YZ,04P | Rear grille dark cavity liner,head,1.3442,4.9525,117.8369,143.0,44
+v4,X,10,YZ,04P | Rear grille recessed bezel,head,2.1322,3.2519,117.6643,118.3978,12
+v4,X,10,YZ,04P | Rear roll bridge,bridge,13.0,21.866,130.1161,143.0,76
+v4,X,10,YZ,04P | Right tilt support web,pitch,16.5403,19.95,131.0615,143.0,61
+v4,X,10,YZ,04P | Roll motor face,roll,33.7558,33.92,136.9445,137.5555,6
+v4,X,10,YZ,04P | Roll motor rotor flange,roll,16.01,23.97,130.4085,143.0,85
+v4,X,10,YZ,Handle • molded upper shell,base,-6.3254,6.3954,99.0,99.52,37
+v4,X,11,YZ,04P | Dual camera rear housing,head,-25.1546,3.6552,112.672,143.0,192
+v4,X,11,YZ,04P | Milled dual-pocket optical face,head,-27.8187,-20.3005,112.7037,139.6846,189
+v4,X,11,YZ,04P | Offset rising pan arm,arm,-2.5822,34.4307,99.8086,140.7875,432
+v4,X,11,YZ,04P | Pan motor rotating collar,seat,-2.5599,2.5599,99.7252,100.12,35
+v4,X,11,YZ,04P | Pan seat seam,seat,-2.4719,2.4719,99.6793,99.8,28
+v4,X,11,YZ,04P | Rear grille dark cavity liner,head,1.923,4.8616,118.9518,143.0,30
+v4,X,11,YZ,04P | Rear grille recessed bezel,head,2.7145,3.807,118.7183,119.7364,14
+v4,X,11,YZ,04P | Rear roll bridge,bridge,13.0,20.9793,130.3305,143.0,73
+v4,X,11,YZ,04P | Right tilt support web,pitch,15.7319,19.95,130.8844,143.0,70
+v4,X,11,YZ,04P | Roll motor rotor flange,roll,16.8577,23.97,132.1762,142.3238,68
+v4,X,11,YZ,Handle • molded upper shell,base,-4.0028,4.0727,99.0,99.52,37
+v4,X,12,YZ,04P | Dual camera rear housing,head,-25.1546,4.2899,113.2445,143.0,203
+v4,X,12,YZ,04P | Milled dual-pocket optical face,head,-28.0543,-20.8739,113.2688,140.9417,225
+v4,X,12,YZ,04P | Rear grille dark cavity liner,head,2.6023,4.767,121.3884,143.0,12
+v4,X,12,YZ,04P | Rear grille recessed bezel,head,3.3541,6.2898,120.7604,143.0,17
+v4,X,12,YZ,04P | Rear roll bridge,bridge,13.0,20.0843,130.6551,143.0,73
+v4,X,12,YZ,04P | Right tilt support web,pitch,14.9017,19.95,130.8094,143.0,83
+v4,X,12,YZ,04P | Roll motor rotor flange,roll,17.8445,23.9045,135.5692,138.9308,28
+v4,X,13,YZ,04P | Dual camera rear housing,head,-25.1539,6.7834,114.0881,143.0,332
+v4,X,13,YZ,04P | Milled dual-pocket optical face,head,-28.2898,-21.6095,114.117,143.0,299
+v4,X,13,YZ,04P | Rear roll bridge,bridge,13.0,19.1336,131.1282,143.0,72
+v4,X,13,YZ,04P | Right tilt support web,pitch,14.0811,19.5682,130.7476,143.0,92
+v4,X,14,YZ,04P | Dual camera rear housing,head,-25.1267,6.7585,115.3695,143.0,446
+v4,X,14,YZ,04P | Milled dual-pocket optical face,head,-28.5254,-22.0019,115.3951,143.0,264
+v4,X,14,YZ,04P | Rear roll bridge,bridge,13.0,18.0145,131.8085,142.6915,77
+v4,X,14,YZ,04P | Right tilt support web,pitch,13.22,19.0693,130.6981,143.0,88
+v4,X,15,YZ,04P | Dual camera rear housing,head,-24.8304,5.9084,117.5412,143.0,331
+v4,X,15,YZ,04P | Milled dual-pocket optical face,head,-28.7609,-22.2448,117.5862,143.0,229
+v4,X,15,YZ,04P | Rear roll bridge,bridge,13.0,16.7797,132.8207,141.6793,65
+v4,X,15,YZ,04P | Right tilt support web,pitch,12.2014,18.5086,130.6457,143.0,88
+v4,X,16,YZ,04P | Rear roll bridge,bridge,13.3789,14.48,134.9346,139.5654,24
+v4,X,16,YZ,04P | Right tilt bearing spindle,pitch,-15.18,-8.82,134.07,140.43,192
+v4,X,16,YZ,04P | Right tilt support web,pitch,10.9999,17.7789,130.5847,143.0,87
+v4,X,17,YZ,04P | Right tilt bearing spindle,pitch,-15.18,-8.82,134.07,140.43,192
+v4,X,17,YZ,04P | Right tilt side casing,pitch,-23.0979,-0.9021,126.1521,143.0,323
+v4,X,17,YZ,04P | Right tilt support web,pitch,-3.0539,16.9373,130.5156,143.0,143
+v4,X,18,YZ,04P | Right tilt bearing spindle,pitch,-15.18,-8.82,134.07,140.43,192
+v4,X,18,YZ,04P | Right tilt side casing,pitch,-23.1,-0.9,126.15,143.0,323
+v4,X,18,YZ,04P | Right tilt support web,pitch,-7.1,16.0242,130.3917,143.0,133
+v4,X,19,YZ,04P | Right tilt bearing spindle,pitch,-15.18,-8.82,134.07,140.43,192
+v4,X,19,YZ,04P | Right tilt side casing,pitch,-23.1,-0.9,126.15,143.0,323
+v4,X,19,YZ,04P | Right tilt support web,pitch,-7.1,15.0487,129.8477,143.0,126
+v4,X,20,YZ,04P | Right tilt bearing spindle,pitch,-15.18,-8.82,134.07,140.43,192
+v4,X,20,YZ,04P | Right tilt side casing,pitch,-23.1,-0.9,126.15,143.0,322
+v4,X,20,YZ,04P | Right tilt support web,pitch,-7.1,13.9958,129.725,143.0,117
+v4,X,21,YZ,04P | Right tilt side casing,pitch,-23.1,-0.9,126.15,143.0,322
+v4,X,21,YZ,04P | Right tilt support web,pitch,-7.1,12.7589,129.8273,143.0,112
+v4,X,22,YZ,04P | Right tilt side casing,pitch,-23.1,-0.9,126.15,143.0,323
+v4,X,22,YZ,04P | Right tilt support web,pitch,-7.1,11.2026,130.3391,143.0,105
+v4,X,23,YZ,04P | Right tilt side casing,pitch,-23.1,-0.9,126.15,143.0,323
+v4,X,23,YZ,04P | Right tilt support web,pitch,-4.5478,7.4525,131.9862,142.5137,112
+v4,X,24,YZ,04P | Right tilt side casing,pitch,-22.8425,-1.1575,126.4075,143.0,323
+v4,Y,-28,XZ,04P | Milled dual-pocket optical face,head,-15.6665,15.6665,134.7719,139.8,100
+v4,Y,-27,XZ,04P | Milled dual-pocket optical face,head,-15.8679,15.8679,132.2857,143.0,216
+v4,Y,-26,XZ,04P | Milled dual-pocket optical face,head,-15.875,15.875,126.0,143.0,322
+v4,Y,-25,XZ,04P | Dual camera rear housing,head,-14.5911,14.6127,135.9646,138.2887,125
+v4,Y,-25,XZ,04P | Milled dual-pocket optical face,head,-15.875,15.875,115.4023,143.0,600
+v4,Y,-24,XZ,04P | Dual camera rear housing,head,-15.6819,15.6823,133.0773,142.0096,403
+v4,Y,-24,XZ,04P | Milled dual-pocket optical face,head,-15.875,15.875,113.782,143.0,680
+v4,Y,-23,XZ,04P | Dual camera rear housing,head,-15.864,15.8661,123.8233,143.0,544
+v4,Y,-23,XZ,04P | Left tilt side casing,pitch,-23.61,-16.738,135.7706,138.7294,30
+v4,Y,-23,XZ,04P | Milled dual-pocket optical face,head,-15.875,15.875,113.0247,138.9433,509
+v4,Y,-23,XZ,04P | Right tilt side casing,pitch,16.738,23.91,135.7706,138.7294,30
+v4,Y,-22,XZ,04P | Dual camera rear housing,head,-15.8946,15.8958,114.7236,143.0,1002
+v4,Y,-22,XZ,04P | Left tilt motor end cap,pitch,-24.3062,-24.225,136.9445,137.5555,6
+v4,Y,-22,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,132.4393,142.0607,80
+v4,Y,-22,XZ,04P | Milled dual-pocket optical face,head,-13.9876,13.9876,112.3362,115.5997,116
+v4,Y,-22,XZ,04P | Right tilt motor end cap,pitch,24.525,24.6063,136.9445,137.5555,6
+v4,Y,-22,XZ,04P | Right tilt side casing,pitch,16.18,24.43,132.4393,142.0607,80
+v4,Y,-21,XZ,04P | Dual camera rear housing,head,-15.8996,15.8996,113.4298,143.0,299
+v4,Y,-21,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,132.8719,141.6281,38
+v4,Y,-21,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,130.7632,143.0,93
+v4,Y,-21,XZ,04P | Milled dual-pocket optical face,head,-12.165,12.165,111.9488,113.5401,65
+v4,Y,-21,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,132.8719,141.6281,38
+v4,Y,-21,XZ,04P | Right tilt side casing,pitch,16.18,24.43,130.7632,143.0,93
+v4,Y,-20,XZ,04P | Dual camera rear housing,head,-15.9,15.9,112.6367,143.0,237
+v4,Y,-20,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,131.238,143.0,29
+v4,Y,-20,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,129.5625,143.0,100
+v4,Y,-20,XZ,04P | Milled dual-pocket optical face,head,-10.1625,10.1625,111.9,112.5049,34
+v4,Y,-20,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,131.238,143.0,30
+v4,Y,-20,XZ,04P | Right tilt side casing,pitch,16.18,24.43,129.5625,143.0,100
+v4,Y,-19,XZ,04P | Dual camera rear housing,head,-15.9,15.9,112.0561,143.0,244
+v4,Y,-19,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,130.0987,143.0,20
+v4,Y,-19,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,128.643,143.0,112
+v4,Y,-19,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,130.0987,143.0,22
+v4,Y,-19,XZ,04P | Right tilt side casing,pitch,16.18,24.43,128.643,143.0,112
+v4,Y,-18,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.8725,143.0,148
+v4,Y,-18,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,129.2414,143.0,18
+v4,Y,-18,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,127.917,143.0,124
+v4,Y,-18,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,129.2414,143.0,21
+v4,Y,-18,XZ,04P | Right tilt side casing,pitch,16.18,24.43,127.917,143.0,124
+v4,Y,-17,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.8509,143.0,192
+v4,Y,-17,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,128.5784,143.0,22
+v4,Y,-17,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,127.3431,143.0,137
+v4,Y,-17,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,128.5784,143.0,22
+v4,Y,-17,XZ,04P | Right tilt side casing,pitch,16.18,24.43,127.3431,143.0,137
+v4,Y,-16,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,172
+v4,Y,-16,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,128.0787,143.0,20
+v4,Y,-16,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,126.9017,143.0,148
+v4,Y,-16,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,128.0787,143.0,20
+v4,Y,-16,XZ,04P | Right tilt side casing,pitch,16.18,24.43,126.9017,143.0,148
+v4,Y,-15,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,172
+v4,Y,-15,XZ,04P | Left tilt bearing spindle,pitch,-20.65,-15.5,136.198,138.302,41
+v4,Y,-15,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,127.7052,143.0,20
+v4,Y,-15,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,126.5668,143.0,108
+v4,Y,-15,XZ,04P | Right tilt bearing spindle,pitch,15.5,20.65,136.198,138.302,41
+v4,Y,-15,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,127.7052,143.0,20
+v4,Y,-15,XZ,04P | Right tilt side casing,pitch,16.18,24.43,126.5668,143.0,108
+v4,Y,-14,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,176
+v4,Y,-14,XZ,04P | Left tilt bearing spindle,pitch,-20.65,-15.5,134.7798,139.7202,32
+v4,Y,-14,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,127.4433,143.0,20
+v4,Y,-14,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,126.336,143.0,69
+v4,Y,-14,XZ,04P | Right tilt bearing spindle,pitch,15.5,20.65,134.7798,139.7202,32
+v4,Y,-14,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,127.4433,143.0,20
+v4,Y,-14,XZ,04P | Right tilt side casing,pitch,16.18,24.43,126.336,143.0,69
+v4,Y,-13,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,176
+v4,Y,-13,XZ,04P | Left tilt bearing spindle,pitch,-20.65,-15.5,134.232,140.268,36
+v4,Y,-13,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,127.2954,143.0,20
+v4,Y,-13,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,126.2008,143.0,44
+v4,Y,-13,XZ,04P | Right tilt bearing spindle,pitch,15.5,20.65,134.232,140.268,36
+v4,Y,-13,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,127.2954,143.0,20
+v4,Y,-13,XZ,04P | Right tilt side casing,pitch,16.18,24.43,126.2008,143.0,44
+v4,Y,-12,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,172
+v4,Y,-12,XZ,04P | Left tilt bearing spindle,pitch,-20.65,-15.5,134.07,140.43,26
+v4,Y,-12,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,127.24,143.0,14
+v4,Y,-12,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,126.15,143.0,14
+v4,Y,-12,XZ,04P | Right tilt bearing spindle,pitch,15.5,20.65,134.07,140.43,22
+v4,Y,-12,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,127.24,143.0,14
+v4,Y,-12,XZ,04P | Right tilt side casing,pitch,16.18,24.43,126.15,143.0,14
+v4,Y,-11,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.85,143.0,170
+v4,Y,-11,XZ,04P | Left tilt bearing spindle,pitch,-20.65,-15.5,134.232,140.268,36
+v4,Y,-11,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,127.2954,143.0,22
+v4,Y,-11,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,126.2008,143.0,44
+v4,Y,-11,XZ,04P | Offset rising pan arm,arm,-2.5826,2.5825,99.8086,107.009,183
+v4,Y,-11,XZ,04P | Pan motor rotating collar,seat,-2.5599,2.5599,99.7252,100.12,35
+v4,Y,-11,XZ,04P | Pan seat seam,seat,-2.4719,2.4719,99.6793,99.8,24
+v4,Y,-11,XZ,04P | Right tilt bearing spindle,pitch,15.5,20.65,134.232,140.268,36
+v4,Y,-11,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,127.2954,143.0,22
+v4,Y,-11,XZ,04P | Right tilt side casing,pitch,16.18,24.43,126.2008,143.0,44
+v4,Y,-10,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.8501,143.0,158
+v4,Y,-10,XZ,04P | Left tilt bearing spindle,pitch,-20.65,-15.5,134.7798,139.7202,36
+v4,Y,-10,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,127.4433,143.0,22
+v4,Y,-10,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,126.336,143.0,67
+v4,Y,-10,XZ,04P | Offset rising pan arm,arm,-5.2603,5.2602,99.78,108.0846,183
+v4,Y,-10,XZ,04P | Pan motor rotating collar,seat,-5.2498,5.2498,99.6,100.26,46
+v4,Y,-10,XZ,04P | Pan seat seam,seat,-5.2074,5.2074,99.635,99.8,30
+v4,Y,-10,XZ,04P | Right tilt bearing spindle,pitch,15.5,20.65,134.7798,139.7202,36
+v4,Y,-10,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,127.4433,143.0,22
+v4,Y,-10,XZ,04P | Right tilt side casing,pitch,16.18,24.43,126.336,143.0,67
+v4,Y,-10,XZ,Handle • molded upper shell,base,-5.6983,5.6982,99.0,99.52,19
+v4,Y,-9,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.8507,143.0,171
+v4,Y,-9,XZ,04P | Left tilt bearing spindle,pitch,-20.65,-15.5,136.198,138.302,43
+v4,Y,-9,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,127.7052,143.0,22
+v4,Y,-9,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,126.5668,143.0,108
+v4,Y,-9,XZ,04P | Offset rising pan arm,arm,-6.8321,6.832,99.78,108.6499,195
+v4,Y,-9,XZ,04P | Pan motor rotating collar,seat,-6.83,6.83,99.6,100.26,44
+v4,Y,-9,XZ,04P | Pan seat seam,seat,-6.7957,6.7957,99.635,99.8,32
+v4,Y,-9,XZ,04P | Right tilt bearing spindle,pitch,15.5,20.65,136.198,138.302,43
+v4,Y,-9,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,127.7052,143.0,22
+v4,Y,-9,XZ,04P | Right tilt side casing,pitch,16.18,24.43,126.5668,143.0,108
+v4,Y,-9,XZ,Handle • molded upper shell,base,-7.5087,7.5087,99.0,99.52,22
+v4,Y,-8,XZ,04P | Dual camera rear housing,head,-15.9,15.9,111.8633,143.0,170
+v4,Y,-8,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,128.0787,143.0,22
+v4,Y,-8,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,126.9017,143.0,148
+v4,Y,-8,XZ,04P | Offset rising pan arm,arm,-7.9797,7.9796,99.78,108.6499,213
+v4,Y,-8,XZ,04P | Pan motor rotating collar,seat,-7.98,7.98,99.6,100.26,44
+v4,Y,-8,XZ,04P | Pan seat seam,seat,-7.9507,7.9507,99.635,99.8,30
+v4,Y,-8,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,128.0787,143.0,22
+v4,Y,-8,XZ,04P | Right tilt side casing,pitch,16.18,24.43,126.9017,143.0,148
+v4,Y,-8,XZ,Handle • molded upper shell,base,-8.7006,8.7007,99.0,99.52,25
+v4,Y,-7,XZ,04P | Dual camera rear housing,head,-15.8991,15.8991,111.8969,143.0,166
+v4,Y,-7,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,128.5784,143.0,24
+v4,Y,-7,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,127.3431,143.0,137
+v4,Y,-7,XZ,04P | Left tilt support web,pitch,-22.687,-17.4117,130.3784,143.0,73
+v4,Y,-7,XZ,04P | Offset rising pan arm,arm,-8.8696,8.8695,99.78,108.6499,219
+v4,Y,-7,XZ,04P | Pan motor rotating collar,seat,-8.8656,8.8656,99.6,100.26,44
+v4,Y,-7,XZ,04P | Pan seat seam,seat,-8.8397,8.8397,99.635,99.8,30
+v4,Y,-7,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,128.5784,143.0,24
+v4,Y,-7,XZ,04P | Right tilt side casing,pitch,16.18,24.43,127.3431,143.0,137
+v4,Y,-7,XZ,04P | Right tilt support web,pitch,17.4117,22.687,130.3784,143.0,73
+v4,Y,-7,XZ,Handle • molded upper shell,base,-9.5465,9.5465,99.0,99.52,27
+v4,Y,-6,XZ,04P | Dual camera rear housing,head,-15.8949,15.8949,111.9434,143.0,261
+v4,Y,-6,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,129.2414,143.0,24
+v4,Y,-6,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,127.917,143.0,124
+v4,Y,-6,XZ,04P | Left tilt support web,pitch,-22.8173,-17.2674,130.1422,143.0,70
+v4,Y,-6,XZ,04P | Offset rising pan arm,arm,-9.5751,9.575,99.78,108.6499,170
+v4,Y,-6,XZ,04P | Pan motor rotating collar,seat,-9.5684,9.5684,99.6,100.26,46
+v4,Y,-6,XZ,04P | Pan seat seam,seat,-9.5449,9.5449,99.635,99.8,32
+v4,Y,-6,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,129.2414,143.0,22
+v4,Y,-6,XZ,04P | Right tilt side casing,pitch,16.18,24.43,127.917,143.0,124
+v4,Y,-6,XZ,04P | Right tilt support web,pitch,17.2674,22.8173,130.1422,143.0,70
+v4,Y,-6,XZ,Handle • molded upper shell,base,-10.195,10.195,99.0,99.52,28
+v4,Y,-5,XZ,04P | Dual camera rear housing,head,-15.8869,15.887,112.0289,143.0,279
+v4,Y,-5,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,130.0987,143.0,26
+v4,Y,-5,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,128.643,143.0,112
+v4,Y,-5,XZ,04P | Left tilt support web,pitch,-22.9508,-17.1196,129.8998,143.0,69
+v4,Y,-5,XZ,04P | Offset rising pan arm,arm,-10.1326,10.1325,99.78,108.6499,203
+v4,Y,-5,XZ,04P | Pan motor rotating collar,seat,-10.1335,10.1335,99.6,100.26,42
+v4,Y,-5,XZ,04P | Pan seat seam,seat,-10.1109,10.1109,99.635,99.8,30
+v4,Y,-5,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,130.0987,143.0,25
+v4,Y,-5,XZ,04P | Right tilt side casing,pitch,16.18,24.43,128.643,143.0,112
+v4,Y,-5,XZ,04P | Right tilt support web,pitch,17.1196,22.9508,129.8998,143.0,69
+v4,Y,-5,XZ,Handle • molded upper shell,base,-10.6706,10.6706,99.0,99.52,33
+v4,Y,-4,XZ,04P | Dual camera rear housing,head,-15.8771,15.8771,112.3029,143.0,279
+v4,Y,-4,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,131.238,143.0,34
+v4,Y,-4,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,129.5625,143.0,98
+v4,Y,-4,XZ,04P | Left tilt support web,pitch,-23.04,-17.0212,129.7455,143.0,66
+v4,Y,-4,XZ,04P | Offset rising pan arm,arm,-10.5673,10.5671,99.78,108.6499,195
+v4,Y,-4,XZ,04P | Pan bearing journal,seat,-2.8945,2.8945,99.0,100.12,43
+v4,Y,-4,XZ,04P | Pan motor rotating collar,seat,-10.5619,10.5619,99.6,100.26,42
+v4,Y,-4,XZ,04P | Pan seat seam,seat,-10.5405,10.5405,99.635,99.8,30
+v4,Y,-4,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,131.238,143.0,34
+v4,Y,-4,XZ,04P | Right tilt side casing,pitch,16.18,24.43,129.5625,143.0,98
+v4,Y,-4,XZ,04P | Right tilt support web,pitch,17.0212,23.04,129.7455,143.0,66
+v4,Y,-4,XZ,Handle • molded upper shell,base,-11.0007,11.0007,99.0,99.52,36
+v4,Y,-3,XZ,04P | Dual camera rear housing,head,-15.8671,15.8672,112.7,143.0,281
+v4,Y,-3,XZ,04P | Left tilt motor end cap,pitch,-24.55,-24.16,132.8719,141.6281,42
+v4,Y,-3,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,130.7632,143.0,92
+v4,Y,-3,XZ,04P | Left tilt support web,pitch,-23.0629,-16.9997,129.7389,143.0,66
+v4,Y,-3,XZ,04P | Offset rising pan arm,arm,-10.8927,10.8926,99.78,108.6499,180
+v4,Y,-3,XZ,04P | Pan bearing journal,seat,-3.9244,3.9244,99.0,100.12,64
+v4,Y,-3,XZ,04P | Pan motor rotating collar,seat,-10.8921,10.8921,99.6,100.26,42
+v4,Y,-3,XZ,04P | Pan seat seam,seat,-10.8712,10.8712,99.635,99.8,30
+v4,Y,-3,XZ,04P | Right tilt motor end cap,pitch,24.46,24.85,132.8719,141.6281,42
+v4,Y,-3,XZ,04P | Right tilt side casing,pitch,16.18,24.43,130.7632,143.0,92
+v4,Y,-3,XZ,04P | Right tilt support web,pitch,16.9997,23.0629,129.7389,143.0,66
+v4,Y,-3,XZ,Handle • molded upper shell,base,-11.2105,11.2105,99.0,99.52,33
+v4,Y,-2,XZ,04P | Dual camera rear housing,head,-15.8573,15.8573,113.1142,143.0,276
+v4,Y,-2,XZ,04P | Left tilt motor end cap,pitch,-24.3062,-24.225,136.9445,137.5555,6
+v4,Y,-2,XZ,04P | Left tilt side casing,pitch,-24.13,-16.18,132.4393,142.0607,80
+v4,Y,-2,XZ,04P | Left tilt support web,pitch,-23.0776,-16.9965,129.8016,143.0,68
+v4,Y,-2,XZ,04P | Offset rising pan arm,arm,-11.121,11.1209,99.78,108.6499,194
+v4,Y,-2,XZ,04P | Pan bearing journal,seat,-4.5143,4.5143,99.0,100.12,39
+v4,Y,-2,XZ,04P | Pan motor rotating collar,seat,-11.1166,11.1166,99.6,100.26,42
+v4,Y,-2,XZ,04P | Pan seat seam,seat,-11.0964,11.0964,99.635,99.8,30
+v4,Y,-2,XZ,04P | Right tilt motor end cap,pitch,24.525,24.6063,136.9445,137.5555,6
+v4,Y,-2,XZ,04P | Right tilt side casing,pitch,16.18,24.43,132.4393,142.0607,80
+v4,Y,-2,XZ,04P | Right tilt support web,pitch,16.9965,23.0776,129.8016,143.0,68
+v4,Y,-2,XZ,Handle • molded upper shell,base,-11.3071,11.3071,99.0,99.52,33
+v4,Y,-1,XZ,04P | Dual camera rear housing,head,-15.8474,15.8474,113.5082,143.0,295
+v4,Y,-1,XZ,04P | Left tilt side casing,pitch,-23.61,-16.738,135.7706,138.7294,30
+v4,Y,-1,XZ,04P | Left tilt support web,pitch,-23.091,-16.9976,129.8862,143.0,69
+v4,Y,-1,XZ,04P | Offset rising pan arm,arm,-11.2547,11.2546,99.78,108.6499,204
+v4,Y,-1,XZ,04P | Pan bearing journal,seat,-4.8366,4.8366,99.0,100.12,24
+v4,Y,-1,XZ,04P | Pan motor rotating collar,seat,-11.2501,11.2501,99.6,100.26,42
+v4,Y,-1,XZ,04P | Pan seat seam,seat,-11.23,11.23,99.635,99.8,30
+v4,Y,-1,XZ,04P | Right tilt side casing,pitch,16.738,23.91,135.7706,138.7294,30
+v4,Y,-1,XZ,04P | Right tilt support web,pitch,16.9976,23.091,129.8862,143.0,69
+v4,Y,-1,XZ,Handle • molded upper shell,base,-11.325,11.325,99.0,99.52,36
+v4,Y,0,XZ,04P | Dual camera rear housing,head,-15.8376,15.8375,113.8993,143.0,310
+v4,Y,0,XZ,04P | Left tilt support web,pitch,-23.099,-16.9997,129.9571,143.0,69
+v4,Y,0,XZ,04P | Offset rising pan arm,arm,-11.2985,11.2984,99.78,108.6499,130
+v4,Y,0,XZ,04P | Pan bearing journal,seat,-4.94,4.94,99.0,100.12,8
+v4,Y,0,XZ,04P | Pan motor rotating collar,seat,-11.3,11.3,99.6,100.26,23
+v4,Y,0,XZ,04P | Pan seat seam,seat,-11.28,11.28,99.635,99.8,17
+v4,Y,0,XZ,04P | Right tilt support web,pitch,16.9997,23.099,129.9571,143.0,69
+v4,Y,0,XZ,Handle • molded upper shell,base,-11.325,11.325,99.0,99.52,33
+v4,Y,1,XZ,04P | Dual camera rear housing,head,-15.8272,15.8273,114.5984,143.0,319
+v4,Y,1,XZ,04P | Left tilt support web,pitch,-23.0996,-17.0,129.9915,143.0,69
+v4,Y,1,XZ,04P | Offset rising pan arm,arm,-11.2547,11.2546,99.78,108.6499,204
+v4,Y,1,XZ,04P | Pan bearing journal,seat,-4.8366,4.8366,99.0,100.12,24
+v4,Y,1,XZ,04P | Pan motor rotating collar,seat,-11.2501,11.2501,99.6,100.26,42
+v4,Y,1,XZ,04P | Pan seat seam,seat,-11.23,11.23,99.635,99.8,30
+v4,Y,1,XZ,04P | Rear grille dark cavity liner,head,-9.236,9.2362,116.9409,117.2758,44
+v4,Y,1,XZ,04P | Right tilt support web,pitch,17.0,23.0996,129.9915,143.0,69
+v4,Y,1,XZ,Handle • molded upper shell,base,-11.325,11.325,99.0,99.52,34
+v4,Y,2,XZ,04P | Dual camera rear housing,head,-15.7895,15.7912,115.9312,143.0,296
+v4,Y,2,XZ,04P | Left tilt support web,pitch,-23.0976,-17.0001,130.0136,143.0,70
+v4,Y,2,XZ,04P | Lower rear cooling bank,head,-8.905,8.905,116.3482,117.2689,96
+v4,Y,2,XZ,04P | Offset rising pan arm,arm,-11.121,11.1209,99.78,108.6499,192
+v4,Y,2,XZ,04P | Pan bearing journal,seat,-4.5143,4.5143,99.0,100.12,39
+v4,Y,2,XZ,04P | Pan motor rotating collar,seat,-11.1166,11.1166,99.6,100.26,42
+v4,Y,2,XZ,04P | Pan seat seam,seat,-11.0964,11.0964,99.635,99.8,30
+v4,Y,2,XZ,04P | Rear grille dark cavity liner,head,-11.1297,11.1306,118.6515,119.2575,76
+v4,Y,2,XZ,04P | Rear grille recessed bezel,head,-9.7375,9.7375,116.2097,117.5611,48
+v4,Y,2,XZ,04P | Right tilt support web,pitch,17.0001,23.0976,130.0136,143.0,70
+v4,Y,2,XZ,Handle • molded upper shell,base,-11.3105,11.3105,99.0,99.52,35
+v4,Y,3,XZ,04P | Dual camera rear housing,head,-15.6966,15.6986,117.5277,143.0,230
+v4,Y,3,XZ,04P | Left tilt support web,pitch,-23.0939,-17.0002,130.0314,143.0,70
+v4,Y,3,XZ,04P | Lower rear cooling bank,head,-8.905,8.905,117.9777,119.1774,134
+v4,Y,3,XZ,04P | Offset rising pan arm,arm,-10.8927,10.8926,99.78,108.6499,181
+v4,Y,3,XZ,04P | Pan bearing journal,seat,-3.9244,3.9244,99.0,100.12,64
+v4,Y,3,XZ,04P | Pan motor rotating collar,seat,-10.8921,10.8921,99.6,100.26,42
+v4,Y,3,XZ,04P | Pan seat seam,seat,-10.8712,10.8712,99.635,99.8,30
+v4,Y,3,XZ,04P | Rear grille dark cavity liner,head,-12.1,12.1,122.3914,124.7028,132
+v4,Y,3,XZ,04P | Rear grille recessed bezel,head,-11.4656,11.4664,117.7102,119.6895,48
+v4,Y,3,XZ,04P | Right tilt support web,pitch,17.0002,23.0939,130.0314,143.0,70
+v4,Y,3,XZ,Handle • molded upper shell,base,-11.2209,11.2209,99.0,99.52,27
+v4,Y,4,XZ,04P | Dual camera rear housing,head,-15.5351,15.537,119.618,143.0,241
+v4,Y,4,XZ,04P | Left tilt support web,pitch,-23.0888,-17.0003,130.0482,143.0,70
+v4,Y,4,XZ,04P | Lower rear cooling bank,head,-8.905,8.905,120.6142,123.489,198
+v4,Y,4,XZ,04P | Offset rising pan arm,arm,-10.5672,10.5671,99.78,108.6499,194
+v4,Y,4,XZ,04P | Pan bearing journal,seat,-2.8945,2.8945,99.0,100.12,43
+v4,Y,4,XZ,04P | Pan motor rotating collar,seat,-10.5619,10.5619,99.6,100.26,42
+v4,Y,4,XZ,04P | Pan seat seam,seat,-10.5405,10.5405,99.635,99.8,30
+v4,Y,4,XZ,04P | Rear grille dark cavity liner,head,-12.1,12.1,129.0149,136.4616,196
+v4,Y,4,XZ,04P | Rear grille recessed bezel,head,-12.23,12.23,120.0015,126.6815,48
+v4,Y,4,XZ,04P | Right tilt support web,pitch,17.0003,23.0888,130.0482,143.0,70
+v4,Y,4,XZ,Handle • molded upper shell,base,-11.0182,11.0182,99.0,99.52,28
+v4,Y,5,XZ,04P | Dual camera rear housing,head,-15.3034,15.3039,124.413,143.0,214
+v4,Y,5,XZ,04P | Left tilt support web,pitch,-23.0824,-17.0001,130.0673,143.0,70
+v4,Y,5,XZ,04P | Lower rear cooling bank,head,-8.905,8.905,126.1288,131.1416,292
+v4,Y,5,XZ,04P | Offset rising pan arm,arm,-10.1326,10.1325,99.78,108.6499,203
+v4,Y,5,XZ,04P | Pan motor rotating collar,seat,-10.1335,10.1335,99.6,100.26,42
+v4,Y,5,XZ,04P | Pan seat seam,seat,-10.1109,10.1109,99.635,99.8,30
+v4,Y,5,XZ,04P | Rear grille dark cavity liner,head,-9.4729,9.4706,141.1197,143.0,83
+v4,Y,5,XZ,04P | Rear grille recessed bezel,head,-12.23,12.23,127.7821,138.452,24
+v4,Y,5,XZ,04P | Right tilt support web,pitch,17.0001,23.0824,130.0673,143.0,70
+v4,Y,5,XZ,Handle • molded upper shell,base,-10.6957,10.6957,99.0,99.52,34
+v4,Y,6,XZ,04P | Dual camera rear housing,head,-14.9622,14.9587,133.1285,143.0,204
+v4,Y,6,XZ,04P | Left tilt support web,pitch,-23.0665,-16.9985,130.0904,143.0,72
+v4,Y,6,XZ,04P | Offset rising pan arm,arm,-9.5755,9.5754,99.78,108.6499,164
+v4,Y,6,XZ,04P | Pan motor rotating collar,seat,-9.5684,9.5684,99.6,100.26,46
+v4,Y,6,XZ,04P | Pan seat seam,seat,-9.5449,9.5449,99.635,99.8,32
+v4,Y,6,XZ,04P | Rear grille recessed bezel,head,-12.23,12.23,139.5492,143.0,17
+v4,Y,6,XZ,04P | Right tilt support web,pitch,16.9985,23.0665,130.0904,143.0,72
+v4,Y,6,XZ,04P | Upper rear cooling bank,head,-8.905,8.905,136.8387,143.0,317
+v4,Y,6,XZ,Handle • molded upper shell,base,-10.2369,10.2369,99.0,99.52,34
+v4,Y,7,XZ,04P | Left tilt support web,pitch,-23.0241,-16.9864,130.1166,143.0,72
+v4,Y,7,XZ,04P | Offset rising pan arm,arm,-8.9516,8.9515,99.78,108.6499,213
+v4,Y,7,XZ,04P | Pan motor rotating collar,seat,-8.8656,8.8656,99.6,100.26,44
+v4,Y,7,XZ,04P | Pan seat seam,seat,-8.8397,8.8397,99.635,99.8,30
+v4,Y,7,XZ,04P | Right tilt support web,pitch,16.9864,23.0241,130.1166,143.0,72
+v4,Y,7,XZ,Handle • molded upper shell,base,-9.5984,9.5984,99.0,99.52,33
+v4,Y,8,XZ,04P | Left tilt support web,pitch,-22.97,-16.95,130.15,143.0,37
+v4,Y,8,XZ,04P | Offset rising pan arm,arm,-8.3729,8.3728,99.78,108.6499,236
+v4,Y,8,XZ,04P | Pan motor rotating collar,seat,-7.98,7.98,99.6,100.26,44
+v4,Y,8,XZ,04P | Pan seat seam,seat,-7.9507,7.9507,99.635,99.8,30
+v4,Y,8,XZ,04P | Right tilt support web,pitch,16.95,22.97,130.15,143.0,37
+v4,Y,8,XZ,Handle • molded upper shell,base,-8.764,8.764,99.0,99.52,36
+v4,Y,9,XZ,04P | Left tilt support web,pitch,-22.813,-16.7892,130.2036,143.0,73
+v4,Y,9,XZ,04P | Offset rising pan arm,arm,-7.8753,7.8752,99.78,108.6553,238
+v4,Y,9,XZ,04P | Pan motor rotating collar,seat,-6.83,6.83,99.6,100.26,46
+v4,Y,9,XZ,04P | Pan seat seam,seat,-6.7957,6.7957,99.635,99.8,32
+v4,Y,9,XZ,04P | Right tilt support web,pitch,16.7892,22.813,130.2036,143.0,73
+v4,Y,9,XZ,Handle • molded upper shell,base,-7.603,7.603,99.0,99.52,33
+v4,Y,10,XZ,04P | Left tilt support web,pitch,-22.513,-16.4786,130.2731,143.0,73
+v4,Y,10,XZ,04P | Offset rising pan arm,arm,-7.5583,7.5582,99.78,108.4159,320
+v4,Y,10,XZ,04P | Pan motor rotating collar,seat,-5.2498,5.2498,99.6,100.26,46
+v4,Y,10,XZ,04P | Pan seat seam,seat,-5.2074,5.2074,99.635,99.8,32
+v4,Y,10,XZ,04P | Right tilt support web,pitch,16.4786,22.513,130.2731,143.0,73
+v4,Y,10,XZ,Handle • molded upper shell,base,-5.8583,5.8584,99.0,99.52,26
+v4,Y,11,XZ,04P | Left tilt support web,pitch,-22.1048,-16.0,130.3462,143.0,74
+v4,Y,11,XZ,04P | Offset rising pan arm,arm,-7.4146,7.4145,99.78,108.5815,284
+v4,Y,11,XZ,04P | Pan motor rotating collar,seat,-2.5599,2.5599,99.7252,100.12,35
+v4,Y,11,XZ,04P | Pan seat seam,seat,-2.4719,2.4719,99.6793,99.8,24
+v4,Y,11,XZ,04P | Right tilt support web,pitch,16.0,22.1048,130.3462,143.0,74
+v4,Y,12,XZ,04P | Left tilt support web,pitch,-21.5176,-15.1845,130.4257,143.0,76
+v4,Y,12,XZ,04P | Offset rising pan arm,arm,-7.3946,7.3945,99.8175,109.4585,210
+v4,Y,12,XZ,04P | Right tilt support web,pitch,15.1845,21.5176,130.4257,143.0,76
+v4,Y,13,XZ,04P | Left tilt support web,pitch,-20.8228,-14.229,130.4992,143.0,77
+v4,Y,13,XZ,04P | Offset rising pan arm,arm,-7.3977,7.3976,100.242,110.4557,281
+v4,Y,13,XZ,04P | Rear roll bridge,bridge,-15.2,15.2,132.4,142.1,52
+v4,Y,13,XZ,04P | Right tilt support web,pitch,14.229,20.8228,130.4992,143.0,77
+v4,Y,14,XZ,04P | Left tilt support web,pitch,-19.9963,-13.0972,130.5652,143.0,80
+v4,Y,14,XZ,04P | Offset rising pan arm,arm,-7.3922,7.3921,101.0362,111.4907,235
+v4,Y,14,XZ,04P | Rear roll bridge,bridge,-16.1006,16.1006,131.0354,143.0,89
+v4,Y,14,XZ,04P | Right tilt support web,pitch,13.0972,19.9963,130.5652,143.0,80
+v4,Y,15,XZ,04P | Left tilt support web,pitch,-19.0481,-11.8812,130.6301,143.0,81
+v4,Y,15,XZ,04P | Offset rising pan arm,arm,-7.3737,7.3758,102.1179,112.5258,193
+v4,Y,15,XZ,04P | Rear roll bridge,bridge,-15.8459,15.8459,130.5778,143.0,84
+v4,Y,15,XZ,04P | Right tilt support web,pitch,11.8812,19.0481,130.6301,143.0,81
+v4,Y,16,XZ,04P | Left tilt support web,pitch,-18.0252,-10.6725,130.6894,143.0,81
+v4,Y,16,XZ,04P | Offset rising pan arm,arm,-7.3614,7.3613,103.2138,113.561,224
+v4,Y,16,XZ,04P | Rear roll bridge,bridge,-15.4619,15.4619,130.2689,143.0,82
+v4,Y,16,XZ,04P | Right tilt support web,pitch,10.6725,18.0252,130.6894,143.0,81
+v4,Y,17,XZ,04P | Left tilt support web,pitch,-16.9272,-9.4178,130.745,143.0,82
+v4,Y,17,XZ,04P | Offset rising pan arm,arm,-7.345,7.3463,104.3097,114.5965,213
+v4,Y,17,XZ,04P | Rear roll bridge,bridge,-14.8362,14.8362,130.0392,143.0,81
+v4,Y,17,XZ,04P | Right tilt support web,pitch,9.4178,16.9272,130.745,143.0,82
+v4,Y,17,XZ,04P | Roll motor rotor flange,roll,-11.126,11.126,126.124,143.0,323
+v4,Y,18,XZ,04P | Left tilt support web,pitch,-15.7193,-8.1264,130.8246,143.0,84
+v4,Y,18,XZ,04P | Offset rising pan arm,arm,-7.3553,7.3552,105.4139,115.6587,179
+v4,Y,18,XZ,04P | Rear roll bridge,bridge,-14.0126,14.0126,129.8448,143.0,80
+v4,Y,18,XZ,04P | Right tilt support web,pitch,8.1264,15.7193,130.8246,143.0,84
+v4,Y,18,XZ,04P | Roll motor rotor flange,roll,-12.12,12.12,125.13,143.0,319
+v4,Y,19,XZ,04P | Left tilt support web,pitch,-14.1305,-6.9524,131.0624,143.0,88
+v4,Y,19,XZ,04P | Offset rising pan arm,arm,-7.3689,7.369,106.5325,116.7386,223
+v4,Y,19,XZ,04P | Rear roll bridge,bridge,-13.1238,13.1238,129.6259,143.0,78
+v4,Y,19,XZ,04P | Right tilt support web,pitch,6.9524,14.1305,131.0624,143.0,88
+v4,Y,19,XZ,04P | Roll motor rotor flange,roll,-12.12,12.12,125.13,143.0,319
+v4,Y,20,XZ,04P | Offset rising pan arm,arm,-7.3815,7.3814,107.6511,117.8185,220
+v4,Y,20,XZ,04P | Rear roll bridge,bridge,-12.0938,12.0938,129.3546,143.0,77
+v4,Y,20,XZ,04P | Roll motor rotor flange,roll,-12.12,12.12,125.13,143.0,319
+v4,Y,21,XZ,04P | Offset rising pan arm,arm,-7.3933,7.3932,108.7696,118.8984,202
+v4,Y,21,XZ,04P | Rear roll bridge,bridge,-10.977,10.977,129.1362,143.0,78
+v4,Y,21,XZ,04P | Roll motor rotor flange,roll,-12.12,12.12,125.13,143.0,320
+v4,Y,22,XZ,04P | Offset rising pan arm,arm,-7.402,7.4018,109.8868,119.9849,216
+v4,Y,22,XZ,04P | Rear roll bridge,bridge,-9.845,9.845,129.0309,143.0,77
+v4,Y,22,XZ,04P | Roll motor rotor flange,roll,-12.12,12.12,125.13,143.0,319
+v4,Y,23,XZ,04P | Offset rising pan arm,arm,-7.4094,7.4093,110.9869,121.1529,235
+v4,Y,23,XZ,04P | Rear roll bridge,bridge,-8.7659,8.7659,129.0397,143.0,78
+v4,Y,23,XZ,04P | Roll bearing spindle,roll,-3.1175,3.1175,134.1325,140.3675,192
+v4,Y,23,XZ,04P | Roll motor rotor flange,roll,-12.12,12.12,125.13,143.0,319
+v4,Y,24,XZ,04P | Offset rising pan arm,arm,-7.419,7.4189,112.0834,122.3835,214
+v4,Y,24,XZ,04P | Roll bearing spindle,roll,-3.14,3.14,134.11,140.39,192
+v4,Y,25,XZ,04P | Offset rising pan arm,arm,-11.5242,11.5241,113.1798,143.0,1081
+v4,Y,25,XZ,04P | Roll bearing spindle,roll,-3.14,3.14,134.11,140.39,192
+v4,Y,25,XZ,04P | Roll motor stator,roll,-6.11,6.11,131.14,143.0,363
+v4,Y,26,XZ,04P | Offset rising pan arm,arm,-11.5552,11.5551,114.2763,143.0,494
+v4,Y,26,XZ,04P | Roll bearing spindle,roll,-3.14,3.14,134.11,140.39,192
+v4,Y,26,XZ,04P | Roll motor stator,roll,-6.11,6.11,131.14,143.0,363
+v4,Y,27,XZ,04P | Offset rising pan arm,arm,-11.5533,11.5532,115.3745,143.0,362
+v4,Y,27,XZ,04P | Roll bearing spindle,roll,-3.14,3.14,134.11,140.39,192
+v4,Y,27,XZ,04P | Roll motor stator,roll,-6.11,6.11,131.14,143.0,364
+v4,Y,28,XZ,04P | Offset rising pan arm,arm,-11.5533,11.5532,116.4758,143.0,355
+v4,Y,28,XZ,04P | Roll bearing spindle,roll,-3.14,3.14,134.11,140.39,192
+v4,Y,28,XZ,04P | Roll motor stator,roll,-6.11,6.11,131.14,143.0,364
+v4,Y,29,XZ,04P | Offset rising pan arm,arm,-11.5533,11.5532,117.5771,143.0,366
+v4,Y,29,XZ,04P | Roll bearing spindle,roll,-3.14,3.14,134.11,140.39,192
+v4,Y,29,XZ,04P | Roll motor stator,roll,-6.11,6.11,131.14,143.0,364
+v4,Y,30,XZ,04P | Offset rising pan arm,arm,-11.5533,11.5532,118.6784,143.0,261
+v4,Y,30,XZ,04P | Roll bearing spindle,roll,-3.14,3.14,134.11,140.39,192
+v4,Y,30,XZ,04P | Roll motor stator,roll,-6.11,6.11,131.14,143.0,364
+v4,Y,31,XZ,04P | Offset rising pan arm,arm,-11.5533,11.5532,119.7797,143.0,358
+v4,Y,31,XZ,04P | Roll bearing spindle,roll,-3.14,3.14,134.11,140.39,192
+v4,Y,31,XZ,04P | Roll motor stator,roll,-6.11,6.11,131.14,143.0,364
+v4,Y,32,XZ,04P | Offset rising pan arm,arm,-11.5533,11.5532,120.8988,143.0,339
+v4,Y,32,XZ,04P | Roll motor stator,roll,-6.11,6.11,131.14,143.0,363
+v4,Y,33,XZ,04P | Offset rising pan arm,arm,-11.5561,11.556,122.0296,143.0,448
+v4,Y,33,XZ,04P | Roll motor stator,roll,-6.11,6.11,131.14,143.0,363
+v4,Y,34,XZ,04P | Offset rising pan arm,arm,-11.4789,11.4788,123.4682,143.0,1300
+v4,Y,34,XZ,04P | Roll motor face,roll,-9.9947,9.9947,127.2553,143.0,135
+v4,Y,35,XZ,04P | Gold accessory contact 1,roll,-3.2521,-2.2979,136.7729,137.7271,192
+v4,Y,35,XZ,04P | Gold accessory contact 2,roll,-1.4021,-0.4479,136.7729,137.7271,192
+v4,Y,35,XZ,04P | Gold accessory contact 3,roll,0.4479,1.4021,136.7729,137.7271,192
+v4,Y,35,XZ,04P | Gold accessory contact 4,roll,2.2979,3.2521,136.7729,137.7271,192
+v4,Z,99,XY,04P | Pan bearing journal,seat,-4.94,4.94,-4.94,4.94,384
+v4,Z,99,XY,Handle • molded upper shell,base,-11.325,11.325,-10.6698,10.7397,273
+v4,Z,100,XY,04P | Offset rising pan arm,arm,-11.2313,11.2312,-11.2313,12.6017,1181
+v4,Z,100,XY,04P | Pan bearing journal,seat,-4.912,4.912,-4.912,4.912,384
+v4,Z,100,XY,04P | Pan motor rotating collar,seat,-11.3,11.3,-11.3,11.3,192
+v4,Z,101,XY,04P | Offset rising pan arm,arm,-11.2951,11.295,-11.2951,13.962,428
+v4,Z,102,XY,04P | Offset rising pan arm,arm,-11.2945,11.2944,-11.2945,14.8924,214
+v4,Z,103,XY,04P | Offset rising pan arm,arm,-11.2945,11.2944,-11.2945,15.8049,239
+v4,Z,104,XY,04P | Offset rising pan arm,arm,-11.2945,11.2944,-11.2945,16.7174,251
+v4,Z,105,XY,04P | Offset rising pan arm,arm,-11.2944,11.2943,-11.2944,17.6285,239
+v4,Z,106,XY,04P | Offset rising pan arm,arm,-11.291,11.2909,-11.291,18.5239,664
+v4,Z,107,XY,04P | Offset rising pan arm,arm,-11.0083,11.0082,-11.0083,19.418,1112
+v4,Z,108,XY,04P | Offset rising pan arm,arm,-10.0783,10.0782,-10.0783,20.312,462
+v4,Z,109,XY,04P | Offset rising pan arm,arm,-7.3075,7.3074,11.5183,21.206,203
+v4,Z,110,XY,04P | Offset rising pan arm,arm,-7.3112,7.3111,12.5552,22.1016,201
+v4,Z,111,XY,04P | Offset rising pan arm,arm,-7.3222,7.3221,13.526,23.012,188
+v4,Z,112,XY,04P | Dual camera rear housing,head,-8.6073,8.6136,-18.8409,-5.2328,121
+v4,Z,112,XY,04P | Milled dual-pocket optical face,head,-8.3183,8.3183,-21.115,-19.5668,18
+v4,Z,112,XY,04P | Offset rising pan arm,arm,-7.3334,7.3333,14.492,23.924,217
+v4,Z,113,XY,04P | Dual camera rear housing,head,-11.6142,11.6086,-20.4833,-2.272,212
+v4,Z,113,XY,04P | Milled dual-pocket optical face,head,-11.5696,11.5696,-22.9689,-20.45,54
+v4,Z,113,XY,04P | Offset rising pan arm,arm,-7.3445,7.3444,15.458,24.836,221
+v4,Z,114,XY,04P | Dual camera rear housing,head,-12.9107,12.916,-21.5788,0.2014,413
+v4,Z,114,XY,04P | Milled dual-pocket optical face,head,-12.8902,12.8902,-24.2519,-21.4258,47
+v4,Z,114,XY,04P | Offset rising pan arm,arm,-7.3556,7.3555,16.424,25.748,189
+v4,Z,115,XY,04P | Dual camera rear housing,head,-13.7545,13.758,-22.0997,1.342,442
+v4,Z,115,XY,04P | Milled dual-pocket optical face,head,-13.7356,13.7356,-24.91,-21.9492,20
+v4,Z,115,XY,04P | Offset rising pan arm,arm,-7.3667,7.3666,17.3877,26.6596,212
+v4,Z,116,XY,04P | Dual camera rear housing,head,-14.3584,14.3559,-22.2519,2.0448,315
+v4,Z,116,XY,04P | Milled dual-pocket optical face,head,-14.3461,14.3461,-25.36,-22.0351,53
+v4,Z,116,XY,04P | Offset rising pan arm,arm,-7.3778,7.3777,18.316,27.568,217
+v4,Z,117,XY,04P | Dual camera rear housing,head,-14.8008,14.8076,-22.3478,2.6777,267
+v4,Z,117,XY,04P | Lower rear cooling bank,head,-8.6483,8.6483,1.8352,2.4064,90
+v4,Z,117,XY,04P | Milled dual-pocket optical face,head,-14.7904,14.7904,-25.6505,-22.1418,49
+v4,Z,117,XY,04P | Offset rising pan arm,arm,-7.3889,7.3888,19.242,28.476,198
+v4,Z,117,XY,04P | Rear grille dark cavity liner,head,-8.7615,8.7615,0.8337,1.0364,38
+v4,Z,117,XY,04P | Rear grille recessed bezel,head,-9.0548,9.0548,1.6563,2.5664,28
+v4,Z,118,XY,04P | Dual camera rear housing,head,-15.1403,15.1411,-22.4478,3.285,260
+v4,Z,118,XY,04P | Lower rear cooling bank,head,-8.905,8.905,2.4336,3.0133,100
+v4,Z,118,XY,04P | Milled dual-pocket optical face,head,-15.133,15.133,-25.4039,-22.2497,26
+v4,Z,118,XY,04P | Offset rising pan arm,arm,-7.3995,7.3997,20.1681,29.384,216
+v4,Z,118,XY,04P | Rear grille dark cavity liner,head,-10.186,10.186,1.4136,1.6414,58
+v4,Z,118,XY,04P | Rear grille recessed bezel,head,-10.3828,10.3828,2.2604,3.1736,24
+v4,Z,119,XY,04P | Dual camera rear housing,head,-15.3964,15.3963,-22.5186,3.7958,261
+v4,Z,119,XY,04P | Lower rear cooling bank,head,-8.905,8.905,2.9346,3.5255,100
+v4,Z,119,XY,04P | Milled dual-pocket optical face,head,-15.3808,15.3808,-25.3846,-22.3075,22
+v4,Z,119,XY,04P | Offset rising pan arm,arm,-7.4072,7.4071,21.0941,30.292,214
+v4,Z,119,XY,04P | Rear grille dark cavity liner,head,-11.0322,11.0322,1.8894,2.1512,78
+v4,Z,119,XY,04P | Rear grille recessed bezel,head,-11.1882,11.1882,2.7749,3.6793,24
+v4,Z,120,XY,04P | Dual camera rear housing,head,-15.5802,15.5808,-22.6328,4.1133,324
+v4,Z,120,XY,04P | Lower rear cooling bank,head,-8.905,8.905,3.2658,3.8395,100
+v4,Z,120,XY,04P | Milled dual-pocket optical face,head,-15.5648,15.5648,-25.45,-22.3653,22
+v4,Z,120,XY,04P | Offset rising pan arm,arm,-7.4143,7.4142,22.013,31.2,194
+v4,Z,120,XY,04P | Rear grille dark cavity liner,head,-11.591,11.591,2.2526,2.4696,90
+v4,Z,120,XY,04P | Rear grille recessed bezel,head,-11.7356,11.7356,3.0887,3.9996,24
+v4,Z,121,XY,04P | Dual camera rear housing,head,-15.7108,15.7108,-22.9111,4.3627,330
+v4,Z,121,XY,04P | Lower rear cooling bank,head,-8.905,8.905,3.5181,4.0918,100
+v4,Z,121,XY,04P | Milled dual-pocket optical face,head,-15.6954,15.6954,-25.525,-22.4231,22
+v4,Z,121,XY,04P | Offset rising pan arm,arm,-7.4215,7.4214,22.8701,32.09,211
+v4,Z,121,XY,04P | Rear grille dark cavity liner,head,-11.9227,11.9227,2.5069,2.7223,110
+v4,Z,121,XY,04P | Rear grille recessed bezel,head,-12.055,12.055,3.3423,4.2512,28
+v4,Z,122,XY,04P | Dual camera rear housing,head,-15.8014,15.8002,-22.9812,4.5658,346
+v4,Z,122,XY,04P | Lower rear cooling bank,head,-8.905,8.905,3.7244,4.2958,100
+v4,Z,122,XY,04P | Milled dual-pocket optical face,head,-15.7821,15.7821,-25.6,-22.4809,22
+v4,Z,122,XY,04P | Offset rising pan arm,arm,-7.4286,7.4285,23.7081,32.9748,218
+v4,Z,122,XY,04P | Rear grille dark cavity liner,head,-12.0721,12.0721,2.7202,2.9258,122
+v4,Z,122,XY,04P | Rear grille recessed bezel,head,-12.2021,12.2021,3.5458,4.4558,24
+v4,Z,123,XY,04P | Dual camera rear housing,head,-15.8574,15.8556,-22.9955,4.7537,349
+v4,Z,123,XY,04P | Lower rear cooling bank,head,-8.905,8.905,3.9118,4.4833,96
+v4,Z,123,XY,04P | Milled dual-pocket optical face,head,-15.8342,15.8342,-25.7,-22.558,22
+v4,Z,123,XY,04P | Offset rising pan arm,arm,-7.4357,7.4356,24.4344,33.753,312
+v4,Z,123,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,2.8552,3.1136,134
+v4,Z,123,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,3.6872,4.5936,24
+v4,Z,124,XY,04P | Dual camera rear housing,head,-15.8825,15.8824,-23.0032,4.9304,358
+v4,Z,124,XY,04P | Lower rear cooling bank,head,-8.905,8.905,4.0889,4.6604,96
+v4,Z,124,XY,04P | Milled dual-pocket optical face,head,-15.8621,15.8621,-25.8,-22.635,22
+v4,Z,124,XY,04P | Offset rising pan arm,arm,-7.4434,7.4433,24.8687,34.2627,352
+v4,Z,124,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,2.9402,3.2904,146
+v4,Z,124,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,3.7722,4.6786,24
+v4,Z,125,XY,04P | Dual camera rear housing,head,-15.8935,15.8935,-23.0197,5.0959,346
+v4,Z,125,XY,04P | Lower rear cooling bank,head,-8.905,8.905,4.2559,4.8259,96
+v4,Z,125,XY,04P | Milled dual-pocket optical face,head,-15.8699,15.8699,-25.9,-22.7121,22
+v4,Z,125,XY,04P | Offset rising pan arm,arm,-7.4558,7.4557,24.7616,34.5198,331
+v4,Z,125,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,3.0253,3.4559,154
+v4,Z,125,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,3.8571,4.7636,24
+v4,Z,126,XY,04P | Dual camera rear housing,head,-15.8984,15.8984,-23.0332,5.2509,314
+v4,Z,126,XY,04P | Lower rear cooling bank,head,-8.905,8.905,4.4108,4.9809,96
+v4,Z,126,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-26.0,-22.7892,22
+v4,Z,126,XY,04P | Offset rising pan arm,arm,-7.4932,7.4931,24.258,34.5198,256
+v4,Z,126,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,3.1103,3.6109,154
+v4,Z,126,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,3.9421,4.8485,24
+v4,Z,126,XY,04P | Roll motor rotor flange,roll,-4.4984,4.4984,17.14,23.97,59
+v4,Z,127,XY,04P | Dual camera rear housing,head,-15.9,15.9,-23.0755,5.3938,326
+v4,Z,127,XY,04P | Left tilt side casing,pitch,-24.0348,-16.18,-16.2589,-7.7411,74
+v4,Z,127,XY,04P | Lower rear cooling bank,head,-8.905,8.905,4.5533,5.1239,96
+v4,Z,127,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-26.0933,-22.8611,22
+v4,Z,127,XY,04P | Offset rising pan arm,arm,-7.6541,7.654,24.1701,34.5198,284
+v4,Z,127,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,3.1954,3.7539,170
+v4,Z,127,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,4.0271,4.9335,24
+v4,Z,127,XY,04P | Right tilt side casing,pitch,16.18,24.3348,-16.2589,-7.7411,74
+v4,Z,127,XY,04P | Roll motor rotor flange,roll,-6.456,6.456,16.01,23.97,87
+v4,Z,128,XY,04P | Dual camera rear housing,head,-15.9,15.9,-23.143,5.5242,341
+v4,Z,128,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-15.8254,-8.1746,38
+v4,Z,128,XY,04P | Left tilt side casing,pitch,-24.13,-16.18,-18.1336,-5.8664,96
+v4,Z,128,XY,04P | Lower rear cooling bank,head,-8.905,8.905,4.6817,5.2531,96
+v4,Z,128,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-26.1867,-22.933,22
+v4,Z,128,XY,04P | Offset rising pan arm,arm,-7.9873,7.9871,24.1715,34.5198,275
+v4,Z,128,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,3.2804,3.8832,178
+v4,Z,128,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,4.112,5.0185,24
+v4,Z,128,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-15.8254,-8.1746,38
+v4,Z,128,XY,04P | Right tilt side casing,pitch,16.18,24.43,-18.1336,-5.8664,96
+v4,Z,128,XY,04P | Roll motor face,roll,-3.8254,3.8254,33.5935,34.6429,60
+v4,Z,128,XY,04P | Roll motor rotor flange,roll,-7.8235,7.8235,16.01,23.97,108
+v4,Z,129,XY,04P | Dual camera rear housing,head,-15.9,15.9,-23.2211,5.638,358
+v4,Z,129,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-17.6631,-6.3369,38
+v4,Z,129,XY,04P | Left tilt side casing,pitch,-24.13,-16.18,-19.4206,-4.5794,118
+v4,Z,129,XY,04P | Lower rear cooling bank,head,-8.905,8.905,4.7966,5.3675,96
+v4,Z,129,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-26.28,-23.005,22
+v4,Z,129,XY,04P | Offset rising pan arm,arm,-8.4898,8.4897,24.1742,34.5198,236
+v4,Z,129,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,3.3654,3.9983,186
+v4,Z,129,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,4.197,5.1035,24
+v4,Z,129,XY,04P | Rear roll bridge,bridge,-1.04,1.04,22.76,22.76,1
+v4,Z,129,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-17.6631,-6.3369,40
+v4,Z,129,XY,04P | Right tilt side casing,pitch,16.18,24.43,-19.4206,-4.5794,118
+v4,Z,129,XY,04P | Roll motor face,roll,-5.6631,5.6631,33.5833,34.72,70
+v4,Z,129,XY,04P | Roll motor rotor flange,roll,-8.87,8.87,16.01,23.97,126
+v4,Z,130,XY,04P | Dual camera rear housing,head,-15.9,15.9,-23.3269,5.7374,378
+v4,Z,130,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-18.8946,-5.1054,40
+v4,Z,130,XY,04P | Left tilt side casing,pitch,-24.13,-16.18,-20.4018,-3.5982,136
+v4,Z,130,XY,04P | Left tilt support web,pitch,-21.452,-18.608,-5.4339,1.3484,72
+v4,Z,130,XY,04P | Lower rear cooling bank,head,-8.905,8.905,4.8974,5.4679,100
+v4,Z,130,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-26.43,-23.1206,22
+v4,Z,130,XY,04P | Offset rising pan arm,arm,-9.0932,9.0931,24.1879,34.5198,286
+v4,Z,130,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,3.4505,4.0979,198
+v4,Z,130,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,4.2819,5.1885,24
+v4,Z,130,XY,04P | Rear roll bridge,bridge,-9.3922,9.3922,17.1932,23.44,78
+v4,Z,130,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-18.8946,-5.1054,40
+v4,Z,130,XY,04P | Right tilt side casing,pitch,16.18,24.43,-20.4018,-3.5982,136
+v4,Z,130,XY,04P | Right tilt support web,pitch,18.608,21.452,-5.4339,1.3484,72
+v4,Z,130,XY,04P | Roll motor face,roll,-6.8946,6.8946,33.5731,34.72,82
+v4,Z,130,XY,04P | Roll motor rotor flange,roll,-9.7073,9.7073,16.01,23.97,138
+v4,Z,131,XY,04P | Dual camera rear housing,head,-15.9,15.9,-23.4877,5.8279,386
+v4,Z,131,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-19.8132,-4.1868,40
+v4,Z,131,XY,04P | Left tilt side casing,pitch,-24.13,-16.18,-21.1697,-2.8303,148
+v4,Z,131,XY,04P | Left tilt support web,pitch,-22.5963,-10.3091,-7.1,18.8305,250
+v4,Z,131,XY,04P | Lower rear cooling bank,head,-8.905,8.905,4.9878,5.558,100
+v4,Z,131,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-26.58,-23.2362,22
+v4,Z,131,XY,04P | Offset rising pan arm,arm,-9.7263,9.7262,24.2023,34.5198,333
+v4,Z,131,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,3.5355,4.188,206
+v4,Z,131,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,4.3669,5.2735,24
+v4,Z,131,XY,04P | Rear roll bridge,bridge,-12.751,12.751,14.0648,23.44,108
+v4,Z,131,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-19.8132,-4.1868,40
+v4,Z,131,XY,04P | Right tilt side casing,pitch,16.18,24.43,-21.1697,-2.8303,148
+v4,Z,131,XY,04P | Right tilt support web,pitch,10.3091,22.5963,-7.1,18.8305,250
+v4,Z,131,XY,04P | Roll motor face,roll,-7.8132,7.8132,33.563,34.72,88
+v4,Z,131,XY,04P | Roll motor rotor flange,roll,-10.3781,10.3781,16.01,23.97,150
+v4,Z,132,XY,04P | Dual camera rear housing,head,-15.9,15.9,-23.7208,5.9121,343
+v4,Z,132,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-20.5166,-3.4834,40
+v4,Z,132,XY,04P | Left tilt side casing,pitch,-24.13,-16.18,-21.7732,-2.2268,162
+v4,Z,132,XY,04P | Left tilt support web,pitch,-23.0027,-7.2834,-7.1,19.95,258
+v4,Z,132,XY,04P | Lower rear cooling bank,head,-8.905,8.905,5.0718,5.6422,100
+v4,Z,132,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-26.9067,-23.4878,22
+v4,Z,132,XY,04P | Offset rising pan arm,arm,-10.2975,10.2974,24.2161,34.5147,316
+v4,Z,132,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,3.6206,4.2721,218
+v4,Z,132,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,4.4519,5.3584,24
+v4,Z,132,XY,04P | Rear roll bridge,bridge,-14.2183,14.2183,13.18,23.44,129
+v4,Z,132,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-20.5166,-3.4834,40
+v4,Z,132,XY,04P | Right tilt side casing,pitch,16.18,24.43,-21.7732,-2.2268,162
+v4,Z,132,XY,04P | Right tilt support web,pitch,7.2834,23.0027,-7.1,19.95,258
+v4,Z,132,XY,04P | Roll motor face,roll,-8.5166,8.5166,33.32,34.72,82
+v4,Z,132,XY,04P | Roll motor rotor flange,roll,-10.9202,10.9202,16.01,23.97,164
+v4,Z,132,XY,04P | Roll motor stator,roll,-3.1216,3.1216,24.42,33.48,78
+v4,Z,133,XY,04P | Dual camera rear housing,head,-15.9,15.9,-23.98,5.99,281
+v4,Z,133,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-21.058,-2.942,40
+v4,Z,133,XY,04P | Left tilt side casing,pitch,-24.13,-16.18,-22.2541,-1.7459,174
+v4,Z,133,XY,04P | Left tilt support web,pitch,-23.1,-6.3823,-7.1,19.95,256
+v4,Z,133,XY,04P | Lower rear cooling bank,head,-8.905,8.905,5.15,5.7202,96
+v4,Z,133,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-27.2333,-23.6991,22
+v4,Z,133,XY,04P | Offset rising pan arm,arm,-10.7493,10.7492,24.2294,34.4856,303
+v4,Z,133,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,3.7056,4.3506,226
+v4,Z,133,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,4.5368,5.4434,24
+v4,Z,133,XY,04P | Rear roll bridge,bridge,-15.1198,15.1198,13.0,23.44,127
+v4,Z,133,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-21.058,-2.942,40
+v4,Z,133,XY,04P | Right tilt side casing,pitch,16.18,24.43,-22.2541,-1.7459,174
+v4,Z,133,XY,04P | Right tilt support web,pitch,6.3823,23.1,-7.1,19.95,256
+v4,Z,133,XY,04P | Roll motor face,roll,-9.058,9.058,33.32,34.72,74
+v4,Z,133,XY,04P | Roll motor rotor flange,roll,-11.3435,11.3435,16.01,23.97,176
+v4,Z,133,XY,04P | Roll motor stator,roll,-4.3864,4.3864,24.42,33.48,110
+v4,Z,134,XY,04P | Dual camera rear housing,head,-15.9,15.9,-24.2956,6.0639,285
+v4,Z,134,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-21.4666,-2.5334,38
+v4,Z,134,XY,04P | Left tilt side casing,pitch,-24.13,-16.18,-22.6074,-1.3926,166
+v4,Z,134,XY,04P | Left tilt support web,pitch,-23.1,-6.0423,-7.1,19.95,252
+v4,Z,134,XY,04P | Lower rear cooling bank,head,-8.905,8.905,5.2238,5.7939,96
+v4,Z,134,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-27.56,-23.6839,22
+v4,Z,134,XY,04P | Offset rising pan arm,arm,-11.0875,11.0874,24.2395,34.4798,301
+v4,Z,134,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,3.7907,4.4291,234
+v4,Z,134,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,4.6218,5.5284,24
+v4,Z,134,XY,04P | Rear roll bridge,bridge,-15.6954,15.6954,13.0,23.44,125
+v4,Z,134,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-21.4666,-2.5334,38
+v4,Z,134,XY,04P | Right tilt side casing,pitch,16.18,24.43,-22.6074,-1.3926,166
+v4,Z,134,XY,04P | Right tilt support web,pitch,6.0423,23.1,-7.1,19.95,252
+v4,Z,134,XY,04P | Roll motor face,roll,-9.4666,9.4666,33.32,34.72,60
+v4,Z,134,XY,04P | Roll motor rotor flange,roll,-11.6727,11.6727,16.01,23.97,186
+v4,Z,134,XY,04P | Roll motor stator,roll,-5.1702,5.1702,24.42,33.48,116
+v4,Z,135,XY,04P | Dual camera rear housing,head,-15.9,15.9,-24.6632,6.1361,266
+v4,Z,135,XY,04P | Left tilt bearing spindle,pitch,-20.65,-15.5,-14.2471,-9.7529,34
+v4,Z,135,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-21.7484,-2.2516,38
+v4,Z,135,XY,04P | Left tilt side casing,pitch,-24.13,-16.18,-22.867,-1.133,104
+v4,Z,135,XY,04P | Left tilt support web,pitch,-23.1,-6.005,-7.1,19.95,248
+v4,Z,135,XY,04P | Lower rear cooling bank,head,-8.905,8.905,5.2959,5.866,96
+v4,Z,135,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-28.13,-23.0903,22
+v4,Z,135,XY,04P | Offset rising pan arm,arm,-11.3374,11.3373,24.2424,34.4797,269
+v4,Z,135,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,3.8757,4.5087,160
+v4,Z,135,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,4.7067,5.6134,24
+v4,Z,135,XY,04P | Rear roll bridge,bridge,-16.013,16.013,13.0,23.44,123
+v4,Z,135,XY,04P | Right tilt bearing spindle,pitch,15.5,20.65,-14.2471,-9.7529,34
+v4,Z,135,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-21.7484,-2.2516,38
+v4,Z,135,XY,04P | Right tilt side casing,pitch,16.18,24.43,-22.867,-1.133,104
+v4,Z,135,XY,04P | Right tilt support web,pitch,6.005,23.1,-7.1,19.95,248
+v4,Z,135,XY,04P | Roll bearing spindle,roll,-2.1886,2.1886,22.5,31.4,34
+v4,Z,135,XY,04P | Roll motor face,roll,-9.7484,9.7484,33.32,34.72,58
+v4,Z,135,XY,04P | Roll motor rotor flange,roll,-11.906,11.906,16.01,23.97,106
+v4,Z,135,XY,04P | Roll motor stator,roll,-5.6781,5.6781,24.42,33.48,68
+v4,Z,136,XY,04P | Accessory contact insulator,roll,-3.5494,3.5494,34.67,34.9484,26
+v4,Z,136,XY,04P | Dual camera rear housing,head,-15.9,15.9,-25.0089,6.2082,275
+v4,Z,136,XY,04P | Left tilt bearing spindle,pitch,-20.65,-15.5,-14.923,-9.077,34
+v4,Z,136,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-21.9299,-2.0701,40
+v4,Z,136,XY,04P | Left tilt side casing,pitch,-24.13,-16.18,-23.0246,-0.9754,72
+v4,Z,136,XY,04P | Left tilt support web,pitch,-23.1,-6.005,-7.1,19.95,248
+v4,Z,136,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-28.61,-22.82,22
+v4,Z,136,XY,04P | Offset rising pan arm,arm,-11.4873,11.4872,24.2424,34.4798,306
+v4,Z,136,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,3.9607,4.5885,160
+v4,Z,136,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,4.7917,5.6984,24
+v4,Z,136,XY,04P | Rear roll bridge,bridge,-16.1434,16.1434,13.0,23.44,123
+v4,Z,136,XY,04P | Right tilt bearing spindle,pitch,15.5,20.65,-14.923,-9.077,34
+v4,Z,136,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-21.9299,-2.0701,40
+v4,Z,136,XY,04P | Right tilt side casing,pitch,16.18,24.43,-23.0246,-0.9754,72
+v4,Z,136,XY,04P | Right tilt support web,pitch,6.005,23.1,-7.1,19.95,248
+v4,Z,136,XY,04P | Roll bearing spindle,roll,-2.8791,2.8791,22.5,31.4,34
+v4,Z,136,XY,04P | Roll motor face,roll,-9.9299,9.9299,33.32,34.72,58
+v4,Z,136,XY,04P | Roll motor rotor flange,roll,-12.049,12.049,16.01,23.97,76
+v4,Z,136,XY,04P | Roll motor stator,roll,-5.9791,5.9791,24.42,33.48,36
+v4,Z,136,XY,04P | Upper rear cooling bank,head,-8.905,8.905,5.368,5.9381,96
+v4,Z,137,XY,04P | Accessory contact insulator,roll,-4.2471,4.2471,34.67,34.99,28
+v4,Z,137,XY,04P | Dual camera rear housing,head,-15.9,15.9,-25.1438,6.2813,306
+v4,Z,137,XY,04P | Gold accessory contact 1,roll,-3.1962,-2.3538,34.94,35.06,36
+v4,Z,137,XY,04P | Gold accessory contact 2,roll,-1.3462,-0.5038,34.94,35.06,36
+v4,Z,137,XY,04P | Gold accessory contact 3,roll,0.5038,1.3462,34.94,35.06,36
+v4,Z,137,XY,04P | Gold accessory contact 4,roll,2.3538,3.1962,34.94,35.06,36
+v4,Z,137,XY,04P | Left tilt bearing spindle,pitch,-20.65,-15.5,-15.1691,-8.8309,34
+v4,Z,137,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-22.0018,-1.9982,38
+v4,Z,137,XY,04P | Left tilt side casing,pitch,-24.13,-16.18,-23.0918,-0.9082,48
+v4,Z,137,XY,04P | Left tilt support web,pitch,-23.1,-6.005,-7.1,19.95,248
+v4,Z,137,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-28.7715,-22.82,22
+v4,Z,137,XY,04P | Offset rising pan arm,arm,-11.5533,11.5533,24.2428,34.4798,308
+v4,Z,137,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,4.0458,4.6683,238
+v4,Z,137,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,4.8766,5.7834,24
+v4,Z,137,XY,04P | Rear roll bridge,bridge,-16.15,16.15,13.0,23.44,118
+v4,Z,137,XY,04P | Right tilt bearing spindle,pitch,15.5,20.65,-15.1691,-8.8309,34
+v4,Z,137,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-22.0018,-1.9982,38
+v4,Z,137,XY,04P | Right tilt side casing,pitch,16.18,24.43,-23.0918,-0.9082,48
+v4,Z,137,XY,04P | Right tilt support web,pitch,6.005,23.1,-7.1,19.95,248
+v4,Z,137,XY,04P | Roll bearing spindle,roll,-3.1289,3.1289,22.5,31.4,34
+v4,Z,137,XY,04P | Roll motor face,roll,-10.0018,10.0018,33.32,34.72,50
+v4,Z,137,XY,04P | Roll motor rotor flange,roll,-12.1118,12.1118,16.01,23.97,44
+v4,Z,137,XY,04P | Roll motor stator,roll,-6.1018,6.1018,24.42,33.48,28
+v4,Z,137,XY,04P | Upper rear cooling bank,head,-8.905,8.905,5.4422,6.0124,96
+v4,Z,138,XY,04P | Accessory contact insulator,roll,-4.1085,4.1085,34.67,34.99,29
+v4,Z,138,XY,04P | Dual camera rear housing,head,-15.9,15.9,-25.0619,6.3621,278
+v4,Z,138,XY,04P | Left tilt bearing spindle,pitch,-20.65,-15.5,-15.0887,-8.9113,34
+v4,Z,138,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-21.9792,-2.0208,38
+v4,Z,138,XY,04P | Left tilt side casing,pitch,-24.13,-16.18,-23.0739,-0.9261,56
+v4,Z,138,XY,04P | Left tilt support web,pitch,-23.1,-6.005,-7.1,19.95,248
+v4,Z,138,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-28.6224,-22.82,22
+v4,Z,138,XY,04P | Offset rising pan arm,arm,-11.5325,11.5324,24.2437,34.4793,235
+v4,Z,138,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,4.1308,4.7487,226
+v4,Z,138,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,4.9616,5.8683,24
+v4,Z,138,XY,04P | Rear roll bridge,bridge,-16.15,16.15,13.0,23.44,120
+v4,Z,138,XY,04P | Right tilt bearing spindle,pitch,15.5,20.65,-15.0887,-8.9113,34
+v4,Z,138,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-21.9792,-2.0208,38
+v4,Z,138,XY,04P | Right tilt side casing,pitch,16.18,24.43,-23.0739,-0.9261,56
+v4,Z,138,XY,04P | Right tilt support web,pitch,6.005,23.1,-7.1,19.95,248
+v4,Z,138,XY,04P | Roll bearing spindle,roll,-3.0476,3.0476,22.5,31.4,34
+v4,Z,138,XY,04P | Roll motor face,roll,-9.9792,9.9792,33.32,34.72,50
+v4,Z,138,XY,04P | Roll motor rotor flange,roll,-12.0954,12.0954,16.01,23.97,58
+v4,Z,138,XY,04P | Roll motor stator,roll,-6.0624,6.0624,24.42,33.48,36
+v4,Z,138,XY,04P | Upper rear cooling bank,head,-8.905,8.905,5.5222,6.0925,96
+v4,Z,139,XY,04P | Dual camera rear housing,head,-15.9,15.9,-24.8188,6.4492,269
+v4,Z,139,XY,04P | Left tilt bearing spindle,pitch,-20.65,-15.5,-14.6545,-9.3455,38
+v4,Z,139,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-21.8512,-2.1488,38
+v4,Z,139,XY,04P | Left tilt side casing,pitch,-24.13,-16.18,-22.9553,-1.0447,88
+v4,Z,139,XY,04P | Left tilt support web,pitch,-23.1,-6.005,-7.1,19.95,248
+v4,Z,139,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-28.34,-23.0679,22
+v4,Z,139,XY,04P | Offset rising pan arm,arm,-11.4254,11.4253,24.2474,34.4797,302
+v4,Z,139,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,4.2159,4.8293,218
+v4,Z,139,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,5.0466,5.9533,24
+v4,Z,139,XY,04P | Rear roll bridge,bridge,-16.1107,16.1107,13.0,23.44,123
+v4,Z,139,XY,04P | Right tilt bearing spindle,pitch,15.5,20.65,-14.6545,-9.3455,38
+v4,Z,139,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-21.8512,-2.1488,38
+v4,Z,139,XY,04P | Right tilt side casing,pitch,16.18,24.43,-22.9553,-1.0447,88
+v4,Z,139,XY,04P | Right tilt support web,pitch,6.005,23.1,-7.1,19.95,248
+v4,Z,139,XY,04P | Roll bearing spindle,roll,-2.6069,2.6069,22.5,31.4,34
+v4,Z,139,XY,04P | Roll motor face,roll,-9.8512,9.8512,33.32,34.72,56
+v4,Z,139,XY,04P | Roll motor rotor flange,roll,-11.9886,11.9886,16.01,23.97,84
+v4,Z,139,XY,04P | Roll motor stator,roll,-5.8507,5.8507,24.42,33.48,52
+v4,Z,139,XY,04P | Upper rear cooling bank,head,-8.905,8.905,5.6092,6.1793,96
+v4,Z,140,XY,04P | Dual camera rear housing,head,-15.9,15.9,-24.5191,6.5389,275
+v4,Z,140,XY,04P | Left tilt bearing spindle,pitch,-20.65,-15.5,-13.5964,-10.4036,38
+v4,Z,140,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-21.6206,-2.3794,38
+v4,Z,140,XY,04P | Left tilt side casing,pitch,-24.13,-16.18,-22.7504,-1.2496,124
+v4,Z,140,XY,04P | Left tilt support web,pitch,-23.1,-6.005,-7.1,19.95,252
+v4,Z,140,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-27.915,-23.9744,22
+v4,Z,140,XY,04P | Offset rising pan arm,arm,-11.2231,11.223,24.2429,34.4787,289
+v4,Z,140,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,4.3009,4.9098,210
+v4,Z,140,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,5.1315,6.0383,24
+v4,Z,140,XY,04P | Rear roll bridge,bridge,-15.8813,15.8813,13.0,23.44,125
+v4,Z,140,XY,04P | Right tilt bearing spindle,pitch,15.5,20.65,-13.5964,-10.4036,34
+v4,Z,140,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-21.6206,-2.3794,38
+v4,Z,140,XY,04P | Right tilt side casing,pitch,16.18,24.43,-22.7504,-1.2496,124
+v4,Z,140,XY,04P | Right tilt support web,pitch,6.005,23.1,-7.1,19.95,252
+v4,Z,140,XY,04P | Roll bearing spindle,roll,-1.5126,1.5126,22.5,31.4,32
+v4,Z,140,XY,04P | Roll motor face,roll,-9.6206,9.6206,33.32,34.72,60
+v4,Z,140,XY,04P | Roll motor rotor flange,roll,-11.7972,11.7972,16.01,23.97,130
+v4,Z,140,XY,04P | Roll motor stator,roll,-5.4544,5.4544,24.42,33.48,76
+v4,Z,140,XY,04P | Upper rear cooling bank,head,-8.905,8.905,5.6989,6.269,96
+v4,Z,141,XY,04P | Dual camera rear housing,head,-15.9,15.9,-24.2258,6.6283,318
+v4,Z,141,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-21.2784,-2.7216,40
+v4,Z,141,XY,04P | Left tilt side casing,pitch,-24.13,-16.18,-22.4424,-1.5576,182
+v4,Z,141,XY,04P | Left tilt support web,pitch,-23.1,-6.1661,-7.1,19.95,253
+v4,Z,141,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-27.49,-23.9271,22
+v4,Z,141,XY,04P | Offset rising pan arm,arm,-10.9331,10.933,24.2461,34.4793,298
+v4,Z,141,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,4.386,4.9904,202
+v4,Z,141,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,5.2165,6.1233,24
+v4,Z,141,XY,04P | Rear roll bridge,bridge,-15.4452,15.4452,13.0,23.44,120
+v4,Z,141,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-21.2784,-2.7216,40
+v4,Z,141,XY,04P | Right tilt side casing,pitch,16.18,24.43,-22.4424,-1.5576,182
+v4,Z,141,XY,04P | Right tilt support web,pitch,6.1661,23.1,-7.1,19.95,253
+v4,Z,141,XY,04P | Roll motor face,roll,-9.2784,9.2784,33.32,34.72,70
+v4,Z,141,XY,04P | Roll motor rotor flange,roll,-11.521,11.521,16.01,23.97,184
+v4,Z,141,XY,04P | Roll motor stator,roll,-4.8224,4.8224,24.42,33.48,122
+v4,Z,141,XY,04P | Upper rear cooling bank,head,-8.905,8.905,5.7881,6.3583,96
+v4,Z,142,XY,04P | Dual camera rear housing,head,-15.9,15.9,-24.0018,6.7123,385
+v4,Z,142,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-20.8052,-3.1948,40
+v4,Z,142,XY,04P | Left tilt side casing,pitch,-24.13,-16.18,-22.0275,-1.9725,170
+v4,Z,142,XY,04P | Left tilt support web,pitch,-23.0789,-6.7334,-7.1,19.95,259
+v4,Z,142,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-27.28,-23.7756,22
+v4,Z,142,XY,04P | Offset rising pan arm,arm,-10.5327,10.5326,24.3,34.4797,340
+v4,Z,142,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,4.471,5.0724,194
+v4,Z,142,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,5.3014,6.2083,24
+v4,Z,142,XY,04P | Rear roll bridge,bridge,-14.7202,14.7202,13.0,23.44,130
+v4,Z,142,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-20.8052,-3.1948,40
+v4,Z,142,XY,04P | Right tilt side casing,pitch,16.18,24.43,-22.0275,-1.9725,170
+v4,Z,142,XY,04P | Right tilt support web,pitch,6.7334,23.0789,-7.1,19.95,259
+v4,Z,142,XY,04P | Roll motor face,roll,-8.8052,8.8052,33.32,34.72,78
+v4,Z,142,XY,04P | Roll motor rotor flange,roll,-11.1467,11.1467,16.01,23.97,168
+v4,Z,142,XY,04P | Roll motor stator,roll,-3.8382,3.8382,24.42,33.48,94
+v4,Z,142,XY,04P | Upper rear cooling bank,head,-8.905,8.905,5.871,6.4421,100
+v4,Z,143,XY,04P | Dual camera rear housing,head,-15.9,15.9,-23.8099,6.7838,452
+v4,Z,143,XY,04P | Left tilt motor end cap,pitch,-24.55,-24.16,-20.1878,-3.8122,40
+v4,Z,143,XY,04P | Left tilt side casing,pitch,-24.13,-16.18,-21.4885,-2.5115,154
+v4,Z,143,XY,04P | Left tilt support web,pitch,-22.858,-8.4163,-7.1,19.95,263
+v4,Z,143,XY,04P | Milled dual-pocket optical face,head,-15.875,15.875,-27.07,-23.6138,22
+v4,Z,143,XY,04P | Offset rising pan arm,arm,-10.0245,10.0244,24.3757,34.4798,380
+v4,Z,143,XY,04P | Rear grille dark cavity liner,head,-12.1,12.1,4.556,5.1439,186
+v4,Z,143,XY,04P | Rear grille recessed bezel,head,-12.23,12.23,5.3864,6.2933,24
+v4,Z,143,XY,04P | Rear roll bridge,bridge,-13.579,13.579,13.405,23.44,122
+v4,Z,143,XY,04P | Right tilt motor end cap,pitch,24.46,24.85,-20.1878,-3.8122,40
+v4,Z,143,XY,04P | Right tilt side casing,pitch,16.18,24.43,-21.4885,-2.5115,154
+v4,Z,143,XY,04P | Right tilt support web,pitch,8.4163,22.858,-7.1,19.95,263
+v4,Z,143,XY,04P | Roll motor face,roll,-8.1878,8.1878,33.32,34.72,92
+v4,Z,143,XY,04P | Roll motor rotor flange,roll,-10.6619,10.6619,16.01,23.97,158
+v4,Z,143,XY,04P | Roll motor stator,roll,-2.059,2.059,24.42,33.48,54
+v4,Z,143,XY,04P | Upper rear cooling bank,head,-8.905,8.905,5.9429,6.5139,100

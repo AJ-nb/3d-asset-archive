@@ -1,0 +1,275 @@
+{
+  "source": "D:\\oc\\output\\mavic-4-pro\\DJI-Mavic-4-Pro.blend",
+  "blender_version": "5.2.3 LTS",
+  "fps": 24.0,
+  "frame_start_end_step": [
+    1,
+    360,
+    1
+  ],
+  "width_height_percentage": [
+    1920,
+    1080,
+    100
+  ],
+  "camera_markers": [
+    {
+      "frame": 1,
+      "name": "01  /  Front three-quarter",
+      "camera": "01  /  Front three-quarter"
+    },
+    {
+      "frame": 65,
+      "name": "02  /  Leading arm to optics",
+      "camera": "02  /  Leading arm to optics"
+    },
+    {
+      "frame": 119,
+      "name": "03  /  Infinity Gimbal  |  locked",
+      "camera": "03  /  Infinity Gimbal  |  locked"
+    },
+    {
+      "frame": 247,
+      "name": "04  /  Plan view",
+      "camera": "04  /  Plan view"
+    },
+    {
+      "frame": 279,
+      "name": "05  /  Closing hero",
+      "camera": "05  /  Closing hero"
+    }
+  ],
+  "blend_sha256": "af8225e6eed81a60d70632b6c5d4590d3e05264e093dadfd23a4a1f13515dab5",
+  "format_ok": true,
+  "markers_ok": true,
+  "aircraft": {
+    "frame": 119,
+    "state": "unfolded, propellers and removable prop hubs excluded",
+    "geometry_objects": 160,
+    "dimensions": {
+      "X_width": {
+        "measured_mm": 390.5,
+        "dji_published_mm": 390.5,
+        "difference_mm": 0.0,
+        "difference_percent": 0.0,
+        "matches_at_published_precision": true,
+        "min_world_mm": -195.25,
+        "max_world_mm": 195.25,
+        "min_part": "Front.L | sculpted lower motor cup",
+        "max_part": "Front.R | sculpted lower motor cup"
+      },
+      "Y_length": {
+        "measured_mm": 328.7,
+        "dji_published_mm": 328.7,
+        "difference_mm": 0.0,
+        "difference_percent": 0.0,
+        "matches_at_published_precision": true,
+        "min_world_mm": -164.9,
+        "max_world_mm": 163.8,
+        "min_part": "Front.L | sculpted lower motor cup",
+        "max_part": "Rear.L | sculpted lower motor cup"
+      },
+      "Z_height": {
+        "measured_mm": 135.2,
+        "dji_published_mm": 135.2,
+        "difference_mm": 0.0,
+        "difference_percent": 0.0,
+        "matches_at_published_precision": true,
+        "min_world_mm": -3.284,
+        "max_world_mm": 131.916,
+        "min_part": "Front.L | swept front landing foot",
+        "max_part": "Vision | upward fisheye port"
+      }
+    }
+  },
+  "rotors": [
+    {
+      "control": "Front.L | propeller spin",
+      "parent": "Front.L | motor station",
+      "blades": 2,
+      "height_above_station_mm": 25.0,
+      "motor_cup": [
+        "Front.L | sculpted lower motor cup"
+      ],
+      "ok": true
+    },
+    {
+      "control": "Front.R | propeller spin",
+      "parent": "Front.R | motor station",
+      "blades": 2,
+      "height_above_station_mm": 25.0,
+      "motor_cup": [
+        "Front.R | sculpted lower motor cup"
+      ],
+      "ok": true
+    },
+    {
+      "control": "Rear.L | propeller spin",
+      "parent": "Rear.L | motor station",
+      "blades": 2,
+      "height_above_station_mm": 25.0,
+      "motor_cup": [
+        "Rear.L | sculpted lower motor cup"
+      ],
+      "ok": true
+    },
+    {
+      "control": "Rear.R | propeller spin",
+      "parent": "Rear.R | motor station",
+      "blades": 2,
+      "height_above_station_mm": 25.0,
+      "motor_cup": [
+        "Rear.R | sculpted lower motor cup"
+      ],
+      "ok": true
+    }
+  ],
+  "locked_shot": {
+    "frames": [
+      119,
+      246
+    ],
+    "camera": "03  /  Infinity Gimbal  |  locked",
+    "all_frames_used_same_camera": true,
+    "external_camera_aircraft_and_body_world_matrix_max_delta": 0.0,
+    "external_camera_intrinsics_max_delta": 0.0,
+    "optics_parented_to_roll": [
+      "Hasselblad 28 mm • coated objective",
+      "Medium tele 70 mm • coated objective",
+      "Tele 168 mm • coated objective"
+    ],
+    "signed_local_y_roll_deg": 360.00001,
+    "peak_abs_speed_deg_s": 88.16529,
+    "peak_at_frame": 143.0,
+    "speed_limit_deg_s": 100,
+    "speed_method": "FCurve linear or analytic cubic Bezier dy/dx extrema",
+    "ok": true
+  },
+  "wide_shot_blade_framing": {
+    "method": "Every evaluated blade vertex projected through the active camera on every target frame.",
+    "acceptance": "Eight blades inside all four render edges and camera clipping planes.",
+    "pixel_measurement_frame": [
+      1920,
+      1080
+    ],
+    "blades_checked": 8,
+    "frames_checked": 146,
+    "global_minimum_margin": {
+      "edge": "right",
+      "px": 70.968,
+      "percent_of_full_axis": 3.6962,
+      "frame": 356,
+      "blade": "Front.R | blade 1"
+    },
+    "shots": [
+      {
+        "frames": [
+          1,
+          64
+        ],
+        "frames_checked": 64,
+        "edge_minima": {
+          "left": {
+            "px": 85.825,
+            "percent_of_full_axis": 4.47,
+            "frame": 64,
+            "blade": "Front.L | blade 2"
+          },
+          "right": {
+            "px": 172.606,
+            "percent_of_full_axis": 8.9899,
+            "frame": 20,
+            "blade": "Rear.R | blade 1"
+          },
+          "bottom": {
+            "px": 285.116,
+            "percent_of_full_axis": 26.3996,
+            "frame": 1,
+            "blade": "Front.R | blade 1"
+          },
+          "top": {
+            "px": 291.509,
+            "percent_of_full_axis": 26.9916,
+            "frame": 1,
+            "blade": "Rear.L | blade 2"
+          }
+        },
+        "minimum_margin": {
+          "edge": "left",
+          "px": 85.825,
+          "percent_of_full_axis": 4.47,
+          "frame": 64,
+          "blade": "Front.L | blade 2"
+        },
+        "outside_frames": [],
+        "depth_or_visibility_failure_frames": [],
+        "ok": true
+      },
+      {
+        "frames": [
+          279,
+          360
+        ],
+        "frames_checked": 82,
+        "edge_minima": {
+          "left": {
+            "px": 281.452,
+            "percent_of_full_axis": 14.659,
+            "frame": 279,
+            "blade": "Rear.L | blade 2"
+          },
+          "right": {
+            "px": 70.968,
+            "percent_of_full_axis": 3.6962,
+            "frame": 356,
+            "blade": "Front.R | blade 1"
+          },
+          "bottom": {
+            "px": 377.727,
+            "percent_of_full_axis": 34.9747,
+            "frame": 279,
+            "blade": "Front.L | blade 2"
+          },
+          "top": {
+            "px": 327.892,
+            "percent_of_full_axis": 30.3603,
+            "frame": 279,
+            "blade": "Rear.R | blade 1"
+          }
+        },
+        "minimum_margin": {
+          "edge": "right",
+          "px": 70.968,
+          "percent_of_full_axis": 3.6962,
+          "frame": 356,
+          "blade": "Front.R | blade 1"
+        },
+        "outside_frames": [],
+        "depth_or_visibility_failure_frames": [],
+        "ok": true
+      }
+    ],
+    "ok": true
+  },
+  "resources": {
+    "external_datablocks": [
+      {
+        "kind": "fonts",
+        "name": "Barlow Semi Condensed SemiBold",
+        "stored_path": "//type\\BarlowSemiCondensed-SemiBold.ttf",
+        "packed": true
+      },
+      {
+        "kind": "sounds",
+        "name": "Studio-score.wav",
+        "stored_path": "//audio\\Studio-score.wav",
+        "packed": true
+      }
+    ],
+    "ok": true,
+    "sound_strip_count": 1
+  },
+  "checks_passed": true,
+  "dimension_interpretation": "Measured differences are reported per axis; these are visual estimates, no manufacturing tolerance claimed.",
+  "checks_passed_scope": "Delivery settings, camera markers, roll, motion hierarchy, assets and full-product blade framing; dimensions are reported independently."
+}

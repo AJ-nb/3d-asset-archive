@@ -1,0 +1,80 @@
+{
+  "id": "rig",
+  "file": "05-折叠机构与动作.png",
+  "sha256": "638afe4a93cce41f4c20b1f911efdc892d9e878ceecb6b508c3a4f9f113292d9",
+  "screen_px": [
+    2560,
+    1369
+  ],
+  "captured_utc": "2026-11-27T08:31:37.294917+00:00",
+  "method": "bpy.ops.screen.screenshot (full Blender application window, uncropped)",
+  "blender": "5.2.3 LTS",
+  "source": "D:\\oc\\output\\mavic-4-pro-fit-work\\rear-shoulder\\Mavic-4-Pro-Rear-Fit-Final.blend",
+  "source_sha256": "57b641958dae8172326e534ede99674fdff11af6f9df332058352f71fc6e3463",
+  "scene": "Mavic 4 Pro | Product studio & FK",
+  "frame": 52,
+  "description": "正式工程第52帧的折叠中间态，选中左右后臂折叠骨骼，下方可见工程内实际的关键帧。",
+  "mode": "POSE",
+  "active": "Mavic 4 Pro | Mechanical FK",
+  "viewport_px": [
+    2100,
+    707
+  ],
+  "viewport_subject_NDC_bounds": [
+    [
+      -0.39059650897979736,
+      -0.7699998021125793
+    ],
+    [
+      0.3905964493751526,
+      0.7699999213218689
+    ]
+  ],
+  "editors": [
+    {
+      "type": "PROPERTIES",
+      "ui_type": "PROPERTIES",
+      "x": 2105,
+      "y": 23,
+      "w": 453,
+      "h": 1075
+    },
+    {
+      "type": "OUTLINER",
+      "ui_type": "OUTLINER",
+      "x": 2105,
+      "y": 1101,
+      "w": 453,
+      "h": 242
+    },
+    {
+      "type": "DOPESHEET_EDITOR",
+      "ui_type": "TIMELINE",
+      "x": 2,
+      "y": 23,
+      "w": 2100,
+      "h": 96
+    },
+    {
+      "type": "VIEW_3D",
+      "ui_type": "VIEW_3D",
+      "x": 2,
+      "y": 636,
+      "w": 2100,
+      "h": 707
+    },
+    {
+      "type": "DOPESHEET_EDITOR",
+      "ui_type": "DOPESHEET",
+      "x": 2,
+      "y": 122,
+      "w": 2100,
+      "h": 511
+    }
+  ],
+  "bones_selected": [
+    "Rear.L / arm fold",
+    "Rear.R / arm fold"
+  ],
+  "keyed_action": "Mechanical inspection | deployed - motion - deployed"
+}

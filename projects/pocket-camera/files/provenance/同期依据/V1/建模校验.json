@@ -1,0 +1,97 @@
+{
+  "model_min_xyz_mm": [
+    -26.9,
+    -16.745,
+    0.0
+  ],
+  "model_max_xyz_mm": [
+    26.9,
+    16.732,
+    159.5
+  ],
+  "model_width_depth_length_mm": [
+    53.8,
+    33.477,
+    159.5
+  ],
+  "part_counts": {
+    "mesh_objects": 103,
+    "surface_marks": 30,
+    "vertices": 81591,
+    "faces": 72916
+  },
+  "topology_findings": [],
+  "published_order_width_depth_length_mm": [
+    63.3,
+    33.5,
+    159.5
+  ],
+  "published_pose_unspecified": true,
+  "landscape_pose_targets_mm": [
+    53.8,
+    33.5,
+    159.5
+  ],
+  "landscape_pose_target_notes": [
+    "Width: 281 px in official store front image, independently scaled by the OLED active width.",
+    "Depth: nominal specification used as a reconstruction target, without independent measurements.",
+    "Length: scaled to published overall length in the landscape front reconstruction."
+  ],
+  "landscape_pose_target_deltas_mm": [
+    0.0,
+    -0.023,
+    0.0
+  ],
+  "landscape_pose_target_tolerance_mm": 0.25,
+  "landscape_pose_target_pass": true,
+  "rig": {
+    "screen": {
+      "angle_test_degrees": -90,
+      "child_meshes": 4,
+      "child_meshes_moved": 4,
+      "outside_meshes_moved": 0,
+      "pass": true
+    },
+    "pan": {
+      "angle_test_degrees": 10,
+      "child_meshes": 28,
+      "child_meshes_moved": 28,
+      "outside_meshes_moved": 0,
+      "pass": true
+    },
+    "roll": {
+      "angle_test_degrees": 10,
+      "child_meshes": 24,
+      "child_meshes_moved": 24,
+      "outside_meshes_moved": 0,
+      "pass": true
+    },
+    "tilt": {
+      "angle_test_degrees": 10,
+      "child_meshes": 12,
+      "child_meshes_moved": 12,
+      "outside_meshes_moved": 0,
+      "pass": true
+    },
+    "assembly_root": "00 • Osmo Pocket 4P / master control"
+  },
+  "limitations": [
+    "Published envelope pose unspecified.",
+    "Published 63.3 mm width retained as metadata; official normal front image scales to 53.8 mm.",
+    "No gimbal motion-envelope or physical fit certification."
+  ],
+  "front_silhouette_validation": {
+    "reference_path": "references\\dji-store-front-device-transparent.png",
+    "render_path": "previews/ortho-front.png",
+    "reference_subject_pixels": [
+      280,
+      833
+    ],
+    "model_subject_pixels": [
+      238,
+      704
+    ],
+    "alignment": "Normalize height, center the object in X and Z; binary alpha >127; compare filled 2D product silhouette",
+    "silhouette_iou": 0.965
+  }
+}

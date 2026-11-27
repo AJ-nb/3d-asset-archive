@@ -1,0 +1,66 @@
+{
+  "all_pass": true,
+  "checks": {
+    "450 frames at exactly 30 fps with correct PTS and 15s duration": true,
+    "1080x1920 square pixels H264 4:2:0": true,
+    "15s 48kHz stereo AAC starts with video": true,
+    "All 13 shots start on seekable keyframes": true,
+    "450 distinct decoded pictures": true,
+    "No white, black, or low-contrast blank frame": true,
+    "Every encoded frame matches its own source to under 7 RMS at 144x256": true,
+    "No unexpected large image cut between scheduled edits": true,
+    "Encoded audio integrated loudness and true peak": true
+  },
+  "size_bytes": 13782681,
+  "sha256": "2918a68d932689d94e4bbb4bdfeaf6e160b137a73b37aee38a7db6c9f2c8bafa",
+  "cut_frames": [
+    1,
+    25,
+    49,
+    73,
+    121,
+    169,
+    205,
+    241,
+    277,
+    313,
+    337,
+    373,
+    409
+  ],
+  "unique_decoded_frames": 450,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "duration_seconds": 15,
+  "worst_encoded_source_RMS_0_255": {
+    "frame": 23,
+    "source_rms": 3.037,
+    "diff_previous": 4.924,
+    "avg_y": 44.681,
+    "pspan": 118.736,
+    "white_pct": 0.0,
+    "black_pct": 2.949
+  },
+  "largest_within_shot_step_0_255": {
+    "frame": 57,
+    "source_rms": 2.408,
+    "diff_previous": 12.716,
+    "avg_y": 82.979,
+    "pspan": 230.127,
+    "white_pct": 0.326,
+    "black_pct": 6.958
+  },
+  "peak_percentage_white": 0.632,
+  "peak_percentage_black": 16.897,
+  "minimum_contrast_p99_p1_0_255": 108.818,
+  "audio_integrated_LUFS": -15.02,
+  "audio_true_peak_dBTP": -1.21,
+  "colors": {
+    "matrix": "bt709",
+    "transfer": "iec61966-2-1",
+    "primaries": "bt709"
+  }
+}

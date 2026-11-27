@@ -1,0 +1,178 @@
+[
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p\\DJI-Osmo-Pocket-4P-Classic-Black.blend",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p/DJI-Osmo-Pocket-4P-Classic-Black.blend",
+    "sha256": "dc24ae6d9d30a0b125d51ebdae2e0312c946a7796e3fb350e1d25547e4191708",
+    "bytes": 596671,
+    "kind": "editable_source",
+    "version": "V1"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v2\\DJI-Osmo-Pocket-4P-Classic-Black-V2.blend",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-v2/DJI-Osmo-Pocket-4P-Classic-Black-V2.blend",
+    "sha256": "a663f2038ad0b3c839f57bb35965af89f0f4e832449e3491f419001975b8a8a6",
+    "bytes": 932719,
+    "kind": "editable_source",
+    "version": "V2"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v3\\DJI-Osmo-Pocket-4P-Classic-Black-V3.blend",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-v3/DJI-Osmo-Pocket-4P-Classic-Black-V3.blend",
+    "sha256": "5bce02b0021a293164bda6154f0ece6a295b3a634e9f629e9c72b142136c114e",
+    "bytes": 1232098,
+    "kind": "editable_source",
+    "version": "V3"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v4\\DJI-Osmo-Pocket-4P-Classic-Black-V4.blend",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-v4/DJI-Osmo-Pocket-4P-Classic-Black-V4.blend",
+    "sha256": "c0e715c0597f10135c5805e9452a74eba975d5f0e6ed92ce1e56cede4027d364",
+    "bytes": 4701029,
+    "kind": "editable_source",
+    "version": "V4"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v5\\DJI-Osmo-Pocket-4P-Classic-Black-V5.blend",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-v5/DJI-Osmo-Pocket-4P-Classic-Black-V5.blend",
+    "sha256": "25277afea822ea43c5a293408d657527f0b783053e8e703806c8c696da7577fc",
+    "bytes": 5155948,
+    "kind": "editable_source",
+    "version": "V5"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v6\\DJI-Osmo-Pocket-4P-V6.blend",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-v6/DJI-Osmo-Pocket-4P-V6.blend",
+    "sha256": "3355393794bb776ae0525a359e3735dfb677fe06496c98165042cf28c8567d95",
+    "bytes": 7699770,
+    "kind": "editable_source",
+    "version": "V6"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\DJI-Osmo-Pocket-4P-V7.blend",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-v7/DJI-Osmo-Pocket-4P-V7.blend",
+    "sha256": "bfe87db4162421066892bbb4beccead4ad88349b44713d4951a2d47e43aeefc3",
+    "bytes": 10663660,
+    "kind": "editable_source",
+    "version": "V7"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\DJI-Osmo-Pocket-4P-V7-Final.blend",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-v7/DJI-Osmo-Pocket-4P-V7-Final.blend",
+    "sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+    "bytes": 11478919,
+    "kind": "editable_source",
+    "version": "V7"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\Pulse-15s.blend",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/Pulse-15s.blend",
+    "sha256": "b8866c77f41802db12b36fb9fa67a4460bfb005564e59f91ff0f5d684e169a4b",
+    "bytes": 15609347,
+    "kind": "editable_source",
+    "version": "CG15"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\Pulse-15s.mp4",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/Pulse-15s.mp4",
+    "sha256": "2918a68d932689d94e4bbb4bdfeaf6e160b137a73b37aee38a7db6c9f2c8bafa",
+    "bytes": 13782681,
+    "kind": "film",
+    "version": "CG15"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\Pulse-contact.jpg",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/Pulse-contact.jpg",
+    "sha256": "2cead7a217abfb9bd8128cd8df5d7036fde768e9bd03b6b2de7cb77bf3951dfb",
+    "bytes": 756108,
+    "kind": "film_support",
+    "version": "CG15"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\分镜剪辑表.csv",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/分镜剪辑表.csv",
+    "sha256": "6e4213e073e32118dfab722cdeaf003eafee23f057b27e84a7dd29fd1b93030f",
+    "bytes": 1452,
+    "kind": "film_support",
+    "version": "CG15"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\镜头数据.csv",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/镜头数据.csv",
+    "sha256": "09680b03e9f0b548595987a54d9075b227ad4ff64ed348ddcd8f8c4454e2df3c",
+    "bytes": 13351,
+    "kind": "film_support",
+    "version": "CG15"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\15秒CG分镜脚本.md",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/15秒CG分镜脚本.md",
+    "sha256": "52391eb31081c52dd92062b08cf63beb233ee5a783793f947b4a55863c450503",
+    "bytes": 4737,
+    "kind": "film_support",
+    "version": "CG15"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\15秒执行分镜.md",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/15秒执行分镜.md",
+    "sha256": "6593b8549767bd7ba2cfd28d939ff67f94b6c07f823db47841d5d6e5216ddbfb",
+    "bytes": 3381,
+    "kind": "film_support",
+    "version": "CG15"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\production\\Pulse-score.wav",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/production/Pulse-score.wav",
+    "sha256": "945ba4636657f2a8b2059503a201bcedc76ad440109ba043252d389dacbb90e5",
+    "bytes": 4320102,
+    "kind": "film_support",
+    "version": "CG15"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\review\\film-qc.json",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/film-qc.json",
+    "sha256": "748886fb9c14886c4030d56ff5b186962be5c5fb43e7be59b866523d6ef6ab05",
+    "bytes": 1684,
+    "kind": "film_support",
+    "version": "CG15"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\review\\reopen-final.json",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/reopen-final.json",
+    "sha256": "c6923514f40e4c5c54608fa7496d1ec14d51d50bd06726c4b5a48cbaf9510cae",
+    "bytes": 7286,
+    "kind": "film_support",
+    "version": "CG15"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\review\\browser-playback.json",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/browser-playback.json",
+    "sha256": "53175b720758ca528008d2a611f8ef9ddfca9148046a3b0d39aeb70515bc07f4",
+    "bytes": 8926,
+    "kind": "film_support",
+    "version": "CG15"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\review\\decode-trial\\desktop-first.json",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/decode-trial/desktop-first.json",
+    "sha256": "78b929bf351418c00dd0acb125eb2ca1f95469f7d496d8c30afe760f55099de7",
+    "bytes": 8910,
+    "kind": "film_support",
+    "version": "CG15"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\review\\decode-trial\\browser-playback.json",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/decode-trial/browser-playback.json",
+    "sha256": "7c7c80dabfb247f391e225db0b1299960c7739c36f975c577686c13179e24135",
+    "bytes": 8894,
+    "kind": "film_support",
+    "version": "CG15"
+  },
+  {
+    "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\review\\previous-high-encode\\browser-playback-retest.json",
+    "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/previous-high-encode/browser-playback-retest.json",
+    "sha256": "83961c7057f3cf7a34b3e771fd769e824e964adf0b84628d9b1e111f33f91ae9",
+    "bytes": 7800,
+    "kind": "film_support",
+    "version": "CG15"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "blend_sha256": "57b641958dae8172326e534ede99674fdff11af6f9df332058352f71fc6e3463",
+  "objects": 203,
+  "mesh_pairs_with_intersections": 17,
+  "triangles": 542422,
+  "boundary": 0,
+  "indexed_boundary": 0,
+  "unused_vertices": 0,
+  "nonmanifold": 0,
+  "bad_winding": 0,
+  "inward": 0,
+  "degenerate": 0,
+  "duplicate": 0,
+  "self_pairs": 15,
+  "adjacent_folds": 0
+}

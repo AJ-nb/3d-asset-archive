@@ -1,0 +1,211 @@
+{
+  "type": "本次依 V1 原脚本复演",
+  "created_for_archive": true,
+  "historical_screenshot": false,
+  "source_file": "provenance/同期依据/V1/build_pocket.py",
+  "source_sha256": "a9441a6ffd0dcc405d522a7784ed8ba34f5448c26d77949f90aeb870e1f24105",
+  "original_source": "D:/oc/output/dji-osmo-pocket-4p/build_pocket.py",
+  "blender": "5.2.3 LTS",
+  "factory_empty_object_count": 0,
+  "process": "原文件哈希锁定。仅执行 main 的空场景初始化及 build_body，拦截首次主壳放样返回时的场景；不载入已有 .blend，不调用原脚本的写出、渲染及保存分支。",
+  "methods": {
+    "presentation": "本次增加固定的 Workbench 正交相机、10 mm 坐标网与中性显示色。坐标线及相机从产品零件统计排除。",
+    "orthographic_scale_m": 0.143,
+    "camera_offset_m": [
+      0.145,
+      -0.29,
+      0.105
+    ],
+    "aim_point_m": [
+      0,
+      0,
+      0.051
+    ]
+  },
+  "script": "provenance/replay_v1.py",
+  "stages": [
+    {
+      "stage": "01_空场景",
+      "title": "空场景与世界坐标",
+      "file": "05_同机位补拍/V1起模复演/01_空场景.png",
+      "sha256": "94140ad170e55c6ab1b170f1d286b1fa1c0a1695e4604a1ef018edd90351037a",
+      "pixels": [
+        1200,
+        1500
+      ],
+      "source_line": 717,
+      "visible_parts": 0,
+      "evaluated_triangles": 0,
+      "world_bounds_min_max_mm": [],
+      "part_names": []
+    },
+    {
+      "stage": "02_握把主壳放样",
+      "title": "握把主壳完成首次放样",
+      "file": "05_同机位补拍/V1起模复演/02_握把主壳放样.png",
+      "sha256": "5d448cd959629a41987d3e109e59a6348f391fc2d769624be2270f049e44d0ca",
+      "pixels": [
+        1200,
+        1500
+      ],
+      "source_line": 360,
+      "visible_parts": 1,
+      "evaluated_triangles": 1900,
+      "world_bounds_min_max_mm": [
+        [
+          -16.65,
+          -13.355,
+          1.4
+        ],
+        [
+          16.65,
+          16.75,
+          99.65
+        ]
+      ],
+      "part_names": [
+        "Handle • molded upper shell"
+      ]
+    },
+    {
+      "stage": "03_机身与横屏组件",
+      "title": "机身、操控件及横屏完成，云台尚未生成",
+      "file": "05_同机位补拍/V1起模复演/03_机身与横屏组件.png",
+      "sha256": "d8dc2a2db16c70639195662e6278b577f6957dc3451a8dcccf660670aa5c8a4f",
+      "pixels": [
+        1200,
+        1500
+      ],
+      "source_line": 733,
+      "visible_parts": 103,
+      "evaluated_triangles": 128323,
+      "world_bounds_min_max_mm": [
+        [
+          -26.9,
+          -16.745,
+          0.0
+        ],
+        [
+          26.9,
+          16.732,
+          99.65
+        ]
+      ],
+      "part_names": [
+        "Accessory latch • recess +1",
+        "Accessory latch • recess -1",
+        "Controls • lower fascia perimeter",
+        "Controls • lower grip fascia",
+        "Controls • shortcut button surround",
+        "Controls • shortcut panel border",
+        "Custom • C legend",
+        "Custom • button",
+        "Custom • recess",
+        "Display pivot • rear support",
+        "Display • OLED active area 2.0 in",
+        "Display • bonded dark cover",
+        "Display • carrier and outer frame",
+        "Display • perimeter gasket",
+        "Grip • diagonal rib 01",
+        "Grip • diagonal rib 02",
+        "Grip • diagonal rib 03",
+        "Grip • diagonal rib 04",
+        "Grip • diagonal rib 05",
+        "Grip • diagonal rib 06",
+        "Grip • diagonal rib 07",
+        "Grip • diagonal rib 08",
+        "Grip • diagonal rib 09",
+        "Grip • diagonal rib 10",
+        "Grip • diagonal rib 11",
+        "Grip • diagonal rib 12",
+        "Grip • diagonal rib 13",
+        "Grip • diagonal rib 14",
+        "Grip • diagonal rib 15",
+        "Grip • diagonal rib 16",
+        "Grip • diagonal rib 17",
+        "Grip • diagonal rib 18",
+        "Grip • diagonal rib 19",
+        "Grip • diagonal rib 20",
+        "Grip • diagonal rib 21",
+        "Handle • cap seam and internal ledge",
+        "Handle • lower cap and connector carrier",
+        "Handle • molded upper shell",
+        "Handle • rear molded elastomer insert",
+        "Joystick • molded thumb knurl",
+        "Joystick • raised collar",
+        "Joystick • recessed seal",
+        "Joystick • rocking cap",
+        "Lanyard • bridge",
+        "Lanyard • recessed channel",
+        "Lower fascia • OSMO",
+        "Microphone • rear inset gasket",
+        "Microphone • side +1",
+        "Microphone • side -1",
+        "REC • recess",
+        "REC • red ring",
+        "REC • smooth button",
+        "Speaker grille • bar 1",
+        "Speaker grille • bar 2",
+        "Speaker grille • bar 3",
+        "Speaker grille • lattice 1",
+        "Speaker grille • lattice 2",
+        "Speaker grille • lattice 3",
+        "Speaker grille • lattice 4",
+        "Speaker grille • lattice 5",
+        "Speaker grille • lattice 6",
+        "Speaker grille • lattice 7",
+        "Speaker grille • lattice 8",
+        "Speaker grille • lattice 9",
+        "Speaker • mesh bed",
+        "Status LED • green indicator",
+        "Status LED • surround",
+        "USB-C • cavity back",
+        "USB-C • pad 01/+1",
+        "USB-C • pad 01/-1",
+        "USB-C • pad 02/+1",
+        "USB-C • pad 02/-1",
+        "USB-C • pad 03/+1",
+        "USB-C • pad 03/-1",
+        "USB-C • pad 04/+1",
+        "USB-C • pad 04/-1",
+        "USB-C • pad 05/+1",
+        "USB-C • pad 05/-1",
+        "USB-C • pad 06/+1",
+        "USB-C • pad 06/-1",
+        "USB-C • pad 07/+1",
+        "USB-C • pad 07/-1",
+        "USB-C • pad 08/+1",
+        "USB-C • pad 08/-1",
+        "USB-C • pad 09/+1",
+        "USB-C • pad 09/-1",
+        "USB-C • pad 10/+1",
+        "USB-C • pad 10/-1",
+        "USB-C • pad 11/+1",
+        "USB-C • pad 11/-1",
+        "USB-C • pad 12/+1",
+        "USB-C • pad 12/-1",
+        "USB-C • recessed nickel lining",
+        "USB-C • tongue",
+        "Zoom • button",
+        "Zoom • magnifier outline",
+        "Zoom • magnifier stem",
+        "Zoom • plus",
+        "Zoom • plus.001",
+        "Zoom • recess",
+        "microSD • gasket in recess",
+        "microSD • lower pull tab",
+        "microSD • removable cover"
+      ]
+    }
+  ],
+  "vertical_contact_sheet": {
+    "file": "05_同机位补拍/V1起模复演/04_V1起模复演_竖版图板.jpg",
+    "sha256": "5b4214bcd1d17128aba4d6ca06d083a472e3d331f0303da91f478aa6259b10c8",
+    "pixels": [
+      1242,
+      1656
+    ],
+    "presentation": "原始三张 Blender 渲染同等裁幅、等比缩放、排版与文字标注。",
+    "script": "provenance/layout_replay_v1.py"
+  }
+}

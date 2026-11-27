@@ -1,0 +1,1221 @@
+{
+  "scope": "V1–V6 主模型、V7 基线及 Final、CG15 工程与成片",
+  "blender": "5.2.3 LTS",
+  "files": [
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p\\DJI-Osmo-Pocket-4P-Classic-Black.blend",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p/DJI-Osmo-Pocket-4P-Classic-Black.blend",
+      "sha256": "dc24ae6d9d30a0b125d51ebdae2e0312c946a7796e3fb350e1d25547e4191708",
+      "bytes": 596671,
+      "kind": "editable_source",
+      "version": "V1"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v2\\DJI-Osmo-Pocket-4P-Classic-Black-V2.blend",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-v2/DJI-Osmo-Pocket-4P-Classic-Black-V2.blend",
+      "sha256": "a663f2038ad0b3c839f57bb35965af89f0f4e832449e3491f419001975b8a8a6",
+      "bytes": 932719,
+      "kind": "editable_source",
+      "version": "V2"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v3\\DJI-Osmo-Pocket-4P-Classic-Black-V3.blend",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-v3/DJI-Osmo-Pocket-4P-Classic-Black-V3.blend",
+      "sha256": "5bce02b0021a293164bda6154f0ece6a295b3a634e9f629e9c72b142136c114e",
+      "bytes": 1232098,
+      "kind": "editable_source",
+      "version": "V3"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v4\\DJI-Osmo-Pocket-4P-Classic-Black-V4.blend",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-v4/DJI-Osmo-Pocket-4P-Classic-Black-V4.blend",
+      "sha256": "c0e715c0597f10135c5805e9452a74eba975d5f0e6ed92ce1e56cede4027d364",
+      "bytes": 4701029,
+      "kind": "editable_source",
+      "version": "V4"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v5\\DJI-Osmo-Pocket-4P-Classic-Black-V5.blend",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-v5/DJI-Osmo-Pocket-4P-Classic-Black-V5.blend",
+      "sha256": "25277afea822ea43c5a293408d657527f0b783053e8e703806c8c696da7577fc",
+      "bytes": 5155948,
+      "kind": "editable_source",
+      "version": "V5"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v6\\DJI-Osmo-Pocket-4P-V6.blend",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-v6/DJI-Osmo-Pocket-4P-V6.blend",
+      "sha256": "3355393794bb776ae0525a359e3735dfb677fe06496c98165042cf28c8567d95",
+      "bytes": 7699770,
+      "kind": "editable_source",
+      "version": "V6"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\DJI-Osmo-Pocket-4P-V7.blend",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-v7/DJI-Osmo-Pocket-4P-V7.blend",
+      "sha256": "bfe87db4162421066892bbb4beccead4ad88349b44713d4951a2d47e43aeefc3",
+      "bytes": 10663660,
+      "kind": "editable_source",
+      "version": "V7"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\DJI-Osmo-Pocket-4P-V7-Final.blend",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-v7/DJI-Osmo-Pocket-4P-V7-Final.blend",
+      "sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+      "bytes": 11478919,
+      "kind": "editable_source",
+      "version": "V7"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\Pulse-15s.blend",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/Pulse-15s.blend",
+      "sha256": "b8866c77f41802db12b36fb9fa67a4460bfb005564e59f91ff0f5d684e169a4b",
+      "bytes": 15609347,
+      "kind": "editable_source",
+      "version": "CG15"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\Pulse-15s.mp4",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/Pulse-15s.mp4",
+      "sha256": "2918a68d932689d94e4bbb4bdfeaf6e160b137a73b37aee38a7db6c9f2c8bafa",
+      "bytes": 13782681,
+      "kind": "film",
+      "version": "CG15"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\Pulse-contact.jpg",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/Pulse-contact.jpg",
+      "sha256": "2cead7a217abfb9bd8128cd8df5d7036fde768e9bd03b6b2de7cb77bf3951dfb",
+      "bytes": 756108,
+      "kind": "film_support",
+      "version": "CG15"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\分镜剪辑表.csv",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/分镜剪辑表.csv",
+      "sha256": "6e4213e073e32118dfab722cdeaf003eafee23f057b27e84a7dd29fd1b93030f",
+      "bytes": 1452,
+      "kind": "film_support",
+      "version": "CG15"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\镜头数据.csv",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/镜头数据.csv",
+      "sha256": "09680b03e9f0b548595987a54d9075b227ad4ff64ed348ddcd8f8c4454e2df3c",
+      "bytes": 13351,
+      "kind": "film_support",
+      "version": "CG15"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\15秒CG分镜脚本.md",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/15秒CG分镜脚本.md",
+      "sha256": "52391eb31081c52dd92062b08cf63beb233ee5a783793f947b4a55863c450503",
+      "bytes": 4737,
+      "kind": "film_support",
+      "version": "CG15"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\15秒执行分镜.md",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/15秒执行分镜.md",
+      "sha256": "6593b8549767bd7ba2cfd28d939ff67f94b6c07f823db47841d5d6e5216ddbfb",
+      "bytes": 3381,
+      "kind": "film_support",
+      "version": "CG15"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\production\\Pulse-score.wav",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/production/Pulse-score.wav",
+      "sha256": "945ba4636657f2a8b2059503a201bcedc76ad440109ba043252d389dacbb90e5",
+      "bytes": 4320102,
+      "kind": "film_support",
+      "version": "CG15"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\review\\film-qc.json",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/film-qc.json",
+      "sha256": "748886fb9c14886c4030d56ff5b186962be5c5fb43e7be59b866523d6ef6ab05",
+      "bytes": 1684,
+      "kind": "film_support",
+      "version": "CG15"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\review\\reopen-final.json",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/reopen-final.json",
+      "sha256": "c6923514f40e4c5c54608fa7496d1ec14d51d50bd06726c4b5a48cbaf9510cae",
+      "bytes": 7286,
+      "kind": "film_support",
+      "version": "CG15"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\review\\browser-playback.json",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/browser-playback.json",
+      "sha256": "53175b720758ca528008d2a611f8ef9ddfca9148046a3b0d39aeb70515bc07f4",
+      "bytes": 8926,
+      "kind": "film_support",
+      "version": "CG15"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\review\\decode-trial\\desktop-first.json",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/decode-trial/desktop-first.json",
+      "sha256": "78b929bf351418c00dd0acb125eb2ca1f95469f7d496d8c30afe760f55099de7",
+      "bytes": 8910,
+      "kind": "film_support",
+      "version": "CG15"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\review\\decode-trial\\browser-playback.json",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/decode-trial/browser-playback.json",
+      "sha256": "7c7c80dabfb247f391e225db0b1299960c7739c36f975c577686c13179e24135",
+      "bytes": 8894,
+      "kind": "film_support",
+      "version": "CG15"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\review\\previous-high-encode\\browser-playback-retest.json",
+      "archive_path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/previous-high-encode/browser-playback-retest.json",
+      "sha256": "83961c7057f3cf7a34b3e771fd769e824e964adf0b84628d9b1e111f33f91ae9",
+      "bytes": 7800,
+      "kind": "film_support",
+      "version": "CG15"
+    }
+  ],
+  "model_checks": [
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p/DJI-Osmo-Pocket-4P-Classic-Black.blend",
+      "sha256": "dc24ae6d9d30a0b125d51ebdae2e0312c946a7796e3fb350e1d25547e4191708",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "DJI Osmo Pocket 4P | Classic Black"
+      ],
+      "active_scene": "DJI Osmo Pocket 4P | Classic Black",
+      "frame_range": [
+        1,
+        250
+      ],
+      "cameras": 8,
+      "objects": 163,
+      "materials": 24,
+      "resources": [
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        }
+      ],
+      "unpacked_paths_via_blender": [],
+      "output_settings": [
+        {
+          "scene": "DJI Osmo Pocket 4P | Classic Black",
+          "render_filepath": "D:\\oc\\output\\dji-osmo-pocket-4p\\previews\\01-classic-black.png"
+        }
+      ]
+    },
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-v2/DJI-Osmo-Pocket-4P-Classic-Black-V2.blend",
+      "sha256": "a663f2038ad0b3c839f57bb35965af89f0f4e832449e3491f419001975b8a8a6",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "DJI Osmo Pocket 4P | Classic Black V2"
+      ],
+      "active_scene": "DJI Osmo Pocket 4P | Classic Black V2",
+      "frame_range": [
+        1,
+        250
+      ],
+      "cameras": 9,
+      "objects": 183,
+      "materials": 29,
+      "resources": [
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        }
+      ],
+      "unpacked_paths_via_blender": [],
+      "output_settings": [
+        {
+          "scene": "DJI Osmo Pocket 4P | Classic Black V2",
+          "render_filepath": "D:\\oc\\output\\dji-osmo-pocket-4p-v2\\previews\\01-classic-black.png"
+        }
+      ]
+    },
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-v3/DJI-Osmo-Pocket-4P-Classic-Black-V3.blend",
+      "sha256": "5bce02b0021a293164bda6154f0ece6a295b3a634e9f629e9c72b142136c114e",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "DJI Osmo Pocket 4P | Classic Black V3"
+      ],
+      "active_scene": "DJI Osmo Pocket 4P | Classic Black V3",
+      "frame_range": [
+        1,
+        250
+      ],
+      "cameras": 9,
+      "objects": 184,
+      "materials": 29,
+      "resources": [
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        }
+      ],
+      "unpacked_paths_via_blender": [],
+      "output_settings": [
+        {
+          "scene": "DJI Osmo Pocket 4P | Classic Black V3",
+          "render_filepath": "D:\\oc\\output\\dji-osmo-pocket-4p-v3\\previews\\01-classic-black.png"
+        }
+      ]
+    },
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-v4/DJI-Osmo-Pocket-4P-Classic-Black-V4.blend",
+      "sha256": "c0e715c0597f10135c5805e9452a74eba975d5f0e6ed92ce1e56cede4027d364",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "DJI Osmo Pocket 4P | Classic Black V4"
+      ],
+      "active_scene": "DJI Osmo Pocket 4P | Classic Black V4",
+      "frame_range": [
+        1,
+        250
+      ],
+      "cameras": 10,
+      "objects": 196,
+      "materials": 29,
+      "resources": [
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        }
+      ],
+      "unpacked_paths_via_blender": [],
+      "output_settings": [
+        {
+          "scene": "DJI Osmo Pocket 4P | Classic Black V4",
+          "render_filepath": "D:\\oc\\output\\dji-osmo-pocket-4p-v4\\previews\\01-classic-black.png"
+        }
+      ]
+    },
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-v5/DJI-Osmo-Pocket-4P-Classic-Black-V5.blend",
+      "sha256": "25277afea822ea43c5a293408d657527f0b783053e8e703806c8c696da7577fc",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "Osmo Pocket 4P | V5 | Classic Black"
+      ],
+      "active_scene": "Osmo Pocket 4P | V5 | Classic Black",
+      "frame_range": [
+        1,
+        250
+      ],
+      "cameras": 10,
+      "objects": 197,
+      "materials": 29,
+      "resources": [
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        }
+      ],
+      "unpacked_paths_via_blender": [],
+      "output_settings": [
+        {
+          "scene": "Osmo Pocket 4P | V5 | Classic Black",
+          "render_filepath": "//previews\\"
+        }
+      ]
+    },
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-v6/DJI-Osmo-Pocket-4P-V6.blend",
+      "sha256": "3355393794bb776ae0525a359e3735dfb677fe06496c98165042cf28c8567d95",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "Osmo Pocket 4P | V6 | Classic Black"
+      ],
+      "active_scene": "Osmo Pocket 4P | V6 | Classic Black",
+      "frame_range": [
+        1,
+        250
+      ],
+      "cameras": 10,
+      "objects": 204,
+      "materials": 29,
+      "resources": [
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        }
+      ],
+      "unpacked_paths_via_blender": [],
+      "output_settings": [
+        {
+          "scene": "Osmo Pocket 4P | V6 | Classic Black",
+          "render_filepath": "//previews\\"
+        }
+      ]
+    },
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-v7/DJI-Osmo-Pocket-4P-V7.blend",
+      "sha256": "bfe87db4162421066892bbb4beccead4ad88349b44713d4951a2d47e43aeefc3",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "Osmo Pocket 4P | V7"
+      ],
+      "active_scene": "Osmo Pocket 4P | V7",
+      "frame_range": [
+        1,
+        136
+      ],
+      "cameras": 18,
+      "objects": 220,
+      "materials": 31,
+      "resources": [
+        {
+          "type": "images",
+          "name": "DJI | sample gallery, official screen artwork",
+          "source_kind": "FILE",
+          "users": 1,
+          "stored_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\studio\\display-artwork.png",
+          "status": "embedded",
+          "resolved_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\studio\\display-artwork.png",
+          "packed_files": [
+            {
+              "bytes": 70788,
+              "sha256": "a986df29b1c64860b1e8085301140e31c53e6dfa92cdcac5565f8cfd8e7745a8"
+            }
+          ],
+          "dimensions": [
+            462,
+            260
+          ]
+        },
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        }
+      ],
+      "unpacked_paths_via_blender": [],
+      "output_settings": [
+        {
+          "scene": "Osmo Pocket 4P | V7",
+          "render_filepath": "//renders\\01-Hero.png"
+        }
+      ]
+    },
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-v7/DJI-Osmo-Pocket-4P-V7-Final.blend",
+      "sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "Osmo Pocket 4P | V7"
+      ],
+      "active_scene": "Osmo Pocket 4P | V7",
+      "frame_range": [
+        1,
+        136
+      ],
+      "cameras": 18,
+      "objects": 220,
+      "materials": 32,
+      "resources": [
+        {
+          "type": "images",
+          "name": "DJI | sample gallery, official screen artwork",
+          "source_kind": "FILE",
+          "users": 1,
+          "stored_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\studio\\display-artwork.png",
+          "status": "embedded",
+          "resolved_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\studio\\display-artwork.png",
+          "packed_files": [
+            {
+              "bytes": 70788,
+              "sha256": "a986df29b1c64860b1e8085301140e31c53e6dfa92cdcac5565f8cfd8e7745a8"
+            }
+          ],
+          "dimensions": [
+            462,
+            260
+          ]
+        },
+        {
+          "type": "images",
+          "name": "V7 | yaw deck tangent normal",
+          "source_kind": "FILE",
+          "users": 1,
+          "stored_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\review\\axis-diagnosis\\yaw-deck-normal.png",
+          "status": "embedded",
+          "resolved_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\review\\axis-diagnosis\\yaw-deck-normal.png",
+          "packed_files": [
+            {
+              "bytes": 247237,
+              "sha256": "43ddd579d2f4f3ab7295536d004fb64abba33035cf5d4be6a403dc67f2df8f8f"
+            }
+          ],
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        }
+      ],
+      "unpacked_paths_via_blender": [],
+      "output_settings": [
+        {
+          "scene": "Osmo Pocket 4P | V7",
+          "render_filepath": "//renders\\01-Hero.png"
+        }
+      ]
+    },
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/Pulse-15s.blend",
+      "sha256": "b8866c77f41802db12b36fb9fa67a4460bfb005564e59f91ff0f5d684e169a4b",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "Pulse | 15s studio"
+      ],
+      "active_scene": "Pulse | 15s studio",
+      "frame_range": [
+        1,
+        450
+      ],
+      "cameras": 31,
+      "objects": 234,
+      "materials": 32,
+      "resources": [
+        {
+          "type": "images",
+          "name": "DJI | sample gallery, official screen artwork",
+          "source_kind": "FILE",
+          "users": 1,
+          "stored_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\studio\\display-artwork.png",
+          "status": "embedded",
+          "resolved_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\studio\\display-artwork.png",
+          "packed_files": [
+            {
+              "bytes": 70788,
+              "sha256": "a986df29b1c64860b1e8085301140e31c53e6dfa92cdcac5565f8cfd8e7745a8"
+            }
+          ],
+          "dimensions": [
+            462,
+            260
+          ]
+        },
+        {
+          "type": "images",
+          "name": "V7 | yaw deck tangent normal",
+          "source_kind": "FILE",
+          "users": 1,
+          "stored_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\review\\axis-diagnosis\\yaw-deck-normal.png",
+          "status": "embedded",
+          "resolved_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\review\\axis-diagnosis\\yaw-deck-normal.png",
+          "packed_files": [
+            {
+              "bytes": 247237,
+              "sha256": "43ddd579d2f4f3ab7295536d004fb64abba33035cf5d4be6a403dc67f2df8f8f"
+            }
+          ],
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        },
+        {
+          "type": "sounds",
+          "name": "Pulse-score.wav",
+          "source_kind": "",
+          "users": 1,
+          "stored_path": "//production\\Pulse-score.wav",
+          "status": "embedded",
+          "resolved_path": "D:\\oc\\output\\Pocket-process-archive\\06_自建工程与成片\\dji-osmo-pocket-4p-cg15\\production\\Pulse-score.wav",
+          "packed_files": [
+            {
+              "bytes": 4320102,
+              "sha256": "945ba4636657f2a8b2059503a201bcedc76ad440109ba043252d389dacbb90e5"
+            }
+          ]
+        }
+      ],
+      "unpacked_paths_via_blender": [
+        "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\production\\Pulse-score.wav"
+      ],
+      "output_settings": [
+        {
+          "scene": "Pulse | 15s studio",
+          "render_filepath": "//frames\\Pulse-"
+        }
+      ]
+    }
+  ],
+  "portable_copies": [
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p/Portable-DJI-Osmo-Pocket-4P-Classic-Black.blend",
+      "sha256": "f44a8590b0f863fc733e11fac050e7bbe2ee32b2a098ddd4c965e6ecbcba5f65",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "DJI Osmo Pocket 4P | Classic Black"
+      ],
+      "active_scene": "DJI Osmo Pocket 4P | Classic Black",
+      "frame_range": [
+        1,
+        250
+      ],
+      "cameras": 8,
+      "objects": 163,
+      "materials": 24,
+      "resources": [
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        }
+      ],
+      "unpacked_paths_via_blender": [],
+      "output_settings": [
+        {
+          "scene": "DJI Osmo Pocket 4P | Classic Black",
+          "render_filepath": "//portable-renders\\render-"
+        }
+      ],
+      "source_original_sha256": "dc24ae6d9d30a0b125d51ebdae2e0312c946a7796e3fb350e1d25547e4191708",
+      "source_original": "06_自建工程与成片/dji-osmo-pocket-4p/DJI-Osmo-Pocket-4P-Classic-Black.blend",
+      "mesh_transform_animation_parity": {
+        "mesh_animation_transform_sha256": "78a6fcf91c8d0c1504c0bd8a5db9b323d8d66fa63c2e5a1e1f2102beebe7c711",
+        "objects": 163,
+        "meshes": 114,
+        "actions": 0,
+        "keyframe_points": 0
+      },
+      "bytes": 595059
+    },
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-v2/Portable-DJI-Osmo-Pocket-4P-Classic-Black-V2.blend",
+      "sha256": "315b4b5df6f7d9cd492f6ca74cb748bdd0033316de6ef8b785c086f01c60afb9",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "DJI Osmo Pocket 4P | Classic Black V2"
+      ],
+      "active_scene": "DJI Osmo Pocket 4P | Classic Black V2",
+      "frame_range": [
+        1,
+        250
+      ],
+      "cameras": 9,
+      "objects": 183,
+      "materials": 29,
+      "resources": [
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        }
+      ],
+      "unpacked_paths_via_blender": [],
+      "output_settings": [
+        {
+          "scene": "DJI Osmo Pocket 4P | Classic Black V2",
+          "render_filepath": "//portable-renders\\render-"
+        }
+      ],
+      "source_original_sha256": "a663f2038ad0b3c839f57bb35965af89f0f4e832449e3491f419001975b8a8a6",
+      "source_original": "06_自建工程与成片/dji-osmo-pocket-4p-v2/DJI-Osmo-Pocket-4P-Classic-Black-V2.blend",
+      "mesh_transform_animation_parity": {
+        "mesh_animation_transform_sha256": "8b443b6db79a52272efa78434dbb1da093c72bf3fe04bceea3b1908e3fda8e06",
+        "objects": 183,
+        "meshes": 132,
+        "actions": 0,
+        "keyframe_points": 0
+      },
+      "bytes": 931052
+    },
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-v3/Portable-DJI-Osmo-Pocket-4P-Classic-Black-V3.blend",
+      "sha256": "66c7c68455adfbc284da51bcb413a320b9e8e2d735be2490cc399c0097859679",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "DJI Osmo Pocket 4P | Classic Black V3"
+      ],
+      "active_scene": "DJI Osmo Pocket 4P | Classic Black V3",
+      "frame_range": [
+        1,
+        250
+      ],
+      "cameras": 9,
+      "objects": 184,
+      "materials": 29,
+      "resources": [
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        }
+      ],
+      "unpacked_paths_via_blender": [],
+      "output_settings": [
+        {
+          "scene": "DJI Osmo Pocket 4P | Classic Black V3",
+          "render_filepath": "//portable-renders\\render-"
+        }
+      ],
+      "source_original_sha256": "5bce02b0021a293164bda6154f0ece6a295b3a634e9f629e9c72b142136c114e",
+      "source_original": "06_自建工程与成片/dji-osmo-pocket-4p-v3/DJI-Osmo-Pocket-4P-Classic-Black-V3.blend",
+      "mesh_transform_animation_parity": {
+        "mesh_animation_transform_sha256": "c47adfbbcd0c0c6a183dab90eaae2ec45b453a3ed77a2e1bbc78cb2dec050105",
+        "objects": 184,
+        "meshes": 133,
+        "actions": 0,
+        "keyframe_points": 0
+      },
+      "bytes": 1230855
+    },
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-v4/Portable-DJI-Osmo-Pocket-4P-Classic-Black-V4.blend",
+      "sha256": "2eb02788d69df715055a2b9cd8bc24e6291c21ee28989e4c2449c9b55f90554a",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "DJI Osmo Pocket 4P | Classic Black V4"
+      ],
+      "active_scene": "DJI Osmo Pocket 4P | Classic Black V4",
+      "frame_range": [
+        1,
+        250
+      ],
+      "cameras": 10,
+      "objects": 196,
+      "materials": 29,
+      "resources": [
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        }
+      ],
+      "unpacked_paths_via_blender": [],
+      "output_settings": [
+        {
+          "scene": "DJI Osmo Pocket 4P | Classic Black V4",
+          "render_filepath": "//portable-renders\\render-"
+        }
+      ],
+      "source_original_sha256": "c0e715c0597f10135c5805e9452a74eba975d5f0e6ed92ce1e56cede4027d364",
+      "source_original": "06_自建工程与成片/dji-osmo-pocket-4p-v4/DJI-Osmo-Pocket-4P-Classic-Black-V4.blend",
+      "mesh_transform_animation_parity": {
+        "mesh_animation_transform_sha256": "23630a80e024d42c11f99f347e1348f911504c31a46cc86cc067f3bdbcf77722",
+        "objects": 196,
+        "meshes": 144,
+        "actions": 0,
+        "keyframe_points": 0
+      },
+      "bytes": 4700940
+    },
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-v5/Portable-DJI-Osmo-Pocket-4P-Classic-Black-V5.blend",
+      "sha256": "6f46003fbbbbe61946f90293e9ce589eda9fa7f5a26d84f8caf9561ff963e430",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "Osmo Pocket 4P | V5 | Classic Black"
+      ],
+      "active_scene": "Osmo Pocket 4P | V5 | Classic Black",
+      "frame_range": [
+        1,
+        250
+      ],
+      "cameras": 10,
+      "objects": 197,
+      "materials": 29,
+      "resources": [
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        }
+      ],
+      "unpacked_paths_via_blender": [],
+      "output_settings": [
+        {
+          "scene": "Osmo Pocket 4P | V5 | Classic Black",
+          "render_filepath": "//portable-renders\\render-"
+        }
+      ],
+      "source_original_sha256": "25277afea822ea43c5a293408d657527f0b783053e8e703806c8c696da7577fc",
+      "source_original": "06_自建工程与成片/dji-osmo-pocket-4p-v5/DJI-Osmo-Pocket-4P-Classic-Black-V5.blend",
+      "mesh_transform_animation_parity": {
+        "mesh_animation_transform_sha256": "7ff1c60d89913413ea4041967414e5164c8c5953e8690509128ddb3b677e6ee5",
+        "objects": 197,
+        "meshes": 168,
+        "actions": 0,
+        "keyframe_points": 0
+      },
+      "bytes": 5157785
+    },
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-v6/Portable-DJI-Osmo-Pocket-4P-V6.blend",
+      "sha256": "f07b149be70f2349d7034b29315d3614a49ad601e8539b5561c42a83b2a417b8",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "Osmo Pocket 4P | V6 | Classic Black"
+      ],
+      "active_scene": "Osmo Pocket 4P | V6 | Classic Black",
+      "frame_range": [
+        1,
+        250
+      ],
+      "cameras": 10,
+      "objects": 204,
+      "materials": 29,
+      "resources": [
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        }
+      ],
+      "unpacked_paths_via_blender": [],
+      "output_settings": [
+        {
+          "scene": "Osmo Pocket 4P | V6 | Classic Black",
+          "render_filepath": "//portable-renders\\render-"
+        }
+      ],
+      "source_original_sha256": "3355393794bb776ae0525a359e3735dfb677fe06496c98165042cf28c8567d95",
+      "source_original": "06_自建工程与成片/dji-osmo-pocket-4p-v6/DJI-Osmo-Pocket-4P-V6.blend",
+      "mesh_transform_animation_parity": {
+        "mesh_animation_transform_sha256": "63b4772a05bc72a51083d1ac777d456af1350e86b973eea2bf47166e4921a6a1",
+        "objects": 204,
+        "meshes": 175,
+        "actions": 0,
+        "keyframe_points": 0
+      },
+      "bytes": 7697342
+    },
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-v7/Portable-DJI-Osmo-Pocket-4P-V7.blend",
+      "sha256": "0e97689bcc396531fb1cba55573ee3ddd686e3cd3d19f45ac5c1de0f28b2fc1a",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "Osmo Pocket 4P | V7"
+      ],
+      "active_scene": "Osmo Pocket 4P | V7",
+      "frame_range": [
+        1,
+        136
+      ],
+      "cameras": 18,
+      "objects": 220,
+      "materials": 31,
+      "resources": [
+        {
+          "type": "images",
+          "name": "DJI | sample gallery, official screen artwork",
+          "source_kind": "FILE",
+          "users": 1,
+          "stored_path": "//portable-media\\display-artwork.png",
+          "status": "embedded",
+          "resolved_path": "D:\\oc\\output\\Pocket-process-archive\\06_自建工程与成片\\dji-osmo-pocket-4p-v7\\portable-media\\display-artwork.png",
+          "packed_files": [
+            {
+              "bytes": 70788,
+              "sha256": "a986df29b1c64860b1e8085301140e31c53e6dfa92cdcac5565f8cfd8e7745a8"
+            }
+          ],
+          "dimensions": [
+            462,
+            260
+          ]
+        },
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        }
+      ],
+      "unpacked_paths_via_blender": [],
+      "output_settings": [
+        {
+          "scene": "Osmo Pocket 4P | V7",
+          "render_filepath": "//portable-renders\\render-"
+        }
+      ],
+      "source_original_sha256": "bfe87db4162421066892bbb4beccead4ad88349b44713d4951a2d47e43aeefc3",
+      "source_original": "06_自建工程与成片/dji-osmo-pocket-4p-v7/DJI-Osmo-Pocket-4P-V7.blend",
+      "mesh_transform_animation_parity": {
+        "mesh_animation_transform_sha256": "2bbaf427240ef12e1ca56d32ce9104a45111984e470568add3de2b886ca54fdb",
+        "objects": 220,
+        "meshes": 176,
+        "actions": 4,
+        "keyframe_points": 84
+      },
+      "bytes": 10662968
+    },
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-v7/Portable-DJI-Osmo-Pocket-4P-V7-Final.blend",
+      "sha256": "4a54171987e5220585e8696f3264a40aebdec40f26f5a824ee186369b1181fcd",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "Osmo Pocket 4P | V7"
+      ],
+      "active_scene": "Osmo Pocket 4P | V7",
+      "frame_range": [
+        1,
+        136
+      ],
+      "cameras": 18,
+      "objects": 220,
+      "materials": 32,
+      "resources": [
+        {
+          "type": "images",
+          "name": "DJI | sample gallery, official screen artwork",
+          "source_kind": "FILE",
+          "users": 1,
+          "stored_path": "//portable-media\\display-artwork.png",
+          "status": "embedded",
+          "resolved_path": "D:\\oc\\output\\Pocket-process-archive\\06_自建工程与成片\\dji-osmo-pocket-4p-v7\\portable-media\\display-artwork.png",
+          "packed_files": [
+            {
+              "bytes": 70788,
+              "sha256": "a986df29b1c64860b1e8085301140e31c53e6dfa92cdcac5565f8cfd8e7745a8"
+            }
+          ],
+          "dimensions": [
+            462,
+            260
+          ]
+        },
+        {
+          "type": "images",
+          "name": "V7 | yaw deck tangent normal",
+          "source_kind": "FILE",
+          "users": 1,
+          "stored_path": "//portable-media\\yaw-deck-normal.png",
+          "status": "embedded",
+          "resolved_path": "D:\\oc\\output\\Pocket-process-archive\\06_自建工程与成片\\dji-osmo-pocket-4p-v7\\portable-media\\yaw-deck-normal.png",
+          "packed_files": [
+            {
+              "bytes": 247237,
+              "sha256": "43ddd579d2f4f3ab7295536d004fb64abba33035cf5d4be6a403dc67f2df8f8f"
+            }
+          ],
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        }
+      ],
+      "unpacked_paths_via_blender": [],
+      "output_settings": [
+        {
+          "scene": "Osmo Pocket 4P | V7",
+          "render_filepath": "//portable-renders\\render-"
+        }
+      ],
+      "source_original_sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+      "source_original": "06_自建工程与成片/dji-osmo-pocket-4p-v7/DJI-Osmo-Pocket-4P-V7-Final.blend",
+      "mesh_transform_animation_parity": {
+        "mesh_animation_transform_sha256": "a5d176b9f9ebe1dd6240a3d073e1c46d0314fafe53f55a78577240c1adb08043",
+        "objects": 220,
+        "meshes": 176,
+        "actions": 4,
+        "keyframe_points": 84
+      },
+      "bytes": 11477118
+    },
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/Portable-Pulse-15s.blend",
+      "sha256": "5e5aaced1c330f8e2eed52904a7ecc2ea3069560e07264e79510802fb83b0132",
+      "blender": "5.2.3 LTS",
+      "scene_names": [
+        "Pulse | 15s studio"
+      ],
+      "active_scene": "Pulse | 15s studio",
+      "frame_range": [
+        1,
+        450
+      ],
+      "cameras": 31,
+      "objects": 234,
+      "materials": 32,
+      "resources": [
+        {
+          "type": "images",
+          "name": "DJI | sample gallery, official screen artwork",
+          "source_kind": "FILE",
+          "users": 1,
+          "stored_path": "//..\\dji-osmo-pocket-4p-v7\\portable-media\\display-artwork.png",
+          "status": "embedded",
+          "resolved_path": "D:\\oc\\output\\Pocket-process-archive\\06_自建工程与成片\\dji-osmo-pocket-4p-v7\\portable-media\\display-artwork.png",
+          "packed_files": [
+            {
+              "bytes": 70788,
+              "sha256": "a986df29b1c64860b1e8085301140e31c53e6dfa92cdcac5565f8cfd8e7745a8"
+            }
+          ],
+          "dimensions": [
+            462,
+            260
+          ]
+        },
+        {
+          "type": "images",
+          "name": "V7 | yaw deck tangent normal",
+          "source_kind": "FILE",
+          "users": 1,
+          "stored_path": "//..\\dji-osmo-pocket-4p-v7\\portable-media\\yaw-deck-normal.png",
+          "status": "embedded",
+          "resolved_path": "D:\\oc\\output\\Pocket-process-archive\\06_自建工程与成片\\dji-osmo-pocket-4p-v7\\portable-media\\yaw-deck-normal.png",
+          "packed_files": [
+            {
+              "bytes": 247237,
+              "sha256": "43ddd579d2f4f3ab7295536d004fb64abba33035cf5d4be6a403dc67f2df8f8f"
+            }
+          ],
+          "dimensions": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "type": "fonts",
+          "name": "Bfont Regular",
+          "source_kind": "",
+          "users": 16,
+          "stored_path": "<builtin>",
+          "status": "blender_builtin"
+        },
+        {
+          "type": "sounds",
+          "name": "Pulse-score.wav",
+          "source_kind": "",
+          "users": 1,
+          "stored_path": "//production\\Pulse-score.wav",
+          "status": "embedded",
+          "resolved_path": "D:\\oc\\output\\Pocket-process-archive\\06_自建工程与成片\\dji-osmo-pocket-4p-cg15\\production\\Pulse-score.wav",
+          "packed_files": [
+            {
+              "bytes": 4320102,
+              "sha256": "945ba4636657f2a8b2059503a201bcedc76ad440109ba043252d389dacbb90e5"
+            }
+          ]
+        }
+      ],
+      "unpacked_paths_via_blender": [
+        "//production\\Pulse-score.wav"
+      ],
+      "output_settings": [
+        {
+          "scene": "Pulse | 15s studio",
+          "render_filepath": "//portable-renders\\Pulse-"
+        }
+      ],
+      "source_original_sha256": "b8866c77f41802db12b36fb9fa67a4460bfb005564e59f91ff0f5d684e169a4b",
+      "source_original": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/Pulse-15s.blend",
+      "mesh_transform_animation_parity": {
+        "mesh_animation_transform_sha256": "e9c0f71d8ce67d5598f7c7bf8c87c1e3e4bd219cce5041691e37358d1b2c6f42",
+        "objects": 234,
+        "meshes": 176,
+        "actions": 19,
+        "keyframe_points": 1039
+      },
+      "bytes": 15610947,
+      "film_audio_pcm_parity": {
+        "samples_per_channel": 720128,
+        "pcm_f32_sha256": "0f6e8e5d98ee22a1e2a413b7b45a1725f13552b4f38e0839a2a49fcb66f9cf33"
+      }
+    }
+  ],
+  "extracted_packed_images": [
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v7/portable-media/display-artwork.png",
+      "sha256": "a986df29b1c64860b1e8085301140e31c53e6dfa92cdcac5565f8cfd8e7745a8",
+      "bytes": 70788,
+      "source": "已从工程内嵌图像字节提取",
+      "credit": "DJI 商店屏内风景裁图"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v7/portable-media/yaw-deck-normal.png",
+      "sha256": "43ddd579d2f4f3ab7295536d004fb64abba33035cf5d4be6a403dc67f2df8f8f",
+      "bytes": 247237,
+      "source": "已从工程内嵌图像字节提取",
+      "credit": "自建模型云台支臂切线法线图"
+    }
+  ],
+  "portability": "原件按哈希复制；Portable 前缀副本保存相对输出与输入位置。CG 的旧音频条另存相同名称/时序/混音参数后重读，原工程序列和可携版全长浮点 PCM 逐字节相同。已在本机 Blender 5.2.3 核对，不含其他操作系统实测。",
+  "relocation_test": {
+    "source_volume": "D:",
+    "destination_volume": "C:",
+    "blender": "5.2.3 LTS",
+    "method": "只将九份可携版和两张贴图、一段音轨移至另一磁盘的临时根目录逐一复开；所有 Blender 输入和输出路径均转入临时包内。",
+    "reports": [
+      {
+        "portable": "06_自建工程与成片/dji-osmo-pocket-4p/Portable-DJI-Osmo-Pocket-4P-Classic-Black.blend",
+        "sha256": "f44a8590b0f863fc733e11fac050e7bbe2ee32b2a098ddd4c965e6ecbcba5f65",
+        "relative_input_paths": [],
+        "relative_output_verified": true
+      },
+      {
+        "portable": "06_自建工程与成片/dji-osmo-pocket-4p-v2/Portable-DJI-Osmo-Pocket-4P-Classic-Black-V2.blend",
+        "sha256": "315b4b5df6f7d9cd492f6ca74cb748bdd0033316de6ef8b785c086f01c60afb9",
+        "relative_input_paths": [],
+        "relative_output_verified": true
+      },
+      {
+        "portable": "06_自建工程与成片/dji-osmo-pocket-4p-v3/Portable-DJI-Osmo-Pocket-4P-Classic-Black-V3.blend",
+        "sha256": "66c7c68455adfbc284da51bcb413a320b9e8e2d735be2490cc399c0097859679",
+        "relative_input_paths": [],
+        "relative_output_verified": true
+      },
+      {
+        "portable": "06_自建工程与成片/dji-osmo-pocket-4p-v4/Portable-DJI-Osmo-Pocket-4P-Classic-Black-V4.blend",
+        "sha256": "2eb02788d69df715055a2b9cd8bc24e6291c21ee28989e4c2449c9b55f90554a",
+        "relative_input_paths": [],
+        "relative_output_verified": true
+      },
+      {
+        "portable": "06_自建工程与成片/dji-osmo-pocket-4p-v5/Portable-DJI-Osmo-Pocket-4P-Classic-Black-V5.blend",
+        "sha256": "6f46003fbbbbe61946f90293e9ce589eda9fa7f5a26d84f8caf9561ff963e430",
+        "relative_input_paths": [],
+        "relative_output_verified": true
+      },
+      {
+        "portable": "06_自建工程与成片/dji-osmo-pocket-4p-v6/Portable-DJI-Osmo-Pocket-4P-V6.blend",
+        "sha256": "f07b149be70f2349d7034b29315d3614a49ad601e8539b5561c42a83b2a417b8",
+        "relative_input_paths": [],
+        "relative_output_verified": true
+      },
+      {
+        "portable": "06_自建工程与成片/dji-osmo-pocket-4p-v7/Portable-DJI-Osmo-Pocket-4P-V7.blend",
+        "sha256": "0e97689bcc396531fb1cba55573ee3ddd686e3cd3d19f45ac5c1de0f28b2fc1a",
+        "relative_input_paths": [
+          {
+            "path": "//portable-media\\display-artwork.png",
+            "resolved_under_relocated_package": true
+          }
+        ],
+        "relative_output_verified": true
+      },
+      {
+        "portable": "06_自建工程与成片/dji-osmo-pocket-4p-v7/Portable-DJI-Osmo-Pocket-4P-V7-Final.blend",
+        "sha256": "4a54171987e5220585e8696f3264a40aebdec40f26f5a824ee186369b1181fcd",
+        "relative_input_paths": [
+          {
+            "path": "//portable-media\\display-artwork.png",
+            "resolved_under_relocated_package": true
+          },
+          {
+            "path": "//portable-media\\yaw-deck-normal.png",
+            "resolved_under_relocated_package": true
+          }
+        ],
+        "relative_output_verified": true
+      },
+      {
+        "portable": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/Portable-Pulse-15s.blend",
+        "sha256": "5e5aaced1c330f8e2eed52904a7ecc2ea3069560e07264e79510802fb83b0132",
+        "relative_input_paths": [
+          {
+            "path": "//..\\dji-osmo-pocket-4p-v7\\portable-media\\display-artwork.png",
+            "resolved_under_relocated_package": true
+          },
+          {
+            "path": "//..\\dji-osmo-pocket-4p-v7\\portable-media\\yaw-deck-normal.png",
+            "resolved_under_relocated_package": true
+          },
+          {
+            "path": "//production\\Pulse-score.wav",
+            "resolved_under_relocated_package": true
+          }
+        ],
+        "relative_output_verified": true
+      }
+    ]
+  },
+  "additional_documents": [
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-v7/review/镜头与云台线框素模-Final.jpg",
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\review\\镜头与云台线框素模-Final.jpg",
+      "source_sha256": "d76c4e335b72ff49ffe48614da49945cdfcd8ce758de7e5431663322b22621ac",
+      "sha256": "d76c4e335b72ff49ffe48614da49945cdfcd8ce758de7e5431663322b22621ac"
+    },
+    {
+      "path": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/15秒CG分镜脚本-归档阅读版.md",
+      "source_path": "归档原始分镜文稿，修改图片相对链接",
+      "sha256": "c1b5b701427c03be513cf810ad9da6777e1b398d821057523af715ffdd7df8b3"
+    },
+    {
+      "path": "06_自建工程与成片/工程索引.md",
+      "sha256": "c054b189adcffeb019703372df0168123cc0a7bc24f4c56f8b6610dd7bd64791"
+    }
+  ]
+}

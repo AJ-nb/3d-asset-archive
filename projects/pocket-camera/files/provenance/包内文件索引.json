@@ -1,0 +1,1707 @@
+{
+  "scope": "完整证据包。其中所有文件除本索引本身均列出 SHA-256，离线图库的相对链接已经验证。",
+  "verified_distinct_sourced_files": 181,
+  "verified_gallery_link_targets": 246,
+  "files": [
+    {
+      "file": "00_小红书发布图/01_封面_从零做一台云台相机.jpg",
+      "bytes": 244961,
+      "sha256": "aae93fb152d3707741d390381ff566151aea03ed1f6ac59bf6c1f7fac34a78ad"
+    },
+    {
+      "file": "00_小红书发布图/02_起模_空场景到横屏.jpg",
+      "bytes": 313899,
+      "sha256": "3e4d847f5a3198e379cd639e77b223e3478bfb3d54d0dcf7f7082f4e872e72ce"
+    },
+    {
+      "file": "00_小红书发布图/03_结构_从侧面找到问题.jpg",
+      "bytes": 280555,
+      "sha256": "ed291580a27c62b0f679fd65d84138b5daf0a78d6b0bbbc123ad98a8ace88c19"
+    },
+    {
+      "file": "00_小红书发布图/04_几何_镜头正面与支承.jpg",
+      "bytes": 369674,
+      "sha256": "45b58385bd15a40cc8945f6f1a6099d1321f9751bb19c1130e727c48585361d0"
+    },
+    {
+      "file": "00_小红书发布图/05_同机位_白模线框成品.jpg",
+      "bytes": 350517,
+      "sha256": "391d8338ff498894384e901206e78adc32fa9170fe983915b9b11896c3183ebe"
+    },
+    {
+      "file": "00_小红书发布图/06_工程_材质节点与摄影棚.jpg",
+      "bytes": 342192,
+      "sha256": "7137528f4062130c36a921bd2bfd987589a24ff7fbd79b7206000d92ea38e4d4"
+    },
+    {
+      "file": "00_小红书发布图/07_成品_双镜与云台.jpg",
+      "bytes": 330760,
+      "sha256": "5f94eb9dce859da0876daab82a019af17f9dad2d56421ab1c1b4a1440a1e8d34"
+    },
+    {
+      "file": "00_小红书发布图/08_动画_转屏与关键帧.jpg",
+      "bytes": 370318,
+      "sha256": "b55cf2e67e7c960a8decb342dd659b1232297f52093a530c83284eff15a502a9"
+    },
+    {
+      "file": "00_小红书发布图/09_前作附页_三套4K棚拍.jpg",
+      "bytes": 317698,
+      "sha256": "cd8d7469127291f8e02c66e23d4288fab511498a96c957db5c8f3a33059089d3"
+    },
+    {
+      "file": "01_历史4K原图/01_经典黑/classic-black-01-hero.png",
+      "bytes": 27721345,
+      "sha256": "fe90ffd22a3a8012fb49a16eec3c43a5e9899a8ac888b4af3f2b722b4ccf04a7"
+    },
+    {
+      "file": "01_历史4K原图/01_经典黑/classic-black-02-rear.png",
+      "bytes": 29180278,
+      "sha256": "b4fa58e40371c732d0adb6ae314873d3f8e1fcf824e028516adfaa6336fbd31a"
+    },
+    {
+      "file": "01_历史4K原图/01_经典黑/classic-black-03-optics.png",
+      "bytes": 28751554,
+      "sha256": "875f3ef75453ac68b3e5bfc8556970af5aa033c762a3eb72480e87ba3e858290"
+    },
+    {
+      "file": "01_历史4K原图/01_经典黑/classic-black-04-controls.png",
+      "bytes": 30542970,
+      "sha256": "c9791f6ae64e525da7d3849d3a8ff7d049b02167aacac5a056fc696e48409af3"
+    },
+    {
+      "file": "01_历史4K原图/02_珍珠白/pearl-white-01-hero.png",
+      "bytes": 26037800,
+      "sha256": "d9a85f4c9b8b9939c1f2034d53d33556ca0aa6856d4f13ff1172b48ca46562eb"
+    },
+    {
+      "file": "01_历史4K原图/02_珍珠白/pearl-white-02-rear.png",
+      "bytes": 27980867,
+      "sha256": "481a4ff3272932bf3f99b87a04abc794b55bfdc1d82bb174fa7e5dd09e780c6d"
+    },
+    {
+      "file": "01_历史4K原图/02_珍珠白/pearl-white-03-optics.png",
+      "bytes": 25902655,
+      "sha256": "4368a291f67ae72c66081973c586f8d118831b00caa5c827758bf1da06313940"
+    },
+    {
+      "file": "01_历史4K原图/02_珍珠白/pearl-white-04-controls.png",
+      "bytes": 28746491,
+      "sha256": "990502fab48e3b134879ef10ee86ca546b8feaff188e8755623a7a15ce43fc73"
+    },
+    {
+      "file": "01_历史4K原图/03_白模/white-clay-01-hero.png",
+      "bytes": 25166405,
+      "sha256": "646f86818867d2b5712b032679f5577e7745276fe46bc495de72ec60a43f9093"
+    },
+    {
+      "file": "01_历史4K原图/03_白模/white-clay-02-rear.png",
+      "bytes": 27256163,
+      "sha256": "c63bc95ea0ccd4e938d5a086224b7f85922058e6b253676a781583940643df3a"
+    },
+    {
+      "file": "01_历史4K原图/03_白模/white-clay-06-profile.png",
+      "bytes": 23605036,
+      "sha256": "8e7d93530ca33487f9833661497cf549e7d752682828f7bc0243919bbb5c243d"
+    },
+    {
+      "file": "02_历版效果图/V1/01-classic-black.png",
+      "bytes": 1808613,
+      "sha256": "ef66891e49808b4703f1aa05f8940e3ab86af7cd19390948c554c0ac6875c91d"
+    },
+    {
+      "file": "02_历版效果图/V1/02-rear-detail.png",
+      "bytes": 1817882,
+      "sha256": "10cdd361dd3d64c5f99caf40db5aa989754e9853654fa18f379dd2000b85850a"
+    },
+    {
+      "file": "02_历版效果图/V1/03-dual-camera.png",
+      "bytes": 1853682,
+      "sha256": "594c464a5ca935c71398752d9f2355b7e8ad9d03578538c8100b4879b7cc149e"
+    },
+    {
+      "file": "02_历版效果图/V2/01-classic-black.png",
+      "bytes": 1820919,
+      "sha256": "76def59edbf1601a31dab482e4d15eab75b7c7587019948a69e3aa8b857a3806"
+    },
+    {
+      "file": "02_历版效果图/V2/02-rear-detail.png",
+      "bytes": 1816381,
+      "sha256": "b0ca33e2d9e60f3d574cde44c5d1ba8064adb9142918d71466bd2a2fa5f876b0"
+    },
+    {
+      "file": "02_历版效果图/V2/03-dual-camera.png",
+      "bytes": 1866104,
+      "sha256": "b9d2487c2cb090c0db11a8c2c33852fd9f0a865fcde03f0aeacf7e8a88b7ccfa"
+    },
+    {
+      "file": "02_历版效果图/V2/07-grip-under.png",
+      "bytes": 1937542,
+      "sha256": "34a5ad4ee914b84a7f410b55907e7c34aac753aba8b1674ed8f86187540679ab"
+    },
+    {
+      "file": "02_历版效果图/V3/01-classic-black.png",
+      "bytes": 1815665,
+      "sha256": "fb028563a6959276c2a31f13f9e528c842e1289a07c876a3b279e82d8bc6b2c1"
+    },
+    {
+      "file": "02_历版效果图/V3/02-rear-detail.png",
+      "bytes": 1816158,
+      "sha256": "689cdb8a1ee44dd679890ea68b39736fca86fca21351b6878ee6e57836358f59"
+    },
+    {
+      "file": "02_历版效果图/V3/03-dual-camera.png",
+      "bytes": 1864941,
+      "sha256": "3316c1dbfd5637e9f0da0b4d7226da5c22ec2af73922e8781f0590cbb91145e4"
+    },
+    {
+      "file": "02_历版效果图/V3/07-grip-under.png",
+      "bytes": 1929694,
+      "sha256": "95fb4c84aba86aaa5e01fcf6014cf7362c2624119ea5d604ad8e0fc5eae93b1b"
+    },
+    {
+      "file": "02_历版效果图/V4/01-classic-black.png",
+      "bytes": 1827635,
+      "sha256": "a0e89a8e149a5f9e1352cbb6f206cc34265712a5363aeabe1b9a7578d93c2bb8"
+    },
+    {
+      "file": "02_历版效果图/V4/02-rear-detail.png",
+      "bytes": 1829015,
+      "sha256": "e01e709685757977e8951e3a045e1637ab9b2ee86ff48e84584b4c126a02264e"
+    },
+    {
+      "file": "02_历版效果图/V4/03-dual-camera.png",
+      "bytes": 1890419,
+      "sha256": "8288619bef71f9d384d296c605adae5180e848030ccfddf158ae7a9d58181675"
+    },
+    {
+      "file": "02_历版效果图/V4/07-grip-under.png",
+      "bytes": 1930794,
+      "sha256": "cf4449907f0fcd3da39bb08c2cde640dfe070f604c4b010356a132eed3fb8fcf"
+    },
+    {
+      "file": "02_历版效果图/V4/10-rear-gimbal-macro.png",
+      "bytes": 1905228,
+      "sha256": "353a26dcabb1e4ad4a0aba4800cc84d58ed145570f1aba0b1f05e8c2edeb523e"
+    },
+    {
+      "file": "02_历版效果图/V5/base-detail.png",
+      "bytes": 752643,
+      "sha256": "486d50a551a5bb0ffc4e9622736fdfe6a7ea845df1b833b07841ee0c25c3152e"
+    },
+    {
+      "file": "02_历版效果图/V5/controls.png",
+      "bytes": 696174,
+      "sha256": "3d5bc10f33c9bca641f55fea1b2e973f1c952ece3b95bce7e43d0b3c5fa683ea"
+    },
+    {
+      "file": "02_历版效果图/V5/lens-front.png",
+      "bytes": 984100,
+      "sha256": "c55c6d8f47dc275dd1482a0f2e8b9c2352379f5a8a797bb305d151546023cede"
+    },
+    {
+      "file": "02_历版效果图/V5/lens-lower.png",
+      "bytes": 1016914,
+      "sha256": "341cec3aaa5ddc83330c9ce66e094cedf3e05ba080f4fc1f1afb81399a8483c8"
+    },
+    {
+      "file": "02_历版效果图/V5/lens-oblique.png",
+      "bytes": 1019718,
+      "sha256": "3fdcd138cc6e40bf71affd7b489efd90f19fba34bd777974e53cdb3169c7535a"
+    },
+    {
+      "file": "02_历版效果图/V5/whole-front.png",
+      "bytes": 952347,
+      "sha256": "dc895d24459042206de5954f687537fce808c39bb31b11caf09790d130d80279"
+    },
+    {
+      "file": "02_历版效果图/V5/whole-rear.png",
+      "bytes": 967068,
+      "sha256": "b0cd293eed2ebd0a51a083e3c7f4417aed1842c8c48bd7c3ec126f0490e4a2e3"
+    },
+    {
+      "file": "02_历版效果图/V6/base-detail.png",
+      "bytes": 751015,
+      "sha256": "495b22a0508b212bc618244d9aec3329462710848129e850894985613e05073d"
+    },
+    {
+      "file": "02_历版效果图/V6/controls.png",
+      "bytes": 696035,
+      "sha256": "08136f9584efd9a5322b682654a8709a0e8a837e082f8eac6195e87e226eb0b3"
+    },
+    {
+      "file": "02_历版效果图/V6/lens-front.png",
+      "bytes": 983676,
+      "sha256": "f98ea3b2cc475b4c4a876dbeea30e6c0ceb8a3ba830c443913decabdc19db200"
+    },
+    {
+      "file": "02_历版效果图/V6/lens-lower.png",
+      "bytes": 1019765,
+      "sha256": "95dc23a84b6ee60da56a88666d9fd9cf0b13efb6b885c2cf2911596c66eeff90"
+    },
+    {
+      "file": "02_历版效果图/V6/lens-oblique.png",
+      "bytes": 1020391,
+      "sha256": "1c7ac4a3b350ebbf927ff99a952dffd9b3b6216ff0498f92afe9afff53ff8d66"
+    },
+    {
+      "file": "02_历版效果图/V6/whole-front.png",
+      "bytes": 952121,
+      "sha256": "4ad2f90940c906b6e2def078727d901468451524a5d3d396aaa0227ca10842fa"
+    },
+    {
+      "file": "02_历版效果图/V6/whole-rear.png",
+      "bytes": 967378,
+      "sha256": "8b9537997560e475ba660eba478e20e0061952a0441483e8d31e419789dbd6bc"
+    },
+    {
+      "file": "02_历版效果图/V7_终版/01-Hero.png",
+      "bytes": 11271912,
+      "sha256": "225dbbd174e5e166fb0f33a8b370b2540142b708e4c12f425b3bac4b134952e3"
+    },
+    {
+      "file": "02_历版效果图/V7_终版/02-Optics.png",
+      "bytes": 10515936,
+      "sha256": "b519ef12483e72c7777d0663d420c3b31066ae1711e12aa7a360632d580865de"
+    },
+    {
+      "file": "02_历版效果图/V7_终版/03-Axis.png",
+      "bytes": 9910329,
+      "sha256": "6c9b0d13492eeae95ea6729a19f2ae83776d97ff075d0ad1775ff606cb6e9767"
+    },
+    {
+      "file": "02_历版效果图/V7_终版/04-Controls.png",
+      "bytes": 10270238,
+      "sha256": "c9b147560115f08828e30d5bb0524fc68fa9d12daeaaeff6832c11b32bb76dec"
+    },
+    {
+      "file": "02_历版效果图/V7_终版/05-Standby.png",
+      "bytes": 9659940,
+      "sha256": "5670e9dd035f85ccfe877ce7f4118f768bb4c40182b7a57ff51ee7e264a0c499"
+    },
+    {
+      "file": "02_历版效果图/V7_终版/06-Cutout.png",
+      "bytes": 3974228,
+      "sha256": "4b0a28813c868d2c41b7a7553f9742ec6d765ed952270e9196ffd3db3bbe4fd6"
+    },
+    {
+      "file": "02_历版效果图/V7_终版/07-Front.png",
+      "bytes": 9015140,
+      "sha256": "54d60f1f5b65c76710d2cacdaea1262273c4f29bf380bf3b1eaf6402d4b2582a"
+    },
+    {
+      "file": "02_历版效果图/V7_终版/08-Optics-Oblique.png",
+      "bytes": 10520263,
+      "sha256": "67b366d729c75906cd4293655e975c9d5cbd8d6800babd251fa5bc4c2babb49a"
+    },
+    {
+      "file": "02_历版效果图/V7_终版/合成通道/01-Hero-passes.exr",
+      "bytes": 52660536,
+      "sha256": "49f4c67caa35c08ddf83981d6d6cbca4753ffa65928b2ff64e665054ed1b7e61"
+    },
+    {
+      "file": "02_历版效果图/V7_终版/联系表/渲染联系表.jpg",
+      "bytes": 235331,
+      "sha256": "4d65c8cf4ce2db431852680e3afb42c730fee49bb6519f043b5917e159fa516a"
+    },
+    {
+      "file": "02_历版效果图/早期留档_白模与渲染/dji-01-white-clay.png",
+      "bytes": 4509536,
+      "sha256": "274e75b3d8677217f6d7b1ba0e4cfa7724967d9d969037fdb1ba0afcd2b92bf2"
+    },
+    {
+      "file": "02_历版效果图/早期留档_白模与渲染/dji-03-final-render.png",
+      "bytes": 4616716,
+      "sha256": "aeeae71ea5d94d20bbc82c3e9f1ae5e8b1b9444fb308f76616d0b8ef38f57286"
+    },
+    {
+      "file": "02_历版效果图/配色分支_早期白模/01-hero.png",
+      "bytes": 560943,
+      "sha256": "0ebd95129aea01fd77a48ad8e72a2663bec5d7fb9685f4e97c8b6ba913534df7"
+    },
+    {
+      "file": "02_历版效果图/配色分支_早期白模/02-front.png",
+      "bytes": 564660,
+      "sha256": "08dab91f9cfb9507b2eab735aacbb85e338d0c8b3ef811d65ce2ce2cd628caab"
+    },
+    {
+      "file": "02_历版效果图/配色分支_早期白模/03-low.png",
+      "bytes": 557731,
+      "sha256": "720226bfdc840ca28163d477fca73572f28aab2a080a13e82e0e428007e3dc23"
+    },
+    {
+      "file": "02_历版效果图/配色分支_早期白模/04-rear.png",
+      "bytes": 571212,
+      "sha256": "c4d5f4ec35493703177afcedd7059daeff220c742eaca6f0a81cea5e6db4faba"
+    },
+    {
+      "file": "02_历版效果图/配色分支_早期白模/05-dual-lens.png",
+      "bytes": 552310,
+      "sha256": "367af6861e534051f6040ba252fa222f9711ae719ddb023ab24193ef4d9bb784"
+    },
+    {
+      "file": "02_历版效果图/配色分支_早期白模/06-controls.png",
+      "bytes": 558321,
+      "sha256": "ab8ba55d7685b270cd1bdf5e56c01dc3ff4bdc2126acd0a5ec2caa08e7e8c8bc"
+    },
+    {
+      "file": "02_历版效果图/配色分支_材质预览/classic-black-01-hero.png",
+      "bytes": 928276,
+      "sha256": "b60507b4f7967a3e181867d4ec63731284100b1a0fc5a23aaf1225e13faa21d4"
+    },
+    {
+      "file": "02_历版效果图/配色分支_材质预览/classic-black-04-rear.png",
+      "bytes": 966158,
+      "sha256": "1498576752ea25a0bf33f91ca18727a1b7017e2ab79d4a5fadeb28b5b9a5ed6a"
+    },
+    {
+      "file": "02_历版效果图/配色分支_材质预览/classic-black-05-dual-lens.png",
+      "bytes": 960973,
+      "sha256": "b68740ee9c93d1fa27abbb4043f08d88c3308328df2f29c7ad6fcad83923e785"
+    },
+    {
+      "file": "02_历版效果图/配色分支_材质预览/classic-black-06-controls.png",
+      "bytes": 914070,
+      "sha256": "9493ce2e10524fb7c633feb43d805f067aa421ff84c1b5beafa1433161492da2"
+    },
+    {
+      "file": "02_历版效果图/配色分支_材质预览/pearl-white-01-hero.png",
+      "bytes": 909650,
+      "sha256": "f006c2f65c4471e4ee4740eb1243a79dfa311c3c123681c952cf421394281d3b"
+    },
+    {
+      "file": "02_历版效果图/配色分支_材质预览/pearl-white-04-rear.png",
+      "bytes": 911025,
+      "sha256": "b9d37bb50450f748cd84d05314edbc3fd10d22dcdf0606a0a250e5715133bab0"
+    },
+    {
+      "file": "02_历版效果图/配色分支_材质预览/pearl-white-05-dual-lens.png",
+      "bytes": 926826,
+      "sha256": "23e638a9507798f4b1d953b13653f807e2b3c46ef4b8123d0b85b161bc6bb102"
+    },
+    {
+      "file": "02_历版效果图/配色分支_材质预览/pearl-white-06-controls.png",
+      "bytes": 901014,
+      "sha256": "896d7cea64b4002043cf3d499f42b7d4adea92d37895d742fb331c894106f04f"
+    },
+    {
+      "file": "02_历版效果图/配色分支_联系表/dji-4k-review.jpg",
+      "bytes": 607337,
+      "sha256": "e47498cc36d349b45d38d019b16cc85ab03bf75420aa9895f17907609b239759"
+    },
+    {
+      "file": "03_建模过程原片/01_参考_官方正面裁图.png",
+      "bytes": 157287,
+      "sha256": "b0858dc80746beeec46ed4249e332d48764179d70a6af36d10c27919dfd3b48d"
+    },
+    {
+      "file": "03_建模过程原片/02_V1_整机五向正交.png",
+      "bytes": 346792,
+      "sha256": "d55b5be5ea8ca9fd2d330015d8ff556c86bfdc464ac891db5052956da59b36db"
+    },
+    {
+      "file": "03_建模过程原片/03_V1_正面照片配准.png",
+      "bytes": 293075,
+      "sha256": "914097eb18d573a7c1b1757d2c351ce0920352a464941f2ad6c41c9fc3a541d3"
+    },
+    {
+      "file": "03_建模过程原片/04_V2_握把壁厚截面.png",
+      "bytes": 53998,
+      "sha256": "a8502bd83110f1c72f04fc36a0b38db4cc6df754614f963b214e1b2b5ea2f83c"
+    },
+    {
+      "file": "03_建模过程原片/05_V2_结构细节记录.jpg",
+      "bytes": 194725,
+      "sha256": "ad538622677023bf2b9432bde1a18823db082b81af0cc19404d80e74a60c1d48"
+    },
+    {
+      "file": "03_建模过程原片/06_V3_Z112逐毫米截面.png",
+      "bytes": 107619,
+      "sha256": "51672249a7cb3a6490455d8992a23d33b454c0baf4df85a01810ce20b551be97"
+    },
+    {
+      "file": "03_建模过程原片/07_V4_支臂正侧面改前改后.jpg",
+      "bytes": 112662,
+      "sha256": "044737f6166c7719d8733f4648954c78c32b8a2d3bbba6b7ab5a97778e649d7d"
+    },
+    {
+      "file": "03_建模过程原片/08_V4_云台背斜视参考与改型.jpg",
+      "bytes": 164670,
+      "sha256": "6c2a4739907ee0f35e38860db23536bcfd7623c90fc4c37544e2d3eb30a8910c"
+    },
+    {
+      "file": "03_建模过程原片/09_V5_整机六向灰模.jpg",
+      "bytes": 92373,
+      "sha256": "0fae9db07229e430f4c52d0f9f59b1a2104641bfb88548c6b6225a3c723169eb"
+    },
+    {
+      "file": "03_建模过程原片/10_V5_双镜头单材质近景.png",
+      "bytes": 605072,
+      "sha256": "d6bcff4f57f107f60245ab9cc4d3347f3852bb50d4ff9c950f2bea5085bee513"
+    },
+    {
+      "file": "03_建模过程原片/11_V5_镜头破面修复对照.jpg",
+      "bytes": 161587,
+      "sha256": "80dc364cda910be6240e9fc2209bc91fc07f15a9b3eb9f503c75ce3cb8f97740"
+    },
+    {
+      "file": "03_建模过程原片/12_V6_四个活动接口.jpg",
+      "bytes": 226826,
+      "sha256": "11d53cfe4c286fa4ffd199cd6fd0840a16e342580ed507447f9471d6ddb10c62"
+    },
+    {
+      "file": "03_建模过程原片/13_V6_俯仰干涉截面.png",
+      "bytes": 51591,
+      "sha256": "7738ae09af023db4ad7532f34059e641e54615eaf9b71c4ffaf70e3421260982"
+    },
+    {
+      "file": "03_建模过程原片/14_V6_线框和掠射光.jpg",
+      "bytes": 195393,
+      "sha256": "f9813d43994911b93fc4cb1015df256fb52a42dd6b262c1705aa32d4b476d3f1"
+    },
+    {
+      "file": "03_建模过程原片/15_V7基线_双摄重新拟形.jpg",
+      "bytes": 411000,
+      "sha256": "4d664c51e59bf8788a1a08db3a9ead15280b78480c93d86cd5f4e6086226621c"
+    },
+    {
+      "file": "03_建模过程原片/16_V7基线_广角保护窗双光照.jpg",
+      "bytes": 206588,
+      "sha256": "910abd475eaf4c315805a68884488cac90d5f8bd264d5873a632ae4e9a366eaa"
+    },
+    {
+      "file": "03_建模过程原片/17_V7_刚性关节动作灰模.jpg",
+      "bytes": 207457,
+      "sha256": "a42b9c248a33b77de502e4082628752b3bb68a91554a228ffe3ffd7bf4fe8ad1"
+    },
+    {
+      "file": "03_建模过程原片/18_V7终版_镜头正面白模.png",
+      "bytes": 1725097,
+      "sha256": "fa7fa102039a54af229cb3c96a4cb42d03115f3beb49d00023e4243d6cf5fc04"
+    },
+    {
+      "file": "03_建模过程原片/19_V7终版_镜头正面线框.png",
+      "bytes": 1961397,
+      "sha256": "8315ff55d3422bf2a2c37afb65c4a4f972a380a3ba6f6830d5f091c015e0d10b"
+    },
+    {
+      "file": "03_建模过程原片/20_V7终版_云台后侧白模.png",
+      "bytes": 1674849,
+      "sha256": "d4b4f4309331f3e722b90050285486b203f929c06a07b2e3cafb3feca234cec8"
+    },
+    {
+      "file": "03_建模过程原片/21_V7终版_云台后侧线框.png",
+      "bytes": 1962657,
+      "sha256": "73777b602e35b65580dcae7bf36ac2973ac2d4505596f2813d0f5ec04f6d7b14"
+    },
+    {
+      "file": "03_建模过程原片/22_V7终版_支承内构白模.png",
+      "bytes": 1351084,
+      "sha256": "89b9ae1e7197cd9cb1bf6c02ad7a5877e8dc588593ae8a5e6aea8844cef43908"
+    },
+    {
+      "file": "03_建模过程原片/23_V7终版_支承内构线框.png",
+      "bytes": 1548427,
+      "sha256": "3e73260392f413f60d512ad74b8ab4874816f863544330e05b94aab33e886077"
+    },
+    {
+      "file": "03_建模过程原片/24_V7终版_压铸支臂法线与材质回读.jpg",
+      "bytes": 51349,
+      "sha256": "d9fdaeb4578c3b1e3e8eda9cc0f321b9175c851b2cf45c8351cc8b7cd8aeadd1"
+    },
+    {
+      "file": "03_建模过程原片/25_V7终版_八机位成品联系表.jpg",
+      "bytes": 235331,
+      "sha256": "4d65c8cf4ce2db431852680e3afb42c730fee49bb6519f043b5917e159fa516a"
+    },
+    {
+      "file": "03_建模过程原片/26_15秒CG_成片联络表.jpg",
+      "bytes": 756108,
+      "sha256": "2cead7a217abfb9bd8128cd8df5d7036fde768e9bd03b6b2de7cb77bf3951dfb"
+    },
+    {
+      "file": "04_Blender工程实拍/00_V3_当时反馈原始截图.png",
+      "bytes": 335095,
+      "sha256": "fcd35fbf221b42f2bac195655d666f73c00e623002c8330a2efd2cbbbca4057e"
+    },
+    {
+      "file": "04_Blender工程实拍/01_V1_早期分件与装配.png",
+      "bytes": 394763,
+      "sha256": "461cb48e5c4a105c388722ffa8fae0e970f8027acc7f45e8137bf879875137a9"
+    },
+    {
+      "file": "04_Blender工程实拍/02_V7_整机白模.png",
+      "bytes": 386315,
+      "sha256": "def1bdd709941915866bc1f008de3e976ecd45c1eb966d0f009be493effcbdb7"
+    },
+    {
+      "file": "04_Blender工程实拍/03_V7_镜头面板与线框.png",
+      "bytes": 941681,
+      "sha256": "669c31697b6e3dc4704719eea4a74af96dc22763e305ef36acd5edd14132bd91"
+    },
+    {
+      "file": "04_Blender工程实拍/04_V7_云台传动支承.png",
+      "bytes": 491578,
+      "sha256": "459e802be34b03648d553344e07610a725777ba83151f443e7957db9bd23be05"
+    },
+    {
+      "file": "04_Blender工程实拍/05_V7_支臂材质节点.png",
+      "bytes": 653308,
+      "sha256": "5f0ca1af63ab1d05e255c1fd15e31b52bab55ef447abe4a8d5bbf269e6d6262a"
+    },
+    {
+      "file": "04_Blender工程实拍/06_CG_转屏与动画时间线.png",
+      "bytes": 445564,
+      "sha256": "e78dd97faef4c9d80307c3eb407922b46baf5c2aa89d7f068749718cb2b99a86"
+    },
+    {
+      "file": "04_Blender工程实拍/07_V7_棚灯机位与主视觉.png",
+      "bytes": 649589,
+      "sha256": "f62a0f7114f95cba252e57b2a4ec0ca7161941656e11cba9ee225036d70a68cc"
+    },
+    {
+      "file": "05_同机位补拍/V1起模复演/01_空场景.png",
+      "bytes": 1506320,
+      "sha256": "94140ad170e55c6ab1b170f1d286b1fa1c0a1695e4604a1ef018edd90351037a"
+    },
+    {
+      "file": "05_同机位补拍/V1起模复演/02_握把主壳放样.png",
+      "bytes": 1567029,
+      "sha256": "5d448cd959629a41987d3e109e59a6348f391fc2d769624be2270f049e44d0ca"
+    },
+    {
+      "file": "05_同机位补拍/V1起模复演/03_机身与横屏组件.png",
+      "bytes": 1625920,
+      "sha256": "d8dc2a2db16c70639195662e6278b577f6957dc3451a8dcccf660670aa5c8a4f"
+    },
+    {
+      "file": "05_同机位补拍/V1起模复演/04_V1起模复演_竖版图板.jpg",
+      "bytes": 301699,
+      "sha256": "5b4214bcd1d17128aba4d6ca06d083a472e3d331f0303da91f478aa6259b10c8"
+    },
+    {
+      "file": "05_同机位补拍/V7终版对照/01_整机白模.png",
+      "bytes": 25294964,
+      "sha256": "b06bdfb9711c115ccb66bc0395a9e1e126c67e8ef4cbe7d904f041cebb6a6db9"
+    },
+    {
+      "file": "05_同机位补拍/V7终版对照/02_整机线框.png",
+      "bytes": 29184308,
+      "sha256": "072323b6d2593372f0076b89d5d50642e0ac10396074458bc0ad32170935499d"
+    },
+    {
+      "file": "05_同机位补拍/V7终版对照/03_整机成品.png",
+      "bytes": 27582251,
+      "sha256": "9259da68ce9a458994af23c5900c62091efcff7c909fc7f55d92047fa45dc833"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p/DJI-Osmo-Pocket-4P-Classic-Black.blend",
+      "bytes": 596671,
+      "sha256": "dc24ae6d9d30a0b125d51ebdae2e0312c946a7796e3fb350e1d25547e4191708"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p/Portable-DJI-Osmo-Pocket-4P-Classic-Black.blend",
+      "bytes": 595059,
+      "sha256": "f44a8590b0f863fc733e11fac050e7bbe2ee32b2a098ddd4c965e6ecbcba5f65"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/15秒CG分镜脚本-归档阅读版.md",
+      "bytes": 4795,
+      "sha256": "c1b5b701427c03be513cf810ad9da6777e1b398d821057523af715ffdd7df8b3"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/15秒CG分镜脚本.md",
+      "bytes": 4737,
+      "sha256": "52391eb31081c52dd92062b08cf63beb233ee5a783793f947b4a55863c450503"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/15秒执行分镜.md",
+      "bytes": 3381,
+      "sha256": "6593b8549767bd7ba2cfd28d939ff67f94b6c07f823db47841d5d6e5216ddbfb"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/Portable-Pulse-15s.blend",
+      "bytes": 15610947,
+      "sha256": "5e5aaced1c330f8e2eed52904a7ecc2ea3069560e07264e79510802fb83b0132"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/production/Pulse-score.wav",
+      "bytes": 4320102,
+      "sha256": "945ba4636657f2a8b2059503a201bcedc76ad440109ba043252d389dacbb90e5"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/Pulse-15s.blend",
+      "bytes": 15609347,
+      "sha256": "b8866c77f41802db12b36fb9fa67a4460bfb005564e59f91ff0f5d684e169a4b"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/Pulse-15s.mp4",
+      "bytes": 13782681,
+      "sha256": "2918a68d932689d94e4bbb4bdfeaf6e160b137a73b37aee38a7db6c9f2c8bafa"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/Pulse-contact.jpg",
+      "bytes": 756108,
+      "sha256": "2cead7a217abfb9bd8128cd8df5d7036fde768e9bd03b6b2de7cb77bf3951dfb"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/browser-playback.json",
+      "bytes": 8926,
+      "sha256": "53175b720758ca528008d2a611f8ef9ddfca9148046a3b0d39aeb70515bc07f4"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/decode-trial/browser-playback.json",
+      "bytes": 8894,
+      "sha256": "7c7c80dabfb247f391e225db0b1299960c7739c36f975c577686c13179e24135"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/decode-trial/desktop-first.json",
+      "bytes": 8910,
+      "sha256": "78b929bf351418c00dd0acb125eb2ca1f95469f7d496d8c30afe760f55099de7"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/film-qc.json",
+      "bytes": 1684,
+      "sha256": "748886fb9c14886c4030d56ff5b186962be5c5fb43e7be59b866523d6ef6ab05"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/previous-high-encode/browser-playback-retest.json",
+      "bytes": 7800,
+      "sha256": "83961c7057f3cf7a34b3e771fd769e824e964adf0b84628d9b1e111f33f91ae9"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/review/reopen-final.json",
+      "bytes": 7286,
+      "sha256": "c6923514f40e4c5c54608fa7496d1ec14d51d50bd06726c4b5a48cbaf9510cae"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/分镜剪辑表.csv",
+      "bytes": 1452,
+      "sha256": "6e4213e073e32118dfab722cdeaf003eafee23f057b27e84a7dd29fd1b93030f"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-cg15/镜头数据.csv",
+      "bytes": 13351,
+      "sha256": "09680b03e9f0b548595987a54d9075b227ad4ff64ed348ddcd8f8c4454e2df3c"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v2/DJI-Osmo-Pocket-4P-Classic-Black-V2.blend",
+      "bytes": 932719,
+      "sha256": "a663f2038ad0b3c839f57bb35965af89f0f4e832449e3491f419001975b8a8a6"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v2/Portable-DJI-Osmo-Pocket-4P-Classic-Black-V2.blend",
+      "bytes": 931052,
+      "sha256": "315b4b5df6f7d9cd492f6ca74cb748bdd0033316de6ef8b785c086f01c60afb9"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v3/DJI-Osmo-Pocket-4P-Classic-Black-V3.blend",
+      "bytes": 1232098,
+      "sha256": "5bce02b0021a293164bda6154f0ece6a295b3a634e9f629e9c72b142136c114e"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v3/Portable-DJI-Osmo-Pocket-4P-Classic-Black-V3.blend",
+      "bytes": 1230855,
+      "sha256": "66c7c68455adfbc284da51bcb413a320b9e8e2d735be2490cc399c0097859679"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v4/DJI-Osmo-Pocket-4P-Classic-Black-V4.blend",
+      "bytes": 4701029,
+      "sha256": "c0e715c0597f10135c5805e9452a74eba975d5f0e6ed92ce1e56cede4027d364"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v4/Portable-DJI-Osmo-Pocket-4P-Classic-Black-V4.blend",
+      "bytes": 4700940,
+      "sha256": "2eb02788d69df715055a2b9cd8bc24e6291c21ee28989e4c2449c9b55f90554a"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v5/DJI-Osmo-Pocket-4P-Classic-Black-V5.blend",
+      "bytes": 5155948,
+      "sha256": "25277afea822ea43c5a293408d657527f0b783053e8e703806c8c696da7577fc"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v5/Portable-DJI-Osmo-Pocket-4P-Classic-Black-V5.blend",
+      "bytes": 5157785,
+      "sha256": "6f46003fbbbbe61946f90293e9ce589eda9fa7f5a26d84f8caf9561ff963e430"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v6/DJI-Osmo-Pocket-4P-V6.blend",
+      "bytes": 7699770,
+      "sha256": "3355393794bb776ae0525a359e3735dfb677fe06496c98165042cf28c8567d95"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v6/Portable-DJI-Osmo-Pocket-4P-V6.blend",
+      "bytes": 7697342,
+      "sha256": "f07b149be70f2349d7034b29315d3614a49ad601e8539b5561c42a83b2a417b8"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v7/DJI-Osmo-Pocket-4P-V7-Final.blend",
+      "bytes": 11478919,
+      "sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v7/DJI-Osmo-Pocket-4P-V7.blend",
+      "bytes": 10663660,
+      "sha256": "bfe87db4162421066892bbb4beccead4ad88349b44713d4951a2d47e43aeefc3"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v7/Portable-DJI-Osmo-Pocket-4P-V7-Final.blend",
+      "bytes": 11477118,
+      "sha256": "4a54171987e5220585e8696f3264a40aebdec40f26f5a824ee186369b1181fcd"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v7/Portable-DJI-Osmo-Pocket-4P-V7.blend",
+      "bytes": 10662968,
+      "sha256": "0e97689bcc396531fb1cba55573ee3ddd686e3cd3d19f45ac5c1de0f28b2fc1a"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v7/portable-media/display-artwork.png",
+      "bytes": 70788,
+      "sha256": "a986df29b1c64860b1e8085301140e31c53e6dfa92cdcac5565f8cfd8e7745a8"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v7/portable-media/yaw-deck-normal.png",
+      "bytes": 247237,
+      "sha256": "43ddd579d2f4f3ab7295536d004fb64abba33035cf5d4be6a403dc67f2df8f8f"
+    },
+    {
+      "file": "06_自建工程与成片/dji-osmo-pocket-4p-v7/review/镜头与云台线框素模-Final.jpg",
+      "bytes": 581863,
+      "sha256": "d76c4e335b72ff49ffe48614da49945cdfcd8ce758de7e5431663322b22621ac"
+    },
+    {
+      "file": "06_自建工程与成片/工程索引.md",
+      "bytes": 3593,
+      "sha256": "c054b189adcffeb019703372df0168123cc0a7bc24f4c56f8b6610dd7bd64791"
+    },
+    {
+      "file": "provenance/archive-plates.json",
+      "bytes": 349120,
+      "sha256": "22c5642a8b99fec9e71d486e25962624afe474cf8da23f9149a025537ad55cfc"
+    },
+    {
+      "file": "provenance/archive_editables.py",
+      "bytes": 1932,
+      "sha256": "7309c87aa8a20fecba1aa498b2377b1d6b9425fef0f4d001b2b8ad15dd7aa184"
+    },
+    {
+      "file": "provenance/archive_plates.py",
+      "bytes": 10810,
+      "sha256": "6b0b7bce1bcfe22b4a9bc8656eb2a61d9e5c46fb7144ea3cb12d930791ce2fc6"
+    },
+    {
+      "file": "provenance/archive_process.py",
+      "bytes": 10359,
+      "sha256": "bafc0987bfcc5f91752f49b5ff61576dbfb409cd0011c06232800aae5c25c42a"
+    },
+    {
+      "file": "provenance/audit_editables.py",
+      "bytes": 5709,
+      "sha256": "06c5dc080983dc9b9a7c5e6287a6ee1e1fb4b97aaafb37d1f21c48f0c211061a"
+    },
+    {
+      "file": "provenance/build_carousel.py",
+      "bytes": 12535,
+      "sha256": "029c5473d43047ab0aa365094e62d5534a51eca91281162e26998e896d4a64f8"
+    },
+    {
+      "file": "provenance/build_delivery.py",
+      "bytes": 11978,
+      "sha256": "9da8009e302f08f37bd4382d41774b2dd05e7ab5f5da6435c69f5ba133110eb2"
+    },
+    {
+      "file": "provenance/editable-inputs.json",
+      "bytes": 8014,
+      "sha256": "fa2f23fc37208a50105be7f489bc092a2d8ff8ea2c1d749f383ddc2ffe4eea0a"
+    },
+    {
+      "file": "provenance/editable-projects.json",
+      "bytes": 44770,
+      "sha256": "ece3d856eb68dcaf9e51952f5ba1e5e7e6748ded45ba4c86d8d934aabb6e252b"
+    },
+    {
+      "file": "provenance/finish_v7_reshoot.py",
+      "bytes": 6751,
+      "sha256": "a8a3b04a2c8407090f38d29ed55185262023c92cb38a23f6ca836630d7aea11d"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/044737f6166c7719d8733f.jpg",
+      "bytes": 14037,
+      "sha256": "8b96575bdc38877324cfe495bbdf5dcfaa5ec45fc8490b207b361c94af14624d"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/072323b6d2593372f0076b.jpg",
+      "bytes": 13660,
+      "sha256": "2a40bdfb551755f0da86cf6664f71939662406253f3acd87f89d045a8cf925a9"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/08136f9584efd9a5322b68.jpg",
+      "bytes": 12800,
+      "sha256": "64dbab9fd284b28addea3d145af591d82fcfc3348f523f78826becc86838a43f"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/08dab91f9cfb9507b2eab7.jpg",
+      "bytes": 9075,
+      "sha256": "8a44d37b3825597c7bb557f3d6a86e592c6560ac4fef60d1fcd3859a96b502a5"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/0ebd95129aea01fd77a48a.jpg",
+      "bytes": 9080,
+      "sha256": "15ee8c6cfaef93525c30e7c3ed2ed6d56134be8e6c0adf1015f27a4d314c9632"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/0fae9db07229e430f4c52d.jpg",
+      "bytes": 10520,
+      "sha256": "50e0039e4d64cdf08e312d006fd0a17a3cf68a44932a0301d2b741af8df4796d"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/10cdd361dd3d64c5f99caf.jpg",
+      "bytes": 10538,
+      "sha256": "6669febfad8f43d4afb751eb0dbac5a719572f7dafe9b9bde39537b06b08d122"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/11d53cfe4c286fa4ffd199.jpg",
+      "bytes": 20050,
+      "sha256": "c25dfc77a7b21663580e7f224a365ce8b4a17f153fd4069bf62cbb2fcd23bc66"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/1498576752ea25a0bf33f9.jpg",
+      "bytes": 12893,
+      "sha256": "c82ec34a053665d336f342c45893030984fc1579c018fe9dcdb4f16b27dc8a2a"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/1c7ac4a3b350ebbf927ff9.jpg",
+      "bytes": 19155,
+      "sha256": "229d5028c95e75b3abba934f88b91fb686da9bd234adf63e0f3518b294e49825"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/225dbbd174e5e166fb0f33.jpg",
+      "bytes": 14147,
+      "sha256": "5f662e793bd384375ba13de4bed2d198c774841f2e8fd9215ae5c39030cf95b5"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/23e638a9507798f4b1d953.jpg",
+      "bytes": 12637,
+      "sha256": "d2d4355fb90483248834438580fdc30f3875c0876b4ba27f5d845aa07ed211bc"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/274e75b3d8677217f6d7b1.jpg",
+      "bytes": 9734,
+      "sha256": "2f431d2114992dd2b94d134178f07917b66d6a2fffdc13a7c585eabe397b9dcd"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/2cead7a217abfb9bd8128c.jpg",
+      "bytes": 28546,
+      "sha256": "a1e45b2dfa016843fb30fec27beeeda01c981629457a6311d7092004259c8ff8"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/3316c1dbfd5637e9f0da0b.jpg",
+      "bytes": 14621,
+      "sha256": "6761ff82bac329d99fec2f3cda6a6cda5b9bc43fc8112c03bf7a5d3f7805975e"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/341cec3aaa5ddc83330c9c.jpg",
+      "bytes": 19607,
+      "sha256": "963db8db57a8b1d9d627a6f6e78fb2dd867033efd17b998349fdb3c005a4022e"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/34a5ad4ee914b84a7f410b.jpg",
+      "bytes": 14053,
+      "sha256": "73f22b4ba9612fc2356c6c2c0bc783403a6d1010d03dd5ea551c3997b8c0beab"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/353a26dcabb1e4ad4a0aba.jpg",
+      "bytes": 17475,
+      "sha256": "a744fcbf17df4c497ba2f17121ee4d8a8fd9f9abf37c84fc7d9950e409fb4602"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/367af6861e534051f6040b.jpg",
+      "bytes": 9771,
+      "sha256": "baba16107368ca86fc288081ae21b472987675c3f56e1103ff3fb11702f317bc"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/391d8338ff498894384e90.jpg",
+      "bytes": 25492,
+      "sha256": "a48c33f69c45c6918df1224bca357a1569a491763436bd343463ee9a8040b280"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/3d5bc10f33c9bca641f55f.jpg",
+      "bytes": 12823,
+      "sha256": "9070a6aaedaa4fb1833d133cfa8212a59dd023369fecdad77b7cc0efe2f608af"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/3e4d847f5a3198e379cd63.jpg",
+      "bytes": 22932,
+      "sha256": "47eeda556c164a9f0eaab63d2ebc3a65eedd090e2fd08d98a68cd7255ba58b73"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/3e73260392f413f60d512a.jpg",
+      "bytes": 23305,
+      "sha256": "fc81d5e37be2a6760861d516195b74e9405ade0cce84316e0db4a3192b1c19dd"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/3fdcd138cc6e40bf71affd.jpg",
+      "bytes": 19118,
+      "sha256": "c81d986ecd8ca352302d32fef5d174876ad8ee5be5d1df9eecd34e57a9eacf0d"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/4368a291f67ae72c660819.jpg",
+      "bytes": 10186,
+      "sha256": "bd104cf5377896d424f0fa341526b761535ff6fe0046f1ca6c2e6357f6a48627"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/459e802be34b03648d5533.jpg",
+      "bytes": 12032,
+      "sha256": "2494ddfd0a934f75ee43272c135c608b6681139b802a6f1f8df2d02b0829bd25"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/45b58385bd15a40cc8945f.jpg",
+      "bytes": 27597,
+      "sha256": "d10585e8440869706a69264bac74d25fc9e84a9bef1698fd47688a4754ed7f79"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/461cb48e5c4a105c388722.jpg",
+      "bytes": 10281,
+      "sha256": "1be482bd3f818626c0f8a5dc874afa27ca852f6b7690de9e17c0986dc9ccc7f3"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/481a4ff3272932bf3f99b8.jpg",
+      "bytes": 11473,
+      "sha256": "dab38739efb26d0c4bbe5aad09f991106b7c826b8d9114bc1310fc921aae9d44"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/486d50a551a5bb0ffc4e96.jpg",
+      "bytes": 15890,
+      "sha256": "d92df42d32c97da356f5ac5a65ff1ee529adcad3b88fe7ada794ecc81ea687ae"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/495b22a0508b212bc61824.jpg",
+      "bytes": 15780,
+      "sha256": "ce3b370b0489de66ade21da2b0ce5387430d060103d7b1a35a50889c6de7f3a6"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/4ad2f90940c906b6e2def0.jpg",
+      "bytes": 12409,
+      "sha256": "86eb0626db5f130ca6c0c963b54749b4d662589e9a9bb397bb79669afeaa3f87"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/4b0a28813c868d2c41b7a7.jpg",
+      "bytes": 12383,
+      "sha256": "51523f7c67d1a9b0ec6e91a41cd7a01d2bef09a9d9a48c434fe4366025c88f1c"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/4d65c8cf4ce2db43185268.jpg",
+      "bytes": 19290,
+      "sha256": "d62eae4e49616407fbfb03514ca6cfa58863351bb3d812d4084e2bd71233cc1b"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/4d664c51e59bf8788a1a08.jpg",
+      "bytes": 31328,
+      "sha256": "a93f40a3694ad0c97e0dcc75c3886ae6c22b9b2db6e9d46c7e1b46ba4ddc993e"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/51672249a7cb3a6490455d.jpg",
+      "bytes": 17501,
+      "sha256": "3d236c43b4589a9b0136647bc7b35d9936fbc2270a9955b8212a57d1c8dc7e28"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/54d60f1f5b65c76710d2ca.jpg",
+      "bytes": 12000,
+      "sha256": "bffd926427160f5d361b6372d34d2ac2ed7c0762eb9f26fcf2c16f5f56b4ab73"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/5670e9dd035f85ccfe877c.jpg",
+      "bytes": 12525,
+      "sha256": "7dfb4dcf94d0d96b3b8c47883109e00cc6e1d3eb85621eb98d136c0e8931d2f3"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/594c464a5ca935c7139875.jpg",
+      "bytes": 14466,
+      "sha256": "3c141a4d8be3e6c10bec586e8da8aa11be337886d2fb69c45924a46ecf68515c"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/5b4214bcd1d17128aba4d6.jpg",
+      "bytes": 20846,
+      "sha256": "ba802f6543c2423b1bc7e7483398ec63ed80acd7e49dc95634ab34861ad8ffe3"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/5d448cd959629a41987d3e.jpg",
+      "bytes": 8396,
+      "sha256": "bca234c1e471ef3fd894d0d6202b8d5dbb2ca9a6edb86533657abc0b8f4f0f69"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/5f0ca1af63ab1d05e255c1.jpg",
+      "bytes": 14454,
+      "sha256": "3ebced7bb3d524f191f9939fa826a577e7dbdfe307491ceb29a110ffc6312f2c"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/5f94eb9dce859da0876daa.jpg",
+      "bytes": 24606,
+      "sha256": "fb5ee6525b9796f1a8b2f2712dee4985df1d9947b502020cef4d6a0aeb3a52e1"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/646f86818867d2b5712b03.jpg",
+      "bytes": 9683,
+      "sha256": "840e663634387d1af88599bdd3ff0a515a2042dc45bd775cf382ee75876a3d2c"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/669c31697b6e3dc4704719.jpg",
+      "bytes": 12179,
+      "sha256": "9fb0b6e03a7077134e84228e4005a0f0fa24a204d2c802364ab158667a009062"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/67b366d729c75906cd4293.jpg",
+      "bytes": 15091,
+      "sha256": "aec8790b6e32b0cd2204e99e5665506ddc7c8626e30a63b0c58a299991055c52"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/689cdb8a1ee44dd679890e.jpg",
+      "bytes": 10350,
+      "sha256": "a4a84efe46e0420fc0f01eeea0f3bb8c6a0fcdc84e8d3ab6d5d3f2a56aa3cc25"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/6c2a4739907ee0f35e3886.jpg",
+      "bytes": 16493,
+      "sha256": "e6da79046117cca3ab8d37af0248c4109692c4a13861c60436608977b5630629"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/6c9b0d13492eeae95ea672.jpg",
+      "bytes": 13251,
+      "sha256": "cedeac90e7e686385d478607c7883def5c01cd336ece657602067fa2b1225c6f"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/7137528f4062130c36a921.jpg",
+      "bytes": 24194,
+      "sha256": "52b7a3cf715877b5250b92c89ed4d693cc2b3cd331d61e5275c274c96f5772f8"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/720226bfdc840ca28163d4.jpg",
+      "bytes": 9474,
+      "sha256": "29fd39b5e9e200edac49aa14322f4cbbe549ad7b6651221e35bfd14487825094"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/73777b602e35b65580dcae.jpg",
+      "bytes": 27973,
+      "sha256": "92e255042bc534c7849d015ea28807278cd0c475d3eaa67dda0940a9ee101e81"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/76def59edbf1601a31dab4.jpg",
+      "bytes": 11275,
+      "sha256": "953fcc9e4b47c7fc824f12209cb5c18bd6e090be43b77636b6233dc993fed4f1"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/7738ae09af023db4ad7532.jpg",
+      "bytes": 13694,
+      "sha256": "7ead2d77ef951b6d3d88ccde54e624f812bde801ca946c7ca04308e67b6c2b53"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/80dc364cda910be6240e9f.jpg",
+      "bytes": 19990,
+      "sha256": "9bef795fa4d442801454568dffd2c6f365e88056f5034b769ccf5e926c48df13"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/8288619bef71f9d384d296.jpg",
+      "bytes": 15718,
+      "sha256": "ba8d51fb2408745c2f9ae4a55f317978e4aaaf90a9c98e5e7fd516fc62c4abd9"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/8315ff55d3422bf2a2c37a.jpg",
+      "bytes": 24759,
+      "sha256": "38bfaf816ada3fa59583740868cc044db76e7f26d8988f5085a8d9c835f911c3"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/875f3ef75453ac68b3e5bf.jpg",
+      "bytes": 9915,
+      "sha256": "8ec6419a605ee248f0fdf9b91cfc3426c3ea4091cab390acb6922d6f9b3b3957"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/896d7cea64b4002043cf3d.jpg",
+      "bytes": 9556,
+      "sha256": "b190ff79bdb5ecb5e60b7c7b5b146ac1724a016fc2edc9ffe43f92c07cc6dd64"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/89b9ae1e7197cd9cb1bf6c.jpg",
+      "bytes": 11359,
+      "sha256": "20a68b41fb4db13c5b7e53bb669c60d4ea2583ab2127b677c9c5b640d63ee4d9"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/8b9537997560e475ba660e.jpg",
+      "bytes": 12374,
+      "sha256": "e40eb64b1298e76108e7680a164b2c9a906d96e3f8dc4089d3d19b994635e3fb"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/8e7d93530ca33487f98336.jpg",
+      "bytes": 7520,
+      "sha256": "40f2d519a648d1c72969cb5f1c700a88984ee15ce8a8043471b54eeab7de9b23"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/910abd475eaf4c315805a6.jpg",
+      "bytes": 18071,
+      "sha256": "7939d34062d1a51a4fdb62cd4a9d73d1c94007bdcb6277817632cb6418fc40c0"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/914097eb18d573a7c1b175.jpg",
+      "bytes": 15269,
+      "sha256": "8a5875118e9ede13f4b220e0db4e92ac6d091eb911766aa1f8a9c7a8cb285608"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/9259da68ce9a458994af23.jpg",
+      "bytes": 12957,
+      "sha256": "2c09909030ba61ee2afd842d8ada6e6c14ff954a9e5073968321d3651aaf6390"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/94140ad170e55c6ab1b170.jpg",
+      "bytes": 8192,
+      "sha256": "318df793117f384ad66192e26e3e957509e62acfda6bf0234d2e92b2ed6f888e"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/9493ce2e10524fb7c633fe.jpg",
+      "bytes": 10032,
+      "sha256": "5870c28e4e3b221199a1ce28b12e59462892975b82be12320b29cfec844a532b"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/95dc23a84b6ee60da56a88.jpg",
+      "bytes": 19633,
+      "sha256": "c1b8620aa91b124cc8b1541f0a81693f723cf914820d3f7abb22546751c97f00"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/95fb4c84aba86aaa5e01fc.jpg",
+      "bytes": 13844,
+      "sha256": "b8b32fee9a7ef4b25d3437db48ceca0513666955978f43407b8c3c4dd2118a52"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/990502fab48e3b134879ef.jpg",
+      "bytes": 9953,
+      "sha256": "aa0936f72e595209972bbf8ecca10a635e3c85a9127b5d9ad319f8cf0597c20f"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/a0e89a8e149a5f9e1352cb.jpg",
+      "bytes": 11611,
+      "sha256": "c65eb459378d895cef1611dc1750eafcfb85ed85cdb20d466af9ea70ff9e4df9"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/a42b9c248a33b77de502e4.jpg",
+      "bytes": 17351,
+      "sha256": "cc11e53f578db1a3a8fb660bbc08b157b1450bf642b1cfa41d4cced09eb26b34"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/a8502bd83110f1c72f04fc.jpg",
+      "bytes": 12094,
+      "sha256": "399e683a0c632185b06b3ef3a88a8658d4a041d6cc295c372ab7df02cd442af7"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/aae93fb152d3707741d390.jpg",
+      "bytes": 20323,
+      "sha256": "c497fa664e1f2f10cf0b168b9b9f7dd61d65cdb3e2fe8fbc016543e7756e4a43"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/ab8ba55d7685b270cd1bdf.jpg",
+      "bytes": 7970,
+      "sha256": "42818fea02f5ac466306296d06db950187b3e6b8480dbcc1c3450b0ebf578628"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/ad538622677023bf2b9432.jpg",
+      "bytes": 25056,
+      "sha256": "753621d754c219a71301969e09c6bd5d275c15d849cc48c1bf22867b04901171"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/aeeae71ea5d94d20bbc82c.jpg",
+      "bytes": 11166,
+      "sha256": "db211c638327f8c03a99b364ee2c46e175864d36a53a952891bfa025b354b62c"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/b06bdfb9711c115ccb66bc.jpg",
+      "bytes": 10075,
+      "sha256": "83d9fa9301431e5da9e210e523d3c4aeba423b52e0f4bebc0ab54a4763d939dd"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/b0858dc80746beeec46ed4.jpg",
+      "bytes": 12922,
+      "sha256": "b81e780f5792c85eb5effcd0f4984dcb41a2c62809ecdd30ae679797dc058e5a"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/b0ca33e2d9e60f3d574cde.jpg",
+      "bytes": 10410,
+      "sha256": "bbb4856eef10926d8f5b4d40a035f4decd71257cdb895b04692cdf56baae36b4"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/b0cd293eed2ebd0a51a083.jpg",
+      "bytes": 12315,
+      "sha256": "dcbc6f0c8cd58f3012dc6ba6626e5dfbbd52affe4f78675932fa2a6334e33c08"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/b4fa58e40371c732d0adb6.jpg",
+      "bytes": 12299,
+      "sha256": "0e75bbe2413136059164b343fe870470e404cdd5d1adc37e929bd833ffdfe3fd"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/b519ef12483e72c7777d06.jpg",
+      "bytes": 17259,
+      "sha256": "6ece8ec1511907cc1e6ead018c245902afabdfa5bcbb67c80db5024431597eeb"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/b55cf2e67e7c960a8decb3.jpg",
+      "bytes": 25672,
+      "sha256": "07377382ff7284441b90f4673a08b62755de4852a69dc4ed3159779aaf468aba"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/b60507b4f7967a3e181867.jpg",
+      "bytes": 11212,
+      "sha256": "2f86a73076ab7aa6122277136b3ff7555b2ef8cb18371921d9b295274a6a79cb"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/b68740ee9c93d1fa27abbb.jpg",
+      "bytes": 14937,
+      "sha256": "3c78b2a7b783c326df450bc884079eafb6048c9f18f84ca3bd77878ce1104e27"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/b9d2487c2cb090c0db11a8.jpg",
+      "bytes": 14488,
+      "sha256": "bddcdfb239e65f120a4e61caccdcca0f755b47a0b9cfd757c5c703aa428a29e1"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/b9d37bb50450f748cd84d0.jpg",
+      "bytes": 10821,
+      "sha256": "c008c674541ebb8810bb5dfebd9cf856cd9af40d0bfbed20c8952650330d9662"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/c4d5f4ec35493703177afc.jpg",
+      "bytes": 10403,
+      "sha256": "e08add5c91d7dbb06b5b44f995fe3eeda9dd96fda1bd30c45f4fd4513abc0f5c"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/c55c6d8f47dc275dd1482a.jpg",
+      "bytes": 17065,
+      "sha256": "ace1e1c7fd6512b02734088ca7f09fbfdd5d25095126f96880f1010e5fb66cf8"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/c63bc95ea0ccd4e938d5a0.jpg",
+      "bytes": 11373,
+      "sha256": "2c95dc786d5c0a41d9f702896d7a837b1f7cb1b9194649f572bd8620e4d54ea5"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/c9791f6ae64e525da7d384.jpg",
+      "bytes": 9469,
+      "sha256": "5de401323079114c0633708e38e8a5b4d8e51491d8f34882df2880133f0c2d36"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/c9b147560115f08828e30d.jpg",
+      "bytes": 16981,
+      "sha256": "c3db8de6b0a8ea63a64b0aa83a987ee3d6cb166a767d80688dc1aa2d61384811"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/cd8d7469127291f8e02c66.jpg",
+      "bytes": 26105,
+      "sha256": "add8267818f1f55fc391cc44b969c25e0ea458922ef7d2148742ae4902597b3e"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/cf4449907f0fcd3da39bb0.jpg",
+      "bytes": 13870,
+      "sha256": "11fa536419265a23e8196bae8555b6ae7cd1fc558d670ee5a2ed71bb591108d4"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/d4b4f4309331f3e722b900.jpg",
+      "bytes": 14355,
+      "sha256": "75553952f832b64d776d5ae30d0bef3d411454f670193890fe3624aa09652c97"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/d55b5be5ea8ca9fd2d3300.jpg",
+      "bytes": 14426,
+      "sha256": "07e3ed3b6fb433066b6c53d34efcfb437733cb35a7a454d2a99ee83574b5d610"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/d6bcff4f57f107f60245ab.jpg",
+      "bytes": 12867,
+      "sha256": "9960410de54d7360f6f2b43a5d3d34058ca2d835641ddc8462d7943eda5bedd4"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/d8dc2a2db16c7063919566.jpg",
+      "bytes": 10912,
+      "sha256": "7e4ba5d40af079615bace66f66ca64a7a0bf992d6fa93a19b62bce51cdc6b5c2"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/d9a85f4c9b8b9939c1f203.jpg",
+      "bytes": 11066,
+      "sha256": "b5a7b6f487328a104437e77e4490ad893962ed460558580a6cc1fc0017a29e39"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/d9fdaeb4578c3b1e3e8eda.jpg",
+      "bytes": 7312,
+      "sha256": "088be732a7d926acf1f4693ba9a68d483bce9f135436f5a4a54d1e387a310658"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/dc895d24459042206de595.jpg",
+      "bytes": 12412,
+      "sha256": "6de390f858b3e53971c1b5853c1f13df04f853751d047cc95b2be96047f45d04"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/def1bdd709941915866bc1.jpg",
+      "bytes": 10164,
+      "sha256": "36a111fe7391d4a95096488d787f4cc7597a4227dc05d8aee9a9b6cc998bc7cd"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/e01e709685757977e8951e.jpg",
+      "bytes": 10754,
+      "sha256": "ff6775eb18d6545a9352c96d830fbe46e897e8c6b8f48780d58cd4bbe81a3697"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/e47498cc36d349b45d38d0.jpg",
+      "bytes": 18232,
+      "sha256": "d22249703aae83f762412af8d36921192b7ef4dc18adec6e8757548d3d287a81"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/e78dd97faef4c9d80307c3.jpg",
+      "bytes": 17102,
+      "sha256": "c31123fec59f3c019d1bc65b88f3f1bbebd5db9db3ed58f292dc291a551c5f20"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/ed291580a27c62b0f679fd.jpg",
+      "bytes": 22016,
+      "sha256": "c9e80ae6d78365999b6fd114514bdb08ea33926042e39d67de1839324d7f2a02"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/ef66891e49808b4703f1aa.jpg",
+      "bytes": 11555,
+      "sha256": "e25a87a62416c992a9d88c6782d37ff2d3ab9851ff879ad0f62b13de6e7a8cc8"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/f006c2f65c4471e4ee4740.jpg",
+      "bytes": 11036,
+      "sha256": "e953f251969788940de9eb24bb5fabcfd270e6891bde49df29c5d71a817eba23"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/f62a0f7114f95cba252e57.jpg",
+      "bytes": 13981,
+      "sha256": "3e8a7aaa27e2415c756bdc9789067ebfaf434f496c6c7d4d462866355fab51de"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/f9813d43994911b93fc4cb.jpg",
+      "bytes": 19468,
+      "sha256": "f2cbde71df8b91916346c44ad02b38e96d97cea6711bc97c1df35e9800e546e9"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/f98ea3b2cc475b4c4a876d.jpg",
+      "bytes": 17137,
+      "sha256": "efb063085f2f8d92f1fdf096985ea65a22333de835da993b70d59d269d5d625d"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/fa7fa102039a54af229cb3.jpg",
+      "bytes": 13703,
+      "sha256": "9bf3903253a6c908a0a64149a765f8eb7091038c43c9a630e23297da148661a9"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/fb028563a6959276c2a31f.jpg",
+      "bytes": 11151,
+      "sha256": "73a120071a89cfb51bb8eabad1f9f187215f21fd3c05b9110f28130c7a2ec4b9"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/fcd35fbf221b42f2bac195.jpg",
+      "bytes": 7921,
+      "sha256": "bd333a1fdae1962a9e9fe7bdac692681c54ea4ed8db6fa0a97b3b9196902c338"
+    },
+    {
+      "file": "provenance/gallery-thumbnails/fe90ffd22a3a8012fb49a1.jpg",
+      "bytes": 10399,
+      "sha256": "8543556ec39090cc6458c01636efaa57103d9c3a46bb801db117fd3e559b822e"
+    },
+    {
+      "file": "provenance/index_editables.py",
+      "bytes": 4462,
+      "sha256": "d959e2165e50490470639be5ddcc355d94414f1fcd232594856b0c8ec3604af6"
+    },
+    {
+      "file": "provenance/layout_replay_v1.py",
+      "bytes": 2190,
+      "sha256": "708092b274e53555e7a448bd989135560c598191b34bea1f34ea2935ef693670"
+    },
+    {
+      "file": "provenance/portable_editables.py",
+      "bytes": 7309,
+      "sha256": "5bc1830a09c5e08667fb14fe555fce90f035ffe755ef3beeb6b7fc32e0aa9cc2"
+    },
+    {
+      "file": "provenance/process-history.json",
+      "bytes": 37388,
+      "sha256": "06c8a78c9ff7e5f49637383471e6141e044953b1388d2e6913a2167f0f5dbb6b"
+    },
+    {
+      "file": "provenance/replay-v1.json",
+      "bytes": 7069,
+      "sha256": "5db35ced55d102dc26b32bb51bd5f1e0be6b01f776050ff284ad7be106adda63"
+    },
+    {
+      "file": "provenance/replay_v1.py",
+      "bytes": 8670,
+      "sha256": "dc1368113b46a771e0a178741a6fdcc85372d294c9ea52a6eb70236557c837f3"
+    },
+    {
+      "file": "provenance/reshoot_v7.py",
+      "bytes": 5766,
+      "sha256": "145f46d7387acb0ddd1414faf10c037513e67e8353833c87215923cbbf64a713"
+    },
+    {
+      "file": "provenance/reshoot_visible_edges.py",
+      "bytes": 4548,
+      "sha256": "f5a17f498c98ebe4e725e0cf961b3ce58ad0b4e633f1223be8170c1fe6d8c47e"
+    },
+    {
+      "file": "provenance/test_editable_relocation.py",
+      "bytes": 2460,
+      "sha256": "e345ee63e1fd6c1979748fb46013f93b2b701a53514784bd3cffa8cff805c7dd"
+    },
+    {
+      "file": "provenance/ui-captures.json",
+      "bytes": 14310,
+      "sha256": "af5c0f590dff707418a7dcf9e0228b74f95a1e9222c6924f1013452fc06064a1"
+    },
+    {
+      "file": "provenance/ui-work/capture.py",
+      "bytes": 12756,
+      "sha256": "4670ebab72be2071e00259c263b47c9e03e13cf9a980a5f6ced48ddbb7d3e9b2"
+    },
+    {
+      "file": "provenance/ui-work/compile_evidence.py",
+      "bytes": 3972,
+      "sha256": "f9c9c216c1401f9c538aa60d0a6e6af547b412e80b2e1074367eb6d77731ed8e"
+    },
+    {
+      "file": "provenance/ui-work/contact.jpg",
+      "bytes": 331164,
+      "sha256": "7e057c201e3176555e7fcacb8599dff599874c180860046c391836d7a0884c69"
+    },
+    {
+      "file": "provenance/ui-work/early.json",
+      "bytes": 1057,
+      "sha256": "39a3cae5dd4300c9dcb0d39ed9a8603704faf8ad4eb5dd1b3675a3c42fbac20d"
+    },
+    {
+      "file": "provenance/ui-work/film.json",
+      "bytes": 1043,
+      "sha256": "04f54ab51f4cb54957606ea6d38b2ca750fb9e15f94f01991b6eb564e8a17b9b"
+    },
+    {
+      "file": "provenance/ui-work/final.json",
+      "bytes": 4115,
+      "sha256": "63261bc31c304e3a4fa41bde3ae3644cc21c02da5dde40517099d003329d0322"
+    },
+    {
+      "file": "provenance/ui-work/launch.py",
+      "bytes": 829,
+      "sha256": "1de31469f0d9cd1c95af03f4044df88151ed1516c82ea40df6790bf9b03c2bc7"
+    },
+    {
+      "file": "provenance/ui-work/review_screens.py",
+      "bytes": 549,
+      "sha256": "3353c7d0bba6027e682a4f14a29568bf8450695f3c6cea7caaa88d4b44c3ef83"
+    },
+    {
+      "file": "provenance/ui-work/studio-console.txt",
+      "bytes": 471,
+      "sha256": "5510443c723212e56ce00cfa2d39a1f6b3746dae7d0369de6f40badd40d46324"
+    },
+    {
+      "file": "provenance/ui-work/studio.json",
+      "bytes": 3729,
+      "sha256": "581ac5ddb6ea5930a6a21bfd419a77ccf0e6b21225be20a9efec6e2fce347cf5"
+    },
+    {
+      "file": "provenance/ui-work/studio.txt",
+      "bytes": 964,
+      "sha256": "faa13e100fd4e7827729b1704626962f015b33184d720473c2dfad7fe9bc2b87"
+    },
+    {
+      "file": "provenance/v7-reshoot.json",
+      "bytes": 11846,
+      "sha256": "612cfd02b848e37f0667c6691cbfb32909299d84ddd3f562773ed28558853da9"
+    },
+    {
+      "file": "provenance/动画抽帧/Pulse-0019.png",
+      "bytes": 1799097,
+      "sha256": "a2192ad9152030645d516007e70c7ae7d1dc6d18fb1ba1fbae2dbfa2f7bb4e5e"
+    },
+    {
+      "file": "provenance/动画抽帧/Pulse-0095.png",
+      "bytes": 1999449,
+      "sha256": "077e2692040b144a8ae7455c779b0e384fdb0c1aa0de3b1ddbf43095533cfac0"
+    },
+    {
+      "file": "provenance/动画抽帧/Pulse-0257.png",
+      "bytes": 1912311,
+      "sha256": "9b73d43c4b6d9634fc0b296c947b1f3ec405303f34d63d59b7c9741046e4e8c7"
+    },
+    {
+      "file": "provenance/发布图来源.json",
+      "bytes": 17217,
+      "sha256": "b145961f48f5c151cfde106b248acb05411a91039e181fb824247f1b719b11de"
+    },
+    {
+      "file": "provenance/同期依据/CG15/15秒执行分镜.md",
+      "bytes": 3381,
+      "sha256": "6593b8549767bd7ba2cfd28d939ff67f94b6c07f823db47841d5d6e5216ddbfb"
+    },
+    {
+      "file": "provenance/同期依据/CG15/review/film-qc.json",
+      "bytes": 1684,
+      "sha256": "748886fb9c14886c4030d56ff5b186962be5c5fb43e7be59b866523d6ef6ab05"
+    },
+    {
+      "file": "provenance/同期依据/CG15/镜头数据.csv",
+      "bytes": 13351,
+      "sha256": "09680b03e9f0b548595987a54d9075b227ad4ff64ed348ddcd8f8c4454e2df3c"
+    },
+    {
+      "file": "provenance/同期依据/V1/build_gimbal.py",
+      "bytes": 14380,
+      "sha256": "0b7c537d6f913078d22f7a269fd2f3aec6a6308d572ad9aa9c2aacda2b909b9a"
+    },
+    {
+      "file": "provenance/同期依据/V1/build_pocket.py",
+      "bytes": 37062,
+      "sha256": "a9441a6ffd0dcc405d522a7784ed8ba34f5448c26d77949f90aeb870e1f24105"
+    },
+    {
+      "file": "provenance/同期依据/V1/references/外观参考与坐标.md",
+      "bytes": 5455,
+      "sha256": "541c9ea9df432752edb426c7c2d1b8ff289f167227953fe6235bffbdd5e118ce"
+    },
+    {
+      "file": "provenance/同期依据/V1/建模校验.json",
+      "bytes": 2506,
+      "sha256": "de22bf645579a76be8065ca519e982faef13a60b96f3e60966d0564fd38d70b8"
+    },
+    {
+      "file": "provenance/同期依据/V2/尺寸与官网校核.md",
+      "bytes": 4850,
+      "sha256": "b8b656ab8403b054df19df6ccaf68e6ffccdc61c5c6acf2346ef9cb533097803"
+    },
+    {
+      "file": "provenance/同期依据/V2/建模校验.json",
+      "bytes": 27687,
+      "sha256": "55d64ced2a8c1a67ce18f6cc9c4b51246c9d4f312dc4581f9c62f46581849cb8"
+    },
+    {
+      "file": "provenance/同期依据/V3/1mm截面与修正记录.md",
+      "bytes": 4985,
+      "sha256": "4c7cb8db2307d0c0b2eb1c9edae67b5d1499e851d0d825a47e2958b875d6b241"
+    },
+    {
+      "file": "provenance/同期依据/V3/1mm截面对照.html",
+      "bytes": 17032560,
+      "sha256": "b789dd6d91f116b8e697a0e0caf2746c3fba7088582c967ad71f12deb62dea58"
+    },
+    {
+      "file": "provenance/同期依据/V3/section-diff.csv",
+      "bytes": 38634,
+      "sha256": "142c6b760a0fe67209b0c917c97e7a140c06e3cc7c08ce8543ba36127435f23b"
+    },
+    {
+      "file": "provenance/同期依据/V3/work/section-metrics.json",
+      "bytes": 5888,
+      "sha256": "bfde320d5cadbb38bb556ebb0914175e6a0dcc93449561ec0c4b7cd86ec3b540"
+    },
+    {
+      "file": "provenance/同期依据/V4/connector-z-1mm.csv",
+      "bytes": 4560,
+      "sha256": "932c527dc35220adf9368f30ac74e0ad73b3a4c70863ee6d66a41952788d5a53"
+    },
+    {
+      "file": "provenance/同期依据/V4/side-profile-diff.csv",
+      "bytes": 12936,
+      "sha256": "e4759c92c7d8237b637a927df81b6234b36d809a12340138ab330e583e14a695"
+    },
+    {
+      "file": "provenance/同期依据/V4/云台连接精修记录.md",
+      "bytes": 4982,
+      "sha256": "9c8fb34df4032f2a4703f2975666725903e098b2c216ff3f6541923ae030ca88"
+    },
+    {
+      "file": "provenance/同期依据/V5/精修与复核记录.md",
+      "bytes": 5862,
+      "sha256": "c17f0c9b7bb67c88976a36b2b4c568b374d4b5609f5390d0f0f2c94c4499f39a"
+    },
+    {
+      "file": "provenance/同期依据/V6/assembly/v6/逐件装配清单.csv",
+      "bytes": 83626,
+      "sha256": "a41cd7a4c7456a2e5b338d6dfaf30008bf1b15925007834e0ac412f3765b82cb"
+    },
+    {
+      "file": "provenance/同期依据/V6/装配精修与验收.md",
+      "bytes": 10640,
+      "sha256": "d5113e241ed0f6bbf2fe756348a2d9c6f75453c219cbcd434cfaffcef76a0911"
+    },
+    {
+      "file": "provenance/同期依据/V7/optics/镜头正面核验.md",
+      "bytes": 4641,
+      "sha256": "0db60f51d90c4747d67c464e4174396d06ca4a51ccce47814ad74476a0f46f8d"
+    },
+    {
+      "file": "provenance/同期依据/V7/optics/镜头组件逐毫米截面.html",
+      "bytes": 658410,
+      "sha256": "2539efaedbac0b1e62597d097bd2c129b357cc4701ed9e764594d3f8c1869224"
+    },
+    {
+      "file": "provenance/同期依据/V7/review/Final线框素模核验.md",
+      "bytes": 1405,
+      "sha256": "14e577a037d68b9d8b32d98b86e1168e4beebe9f2443aa5e3009eb60067cb1ee"
+    },
+    {
+      "file": "provenance/同期依据/V7/review/render-evidence.json",
+      "bytes": 5019,
+      "sha256": "600eae87136e80fb3ba64fee603ee7a2cb192e613ce2643054eb367106426830"
+    },
+    {
+      "file": "provenance/同期依据/V7/review/source-equivalence-views.json",
+      "bytes": 3696,
+      "sha256": "69e837f36b7f8a2adb9b5ee39a6f2e64844a4a9e8d1cd5227c3cc6af8e98c026"
+    },
+    {
+      "file": "provenance/同期依据/V7/rig/validation/final/delivery.json",
+      "bytes": 3053,
+      "sha256": "c1edf87964e9d53a766eb4c1263c455ec7a3b9a2157184a1826e29750735ffe4"
+    },
+    {
+      "file": "provenance/同期依据/V7/rig/validation/poses.log",
+      "bytes": 915,
+      "sha256": "b8d94613142890e9ee81afcab4962e2392c327386fcdfea237135c339e74aecd"
+    },
+    {
+      "file": "provenance/同期依据/V7/rig/骨架与动作说明.md",
+      "bytes": 4034,
+      "sha256": "41dc7501ca3a2c93ed2e1e4f78db4cbb615060e422895a8fe205a69203d22cbf"
+    },
+    {
+      "file": "provenance/同期依据/V7/sections/整机三向逐毫米截面.html",
+      "bytes": 5989797,
+      "sha256": "b2ef30b16631c875ba6ecd84bd3c56885d296350f6a960961ae3e0620ee5bb50"
+    },
+    {
+      "file": "provenance/同期依据/V7/studio/display-source.json",
+      "bytes": 261,
+      "sha256": "32788f673b47f934c18e9a553107213bcd8392de84107f78377653cdd757b5c6"
+    },
+    {
+      "file": "provenance/同期依据/V7/验收记录.md",
+      "bytes": 8564,
+      "sha256": "5b99268f55fa62474638b219e80e38c22d2c4afdcbbf1f4579ca7e64ab973d0a"
+    },
+    {
+      "file": "provenance/过程考证.md",
+      "bytes": 6320,
+      "sha256": "ee238d0b88cec1a35c96726919b712c1fd3d1b34e5c97ec23128b30e8f141105"
+    },
+    {
+      "file": "发布图总览.jpg",
+      "bytes": 506744,
+      "sha256": "1ca7f80d36effc365b87906101545cdfacc1b39a97baa8f28ec08bea9314d8fa"
+    },
+    {
+      "file": "发布文案.txt",
+      "bytes": 1325,
+      "sha256": "4b477ab2f1cef94b93d30252907f8f57ee58580627c340ff3f8237f06ee85157"
+    },
+    {
+      "file": "开始阅读.html",
+      "bytes": 49781,
+      "sha256": "471484a39c3a1c107f1346790f3d502a40cbed734a5a6ea76e6e4060bf89a08a"
+    }
+  ]
+}

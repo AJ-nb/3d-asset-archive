@@ -1,0 +1,122 @@
+[
+  {
+    "id": "studio",
+    "file": "04_Blender工程实拍\\07_V7_棚灯机位与主视觉.png",
+    "caption": "V7 Final 棚拍。左侧显示 V7 摄影集合的六盏实际面光、主视相机和模型。右侧图像编辑器打开工程原存的 4K 主视觉，属性面板显示主灯的功率与尺寸。",
+    "frame": 62,
+    "source": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\DJI-Osmo-Pocket-4P-V7-Final.blend",
+    "source_sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+    "recaptured": true,
+    "window_pixels": [
+      2260,
+      1280
+    ],
+    "screenshot_sha256": "f62a0f7114f95cba252e57b2a4ec0ca7161941656e11cba9ee225036d70a68cc",
+    "scene": "Osmo Pocket 4P | V7",
+    "workspace": "布局",
+    "app_version": "5.2.3 LTS",
+    "source_saved_during_capture": false,
+    "capture_method": "bpy.ops.screen.screenshot (native window framebuffer; full Blender client area)",
+    "active_object": "Studio V7 | Key",
+    "native_areas": [
+      "PROPERTIES",
+      "OUTLINER",
+      "DOPESHEET_EDITOR",
+      "VIEW_3D",
+      "IMAGE_EDITOR"
+    ],
+    "paired_original_render": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\renders\\01-Hero.png",
+    "paired_render_sha256": "225dbbd174e5e166fb0f33a8b370b2540142b708e4c12f425b3bac4b134952e3",
+    "photography_collection_objects": {
+      "Studio V7 | Key": {
+        "world_position_m": [
+          -0.13500000536441803,
+          -0.13500000536441803,
+          0.23800000548362732
+        ],
+        "power_w": 0.2915000021457672,
+        "size_m": [
+          0.10499999672174454,
+          0.17399999499320984
+        ],
+        "shape": "RECTANGLE"
+      },
+      "Studio V7 | Upright strip": {
+        "world_position_m": [
+          0.10900000482797623,
+          0.055000003427267075,
+          0.15900000929832458
+        ],
+        "power_w": 0.2199999988079071,
+        "size_m": [
+          0.041999999433755875,
+          0.18700000643730164
+        ],
+        "shape": "RECTANGLE"
+      },
+      "Studio V7 | Soft fill": {
+        "world_position_m": [
+          0.09600000083446503,
+          -0.18200001120567322,
+          0.13700000941753387
+        ],
+        "power_w": 0.14000000059604645,
+        "size_m": [
+          0.11800000071525574,
+          0.16599999368190765
+        ],
+        "shape": "RECTANGLE"
+      },
+      "Studio V7 | Rear": {
+        "world_position_m": [
+          -0.0860000029206276,
+          0.10400000214576721,
+          0.22600001096725464
+        ],
+        "power_w": 0.2915000021457672,
+        "size_m": [
+          0.09600000083446503,
+          0.13300000131130219
+        ],
+        "shape": "RECTANGLE"
+      },
+      "Studio V7 | Crown": {
+        "world_position_m": [
+          0.00800000037997961,
+          0.0010000000474974513,
+          0.24800001084804535
+        ],
+        "power_w": 0.08139999955892563,
+        "size_m": [
+          0.1080000028014183,
+          0.035999998450279236
+        ],
+        "shape": "RECTANGLE"
+      },
+      "Studio V7 | Eye strip": {
+        "world_position_m": [
+          -0.010000000707805157,
+          -0.14500001072883606,
+          0.14800000190734863
+        ],
+        "power_w": 0.052799999713897705,
+        "size_m": [
+          0.04600000008940697,
+          0.00800000037997961
+        ],
+        "shape": "RECTANGLE"
+      }
+    },
+    "camera": {
+      "name": "Plate | 01-Hero",
+      "world_position_m": [
+        0.24117480218410492,
+        -0.44661998748779297,
+        0.17725640535354614
+      ],
+      "focal_length_mm": 88.0,
+      "type": "PERSP",
+      "ortho_scale_m": 6.0
+    }
+  }
+]

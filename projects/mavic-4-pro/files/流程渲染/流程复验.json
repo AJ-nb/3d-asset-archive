@@ -1,0 +1,29 @@
+{
+  "same_camera_world_matrix": true,
+  "same_orthographic_framing": true,
+  "minimum_projection_margin_pass": true,
+  "archive_source_hashes_match": true,
+  "historical_artifacts_byte_identical": true,
+  "readme_links_checked": true,
+  "png_decode_hash_and_resolution_checked": true,
+  "images": [
+    {
+      "name": "01-基础体块-补绘.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "dac096da7a50e9010ff84cae11efc90e552e0a45dc22303bdd8ea3354a6aff60"
+    },
+    {
+      "name": "02-白模-补绘.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "d7a35ad9aff64b2f3182da6a51803e5bbdb58a8efebd9047d59dc3656418d818"
+    },
+    {
+      "name": "03-材质灯光-4K补渲.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "bc4288f6146e531070bfa60413eab3589995afa92cc4a30aa3b281ca1ec2e88e"
+    }
+  ]
+}

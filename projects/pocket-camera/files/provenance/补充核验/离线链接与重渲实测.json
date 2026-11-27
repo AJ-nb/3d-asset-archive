@@ -1,0 +1,572 @@
+{
+  "base_archive": {
+    "filename_at_audit": "完整证据包.zip",
+    "sha256": "e34fec8311ea5fc4c8a6dace97f2f2b64f499f450ded3fee740a2f026003fecb",
+    "member_count": 341
+  },
+  "additional_source_files": {
+    "provenance/同期依据/V4/连接件1mm截面对照.html": {
+      "source": "dji-osmo-pocket-4p-v4/连接件1mm截面对照.html",
+      "bytes": 6289141,
+      "sha256": "b6099525d76e7c334369a42f2e207374209aebc14f214b266118fcf1dccb8a87"
+    },
+    "provenance/同期依据/V4/connector-parts-1mm.csv": {
+      "source": "dji-osmo-pocket-4p-v4/connector-parts-1mm.csv",
+      "bytes": 151356,
+      "sha256": "86cfd309ff01010ae6620a6eccd7bc67a3f4b47cf5b675e118c889dad5c431cf"
+    },
+    "provenance/同期依据/V4/previews/connector-side-projection.png": {
+      "source": "dji-osmo-pocket-4p-v4/previews/connector-side-projection.png",
+      "bytes": 153387,
+      "sha256": "ae0dcabfe824687e001eb9dd250e72450a5da2bf1e60ace5fde496eb47ccd31e"
+    },
+    "provenance/同期依据/V5/镜头1mm截面对照.html": {
+      "source": "dji-osmo-pocket-4p-v5/镜头1mm截面对照.html",
+      "bytes": 2970458,
+      "sha256": "979b574fa151a4235d9fed4edb491eb8a469414294da85489a8f8d156c4a7ece"
+    },
+    "provenance/同期依据/V5/正面逐毫米轮廓.csv": {
+      "source": "dji-osmo-pocket-4p-v5/正面逐毫米轮廓.csv",
+      "bytes": 40530,
+      "sha256": "6118bc81d0dd412df4e0781122a5745ab66d0d62bdaaadde183b3f701430aa59"
+    },
+    "provenance/同期依据/V5/云台侧面逐毫米轮廓.csv": {
+      "source": "dji-osmo-pocket-4p-v5/云台侧面逐毫米轮廓.csv",
+      "bytes": 13275,
+      "sha256": "e82093fc36799968d265099a896acff9a640148dabc44cc25a7ebae735c1871b"
+    },
+    "provenance/同期依据/V5/work/sections-v5.json": {
+      "source": "dji-osmo-pocket-4p-v5/work/sections-v5.json",
+      "bytes": 14069443,
+      "sha256": "f5761aa5ad49696e3e449cb077194f913d0d2df0481e5cd231bcbecd478066be"
+    },
+    "provenance/同期依据/V6/sections/整机三向逐毫米截面.html": {
+      "source": "dji-osmo-pocket-4p-v6/sections/整机三向逐毫米截面.html",
+      "bytes": 5351955,
+      "sha256": "a5b12d47d61146947f7f753c6b9fa98372ed4968d853ccef846c07ae1248156f"
+    },
+    "provenance/同期依据/V6/sections/云台侧面逐毫米轮廓.csv": {
+      "source": "dji-osmo-pocket-4p-v6/sections/云台侧面逐毫米轮廓.csv",
+      "bytes": 13339,
+      "sha256": "a4b9328f42d86becf8903a99f0050e3ee39831333e76b2a0cd1540213631c4f8"
+    },
+    "provenance/同期依据/V6/sections/正面逐毫米轮廓.csv": {
+      "source": "dji-osmo-pocket-4p-v6/sections/正面逐毫米轮廓.csv",
+      "bytes": 39011,
+      "sha256": "a38b9634332afecf527bfdfec03bd9fa99ea57799847d43d3ea26cb9adc2a801"
+    },
+    "provenance/同期依据/V6/assembly/v6/转轴逐站0.1mm.csv": {
+      "source": "dji-osmo-pocket-4p-v6/assembly/v6/转轴逐站0.1mm.csv",
+      "bytes": 8665,
+      "sha256": "41cd4219234189431421c3a6e2fa06827b1801932b69d92048118fb22fe4e9ea"
+    },
+    "provenance/同期依据/V6/assembly/v6/近触与相交明细.csv": {
+      "source": "dji-osmo-pocket-4p-v6/assembly/v6/近触与相交明细.csv",
+      "bytes": 80727,
+      "sha256": "6d796e43196f7bf2f2ac65234581cbb681317de6b9ad5bba7cd6b83b5d90a883"
+    },
+    "provenance/同期依据/V7/sections/云台侧面逐毫米轮廓.csv": {
+      "source": "dji-osmo-pocket-4p-v7/sections/云台侧面逐毫米轮廓.csv",
+      "bytes": 13336,
+      "sha256": "38267e4609fef511b7ab510212e8577fe8707f651bcb8f058b7bd8bae94560fe"
+    },
+    "provenance/同期依据/V7/sections/正面逐毫米轮廓.csv": {
+      "source": "dji-osmo-pocket-4p-v7/sections/正面逐毫米轮廓.csv",
+      "bytes": 38546,
+      "sha256": "a05e0627d5fafa71e7284bef5f1ccce7be2df03aa0e9b169b445d03e50fca918"
+    },
+    "provenance/同期依据/V7/sections/官方正侧轮廓对照.png": {
+      "source": "dji-osmo-pocket-4p-v7/sections/官方正侧轮廓对照.png",
+      "bytes": 252321,
+      "sha256": "ffbdd0a07a036f4f78b58eaa80202717132c252d362e7ec5697c590c68c81f99"
+    },
+    "provenance/同期依据/V7/optics/正面造型与官网对照.jpg": {
+      "source": "dji-osmo-pocket-4p-v7/optics/正面造型与官网对照.jpg",
+      "bytes": 411000,
+      "sha256": "4d664c51e59bf8788a1a08db3a9ead15280b78480c93d86cd5f4e6086226621c"
+    },
+    "06_自建工程与成片/dji-osmo-pocket-4p-v7/studio/art_direction.py": {
+      "source": "dji-osmo-pocket-4p-v7/studio/art_direction.py",
+      "bytes": 7992,
+      "sha256": "ec8f375358087d7206383e48f4ac5959086ade5c29ae15e8176aaa02d9cdc6a7"
+    },
+    "06_自建工程与成片/dji-osmo-pocket-4p-v7/renders/01-Hero.png": {
+      "source": "dji-osmo-pocket-4p-v7/renders/01-Hero.png",
+      "bytes": 11271912,
+      "sha256": "225dbbd174e5e166fb0f33a8b370b2540142b708e4c12f425b3bac4b134952e3"
+    }
+  },
+  "links_and_draws": {
+    "browser": "Edg/158.0.4370.33",
+    "transport": "file URLs; external HTTP and HTTPS requests blocked",
+    "viewers": [
+      {
+        "file": "provenance/同期依据/V3/1mm截面对照.html",
+        "title": "Osmo Pocket 4P · 1 mm 截面对照",
+        "before": {
+          "slider_index": 112,
+          "coordinate": "112",
+          "shapes": [
+            {
+              "type": "canvas",
+              "id": "section",
+              "pixels": [
+                933,
+                490
+              ],
+              "sampled_colors": 281,
+              "sha256": "710e32d2fdad549598aff2ed26b3291b2e2b246da3af6827ca0152e122be82c1"
+            }
+          ],
+          "images": [
+            {
+              "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARoAAANCCAYAAAC58QMJAAEAAElEQVR4nOz9B5Bs2XkeCJ405c1z/Xyb196iDUCCQMMMAFIAQT",
+              "loaded": true
+            }
+          ],
+          "hrefs": [
+            "section-diff.csv"
+          ]
+        },
+        "after": {
+          "slider_index": 113,
+          "coordinate": "113",
+          "shapes": [
+            {
+              "type": "canvas",
+              "id": "section",
+              "pixels": [
+                933,
+                490
+              ],
+              "sampled_colors": 308,
+              "sha256": "0cb63ffca347f1eff70ac539e2ea90d4233a0b3c6bf882b7d363f893a5407dea"
+            }
+          ],
+          "images": [
+            {
+              "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARoAAANCCAYAAAC58QMJAAEAAElEQVR4nOz9B5Bs2XkeCJ405c1z/Xyb196iDUCCQMMMAFIAQT",
+              "loaded": true
+            }
+          ],
+          "hrefs": [
+            "section-diff.csv"
+          ]
+        },
+        "linked_local_files": [
+          {
+            "path": "provenance/同期依据/V3/section-diff.csv",
+            "bytes": 38634,
+            "sha256": "142c6b760a0fe67209b0c917c97e7a140c06e3cc7c08ce8543ba36127435f23b",
+            "belongs_to": "original",
+            "csv_header_columns": 22,
+            "csv_data_rows": 161
+          }
+        ],
+        "runtime_errors": []
+      },
+      {
+        "file": "provenance/同期依据/V4/连接件1mm截面对照.html",
+        "title": "Osmo Pocket 4P · 云台连接件截面",
+        "before": {
+          "slider_index": 16,
+          "coordinate": "115",
+          "shapes": [
+            {
+              "type": "canvas",
+              "id": "v3",
+              "pixels": [
+                582,
+                396
+              ],
+              "sampled_colors": 156,
+              "sha256": "b862376312e7b714e58fd0d98a83f9679d94cbb2df373f3dcf905646bedbb662"
+            },
+            {
+              "type": "canvas",
+              "id": "v4",
+              "pixels": [
+                582,
+                396
+              ],
+              "sampled_colors": 183,
+              "sha256": "6606ea73366d4df8623747563deeeb1fa9ab5ac85fc5ac93dcf50248e8927af9"
+            }
+          ],
+          "images": [],
+          "hrefs": [
+            "previews/connector-side-projection.png",
+            "connector-z-1mm.csv",
+            "connector-parts-1mm.csv"
+          ]
+        },
+        "after": {
+          "slider_index": 17,
+          "coordinate": "116",
+          "shapes": [
+            {
+              "type": "canvas",
+              "id": "v3",
+              "pixels": [
+                582,
+                396
+              ],
+              "sampled_colors": 161,
+              "sha256": "427ce579a18dad535e430255b0de5771f8b991706e1640cd68f7e3e38bd2da69"
+            },
+            {
+              "type": "canvas",
+              "id": "v4",
+              "pixels": [
+                582,
+                396
+              ],
+              "sampled_colors": 192,
+              "sha256": "08532fce6283bde5d7d10740a749845b528cf3cbad732af107250ae4c4ee575b"
+            }
+          ],
+          "images": [],
+          "hrefs": [
+            "previews/connector-side-projection.png",
+            "connector-z-1mm.csv",
+            "connector-parts-1mm.csv"
+          ]
+        },
+        "linked_local_files": [
+          {
+            "path": "provenance/同期依据/V4/previews/connector-side-projection.png",
+            "bytes": 153387,
+            "sha256": "ae0dcabfe824687e001eb9dd250e72450a5da2bf1e60ace5fde496eb47ccd31e",
+            "belongs_to": "supplement",
+            "pixels": [
+              1200,
+              875
+            ]
+          },
+          {
+            "path": "provenance/同期依据/V4/connector-z-1mm.csv",
+            "bytes": 4560,
+            "sha256": "932c527dc35220adf9368f30ac74e0ad73b3a4c70863ee6d66a41952788d5a53",
+            "belongs_to": "original",
+            "csv_header_columns": 19,
+            "csv_data_rows": 45
+          },
+          {
+            "path": "provenance/同期依据/V4/connector-parts-1mm.csv",
+            "bytes": 151356,
+            "sha256": "86cfd309ff01010ae6620a6eccd7bc67a3f4b47cf5b675e118c889dad5c431cf",
+            "belongs_to": "supplement",
+            "csv_header_columns": 11,
+            "csv_data_rows": 1929
+          }
+        ],
+        "runtime_errors": []
+      },
+      {
+        "file": "provenance/同期依据/V5/镜头1mm截面对照.html",
+        "title": "Osmo Pocket 4P · 镜头水平截面",
+        "before": {
+          "slider_index": 126,
+          "coordinate": "126",
+          "shapes": [
+            {
+              "type": "canvas",
+              "id": "v4",
+              "pixels": [
+                620,
+                590
+              ],
+              "sampled_colors": 324,
+              "sha256": "58c128900ba608eb21478377e7899ebbcd21c01d0012ffadf0d8c559146228e6"
+            },
+            {
+              "type": "canvas",
+              "id": "v5",
+              "pixels": [
+                620,
+                590
+              ],
+              "sampled_colors": 341,
+              "sha256": "f49752d15436d4e607cd93aa730a3f7fa95ecabe06cc66737cac1c8d5c130d11"
+            }
+          ],
+          "images": [],
+          "hrefs": []
+        },
+        "after": {
+          "slider_index": 127,
+          "coordinate": "127",
+          "shapes": [
+            {
+              "type": "canvas",
+              "id": "v4",
+              "pixels": [
+                620,
+                590
+              ],
+              "sampled_colors": 368,
+              "sha256": "d0b592ba37b0e2a7b34700ec0689501a84ae7b6438c2e93e00018388f0c6e160"
+            },
+            {
+              "type": "canvas",
+              "id": "v5",
+              "pixels": [
+                620,
+                590
+              ],
+              "sampled_colors": 387,
+              "sha256": "79f7b58799dbc4dcc9793d9c4c1bc85242a3b94c0363e007b32d0e2595382fc1"
+            }
+          ],
+          "images": [],
+          "hrefs": []
+        },
+        "linked_local_files": [],
+        "runtime_errors": []
+      },
+      {
+        "file": "provenance/同期依据/V6/sections/整机三向逐毫米截面.html",
+        "title": "Osmo Pocket 4P · 三向装配截面",
+        "before": {
+          "slider_index": 135,
+          "coordinate": "135",
+          "shapes": [
+            {
+              "type": "canvas",
+              "id": "v5",
+              "pixels": [
+                572,
+                432
+              ],
+              "sampled_colors": 461,
+              "sha256": "05602e3e3f0661c2f39b709495362611556a372d5f3ec170b60d8ef5d020309d"
+            },
+            {
+              "type": "canvas",
+              "id": "v6",
+              "pixels": [
+                572,
+                432
+              ],
+              "sampled_colors": 497,
+              "sha256": "f35e788fd15d524e7b0baf126f8de1e6e77fd672a585e97fad25ca2d32b88798"
+            }
+          ],
+          "images": [],
+          "hrefs": [
+            "正面逐毫米轮廓.csv",
+            "云台侧面逐毫米轮廓.csv"
+          ]
+        },
+        "after": {
+          "slider_index": 136,
+          "coordinate": "136",
+          "shapes": [
+            {
+              "type": "canvas",
+              "id": "v5",
+              "pixels": [
+                572,
+                432
+              ],
+              "sampled_colors": 470,
+              "sha256": "579767bafeef0960c4691603c7e234000637df2e0940673c58bc47a1be6be36f"
+            },
+            {
+              "type": "canvas",
+              "id": "v6",
+              "pixels": [
+                572,
+                432
+              ],
+              "sampled_colors": 496,
+              "sha256": "5bf149cfd54f44a4e3b314831534de408cf8c144b2193daae71e8997983d8f62"
+            }
+          ],
+          "images": [],
+          "hrefs": [
+            "正面逐毫米轮廓.csv",
+            "云台侧面逐毫米轮廓.csv"
+          ]
+        },
+        "linked_local_files": [
+          {
+            "path": "provenance/同期依据/V6/sections/正面逐毫米轮廓.csv",
+            "bytes": 39011,
+            "sha256": "a38b9634332afecf527bfdfec03bd9fa99ea57799847d43d3ea26cb9adc2a801",
+            "belongs_to": "supplement",
+            "csv_header_columns": 22,
+            "csv_data_rows": 161
+          },
+          {
+            "path": "provenance/同期依据/V6/sections/云台侧面逐毫米轮廓.csv",
+            "bytes": 13339,
+            "sha256": "a4b9328f42d86becf8903a99f0050e3ee39831333e76b2a0cd1540213631c4f8",
+            "belongs_to": "supplement",
+            "csv_header_columns": 22,
+            "csv_data_rows": 78
+          }
+        ],
+        "runtime_errors": []
+      },
+      {
+        "file": "provenance/同期依据/V7/sections/整机三向逐毫米截面.html",
+        "title": "Osmo Pocket 4P · 三向装配截面",
+        "before": {
+          "slider_index": 135,
+          "coordinate": "135",
+          "shapes": [
+            {
+              "type": "canvas",
+              "id": "v6",
+              "pixels": [
+                572,
+                432
+              ],
+              "sampled_colors": 497,
+              "sha256": "f35e788fd15d524e7b0baf126f8de1e6e77fd672a585e97fad25ca2d32b88798"
+            },
+            {
+              "type": "canvas",
+              "id": "v7",
+              "pixels": [
+                572,
+                432
+              ],
+              "sampled_colors": 496,
+              "sha256": "b7f9b69f1d2576e36296dd424b0dc737e9a1efe436aa8a2e8292125ed87667ce"
+            }
+          ],
+          "images": [
+            {
+              "src": "官方正侧轮廓对照.png",
+              "loaded": true
+            }
+          ],
+          "hrefs": [
+            "正面逐毫米轮廓.csv",
+            "云台侧面逐毫米轮廓.csv"
+          ]
+        },
+        "after": {
+          "slider_index": 136,
+          "coordinate": "136",
+          "shapes": [
+            {
+              "type": "canvas",
+              "id": "v6",
+              "pixels": [
+                572,
+                432
+              ],
+              "sampled_colors": 496,
+              "sha256": "5bf149cfd54f44a4e3b314831534de408cf8c144b2193daae71e8997983d8f62"
+            },
+            {
+              "type": "canvas",
+              "id": "v7",
+              "pixels": [
+                572,
+                432
+              ],
+              "sampled_colors": 512,
+              "sha256": "865a66cf4bb6cabea8039e51750ab40accfe4e35e96ad5ec0b3ab59acffd3335"
+            }
+          ],
+          "images": [
+            {
+              "src": "官方正侧轮廓对照.png",
+              "loaded": true
+            }
+          ],
+          "hrefs": [
+            "正面逐毫米轮廓.csv",
+            "云台侧面逐毫米轮廓.csv"
+          ]
+        },
+        "linked_local_files": [
+          {
+            "path": "provenance/同期依据/V7/sections/正面逐毫米轮廓.csv",
+            "bytes": 38546,
+            "sha256": "a05e0627d5fafa71e7284bef5f1ccce7be2df03aa0e9b169b445d03e50fca918",
+            "belongs_to": "supplement",
+            "csv_header_columns": 22,
+            "csv_data_rows": 161
+          },
+          {
+            "path": "provenance/同期依据/V7/sections/云台侧面逐毫米轮廓.csv",
+            "bytes": 13336,
+            "sha256": "38267e4609fef511b7ab510212e8577fe8707f651bcb8f058b7bd8bae94560fe",
+            "belongs_to": "supplement",
+            "csv_header_columns": 22,
+            "csv_data_rows": 78
+          }
+        ],
+        "runtime_errors": []
+      },
+      {
+        "file": "provenance/同期依据/V7/optics/镜头组件逐毫米截面.html",
+        "title": "DJI Osmo Pocket 4P 双摄水平截面",
+        "before": {
+          "slider_index": 148,
+          "coordinate": "148",
+          "shapes": [
+            {
+              "type": "svg",
+              "id": "view",
+              "paths": 19,
+              "sha256": "ff52287b31743e34ddec79d534028c074bfe216e875b6ba816a8622bc49a8777"
+            }
+          ],
+          "images": [],
+          "hrefs": []
+        },
+        "after": {
+          "slider_index": 149,
+          "coordinate": "149",
+          "shapes": [
+            {
+              "type": "svg",
+              "id": "view",
+              "paths": 19,
+              "sha256": "58b8a685004558dc02d09089847f0129b0b296f0867da23223b89e80301b18ad"
+            }
+          ],
+          "images": [],
+          "hrefs": []
+        },
+        "linked_local_files": [],
+        "runtime_errors": []
+      }
+    ]
+  },
+  "smoke_render": {
+    "version": "5.2.3 LTS",
+    "frame": 62,
+    "camera": "Plate | 01-Hero",
+    "source_camera_lens_mm": 88.0,
+    "source_resolution": [
+      2160,
+      3840
+    ],
+    "present_product_objects": 155,
+    "historical_hero_sha256": "225dbbd174e5e166fb0f33a8b370b2540142b708e4c12f425b3bac4b134952e3",
+    "scene": "Osmo Pocket 4P | V7",
+    "test_engine": "CYCLES",
+    "test_render_pixels": [
+      216,
+      384
+    ],
+    "test_samples": 8,
+    "test_percentage": 10,
+    "gpu": "GPU",
+    "reference_plate": "05_同机位补拍/V7终版对照/03_整机成品.png",
+    "comparison": "8-bit RGB. Original reduced to 216 x 384 using Lanczos.",
+    "rgb_pearson": 0.9902487,
+    "mean_absolute_8bit_difference": 2.2812,
+    "full_4k_render_repeated": false,
+    "smoke_image": "provenance/补充核验/V7_异盘低采样复渲.png"
+  },
+  "original_members_overwritten": 0,
+  "sources_note": "Source locations are relative to the original output tree; archive paths are relative to the shared extraction root."
+}

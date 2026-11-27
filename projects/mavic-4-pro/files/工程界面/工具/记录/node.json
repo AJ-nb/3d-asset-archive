@@ -1,0 +1,114 @@
+{
+  "id": "node",
+  "file": "06-机壳材质节点.png",
+  "sha256": "e2ea3226d9a81d20f26df7d5e60106adba1da6c52f85774b831363fa192aa2e9",
+  "screen_px": [
+    2560,
+    1369
+  ],
+  "captured_utc": "2026-11-27T08:30:57.702897+00:00",
+  "method": "bpy.ops.screen.screenshot (full Blender application window, uncropped)",
+  "blender": "5.2.3 LTS",
+  "source": "D:\\oc\\output\\mavic-4-pro-fit-work\\rear-shoulder\\Mavic-4-Pro-Rear-Fit-Final.blend",
+  "source_sha256": "57b641958dae8172326e534ede99674fdff11af6f9df332058352f71fc6e3463",
+  "scene": "Mavic 4 Pro | Product studio & FK",
+  "frame": 1,
+  "description": "机壳的真实着色器树。上方为使用材质基础色的实物造型视口，下方显示原来相连的材质节点。临时整理节点显示位置，连接、参数与源文件一致。",
+  "mode": "OBJECT",
+  "active": "Fuselage | sculpted composite & open gimbal chamber",
+  "viewport_px": [
+    2100,
+    707
+  ],
+  "viewport_subject_NDC_bounds": [
+    [
+      -0.4729277491569519,
+      -0.7699998617172241
+    ],
+    [
+      0.4729277789592743,
+      0.7699998617172241
+    ]
+  ],
+  "editors": [
+    {
+      "type": "PROPERTIES",
+      "ui_type": "PROPERTIES",
+      "x": 2105,
+      "y": 23,
+      "w": 453,
+      "h": 1075
+    },
+    {
+      "type": "OUTLINER",
+      "ui_type": "OUTLINER",
+      "x": 2105,
+      "y": 1101,
+      "w": 453,
+      "h": 242
+    },
+    {
+      "type": "DOPESHEET_EDITOR",
+      "ui_type": "TIMELINE",
+      "x": 2,
+      "y": 23,
+      "w": 2100,
+      "h": 96
+    },
+    {
+      "type": "VIEW_3D",
+      "ui_type": "VIEW_3D",
+      "x": 2,
+      "y": 636,
+      "w": 2100,
+      "h": 707
+    },
+    {
+      "type": "NODE_EDITOR",
+      "ui_type": "ShaderNodeTree",
+      "x": 2,
+      "y": 122,
+      "w": 2100,
+      "h": 511
+    }
+  ],
+  "shader_material": "Airframe | Basalt silver composite",
+  "shader_links": [
+    [
+      "BSDF_PRINCIPLED",
+      "BSDF",
+      "OUTPUT_MATERIAL",
+      "Surface"
+    ],
+    [
+      "TEX_COORD",
+      "Object",
+      "TEX_NOISE",
+      "Vector"
+    ],
+    [
+      "TEX_NOISE",
+      "Factor",
+      "MAP_RANGE",
+      "Value"
+    ],
+    [
+      "MAP_RANGE",
+      "Result",
+      "BSDF_PRINCIPLED",
+      "Roughness"
+    ],
+    [
+      "TEX_NOISE",
+      "Factor",
+      "BUMP",
+      "Height"
+    ],
+    [
+      "BUMP",
+      "Normal",
+      "BSDF_PRINCIPLED",
+      "Normal"
+    ]
+  ]
+}
