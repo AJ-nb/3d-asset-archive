@@ -8,6 +8,14 @@
 
 ![10 张竖版发布图总览](preview.jpg)
 
+## 15 秒动态短片
+
+12 个镜头沿着原创 144 BPM 电子配乐剪辑，从整机入场切到镜组、旋翼与肩部铰链，再跟随机臂收拢、展开，回到整机。虚拟摄影机采用 36 mm 传感器宽度、44–96 mm 焦距与 f/8–f/10 光圈，源包附逐帧机位和焦点数据。成片为 1920 × 1080、30 fps，全长 15 秒。
+
+母版的 450 帧均可解码，逐帧核对未发现白屏、黑屏、重复帧或画面顺序错位。Windows 上的 Chrome D3D11 常速播放走完整段，开始播放后无缓冲、停滞或媒体错误，实际呈现 421 帧、跳过 29 帧。该机的 FFplay 测试也记录到显示丢帧，系统无可用的物理音频端点。声音检查采用解码音轨与母带对齐验证。源包附两种播放器的实测记录。
+
+[下载 MP4](https://github.com/AJ-nb/3d-asset-archive/releases/download/kinetic-film-v1/Kinetic-15s.mp4) · [下载可编辑源工程与声音、相机和验收资料](https://github.com/AJ-nb/3d-asset-archive/releases/download/kinetic-film-v1/Kinetic-15s-Source.zip) · [版本与校验值](https://github.com/AJ-nb/3d-asset-archive/releases/tag/kinetic-film-v1)
+
 ## 按制作顺序看
 
 | 阶段 | 可直接打开的原图 |
