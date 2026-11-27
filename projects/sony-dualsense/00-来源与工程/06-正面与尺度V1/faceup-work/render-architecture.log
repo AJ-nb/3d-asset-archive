@@ -1,0 +1,10 @@
+00:00.469  blend            | Read blend: "D:\oc\output\dualsense-cg-studio\delivery-faceup\DualSense-Face-Up-and-Scale.blend"
+START 05 Malthouse | Monument in the square | Architecture | photograph | (3840, 2560)
+00:41.250  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery-faceup\renders\.render-k2no9xj3\05-malthouse-square.png'
+PASS 05-malthouse-square.png | 3840x2560 RGB16
+START 08 North Quay | Walk-through transit gate | Architecture | photograph.001 | (3840, 2560)
+01:16.094  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery-faceup\renders\.render-z79nrwyz\08-north-quay-gateway.png'
+PASS 08-north-quay-gateway.png | 3840x2560 RGB16
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

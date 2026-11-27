@@ -1,0 +1,16 @@
+00:00.328  blend            | Read blend: "D:\oc\output\dualsense-cg-studio\v2-work\Product-approved.blend"
+START 01 Studio | Face up on pale marble | 01 Lens | Face up on pale marble | (3840, 2560)
+00:38.063  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery-faceup-v2\renders\.render-l3716p4e\01-face-up-marble.png'
+PASS 01-face-up-marble.png | 3840x2560 RGB16
+START 02 Studio | Shoulder view on smoked walnut | 02 Lens | Shoulder view on smoked walnut | (3840, 2560)
+01:10.735  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery-faceup-v2\renders\.render-knmg92dz\02-shoulder-view-walnut.png'
+PASS 02-shoulder-view-walnut.png | 3840x2560 RGB16
+START 03 Studio | The four translucent action caps | 03 Lens | The four translucent action caps | (3840, 2560)
+01:52.266  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery-faceup-v2\renders\.render-boqufrzt\03-transparent-action-caps.png'
+PASS 03-transparent-action-caps.png | 3840x2560 RGB16
+START 04 Studio | Rubber knurl and control bridge | 04 Lens | Rubber knurl and control bridge | (3840, 2560)
+02:32.391  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery-faceup-v2\renders\.render-j1182n24\04-rubber-knurl.png'
+PASS 04-rubber-knurl.png | 3840x2560 RGB16
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

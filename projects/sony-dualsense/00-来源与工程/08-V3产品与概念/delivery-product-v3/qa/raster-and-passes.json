@@ -1,0 +1,225 @@
+{
+  "native_images": [
+    {
+      "file": "01-desktop-hero.png",
+      "native_pixels": [
+        3000,
+        1500
+      ],
+      "PNG_bits_per_channel": 16,
+      "sRGB_chunk": true,
+      "crc_all_chunks": true,
+      "decoded_scanline_bytes": 27001500,
+      "sha256": "11ee8ebea5b6f93066082d796602d8e0571a20032f6dce6e4a122b9a05636397",
+      "rgb_all_channels_255_fraction": 0.0,
+      "rgb_all_channels_zero_fraction": 4.58e-05
+    },
+    {
+      "file": "02-mobile-hero.png",
+      "native_pixels": [
+        1440,
+        1800
+      ],
+      "PNG_bits_per_channel": 16,
+      "sRGB_chunk": true,
+      "crc_all_chunks": true,
+      "decoded_scanline_bytes": 15553800,
+      "sha256": "13d6e4fe2fc8fb52eddc46a962d95bc10b99d61e5fa2c36e9b66526661d45f4b",
+      "rgb_all_channels_255_fraction": 0.0,
+      "rgb_all_channels_zero_fraction": 0.0001485
+    },
+    {
+      "file": "03-front-elevation.png",
+      "native_pixels": [
+        2100,
+        1500
+      ],
+      "PNG_bits_per_channel": 16,
+      "sRGB_chunk": true,
+      "crc_all_chunks": true,
+      "decoded_scanline_bytes": 18901500,
+      "sha256": "d12084f87f9665266ed67ae48c128c417c0760d97e9ea7a24b49d364600d6ce3",
+      "rgb_all_channels_255_fraction": 0.0,
+      "rgb_all_channels_zero_fraction": 0.0002517
+    },
+    {
+      "file": "04-rear-shoulder.png",
+      "native_pixels": [
+        2100,
+        1500
+      ],
+      "PNG_bits_per_channel": 16,
+      "sRGB_chunk": true,
+      "crc_all_chunks": true,
+      "decoded_scanline_bytes": 18901500,
+      "sha256": "be783ac32e3ebdf473a51cb278e727f664ef4026983a11b0347c0c386fe3dc69",
+      "rgb_all_channels_255_fraction": 0.0,
+      "rgb_all_channels_zero_fraction": 0.0008006
+    },
+    {
+      "file": "05-surface-language.png",
+      "native_pixels": [
+        1800,
+        1350
+      ],
+      "PNG_bits_per_channel": 16,
+      "sRGB_chunk": true,
+      "crc_all_chunks": true,
+      "decoded_scanline_bytes": 14581350,
+      "sha256": "4b4a31fd653824454e64dd9d4a20d8dee8d4980fdf18092817d39d5e1a5637fc",
+      "rgb_all_channels_255_fraction": 0.0,
+      "rgb_all_channels_zero_fraction": 0.0008436
+    },
+    {
+      "file": "06-microphone-muted.png",
+      "native_pixels": [
+        1800,
+        1350
+      ],
+      "PNG_bits_per_channel": 16,
+      "sRGB_chunk": true,
+      "crc_all_chunks": true,
+      "decoded_scanline_bytes": 14581350,
+      "sha256": "c3eea171caca72a7b40a053919ba07032137feeca2edc3ed33ea9298615db1b9",
+      "rgb_all_channels_255_fraction": 0.0,
+      "rgb_all_channels_zero_fraction": 0.0030679
+    },
+    {
+      "file": "07-wired-desktop.png",
+      "native_pixels": [
+        2560,
+        1600
+      ],
+      "PNG_bits_per_channel": 16,
+      "sRGB_chunk": true,
+      "crc_all_chunks": true,
+      "decoded_scanline_bytes": 24577600,
+      "sha256": "1be6d0b45eae6de6c6dc5562e667a524705e1ff94c994c9412d7a92895a18f67",
+      "rgb_all_channels_255_fraction": 4.2e-06,
+      "rgb_all_channels_zero_fraction": 3.78e-05
+    },
+    {
+      "file": "08-isolated-controller.png",
+      "native_pixels": [
+        2048,
+        2048
+      ],
+      "PNG_bits_per_channel": 16,
+      "sRGB_chunk": true,
+      "crc_all_chunks": true,
+      "decoded_scanline_bytes": 33556480,
+      "sha256": "801e684114aa2bbb09e3b845dcff04db002056e9cb547872bc2b725d57775040",
+      "rgb_all_channels_255_fraction": 0.0,
+      "rgb_all_channels_zero_fraction": 4.4e-05,
+      "nonzero_alpha_bounds": [
+        177,
+        468,
+        1871,
+        1603
+      ],
+      "soft_alpha_pixels_rendered": 11600
+    },
+    {
+      "file": "C1-dock-floor.png",
+      "native_pixels": [
+        2560,
+        1440
+      ],
+      "PNG_bits_per_channel": 16,
+      "sRGB_chunk": true,
+      "crc_all_chunks": true,
+      "decoded_scanline_bytes": 22119840,
+      "sha256": "0d498d9c318bf01b92f190e586ef6e7d0a59928b455b03b8c1dd33ec08d53399",
+      "rgb_all_channels_255_fraction": 0.0,
+      "rgb_all_channels_zero_fraction": 4.45e-05
+    },
+    {
+      "file": "C2-relief-transect.png",
+      "native_pixels": [
+        2000,
+        1500
+      ],
+      "PNG_bits_per_channel": 16,
+      "sRGB_chunk": true,
+      "crc_all_chunks": true,
+      "decoded_scanline_bytes": 18001500,
+      "sha256": "d1f6e0c05be592c9d2d1c1ff032a375f257985e9cab92dd5dfb7c8ebd0f1ac11",
+      "rgb_all_channels_255_fraction": 2.03e-05,
+      "rgb_all_channels_zero_fraction": 0.0
+    },
+    {
+      "file": "C3-clay-contact.png",
+      "native_pixels": [
+        2000,
+        1500
+      ],
+      "PNG_bits_per_channel": 16,
+      "sRGB_chunk": true,
+      "crc_all_chunks": true,
+      "decoded_scanline_bytes": 18001500,
+      "sha256": "b3c3183b10a198de73cbbebb7044d5d652b210a5634ecc8f8e04bcbc2d4aded4",
+      "rgb_all_channels_255_fraction": 0.000242,
+      "rgb_all_channels_zero_fraction": 0.000428
+    },
+    {
+      "file": "C4-under-the-grips.png",
+      "native_pixels": [
+        2400,
+        1500
+      ],
+      "PNG_bits_per_channel": 16,
+      "sRGB_chunk": true,
+      "crc_all_chunks": true,
+      "decoded_scanline_bytes": 21601500,
+      "sha256": "49a023bf4ac2da427a7eb6977ccf4c1bd8966b8d5d53fb0a61b2d4c7081e69a3",
+      "rgb_all_channels_255_fraction": 1.58e-05,
+      "rgb_all_channels_zero_fraction": 0.0074614
+    }
+  ],
+  "08_compositing": {
+    "filename": "08-isolated-linear.exr",
+    "sha256": "0db4a162ae0fc44d63d66771547490f54921bbf021a91f9db6e746ecddc03212",
+    "size": [
+      2048,
+      2048
+    ],
+    "parts": {
+      "Combined": [
+        "A",
+        "B",
+        "G",
+        "R"
+      ],
+      "Depth": [
+        "Z"
+      ],
+      "Normal": [
+        "X",
+        "Y",
+        "Z"
+      ],
+      "Diffuse Color": [
+        "B",
+        "G",
+        "R"
+      ],
+      "Glossy Direct": [
+        "B",
+        "G",
+        "R"
+      ],
+      "Noisy Image": [
+        "A",
+        "B",
+        "G",
+        "R"
+      ]
+    },
+    "straight_PNG_vs_linear_EXR_alpha_max_abs_error": 0.003539798781275749,
+    "near_opaque_depth_range": [
+      9.370277404785156,
+      11.704139709472656
+    ],
+    "near_opaque_normal_length_median": 0.9901354312896729
+  }
+}

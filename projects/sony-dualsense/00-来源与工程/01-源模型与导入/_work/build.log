@@ -1,0 +1,24 @@
+00:00.468  blend            | Read blend: "D:\oc\render-workbench\samples\playstation-5\_work\import.blend"
+Reloading external rigs...
+Reloading external metarigs...
+SOURCE Analog sticks | rubber caps and shafts (159800, 135108) Counter({'Matte Gray no Bump': 118128, 'Matte Gray Bump': 16980})
+SOURCE D-pad | down (6557, 6484) Counter({'Glass': 4464, 'Gloss White': 1528, 'Gray': 492})
+SOURCE D-pad | left (6318, 6260) Counter({'Glass': 4192, 'Gloss White': 1528, 'Gray': 540})
+SOURCE D-pad | right (6334, 6276) Counter({'Glass': 4208, 'Gloss White': 1528, 'Gray': 540})
+SOURCE D-pad | up (6334, 6276) Counter({'Glass': 4208, 'Gloss White': 1528, 'Gray': 540})
+SOURCE Face button | circle (6071, 5984) Counter({'Glass': 2848, 'Gray': 1792, 'Gloss White': 1344})
+SOURCE Face button | triangle (5715, 5632) Counter({'Glass': 2848, 'Gray': 1440, 'Gloss White': 1344})
+SOURCE Face button | square (6535, 6432) Counter({'Glass': 2848, 'Gray': 2240, 'Gloss White': 1344})
+SOURCE Face button | cross (6760, 6624) Counter({'Glass': 2848, 'Gray': 2432, 'Gloss White': 1344})
+SOURCE Housing | shell, touchpad, controls and ports (256967, 253872) Counter({'Steel': 87232, 'Matte White': 67580, 'Dark Cover': 40544, 'Gray': 25568, 'Gloss Black': 15448, 'Matte Black': 10720, 'Black': 4220, 'Blue LED': 2560})
+SOURCE Shoulder group | left (6686, 6592) Counter({'Matte Black': 6592})
+SOURCE Shoulder group | right (6686, 6592) Counter({'Matte Black': 6592})
+D:\oc\render-workbench\samples\playstation-5\_work\build.py:102: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  material.use_nodes = True
+D:\oc\render-workbench\samples\playstation-5\_work\build.py:284: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world.use_nodes = True
+信息: 没有新的文件被打包
+信息: 已另存为 "DualSense-4K-Studio.blend"
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

@@ -1,0 +1,126 @@
+{
+  "C1": {
+    "camera": [
+      -12.5,
+      -31.5,
+      4.65
+    ],
+    "focus": [
+      -0.4,
+      1.2,
+      4.12
+    ],
+    "lens_mm": 35,
+    "size": [
+      2560,
+      1440
+    ],
+    "master": "//masters/C1-dock-floor.png",
+    "shared_product_parts": 12,
+    "model_bounds_m": [
+      26.510791778564453,
+      21.315034866333008,
+      9.98968505859375
+    ],
+    "frame_one_camera_verified": "C1 | Dry dock at pedestrian level",
+    "packed_external_images_in_project": 25,
+    "source_geometry_and_finishes_verified": true
+  },
+  "C2": {
+    "camera": [
+      4.2,
+      -4.16,
+      3.15
+    ],
+    "focus": [
+      0.84,
+      0.55,
+      1.39
+    ],
+    "lens_mm": 43,
+    "size": [
+      2000,
+      1500
+    ],
+    "master": "//masters/C2-relief-transect.png",
+    "shared_product_parts": 0,
+    "surface_parameters": {
+      "XY magnification": 100.0,
+      "Z magnification": 100.0,
+      "Input texture": "grip-symbol-height.png | bilinear archive height field",
+      "Texture repeat in model metres": 0.8333333457509677,
+      "Full-white relief in model metres": 0.0032500000572763385,
+      "Sampled maximum relief in model metres": 0.002880392363294959,
+      "Surface construction": "Archived heightmap as a metric physical relief over a separately shaped shell carrier, with miniature transect markers and a recovered core."
+    },
+    "verified_relief": {
+      "packed_input": "grip-symbol-height.png",
+      "xy_magnification": 100,
+      "z_magnification": 100,
+      "z_magnification_measured": 99.81584740236733,
+      "source_repeat_m": 0.008333333457509674,
+      "magnified_repeat_m": 0.8333333457509675,
+      "white_height_m": 0.0032500000572763385,
+      "sampled_peak_height_m": 0.0028803924233707476,
+      "mesh_vertices": 788985,
+      "packed_height_samples_checked": 786318,
+      "maximum_bilinear_sample_error": 3.218572745045112e-06,
+      "z_samples_measured": 50340,
+      "height_gain_measured_from_mesh_bu_per_unit_gray": 0.06488030098816419,
+      "source_shader_normal_strength": 0.550000011920929,
+      "metric_basis": "Archived object mapping and source bump distance; all visible mesh points tested."
+    },
+    "frame_one_camera_verified": "C2 | Across the hundredfold grip relief",
+    "packed_external_images_in_project": 25,
+    "source_geometry_and_finishes_verified": "Derived height field"
+  },
+  "C3": {
+    "camera": [
+      -4.45,
+      -5.48,
+      4.1
+    ],
+    "focus": [
+      -0.89,
+      -0.27,
+      0.51
+    ],
+    "lens_mm": 75,
+    "size": [
+      2000,
+      1500
+    ],
+    "master": "//masters/C3-clay-contact.png",
+    "shared_product_parts": 12,
+    "frame_one_camera_verified": "C3 | Contact at the wet stoneware lip",
+    "packed_external_images_in_project": 25,
+    "source_geometry_and_finishes_verified": true
+  },
+  "C4": {
+    "camera": [
+      4.65,
+      -9.65,
+      2.6
+    ],
+    "focus": [
+      -0.75,
+      0.67,
+      2.83
+    ],
+    "lens_mm": 30,
+    "size": [
+      2400,
+      1500
+    ],
+    "master": "//masters/C4-under-the-grips.png",
+    "shared_product_parts": 12,
+    "model_bounds_m": [
+      15.868837356567383,
+      7.2834062576293945,
+      10.248018264770508
+    ],
+    "frame_one_camera_verified": "C4 | Inside the lakeside changing pavilion",
+    "packed_external_images_in_project": 25,
+    "source_geometry_and_finishes_verified": true
+  }
+}

@@ -1,0 +1,7 @@
+原始执行回执摘录
+2026-11-25T02:23:21.365Z UTC
+
+Opening D:\dji-dualsense-4k-render-studio\sony-dualsense\DualSense-4K-Studio.blend
+Workspace Layout; [('PROPERTIES', 453, 1075), ('OUTLINER', 453, 242), ('DOPESHEET_EDITOR', 2100, 96), ('VIEW_3D', 2100, 1221)]
+{'FINISHED'} D:\dji-dualsense-4k-render-studio\sony-dualsense\DualSense-4K-Studio.blend | DualSense White | 01-hero | Front three-quarter
+

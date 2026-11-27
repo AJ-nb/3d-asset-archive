@@ -1,0 +1,23 @@
+00:00.422  blend            | Read blend: "D:\oc\render-workbench\samples\playstation-5\4k\DualSense-4K-Studio.blend"
+Reloading external rigs...
+Reloading external metarigs...
+DEVICE ['NVIDIA GeForce RTX 5070']
+RENDER dualsense-white-01-hero 100
+00:28.375  render           | Saved: 'D:\oc\render-workbench\samples\playstation-5\4k\renders\dualsense-white-01-hero.png'
+RENDER dualsense-white-02-front 100
+00:55.469  render           | Saved: 'D:\oc\render-workbench\samples\playstation-5\4k\renders\dualsense-white-02-front.png'
+RENDER dualsense-white-03-controls 100
+01:28.969  render           | Saved: 'D:\oc\render-workbench\samples\playstation-5\4k\renders\dualsense-white-03-controls.png'
+RENDER dualsense-white-04-rear 100
+01:55.625  render           | Saved: 'D:\oc\render-workbench\samples\playstation-5\4k\renders\dualsense-white-04-rear.png'
+RENDER dualsense-white-06-grip 100
+02:25.875  render           | Saved: 'D:\oc\render-workbench\samples\playstation-5\4k\renders\dualsense-white-06-grip.png'
+RENDER white-clay-01-hero 100
+02:48.687  render           | Saved: 'D:\oc\render-workbench\samples\playstation-5\4k\renders\white-clay-01-hero.png'
+RENDER white-clay-02-front 100
+03:11.547  render           | Saved: 'D:\oc\render-workbench\samples\playstation-5\4k\renders\white-clay-02-front.png'
+RENDER white-clay-05-shoulder 100
+03:36.750  render           | Saved: 'D:\oc\render-workbench\samples\playstation-5\4k\renders\white-clay-05-shoulder.png'
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

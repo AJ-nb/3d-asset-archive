@@ -1,0 +1,22 @@
+00:00.359  blend            | Read blend: "D:\oc\output\dualsense-cg-studio\faceup-work\Face-up-and-material-checkpoint.blend"
+START 01 Face up | Overhead portrait | 01 | Plan view 90 mm | (3840, 2560)
+00:43.328  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery-faceup\renders\.render-lp2z0qxe\01-face-up-overhead.png'
+PASS 01-face-up-overhead.png | 3840x2560 RGB16
+START 02 Face up | Blue hour | 02 | Three-quarter elevation 77 mm | (3840, 2560)
+01:20.047  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery-faceup\renders\.render-k2yyf241\02-face-up-blue-hour.png'
+PASS 02-face-up-blue-hour.png | 3840x2560 RGB16
+START 03 Face up | Four action caps | 03 | Keycap glass 103 mm | (3840, 2560)
+02:02.562  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery-faceup\renders\.render-ebj67c3o\03-face-up-action-caps.png'
+PASS 03-face-up-action-caps.png | 3840x2560 RGB16
+START 04 Face up | Stick and control bridge | 04 | Joystick bridge 96 mm | (3840, 2560)
+02:54.484  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery-faceup\renders\.render-gnw473ic\04-face-up-control-bridge.png'
+PASS 04-face-up-control-bridge.png | 3840x2560 RGB16
+START 06 Material | Grip survey at 100x | 06 | Macro expedition | (3840, 2560)
+03:24.969  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery-faceup\renders\.render-tgd3a4pl\06-grip-survey-100x.png'
+PASS 06-grip-survey-100x.png | 3840x2560 RGB16
+START 07 Material | Impression in sealing wax | 07 | Pigment impression | (3840, 2560)
+04:02.922  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery-faceup\renders\.render-66jb2dh0\07-vermilion-wax-impression.png'
+PASS 07-vermilion-wax-impression.png | 3840x2560 RGB16
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

@@ -1,0 +1,177 @@
+{
+  "blender": "5.2.3 LTS",
+  "archive_mesh_sha256_matches": 12,
+  "base_material_node_graphs_and_face_slots_match": true,
+  "packed_images": 7,
+  "missing_external_dependencies": 0,
+  "scenes": {
+    "01": {
+      "camera": "01 | Camera",
+      "pose_type": "PERSP",
+      "frame": 1,
+      "pixels": [
+        3000,
+        1500
+      ],
+      "resolution_percentage": 100,
+      "product_meshes": 12,
+      "relative_part_poses_match": true,
+      "native_checkpoint_settings_matched": [
+        "camera",
+        "rig",
+        "materials",
+        "world",
+        "color",
+        "cycles",
+        "output"
+      ]
+    },
+    "02": {
+      "camera": "02 | Camera",
+      "pose_type": "PERSP",
+      "frame": 1,
+      "pixels": [
+        1440,
+        1800
+      ],
+      "resolution_percentage": 100,
+      "product_meshes": 12,
+      "relative_part_poses_match": true,
+      "native_checkpoint_settings_matched": [
+        "camera",
+        "rig",
+        "materials",
+        "world",
+        "color",
+        "cycles",
+        "output"
+      ]
+    },
+    "03": {
+      "camera": "03 | Camera",
+      "pose_type": "ORTHO",
+      "frame": 1,
+      "pixels": [
+        2100,
+        1500
+      ],
+      "resolution_percentage": 100,
+      "product_meshes": 12,
+      "relative_part_poses_match": true,
+      "native_checkpoint_settings_matched": [
+        "camera",
+        "rig",
+        "materials",
+        "world",
+        "color",
+        "cycles",
+        "output"
+      ]
+    },
+    "04": {
+      "camera": "04 | Camera",
+      "pose_type": "PERSP",
+      "frame": 1,
+      "pixels": [
+        2100,
+        1500
+      ],
+      "resolution_percentage": 100,
+      "product_meshes": 12,
+      "relative_part_poses_match": true,
+      "native_checkpoint_settings_matched": [
+        "camera",
+        "rig",
+        "materials",
+        "world",
+        "color",
+        "cycles",
+        "output"
+      ]
+    },
+    "05": {
+      "camera": "05 | Camera",
+      "pose_type": "PERSP",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "resolution_percentage": 100,
+      "product_meshes": 12,
+      "relative_part_poses_match": true,
+      "native_checkpoint_settings_matched": [
+        "camera",
+        "rig",
+        "materials",
+        "world",
+        "color",
+        "cycles",
+        "output"
+      ]
+    },
+    "06": {
+      "camera": "06 | Camera",
+      "pose_type": "PERSP",
+      "frame": 1,
+      "pixels": [
+        1800,
+        1350
+      ],
+      "resolution_percentage": 100,
+      "product_meshes": 12,
+      "relative_part_poses_match": true,
+      "native_checkpoint_settings_matched": [
+        "camera",
+        "rig",
+        "materials",
+        "world",
+        "color",
+        "cycles",
+        "output"
+      ]
+    },
+    "07": {
+      "camera": "07 | Camera",
+      "pose_type": "PERSP",
+      "frame": 1,
+      "pixels": [
+        2560,
+        1600
+      ],
+      "resolution_percentage": 100,
+      "product_meshes": 12,
+      "relative_part_poses_match": true,
+      "native_checkpoint_settings_matched": [
+        "camera",
+        "rig",
+        "materials",
+        "world",
+        "color",
+        "cycles",
+        "output"
+      ]
+    },
+    "08": {
+      "camera": "08 | Camera",
+      "pose_type": "PERSP",
+      "frame": 1,
+      "pixels": [
+        2048,
+        2048
+      ],
+      "resolution_percentage": 100,
+      "product_meshes": 12,
+      "relative_part_poses_match": true,
+      "native_checkpoint_settings_matched": [
+        "camera",
+        "rig",
+        "materials",
+        "world",
+        "color",
+        "cycles",
+        "output"
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+00:00.469  blend            | Read blend: "D:\oc\output\dualsense-cg-studio\delivery\DualSense-Eight-Views.blend"
+START 05 Top | Shoulder assembly | 05 | Shoulder rail 85 mm | (3072, 3840)
+01:18.297  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery\renders\.render-uyhbsak4\05-top-shoulder-usbc.png'
+PASS 05-top-shoulder-usbc.png | 3072x3840 RGB16
+START 07 Rear Grip | Surface Macro | 07-rear-grip-macro | (3072, 3840)
+02:28.390  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery\renders\.render-38uibfzy\07-rear-grip-macro.png'
+PASS 07-rear-grip-macro.png | 3072x3840 RGB16
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

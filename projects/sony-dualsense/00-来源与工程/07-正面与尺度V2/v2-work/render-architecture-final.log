@@ -1,0 +1,10 @@
+00:00.328  blend            | Read blend: "D:\oc\output\dualsense-cg-studio\delivery-faceup-v2\DualSense-Photography-V2.blend"
+START 05 Dock 12 | A monument in dry dock | Architecture | photograph.002 | (3840, 2560)
+00:42.468  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery-faceup-v2\renders\.render-_1fv8xpg\05-drydock-monument.png'
+PASS 05-drydock-monument.png | 3840x2560 RGB16
+START 08 Tidal Room | A sheltered lake landing | Architecture | photograph.003 | (3840, 2560)
+01:27.703  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery-faceup-v2\renders\.render-cwp_2b5q\08-tidal-room.png'
+PASS 08-tidal-room.png | 3840x2560 RGB16
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

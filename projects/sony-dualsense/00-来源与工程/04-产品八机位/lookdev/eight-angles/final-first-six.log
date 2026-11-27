@@ -1,0 +1,22 @@
+00:00.469  blend            | Read blend: "D:\oc\output\dualsense-cg-studio\lookdev\eight-angles\integrated-proof.blend"
+START 01 Front | Ceramic studio | Front | 84 mm | (3072, 3840)
+01:26.532  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery\renders\.render-27_p7kc7\01-front-studio.png'
+PASS 01-front-studio.png | 3072x3840 RGB16
+START 02 Airborne | Diagonal hover | Airborne | 76 mm | (3072, 3840)
+02:39.094  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery\renders\.render-acrgdgxv\02-airborne-diagonal.png'
+PASS 02-airborne-diagonal.png | 3072x3840 RGB16
+START 03 Material | Smoked Ice | 03 Camera | Left elevated 82mm | (3072, 3840)
+04:01.125  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery\renders\.render-lpeo_bch\03-smoked-ice.png'
+PASS 03-smoked-ice.png | 3072x3840 RGB16
+START 04 Rear | Molded shell | 04 | Rear oblique 102 mm | (3072, 3840)
+05:06.954  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery\renders\.render-olaxejkf\04-rear-molded-shell.png'
+PASS 04-rear-molded-shell.png | 3072x3840 RGB16
+START 06 Face Buttons | Polycarbonate Macro | 06-face-buttons-macro | (3072, 3840)
+06:38.469  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery\renders\.render-1qpxo4c0\06-face-buttons-macro.png'
+PASS 06-face-buttons-macro.png | 3072x3840 RGB16
+START 08 Profile | Raking light | Profile | 87 mm | (3072, 3840)
+07:34.688  render           | Saved: 'D:\oc\output\dualsense-cg-studio\delivery\renders\.render-cqu290a2\08-low-profile.png'
+PASS 08-low-profile.png | 3072x3840 RGB16
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

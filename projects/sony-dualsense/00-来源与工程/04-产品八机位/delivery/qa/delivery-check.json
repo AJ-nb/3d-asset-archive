@@ -1,0 +1,639 @@
+{
+  "delivery": "D:\\oc\\output\\dualsense-cg-studio\\delivery\\DualSense-Eight-Views.blend",
+  "reference": "D:\\dji-dualsense-4k-render-studio\\sony-dualsense\\DualSense-4K-Studio.blend",
+  "blender": "5.2.3 LTS",
+  "mode": "scene-and-images",
+  "scenes": [
+    {
+      "scene": "01 Front | Ceramic studio",
+      "camera": "Front | 84 mm",
+      "camera_world": [
+        [
+          0.9659258127212524,
+          0.05381150171160698,
+          -0.25316330790519714,
+          -2.647897481918335
+        ],
+        [
+          -0.2588191032409668,
+          0.20082710683345795,
+          -0.9448180198669434,
+          -9.856106758117676
+        ],
+        [
+          0.0,
+          0.9781476259231567,
+          0.20791150629520416,
+          3.2222814559936523
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens_mm": 84.0,
+      "parts": 12,
+      "assembly_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "max_relative_matrix_error": 0.0,
+      "concept_shell_faces": 0,
+      "output": "//renders\\01-front-studio.png"
+    },
+    {
+      "scene": "02 Airborne | Diagonal hover",
+      "camera": "Airborne | 76 mm",
+      "camera_world": [
+        [
+          0.9925460815429688,
+          -0.023253800347447395,
+          0.11963029950857162,
+          1.256210207939148
+        ],
+        [
+          0.12186940014362335,
+          0.18938679993152618,
+          -0.9743102788925171,
+          -10.016679763793945
+        ],
+        [
+          -0.0,
+          0.9816272258758545,
+          0.1908089965581894,
+          3.5457921028137207
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens_mm": 76.0,
+      "parts": 12,
+      "assembly_matrix": [
+        [
+          0.8390964865684509,
+          0.45207980275154114,
+          -0.30255720019340515,
+          0.32071059942245483
+        ],
+        [
+          -0.3220990002155304,
+          0.8611093759536743,
+          0.39337360858917236,
+          -0.3269760012626648
+        ],
+        [
+          0.4383712112903595,
+          -0.23262499272823334,
+          0.8681684136390686,
+          1.0697416067123413
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "max_relative_matrix_error": 0.0,
+      "concept_shell_faces": 0,
+      "output": "//renders\\02-airborne-diagonal.png"
+    },
+    {
+      "scene": "03 Material | Smoked Ice",
+      "camera": "03 Camera | Left elevated 82mm",
+      "camera_world": [
+        [
+          0.6681917905807495,
+          0.47567370533943176,
+          -0.5720614790916443,
+          -5.666202068328857
+        ],
+        [
+          -0.7406402826309204,
+          0.3524168133735657,
+          -0.5720614790916443,
+          -5.586202144622803
+        ],
+        [
+          -0.07051049917936325,
+          0.8059386014938354,
+          0.5877851247787476,
+          6.730295181274414
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens_mm": 82.0,
+      "parts": 12,
+      "assembly_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "max_relative_matrix_error": 0.0,
+      "concept_shell_faces": 57468,
+      "output": "//renders\\03-smoked-ice.png"
+    },
+    {
+      "scene": "04 Rear | Molded shell",
+      "camera": "04 | Rear oblique 102 mm",
+      "camera_world": [
+        [
+          -0.792951226234436,
+          -0.2771868109703064,
+          0.5425825119018555,
+          5.68552303314209
+        ],
+        [
+          0.5855247974395752,
+          -0.10041259974241257,
+          0.8044115900993347,
+          8.610674858093262
+        ],
+        [
+          -0.16849009692668915,
+          0.955554723739624,
+          0.24192209541797638,
+          3.6595335006713867
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens_mm": 102.0,
+      "parts": 12,
+      "assembly_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "max_relative_matrix_error": 0.0,
+      "concept_shell_faces": 0,
+      "output": "//renders\\04-rear-molded-shell.png"
+    },
+    {
+      "scene": "05 Top | Shoulder assembly",
+      "camera": "05 | Shoulder rail 85 mm",
+      "camera_world": [
+        [
+          -0.5728455781936646,
+          -0.7934712767601013,
+          0.20555159449577332,
+          1.4777497053146362
+        ],
+        [
+          0.8095396757125854,
+          -0.5083990097045898,
+          0.2935580015182495,
+          1.9611934423446655
+        ],
+        [
+          -0.12842759490013123,
+          0.33456549048423767,
+          0.9335802793502808,
+          8.228346824645996
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens_mm": 85.3924,
+      "parts": 12,
+      "assembly_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "max_relative_matrix_error": 0.0,
+      "concept_shell_faces": 0,
+      "output": "//renders\\05-top-shoulder-usbc.png"
+    },
+    {
+      "scene": "06 Face Buttons | Polycarbonate Macro",
+      "camera": "06-face-buttons-macro",
+      "camera_world": [
+        [
+          0.8573694825172424,
+          0.14582869410514832,
+          0.49361079931259155,
+          2.7630844116210938
+        ],
+        [
+          0.3438189923763275,
+          0.5514037013053894,
+          -0.7600938081741333,
+          -3.0871214866638184
+        ],
+        [
+          -0.3830223083496094,
+          0.8213940262794495,
+          0.42261800169944763,
+          2.96958065032959
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens_mm": 104.0,
+      "parts": 12,
+      "assembly_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "max_relative_matrix_error": 0.0,
+      "concept_shell_faces": 0,
+      "output": "//renders\\06-face-buttons-macro.png"
+    },
+    {
+      "scene": "07 Rear Grip | Surface Macro",
+      "camera": "07-rear-grip-macro",
+      "camera_world": [
+        [
+          -0.8023433089256287,
+          -0.40070879459381104,
+          0.4423547089099884,
+          2.385486125946045
+        ],
+        [
+          0.49516358971595764,
+          -0.03307139873504639,
+          0.8681700825691223,
+          2.3552474975585938
+        ],
+        [
+          -0.3332541882991791,
+          0.9156084060668945,
+          0.22495099902153015,
+          1.0058943033218384
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens_mm": 110.0,
+      "parts": 12,
+      "assembly_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "max_relative_matrix_error": 0.0,
+      "concept_shell_faces": 0,
+      "output": "//renders\\07-rear-grip-macro.png"
+    },
+    {
+      "scene": "08 Profile | Raking light",
+      "camera": "Profile | 87 mm",
+      "camera_world": [
+        [
+          0.3583680987358093,
+          -0.10568439960479736,
+          0.9275792241096497,
+          8.309938430786133
+        ],
+        [
+          0.9335803985595703,
+          0.04056829959154129,
+          -0.35606449842453003,
+          -3.1377594470977783
+        ],
+        [
+          2.0000000233721948e-07,
+          0.9935718774795532,
+          0.11320319771766663,
+          2.0648679733276367
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens_mm": 87.0,
+      "parts": 12,
+      "assembly_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "max_relative_matrix_error": 0.0,
+      "concept_shell_faces": 0,
+      "output": "//renders\\08-low-profile.png"
+    }
+  ],
+  "passed": true,
+  "delivery_sha256": "3cba5d2fe83c51bf9ee478c322519806b8f32a751b4e800a742ea0e90be56351",
+  "packed_textures": {
+    "grip-symbol-height.png": [
+      "c6f838be4ff343f5ee79c36ce587ea222a562a500a9e22214895f7c14c53872e"
+    ]
+  },
+  "original_geometry": {
+    "Analog sticks | rubber caps and shafts": {
+      "hash": "66ea238b89bdeadef7475128bbaae6ef9e5b4c51d8159fcf9ab3b6428199df80",
+      "vertices": 159800,
+      "polygons": 135108
+    },
+    "D-pad | down": {
+      "hash": "f9851aa6b2155e39b15b8bf2333e84df16bd595ef86e1bee5456be50f7f06311",
+      "vertices": 6557,
+      "polygons": 6484
+    },
+    "D-pad | left": {
+      "hash": "abdf6df933931676a6849a9992d116687cde70b46c41b5d72c5ef1d4a3498ade",
+      "vertices": 6318,
+      "polygons": 6260
+    },
+    "D-pad | right": {
+      "hash": "6a28f137c9515e86b7913abf3f36f313a0ef063aa51eeb45ab34dfd155fd6606",
+      "vertices": 6334,
+      "polygons": 6276
+    },
+    "D-pad | up": {
+      "hash": "de240aadae9af047996815f9922464f63f3085fc2b5394a694eead3009088d75",
+      "vertices": 6334,
+      "polygons": 6276
+    },
+    "Face button | circle": {
+      "hash": "47b1d0ed74f55a29ca74c7836113744aa057711d657e1d4e7f9783e472eae4e2",
+      "vertices": 6071,
+      "polygons": 5984
+    },
+    "Face button | cross": {
+      "hash": "d3d1b8dc65228aeae2fd4dda7fc74238689d5625d51c6d436ca66ba1a7889df5",
+      "vertices": 6760,
+      "polygons": 6624
+    },
+    "Face button | square": {
+      "hash": "8c9bd5b5bfa76a92dfa925d070af57d217d218647a694055447b74ac473b2ca4",
+      "vertices": 6535,
+      "polygons": 6432
+    },
+    "Face button | triangle": {
+      "hash": "0d9beed6abab106d1ebf885105c42efb4557635123f98374d3838f0f9c8f0fd5",
+      "vertices": 5715,
+      "polygons": 5632
+    },
+    "Housing | shell, touchpad, controls and ports": {
+      "hash": "1eb658d643d8974cfa99b45499eefe821bc0c0c80eae95c21c9b8bcaf11c34f8",
+      "vertices": 256967,
+      "polygons": 253872
+    },
+    "Shoulder group | left": {
+      "hash": "bd255fc675e7ace3f9d2c0e8b4e63a6bd72fb9af00d2da2f180cc71fd411f30f",
+      "vertices": 6686,
+      "polygons": 6592
+    },
+    "Shoulder group | right": {
+      "hash": "862bbd955789fb1ea00b9b929c226f54b0be1059d2b698d4e5aa991d2dd7224b",
+      "vertices": 6686,
+      "polygons": 6592
+    }
+  },
+  "images": [
+    {
+      "name": "01-front-studio.png",
+      "width": 3072,
+      "height": 3840,
+      "channels": "RGB",
+      "bits_per_channel": 16,
+      "sha256": "b786b9a29d309e092ab42a87a5523c1f79f2acbdcf252f5dd4c7d5f14f3c201b",
+      "bytes": 32689188
+    },
+    {
+      "name": "02-airborne-diagonal.png",
+      "width": 3072,
+      "height": 3840,
+      "channels": "RGB",
+      "bits_per_channel": 16,
+      "sha256": "83eaff525a6ef81d1b499d05bff532ff6e9b4928400d248120d454d20637bbf1",
+      "bytes": 32653857
+    },
+    {
+      "name": "03-smoked-ice.png",
+      "width": 3072,
+      "height": 3840,
+      "channels": "RGB",
+      "bits_per_channel": 16,
+      "sha256": "fd756322bdc849244e5a55c7db21c89f72f8cb3277fd4d1f3fc381058495320a",
+      "bytes": 37845950
+    },
+    {
+      "name": "04-rear-molded-shell.png",
+      "width": 3072,
+      "height": 3840,
+      "channels": "RGB",
+      "bits_per_channel": 16,
+      "sha256": "8fe7c5cdf6fbeb2c456c52d629c8596477682ab71c2037c61b22423dc80c8a5f",
+      "bytes": 32299303
+    },
+    {
+      "name": "05-top-shoulder-usbc.png",
+      "width": 3072,
+      "height": 3840,
+      "channels": "RGB",
+      "bits_per_channel": 16,
+      "sha256": "d4a3777aabd8aba3374e7223295f221feaab312a0c302c6c67ec2475886defc0",
+      "bytes": 35805450
+    },
+    {
+      "name": "06-face-buttons-macro.png",
+      "width": 3072,
+      "height": 3840,
+      "channels": "RGB",
+      "bits_per_channel": 16,
+      "sha256": "5726ed10166b771a53d3a137ae6286385c593d1df3fc329f8d412253b17bf61e",
+      "bytes": 38532612
+    },
+    {
+      "name": "07-rear-grip-macro.png",
+      "width": 3072,
+      "height": 3840,
+      "channels": "RGB",
+      "bits_per_channel": 16,
+      "sha256": "b17c1dea40b27f0bc3d46321378eaddef702b6a4a333a13d19928db266991a68",
+      "bytes": 42347141
+    },
+    {
+      "name": "08-low-profile.png",
+      "width": 3072,
+      "height": 3840,
+      "channels": "RGB",
+      "bits_per_channel": 16,
+      "sha256": "614e7db5b25f0900cff70262386ba5546fe5c39cc1bf883d1bd59bf34f028f36",
+      "bytes": 32388843
+    }
+  ]
+}

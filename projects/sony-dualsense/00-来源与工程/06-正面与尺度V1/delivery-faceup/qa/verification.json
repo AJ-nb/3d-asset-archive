@@ -1,0 +1,756 @@
+{
+  "passed": true,
+  "mode": "delivery",
+  "project": "D:\\oc\\output\\dualsense-cg-studio\\delivery-faceup\\DualSense-Face-Up-and-Scale.blend",
+  "reference": "D:\\dji-dualsense-4k-render-studio\\sony-dualsense\\DualSense-4K-Studio.blend",
+  "blender": "5.2.3 LTS",
+  "scenes": [
+    {
+      "scene": "01 Face up | Overhead portrait",
+      "frame_one_marker": "Render camera",
+      "camera": "01 | Plan view 90 mm",
+      "camera_world_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.9996572732925415,
+          -0.02617890015244484,
+          -0.2942552864551544
+        ],
+        [
+          0.0,
+          0.02617890015244484,
+          0.9996572732925415,
+          11.696213722229004
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens_mm": 90.0,
+      "resolution": [
+        3840,
+        2560
+      ],
+      "pixels": "RGB 16-bit PNG",
+      "engine": "Cycles",
+      "max_samples": 112,
+      "output": "//renders/01-face-up-overhead.png",
+      "product_parts": 12,
+      "assembly_world_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -0.0,
+          1.0,
+          -1.101937174797058
+        ],
+        [
+          0.0,
+          -1.0,
+          -0.0,
+          0.5677307844161987
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "max_part_matrix_discrepancy_bu": 0.0,
+      "physical_linear_scale_vs_source": 1.0,
+      "original_button_face_direction_world": [
+        0.0,
+        4e-08,
+        1.0
+      ]
+    },
+    {
+      "scene": "02 Face up | Blue hour",
+      "frame_one_marker": "Render camera",
+      "camera": "02 | Three-quarter elevation 77 mm",
+      "camera_world_matrix": [
+        [
+          0.987688422203064,
+          -0.08520030230283737,
+          0.1311970055103302,
+          1.3678886890411377
+        ],
+        [
+          0.15643450617790222,
+          0.5379335880279541,
+          -0.8283451795578003,
+          -8.538372039794922
+        ],
+        [
+          0.0,
+          0.8386706113815308,
+          0.544638991355896,
+          6.107014179229736
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens_mm": 77.0,
+      "resolution": [
+        3840,
+        2560
+      ],
+      "pixels": "RGB 16-bit PNG",
+      "engine": "Cycles",
+      "max_samples": 112,
+      "output": "//renders/02-face-up-blue-hour.png",
+      "product_parts": 12,
+      "assembly_world_matrix": [
+        [
+          0.8910065293312073,
+          -0.0,
+          0.45399048924446106,
+          -0.5002689957618713
+        ],
+        [
+          -0.45399048924446106,
+          -0.0,
+          0.8910065293312073,
+          -0.9818332195281982
+        ],
+        [
+          0.0,
+          -1.0,
+          -0.0,
+          0.5677307844161987
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "max_part_matrix_discrepancy_bu": 0.0,
+      "physical_linear_scale_vs_source": 1.0,
+      "original_button_face_direction_world": [
+        2e-08,
+        4e-08,
+        1.0
+      ]
+    },
+    {
+      "scene": "03 Face up | Four action caps",
+      "frame_one_marker": "Render camera",
+      "camera": "03 | Keycap glass 103 mm",
+      "camera_world_matrix": [
+        [
+          0.8480480909347534,
+          -0.41182461380958557,
+          0.33348900079727173,
+          2.272042751312256
+        ],
+        [
+          0.5299193859100342,
+          0.659057080745697,
+          -0.5336940288543701,
+          -1.5673084259033203
+        ],
+        [
+          1.0000000116860974e-07,
+          0.6293203830718994,
+          0.7771459221839905,
+          4.349555969238281
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens_mm": 103.0,
+      "resolution": [
+        3840,
+        2560
+      ],
+      "pixels": "RGB 16-bit PNG",
+      "engine": "Cycles",
+      "max_samples": 112,
+      "output": "//renders/03-face-up-action-caps.png",
+      "product_parts": 12,
+      "assembly_world_matrix": [
+        [
+          0.9612616896629333,
+          0.0,
+          -0.2756373882293701,
+          0.3037351071834564
+        ],
+        [
+          0.2756373882293701,
+          -0.0,
+          0.9612616896629333,
+          -1.059249997138977
+        ],
+        [
+          0.0,
+          -1.0,
+          -0.0,
+          0.5677307844161987
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "max_part_matrix_discrepancy_bu": 0.0,
+      "physical_linear_scale_vs_source": 1.0,
+      "original_button_face_direction_world": [
+        -1e-08,
+        4e-08,
+        1.0
+      ]
+    },
+    {
+      "scene": "04 Face up | Stick and control bridge",
+      "frame_one_marker": "Render camera",
+      "camera": "04 | Joystick bridge 96 mm",
+      "camera_world_matrix": [
+        [
+          0.9135454297065735,
+          0.1457614004611969,
+          -0.3797214925289154,
+          -2.329784870147705
+        ],
+        [
+          -0.40673670172691345,
+          0.3273853063583374,
+          -0.8528680801391602,
+          -5.053194522857666
+        ],
+        [
+          0.0,
+          0.9335805177688599,
+          0.35836780071258545,
+          3.134370803833008
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens_mm": 96.0,
+      "resolution": [
+        3840,
+        2560
+      ],
+      "pixels": "RGB 16-bit PNG",
+      "engine": "Cycles",
+      "max_samples": 112,
+      "output": "//renders/04-face-up-control-bridge.png",
+      "product_parts": 12,
+      "assembly_world_matrix": [
+        [
+          0.987688422203064,
+          -0.0,
+          0.15643450617790222,
+          -0.17238099873065948
+        ],
+        [
+          -0.15643450617790222,
+          -0.0,
+          0.987688422203064,
+          -1.088370442390442
+        ],
+        [
+          0.0,
+          -1.0,
+          -0.0,
+          0.5677307844161987
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "max_part_matrix_discrepancy_bu": 0.0,
+      "physical_linear_scale_vs_source": 1.0,
+      "original_button_face_direction_world": [
+        1e-08,
+        4e-08,
+        1.0
+      ]
+    },
+    {
+      "scene": "05 Malthouse | Monument in the square",
+      "frame_one_marker": "Render camera",
+      "camera": "Architecture | photograph",
+      "camera_world_matrix": [
+        [
+          0.9209672212600708,
+          -0.19211849570274353,
+          0.33898359537124634,
+          20.0
+        ],
+        [
+          0.38964009284973145,
+          0.4540981948375702,
+          -0.80123370885849,
+          -43.0
+        ],
+        [
+          -0.0,
+          0.8699914813041687,
+          0.49306660890579224,
+          32.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens_mm": 37.5,
+      "resolution": [
+        3840,
+        2560
+      ],
+      "pixels": "RGB 16-bit PNG",
+      "engine": "Cycles",
+      "max_samples": 96,
+      "output": "//renders/05-malthouse-square.png",
+      "product_parts": 12,
+      "assembly_world_matrix": [
+        [
+          8.714359283447266,
+          -1.0000000116860974e-07,
+          1.2247233390808105,
+          -0.7752671241760254
+        ],
+        [
+          -1.2247233390808105,
+          -4.0000000467443897e-07,
+          8.714359283447266,
+          -8.001853942871094
+        ],
+        [
+          0.0,
+          -8.800000190734863,
+          -4.0000000467443897e-07,
+          5.179671287536621
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "max_part_matrix_discrepancy_bu": 0.0,
+      "physical_linear_scale_vs_source": 176.00000119209287,
+      "original_button_face_direction_world": [
+        1e-08,
+        4e-08,
+        1.0
+      ]
+    },
+    {
+      "scene": "06 Material | Grip survey at 100x",
+      "frame_one_marker": "Render camera",
+      "camera": "06 | Macro expedition",
+      "camera_world_matrix": [
+        [
+          0.9743701219558716,
+          -0.12579099833965302,
+          0.1864929050207138,
+          2.379810333251953
+        ],
+        [
+          0.2249511033296585,
+          0.5448607206344604,
+          -0.8077893853187561,
+          -10.108146667480469
+        ],
+        [
+          -0.0,
+          0.829037606716156,
+          0.5591927766799927,
+          7.2058305740356445
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens_mm": 75.0,
+      "resolution": [
+        3840,
+        2560
+      ],
+      "pixels": "RGB 16-bit PNG",
+      "engine": "Cycles",
+      "max_samples": 88,
+      "output": "//renders/06-grip-survey-100x.png",
+      "product_parts": 0,
+      "relief_calibration": {
+        "packed_input": "grip-symbol-height.png",
+        "xy_magnification": 100,
+        "z_magnification": 100,
+        "source_repeat_m": 0.008333333457509676,
+        "magnified_repeat_m": 0.8333333457509675,
+        "white_height_m": 0.0032500000572763385,
+        "sampled_peak_height_m": 0.0028803924233707476,
+        "height_gain_measured_from_mesh_bu_per_unit_gray": 0.06502430140972137,
+        "source_shader_normal_strength": 0.550000011920929,
+        "mesh_vertices": 573530,
+        "packed_height_samples_checked": 4104,
+        "maximum_bilinear_sample_error": 2.2746799350770175e-06,
+        "metric_basis": "Archived scene units and shader Bump Distance. Large surface curvature and tracks are separate."
+      }
+    },
+    {
+      "scene": "07 Material | Impression in sealing wax",
+      "frame_one_marker": "Render camera",
+      "camera": "07 | Pigment impression",
+      "camera_world_matrix": [
+        [
+          0.9993907809257507,
+          -0.027871999889612198,
+          0.02100300043821335,
+          0.23313379287719727
+        ],
+        [
+          0.034899499267339706,
+          0.7981489896774292,
+          -0.6014484763145447,
+          -6.676077842712402
+        ],
+        [
+          0.0,
+          0.6018151044845581,
+          0.7986354231834412,
+          9.334854125976562
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens_mm": 78.0,
+      "resolution": [
+        3840,
+        2560
+      ],
+      "pixels": "RGB 16-bit PNG",
+      "engine": "Cycles",
+      "max_samples": 88,
+      "output": "//renders/07-vermilion-wax-impression.png",
+      "product_parts": 12,
+      "assembly_world_matrix": [
+        [
+          0.9271839261054993,
+          -0.0,
+          0.3746066093444824,
+          -0.4127928912639618
+        ],
+        [
+          -0.3746066093444824,
+          -0.0,
+          0.9271839261054993,
+          -1.0216983556747437
+        ],
+        [
+          0.0,
+          -1.0,
+          -0.0,
+          0.5677307844161987
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "max_part_matrix_discrepancy_bu": 0.0,
+      "physical_linear_scale_vs_source": 1.0,
+      "original_button_face_direction_world": [
+        2e-08,
+        4e-08,
+        1.0
+      ]
+    },
+    {
+      "scene": "08 North Quay | Walk-through transit gate",
+      "frame_one_marker": "Render camera",
+      "camera": "Architecture | photograph.001",
+      "camera_world_matrix": [
+        [
+          0.9903063774108887,
+          0.017718199640512466,
+          0.13776539266109467,
+          5.400000095367432
+        ],
+        [
+          0.13890010118484497,
+          -0.12632399797439575,
+          -0.9822164177894592,
+          -38.5
+        ],
+        [
+          -0.0,
+          0.9918308258056641,
+          -0.12756049633026123,
+          4.099999904632568
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "lens_mm": 34.0,
+      "resolution": [
+        3840,
+        2560
+      ],
+      "pixels": "RGB 16-bit PNG",
+      "engine": "Cycles",
+      "max_samples": 96,
+      "output": "//renders/08-north-quay-gateway.png",
+      "product_parts": 12,
+      "assembly_world_matrix": [
+        [
+          8.699999809265137,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          8.699999809265137,
+          0.0,
+          0.7016556262969971
+        ],
+        [
+          0.0,
+          0.0,
+          8.699999809265137,
+          0.13200099766254425
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "max_part_matrix_discrepancy_bu": 0.0,
+      "physical_linear_scale_vs_source": 173.99999359250077,
+      "original_button_face_direction_world": [
+        0.0,
+        -1.0,
+        0.0
+      ]
+    }
+  ],
+  "project_sha256": "acd5cc7c63fb4e249af8faf4f4b37d918a6d9381de7a2d76fbdb03af93fcad45",
+  "reference_sha256": "8a286e2d57c74e7d5d7b365f97412c2ae05b5c89a9d34203e309db992d29bef0",
+  "packed_textures_sha256": {
+    "grip-symbol-height.png": [
+      "c6f838be4ff343f5ee79c36ce587ea222a562a500a9e22214895f7c14c53872e"
+    ],
+    "kloofendal_48d_partly_cloudy_puresky_2k.hdr": [
+      "5244534e9cf5b606f2ff513aa00ddb161b0a4826ffd88a0d3bd03ac29247d198"
+    ],
+    "qwantani_dusk_2_puresky_2k.hdr": [
+      "440d1b5d29c79bea0985a13777642df6829e80399602a9d5f39bc20203ae6d1b"
+    ]
+  },
+  "original_meshes": {
+    "Analog sticks | rubber caps and shafts": {
+      "hash": "66ea238b89bdeadef7475128bbaae6ef9e5b4c51d8159fcf9ab3b6428199df80",
+      "vertices": 159800,
+      "polygons": 135108
+    },
+    "D-pad | down": {
+      "hash": "f9851aa6b2155e39b15b8bf2333e84df16bd595ef86e1bee5456be50f7f06311",
+      "vertices": 6557,
+      "polygons": 6484
+    },
+    "D-pad | left": {
+      "hash": "abdf6df933931676a6849a9992d116687cde70b46c41b5d72c5ef1d4a3498ade",
+      "vertices": 6318,
+      "polygons": 6260
+    },
+    "D-pad | right": {
+      "hash": "6a28f137c9515e86b7913abf3f36f313a0ef063aa51eeb45ab34dfd155fd6606",
+      "vertices": 6334,
+      "polygons": 6276
+    },
+    "D-pad | up": {
+      "hash": "de240aadae9af047996815f9922464f63f3085fc2b5394a694eead3009088d75",
+      "vertices": 6334,
+      "polygons": 6276
+    },
+    "Face button | circle": {
+      "hash": "47b1d0ed74f55a29ca74c7836113744aa057711d657e1d4e7f9783e472eae4e2",
+      "vertices": 6071,
+      "polygons": 5984
+    },
+    "Face button | cross": {
+      "hash": "d3d1b8dc65228aeae2fd4dda7fc74238689d5625d51c6d436ca66ba1a7889df5",
+      "vertices": 6760,
+      "polygons": 6624
+    },
+    "Face button | square": {
+      "hash": "8c9bd5b5bfa76a92dfa925d070af57d217d218647a694055447b74ac473b2ca4",
+      "vertices": 6535,
+      "polygons": 6432
+    },
+    "Face button | triangle": {
+      "hash": "0d9beed6abab106d1ebf885105c42efb4557635123f98374d3838f0f9c8f0fd5",
+      "vertices": 5715,
+      "polygons": 5632
+    },
+    "Housing | shell, touchpad, controls and ports": {
+      "hash": "1eb658d643d8974cfa99b45499eefe821bc0c0c80eae95c21c9b8bcaf11c34f8",
+      "vertices": 256967,
+      "polygons": 253872
+    },
+    "Shoulder group | left": {
+      "hash": "bd255fc675e7ace3f9d2c0e8b4e63a6bd72fb9af00d2da2f180cc71fd411f30f",
+      "vertices": 6686,
+      "polygons": 6592
+    },
+    "Shoulder group | right": {
+      "hash": "862bbd955789fb1ea00b9b929c226f54b0be1059d2b698d4e5aa991d2dd7224b",
+      "vertices": 6686,
+      "polygons": 6592
+    }
+  },
+  "renders": [
+    {
+      "name": "01-face-up-overhead.png",
+      "width": 3840,
+      "height": 2560,
+      "channels": "RGB",
+      "bits_per_channel": 16,
+      "sha256": "2503936c5dc02d18549ff31e3af854ea65d002f8ab6e9bd916787174c26d1ce3",
+      "bytes": 30331401,
+      "decoded_thumbnail_sha256": "4f0663771bca2b72b8c9c849e3122c052a609ee132f330e363b21f38a2cbe831",
+      "decoded_sample_range": 0.8330430388450623,
+      "maximum_channel_stddev": 0.20624063909053802
+    },
+    {
+      "name": "02-face-up-blue-hour.png",
+      "width": 3840,
+      "height": 2560,
+      "channels": "RGB",
+      "bits_per_channel": 16,
+      "sha256": "d57f0c002d615f0aa23c4727f79efb54486f1ebb3769e596a9e791d17a0bee9a",
+      "bytes": 32422523,
+      "decoded_thumbnail_sha256": "09caa4fdd6457967b25bcd569c34d91ec45f5101d60d04f00106af3d9c762d41",
+      "decoded_sample_range": 0.9621127247810364,
+      "maximum_channel_stddev": 0.213333860039711
+    },
+    {
+      "name": "03-face-up-action-caps.png",
+      "width": 3840,
+      "height": 2560,
+      "channels": "RGB",
+      "bits_per_channel": 16,
+      "sha256": "8444703c1526fd933ccf0f0d67bd9baa76145fa1e632f0f6193f41b4acdf3366",
+      "bytes": 32174852,
+      "decoded_thumbnail_sha256": "4bc3d793b10204b150aebf0b5aa1d1e269a370b87c258b6c8e677132fecffc4c",
+      "decoded_sample_range": 0.7648299336433411,
+      "maximum_channel_stddev": 0.2493835985660553
+    },
+    {
+      "name": "04-face-up-control-bridge.png",
+      "width": 3840,
+      "height": 2560,
+      "channels": "RGB",
+      "bits_per_channel": 16,
+      "sha256": "d9ba64015ea72bd3067e91a15fc99d63484ac46c85e0bd101fa7fcb4881dc5c2",
+      "bytes": 34675776,
+      "decoded_thumbnail_sha256": "35c535f6a0dd09c380ea7746e9fc76ac547fbe3d1cd8801f4adf19d998da20d6",
+      "decoded_sample_range": 0.8396645784378052,
+      "maximum_channel_stddev": 0.24534815549850464
+    },
+    {
+      "name": "05-malthouse-square.png",
+      "width": 3840,
+      "height": 2560,
+      "channels": "RGB",
+      "bits_per_channel": 16,
+      "sha256": "7125e503bdf77a99d9ba92752dc105989297d249592bd3b0ef9c67ce80964e58",
+      "bytes": 46611750,
+      "decoded_thumbnail_sha256": "a91faac1cdb7ccced40aa9a112e966f3a32e37bf2475c5bd8778edbf0f272c05",
+      "decoded_sample_range": 0.6137797236442566,
+      "maximum_channel_stddev": 0.14256651699543
+    },
+    {
+      "name": "06-grip-survey-100x.png",
+      "width": 3840,
+      "height": 2560,
+      "channels": "RGB",
+      "bits_per_channel": 16,
+      "sha256": "fcc2e0436ae41e3dfa46f6155b14de622091a1780661e0671388ebd7815968b2",
+      "bytes": 45516934,
+      "decoded_thumbnail_sha256": "dfe8dc5829b37f258fffbf7b102b57e4f50f5e09b35f0700c4caf40c1f408e80",
+      "decoded_sample_range": 0.5416450500488281,
+      "maximum_channel_stddev": 0.12196848541498184
+    },
+    {
+      "name": "07-vermilion-wax-impression.png",
+      "width": 3840,
+      "height": 2560,
+      "channels": "RGB",
+      "bits_per_channel": 16,
+      "sha256": "4c091e1cde3c9ba039e251374ca63f76a8db856059407816ddd94356bf6c5485",
+      "bytes": 45500241,
+      "decoded_thumbnail_sha256": "8c31b9cc97905aed171b25dac643527c0de93d5dc4acf534d6bbc88b555efdf0",
+      "decoded_sample_range": 0.7863391041755676,
+      "maximum_channel_stddev": 0.1913844794034958
+    },
+    {
+      "name": "08-north-quay-gateway.png",
+      "width": 3840,
+      "height": 2560,
+      "channels": "RGB",
+      "bits_per_channel": 16,
+      "sha256": "08215130a0ea0e7a768cbc93a0cd40da58d7c49a0bc3b807f180090871736c61",
+      "bytes": 35965697,
+      "decoded_thumbnail_sha256": "8c979a4b1e38e3a0da332481d0ed9ba5c5c03db60285c95f374a53ea03c72eec",
+      "decoded_sample_range": 0.766517162322998,
+      "maximum_channel_stddev": 0.18802997469902039
+    }
+  ]
+}

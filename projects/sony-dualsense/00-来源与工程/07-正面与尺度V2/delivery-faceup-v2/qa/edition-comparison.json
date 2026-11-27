@@ -1,0 +1,170 @@
+{
+  "01": {
+    "old": "01-face-up-overhead.png",
+    "new": "01-face-up-marble.png",
+    "mean_absolute_rgb8_change": 35.28,
+    "old_luma_quantiles": {
+      "p01": 33.09,
+      "p05": 48.74,
+      "p50": 174.52,
+      "p95": 227.2,
+      "p99": 233.06
+    },
+    "new_luma_quantiles": {
+      "p01": 21.6,
+      "p05": 31.82,
+      "p50": 158.48,
+      "p95": 219.0,
+      "p99": 232.21
+    },
+    "old_thumbnail_sha256": "13fafa706ec1ee3bbe34cae6820ce0b0cf3bd06a27e0eb55df820a6ddf0dd8c3",
+    "new_thumbnail_sha256": "b860db209a9f2a90fa0599d26b5b9c3522cb8f790b4061627e6e2ce1b8577822"
+  },
+  "02": {
+    "old": "02-face-up-blue-hour.png",
+    "new": "02-shoulder-view-walnut.png",
+    "mean_absolute_rgb8_change": 72.56,
+    "old_luma_quantiles": {
+      "p01": 16.07,
+      "p05": 26.14,
+      "p50": 53.63,
+      "p95": 212.76,
+      "p99": 226.24
+    },
+    "new_luma_quantiles": {
+      "p01": 16.17,
+      "p05": 32.59,
+      "p50": 98.32,
+      "p95": 209.8,
+      "p99": 220.73
+    },
+    "old_thumbnail_sha256": "ac1e0ce780ae200c70bdd74db87ad243817b8788f8216d21535a86699d417af8",
+    "new_thumbnail_sha256": "f819a097a613e74c9fa0fc5e557236a501e52f3b902c4d94db43d12cf5b52ae3"
+  },
+  "03": {
+    "old": "03-face-up-action-caps.png",
+    "new": "03-transparent-action-caps.png",
+    "mean_absolute_rgb8_change": 50.42,
+    "old_luma_quantiles": {
+      "p01": 17.68,
+      "p05": 36.4,
+      "p50": 175.68,
+      "p95": 211.59,
+      "p99": 222.06
+    },
+    "new_luma_quantiles": {
+      "p01": 8.89,
+      "p05": 21.32,
+      "p50": 181.46,
+      "p95": 215.01,
+      "p99": 221.94
+    },
+    "old_thumbnail_sha256": "be730f84f7d80cda668037b2685fa9a6a51033d24e2b6aabbf7395840eacba03",
+    "new_thumbnail_sha256": "545867a04c2b3a1282f3e907e290878984b4d8b33733e3e1d0f0a6979f9d798f"
+  },
+  "04": {
+    "old": "04-face-up-control-bridge.png",
+    "new": "04-rubber-knurl.png",
+    "mean_absolute_rgb8_change": 85.08,
+    "old_luma_quantiles": {
+      "p01": 4.35,
+      "p05": 5.35,
+      "p50": 65.54,
+      "p95": 225.14,
+      "p99": 231.8
+    },
+    "new_luma_quantiles": {
+      "p01": 19.8,
+      "p05": 32.9,
+      "p50": 89.2,
+      "p95": 229.07,
+      "p99": 235.0
+    },
+    "old_thumbnail_sha256": "b036fe72bb9b4afc4f123b98345c09be35476717f3da37479bcc0d44b17bd5e3",
+    "new_thumbnail_sha256": "9d473ebef168f91db84516a5645847238c68099542aa50290a443c0e33e50888"
+  },
+  "05": {
+    "old": "05-malthouse-square.png",
+    "new": "05-drydock-monument.png",
+    "mean_absolute_rgb8_change": 50.57,
+    "old_luma_quantiles": {
+      "p01": 16.07,
+      "p05": 30.47,
+      "p50": 88.3,
+      "p95": 185.42,
+      "p99": 198.2
+    },
+    "new_luma_quantiles": {
+      "p01": 19.22,
+      "p05": 41.32,
+      "p50": 112.04,
+      "p95": 206.95,
+      "p99": 213.67
+    },
+    "old_thumbnail_sha256": "b3d2a0b0980bb565f43a089504c2722b12a5f4c9da9e0f4014f035c1aa1a9872",
+    "new_thumbnail_sha256": "26bed362d468ee3cb8413116f213f8400fed1a1057ffb0405174cdc0fab26e8e"
+  },
+  "06": {
+    "old": "06-grip-survey-100x.png",
+    "new": "06-grip-field-section.png",
+    "mean_absolute_rgb8_change": 39.19,
+    "old_luma_quantiles": {
+      "p01": 26.32,
+      "p05": 97.61,
+      "p50": 140.67,
+      "p95": 175.84,
+      "p99": 184.91
+    },
+    "new_luma_quantiles": {
+      "p01": 101.14,
+      "p05": 135.76,
+      "p50": 174.58,
+      "p95": 188.79,
+      "p99": 199.71
+    },
+    "old_thumbnail_sha256": "7dbe32b5c0aed0d392b47ac8e64958ac608b830e419ab7a3d1bf4d8b0c9498ee",
+    "new_thumbnail_sha256": "ac3a6477769c131e50dcdc660a11fc41ed959a8712e5c0196ec8f379c13d2dfe"
+  },
+  "07": {
+    "old": "07-vermilion-wax-impression.png",
+    "new": "07-hand-pressed-stoneware.png",
+    "mean_absolute_rgb8_change": 54.22,
+    "old_luma_quantiles": {
+      "p01": 23.37,
+      "p05": 44.72,
+      "p50": 103.06,
+      "p95": 211.62,
+      "p99": 224.27
+    },
+    "new_luma_quantiles": {
+      "p01": 16.08,
+      "p05": 29.23,
+      "p50": 72.03,
+      "p95": 197.06,
+      "p99": 222.73
+    },
+    "old_thumbnail_sha256": "d231c7f5ee239ae4cd357aa7742d54c5bcff43d2c8c55fb5f53788e20f2fa19f",
+    "new_thumbnail_sha256": "be260416208b2df56d1b8921aceb6fe3f7bdd3a244505e59206b8525ef4d9d6b"
+  },
+  "08": {
+    "old": "08-north-quay-gateway.png",
+    "new": "08-tidal-room.png",
+    "mean_absolute_rgb8_change": 71.47,
+    "old_luma_quantiles": {
+      "p01": 12.29,
+      "p05": 23.0,
+      "p50": 116.22,
+      "p95": 208.37,
+      "p99": 221.66
+    },
+    "new_luma_quantiles": {
+      "p01": 3.01,
+      "p05": 12.29,
+      "p50": 121.0,
+      "p95": 205.58,
+      "p99": 216.99
+    },
+    "old_thumbnail_sha256": "f2edb10e1cba2e182f3ec7695ef98cae434b4b326ba00d24772bdf8b33ddd4b8",
+    "new_thumbnail_sha256": "de6964383a99a16c2f72c4a46b6478030d27b929284d73cddea08a12698b8334"
+  }
+}
