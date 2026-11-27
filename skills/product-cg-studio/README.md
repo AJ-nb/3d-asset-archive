@@ -26,13 +26,15 @@
 
 1. 把手头的草图交给 AI，或者直接说出想做的东西。它会复述能看懂的部分，针对会改变设计或交付的取舍，实际向你提出至少 10 个问题。可以分轮回答，也可以指定哪些由它代拟。[客户访谈与按品类换题](references/concept-intake.md)
 2. 打开相似案例，对照图中的结构、材料与使用状态。比如想单手边走边拍，就让设计师在白模上同时画出手指握区、屏幕的视线和云台转动的空间。[查找与筛选先例](references/design-precedents.md) · [DJI 官方产品参考板](examples/concept/dji-references.md)
-3. 核对交回的设计简报。相机示例用 V1 起模复演图讨论初始轮廓，用 V7 姿态图讨论动作，再演示如何把模拟客户选中的使用方式转成白模、结构测试和镜头。[从机身轮廓到云台姿态的交接示例](examples/concept/handoff.md)
+3. 核对交回的设计简报。假设已确定拍桌面口播，接下来要比较的是同一桌面上外接底座和机内折脚各要做哪些动作、收起来占多少空间、充电线能否插拔。再选取一个最重要的使用任务，在白模、样机或目标画幅中验证，并保留客户仍需确认的事项。[DJI 参考与同场景方案交接示例](examples/concept/handoff.md)
 
 批量处理创意项目时，复制[概念工单示例](examples/concept/products.json)，从技能目录运行下列命令。脚本准备访谈和记录文件。把生成的工单交给启用了本技能的 AI，由它打开草图、实际访谈、上网检索并开展后续制作。
 
 ```sh
 python scripts/prepare_queue.py examples/concept/products.json --out work/concept-01
 ```
+
+想看另一位执行者实际怎样用现有素材接单，可以打开[桌面拍讲课视频的独立试用记录](https://github.com/AJ-nb/3d-asset-archive/tree/main/projects/pocket-camera/desk-support-trial)。工单使用档案中的 DJI 相机，访谈角色由 AI 模拟，记录区分了数字模型可验的项目和需要真人、样机才能验证的项目。
 
 ## 怎样从「看起来不对」查到具体部件
 
@@ -69,13 +71,14 @@ blender -b --disable-autoexec section-gauge-run/corrected.blend --python-exit-co
 
 | 手里的材料 | 从哪里开始 | 运行后得到什么 |
 | --- | --- | --- |
-| 多款产品的文字简报、参考图或旧工程 | 复制 [products.json](examples/products.json)，按款改输入、画幅和验收要求，运行下面第一条命令，再交给 AI 执行工作单。 | 每款一份 `brief.md` 和整批状态表。进入 AI 建模和精修阶段。[工单字段与续做](references/production-queue.md) |
+| 多款产品的文字简报、参考图或旧工程 | 复制 [products.json](examples/products.json)，按款改输入、画幅和验收要求。生成工单后，执行人按实际进度更新每款的 `delivery.json`。 | 用 `order_status.py` 汇总当前阶段、阻塞、改版后需重出的镜头和已签收版本。[工单字段与续做](references/production-queue.md) |
 | 可渲染的 Blender 工程和命名机位 | 复制 [batch.json](examples/batch.json)，替换工程、场景、相机和帧段，先检查再渲染。 | 分镜头的静帧／PNG 序列和运行报告；可选择失败镜头单独重跑。[批渲染、重试和视频编码](references/batch.md) |
 
 从本技能目录试跑，以下输出目录应使用新名字。
 
 ```sh
 python scripts/prepare_queue.py examples/products.json --out work/orders-01
+python scripts/order_status.py work/orders-01
 python scripts/render_batch.py check examples/batch.json
 python scripts/render_batch.py render examples/batch.json --out work/render-01
 ```
@@ -103,6 +106,7 @@ blender -b --factory-startup --disable-autoexec work/remake/blockout.blend --pyt
 
 - 工单报告应列出两个可制作的原创简报。可以在清单副本中给其中一款添加不存在的参考图，检查报告是否点名缺件，并继续生成另一款的工单。
 - 在渲染清单副本中把一个相机改成不存在的名字。报告应给出那一项的错误及可选机位，另一项仍应出片。修正相机名后，用 `--only` 和新的输出目录复跑该项。
+- 在临时场景中移走产品表面的贴图，再恢复原文件。比较 `needs_review`、成品目录和依赖摘要。随包的[缺图回归样例](examples/check_render_dependencies.py)也会检查动画中途首次用图和闲置贴图两种情况。
 - 打开控制器试跑输出的横幅和竖图，分别检查底脚与桌面的接触、旋钮侧槽和盘面细纹。用同一工程与相机重渲可疑部位，核对画幅和材质效果。
 
 ## 三个项目怎样改变了流程

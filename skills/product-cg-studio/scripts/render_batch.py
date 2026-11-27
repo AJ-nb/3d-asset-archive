@@ -47,7 +47,7 @@ def select_jobs(path, selection):
 
 
 def prepare_job(job, manifest_dir):
-    extra = set(job) - {"id", "blend", "scene", "camera", "frame", "range", "resolution"}
+    extra = set(job) - {"id", "blend", "scene", "camera", "frame", "range", "resolution", "required_files"}
     if extra:
         raise ValueError(f"Unknown fields: {sorted(extra)}")
     for key in ("blend", "scene", "camera"):
@@ -70,7 +70,13 @@ def prepare_job(job, manifest_dir):
         size = job["resolution"]
         if not isinstance(size, list) or len(size) != 2 or not all(integer(n, 4, 65536) for n in size):
             raise ValueError("resolution must be [width, height] in pixels, each 4 to 65536")
-    return dict(job, blend=str(source))
+    files = job.get("required_files", [])
+    if not isinstance(files, list) or any(
+        not isinstance(name, str) or not name.strip() or Path(name).is_absolute() or PureWindowsPath(name).anchor
+        for name in files
+    ):
+        raise ValueError("required_files must be an array of relative file paths")
+    return dict(job, blend=str(source), required_files=[str((manifest_dir / name).resolve()) for name in files])
 
 
 def source_version(path, cache):
@@ -111,13 +117,13 @@ def run_job(job, mode, blender, workspace, root, versions):
             tail = stream.read().decode("utf-8", errors="replace").strip()
         raise RuntimeError(f"Blender exited {result.returncode} without a receipt. {tail}")
     info = read_json(receipt)
-    if result.returncode or not info.get("ok"):
+    if result.returncode or (not info.get("ok") and info.get("status") != "needs_review"):
         raise RuntimeError(info.get("error") or f"Blender exited {result.returncode}")
     stat = source.stat()
     if (stat.st_size, stat.st_mtime_ns) != stamp:
         raise RuntimeError("Source .blend changed during this job. Retry with a frozen copy.")
     info["source_sha256"] = digest
-    if mode == "render":
+    if mode == "render" and info["ok"]:
         (job_dir / "images").rename(root / "shots" / key)
     return info
 
@@ -141,6 +147,8 @@ def execute(args, jobs, blender, root):
             print(f"  {details['scene']} / {details['camera']} | {details['pixels']} px | {details['frames']} frame(s)", flush=True)
             for warning in details["missing_source_warnings"]:
                 print(f"  Missing source: {warning}", flush=True)
+            if not details["ok"]:
+                print(f"  NEEDS REVIEW: {details['error']}", file=sys.stderr, flush=True)
         except (OSError, ValueError, RuntimeError) as exc:
             summary[key] = {"status": "failed", "error": str(exc)}
             print(f"  ERROR: {exc}", file=sys.stderr, flush=True)

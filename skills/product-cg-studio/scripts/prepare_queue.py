@@ -8,10 +8,23 @@ import re
 import sys
 from tempfile import TemporaryDirectory
 
+from order_status import new_delivery
+
 
 RESERVED = re.compile(r"(con|prn|aux|nul|com[1-9]|lpt[1-9])(?:\..*)?", re.I)
 FIELDS = {"id", "mode", "brief", "references", "source", "deliverables", "resolution",
-          "acceptance", "review", "question_overrides"}
+          "acceptance", "review", "question_overrides", "planning"}
+PLANNING = {
+    "user_task": "使用者、场景与要完成的动作",
+    "success_evidence": "观察到什么算成功，用哪种证据确认",
+    "hard_constraints": "不可退让的约束及来源",
+    "conflicts": "冲突的条件、可选改法及分别牺牲什么",
+    "decision_owner": "冲突由谁裁决",
+    "must_deliver": "本轮必交",
+    "can_defer": "本轮可顺延",
+    "deadline": "交期与时区",
+    "budget": "预算、算力或可用评审轮次",
+}
 GEOMETRY_FORMATS = {".blend", ".step", ".stp", ".iges", ".igs", ".3dm", ".brep", ".x_t",
                     ".obj", ".fbx", ".stl", ".glb", ".gltf", ".usd", ".usda", ".usdc", ".usdz"}
 INTERVIEW_GUIDE = Path(__file__).resolve().parents[1] / "references" / "concept-intake.md"
@@ -86,6 +99,23 @@ def concept_materials(product):
     return {"client-interview.md": "\n".join(interview), "design-decisions.md": "\n".join(record)}
 
 
+def planning_section(product):
+    planning = product.get("planning", {})
+    if not isinstance(planning, dict) or set(planning) - PLANNING.keys():
+        raise ValueError(f"planning 只支持以下可选字段：{', '.join(PLANNING)}")
+    if not all(nonempty_text(value) for value in planning.values()):
+        raise ValueError("已有 planning 字段需要非空文本；未知字段可省略")
+    lines = ["", "## 使用任务和本轮取舍", "",
+             "由执行人从原话提取并核对。有冲突时记录待定范围和可并行的可逆工作，再由有决定权的人选择。"]
+    for key, title in PLANNING.items():
+        if key == "must_deliver":
+            lines += ["", "有分期、限额或多方评审时填写以下取舍。"]
+        lines += [f"- {title}：{planning.get(key, '待填写')}"]
+    lines += ["- 已选方案、裁决人、日期和依据：待确认。", "",
+              "每轮将版本、阻塞、受影响镜头和签收证据更新到同目录 [delivery.json](delivery.json)。"]
+    return lines
+
+
 def make_brief(product, base):
     extra = set(product) - FIELDS
     if extra:
@@ -139,7 +169,7 @@ def make_brief(product, base):
         "", "## 产品简报", "", product["brief"].strip(),
         "", "## 输入", "", *(inputs or ["- 依据本工单的文字概念进行原创设计。"]),
         *([f"- 输入文件基准目录：{base}"] if inputs else []),
-        *intake, "", "## 交付物", "", outputs,
+        *intake, *planning_section(product), "", "## 交付物", "", outputs,
         "", "## 模型复核与重渲", "",
         "1. 标明尺寸来源、单位和基准。核对硬件的支承、接头、倒角、壁厚与缝隙。对布偶等柔性对象，核对缝合或解剖连接、受压轮廓、填充体积或软组织形态。",
         "2. 有真实尺度时沿三轴每 1 mm 取截面，记录部件和站位。与有尺度的参考对齐后量差。只有构想时，先检查轮廓与内部连续性，记下待核尺寸。",
@@ -148,6 +178,7 @@ def make_brief(product, base):
         *(["", "本款专项核对项", "", review] if review else []),
         "", "## 验收", "", acceptance, "",
     ])
+    files["delivery.json"] = json.dumps(new_delivery(next_step), ensure_ascii=False, indent=2) + "\n"
     return files, next_step
 
 

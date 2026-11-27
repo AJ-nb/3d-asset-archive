@@ -21,6 +21,7 @@ python scripts/prepare_queue.py examples/concept/products.json --out work/concep
 | `resolution`、`deliverables`、`acceptance` | 分别为 `[宽, 高]` 像素、交付物文本数组和验收条件文本数组。概念行可省略任一未知字段，其他模式沿用已有要求。视频写时长与帧率，多个版位写各自画幅。“侧光下能看清旋钮刻度”是可复验的验收条件。 |
 | `question_overrides` | 可选，用于 `concept` 或 `create`。用题号字符串映射到针对本案的一句话问题。例如 `{"6": "人物抓住伞柄时，哪只手和哪段手指必须贴住它？"}` 会替换默认的连接与接触题。题号与[访谈题库](concept-intake.md)一致。 |
 | `review` | 可选的非空文本数组。逐项写出本款最容易出错的部件、尺寸依据或姿态，例如“俯视侧棱应与图纸 R1 对齐”“展开到限位时线束仍有余量”。省略此项也会生成模型复核与重渲步骤。 |
+| `planning` | 可选对象，已知项各填一条非空文本。用 `user_task`、`success_evidence` 写使用者要完成的动作和如何看出成功，用 `hard_constraints`、`conflicts`、`decision_owner` 写底线、备选代价与裁决人。多方或限时工作再填 `must_deliver`、`can_defer`、`deadline`、`budget`。已有简报可直接在 Markdown 中补录。 |
 
 接手已有计时器工程时，将该行的 `mode` 改成 `"revise"`，加入 `"source": "timer/original.blend"`，将实拍资料写成 `"references": ["timer/front.jpg", "timer/side.jpg"]`。这些是路径写法示例，运行前换成自己的文件。重复 ID 的所有行一起报错，以免任意选中一个版本。
 
@@ -36,6 +37,10 @@ python scripts/prepare_queue.py examples/concept/products.json --out work/concep
 
 用已知线索同步查找同类产品和可借鉴的其他对象，核对原始页面，再按[参考研究方法](design-precedents.md)向客户展示有编号的案例。请客户用案例编号指出保留、避开、组合或委托设计的具体部分。[DJI 云台相机参考板](../examples/concept/dji-references.md)演示了如何把持握、支承、转屏与首图机位对应起来。将选择、理由、未定项及依据记入 `design-decisions.md`，回填 `brief.md` 的设计、交付物和验收条件。以客户已选或明确委托的范围出白模，优先验证最有影响的未知项。
 
+**试填一份有尺寸冲突的简报。** 假设客户要求收纳总厚度不超过 18 mm，同时指定一个沿同一厚度轴占 22 mm、必须完全包入壳内的模组。核对两处测量端点与姿态后，在同一张侧视图画出二者。向裁决人列出放宽厚度上限或改选较薄模组两案，写明前者影响收纳、后者需要再核接口与功能。可以先试按键布局，外壳厚度等待裁决。执行人负责从文字和草图识别矛盾，并在简报原处填回选择、依据、确认人及日期。
+
+将首要任务直接连到验收。例如“坐姿使用者摆好设备后能从预期眼位读到录制状态”，实体试用记录遮挡与误触；只交图时则在目标手机裁切上请未读简报的人指出状态指示和着地点，记录实测、内部审图或待验证。交期有冲突时写明首轮必交与能顺延的镜头。
+
 ### 让 AI 逐单完成制作
 
 1. 读取报告，逐项打开 `ready` 工单。在各自产品目录内工作，原始参考与源工程保留在输入目录。采用接手模式时，先重开源工程检查贴图、链接资产与上次交付状态，再保存工作副本。
@@ -43,3 +48,36 @@ python scripts/prepare_queue.py examples/concept/products.json --out work/concep
 3. 把已准备好的镜头汇总给批量渲染入口。交付时按每项工单复核工程、画幅、数量与成片，单独列出受阻项。
 
 输出目录必须是新路径。修复缺件后，可把失败项单独组成新清单，再指定新的 `--out`。进程退出码 `0` 表示全部工单准备完成，`1` 表示有产品失败，`2` 表示清单或输出目录本身有误。客户已填写的访谈稿、参考选择和简报在原工单目录里继续维护。
+
+### 一次查询每款的制作、返工和签收状态
+
+每款工单维护一份 `<id>/delivery.json`。单件也可用同一页追踪。阶段或交接改变时由该款负责人更新；简报存设计约定，这份记录存实际进度。以下命令输出 Markdown 表格，加入 `--json` 可读取同一批数据。默认只读。老工单显示“未登记”，加 `--init-missing` 可补建空记录，保留原来的简报与既有记录。
+
+```sh
+python scripts/order_status.py work/orders-01
+python scripts/order_status.py work/orders-01 --only desk-timer --json
+```
+
+下列是已经签收 v1 后，铰链改为 v2 的填写示例。编号、人员与证据路径仅演示字段，使用时填写该次项目的实际记录。
+
+```json
+{
+  "stage": "review",
+  "owner": "机构设计师",
+  "blocker": "等待铰链复验及动作镜头重出",
+  "revisions": [
+    {"version": "v1", "affected_shots": ["hero", "fold"]},
+    {"version": "v2", "affected_shots": ["fold"]}
+  ],
+  "shot_reviews": {
+    "hero": {"version": "v1", "evidence": "qa/hero-review.md"},
+    "fold": {"version": "v1", "evidence": "qa/fold-review-v1.md"}
+  },
+  "approval": {"version": "v1", "by": "客户负责人", "evidence": "qa/signoff-v1.md"}
+}
+```
+
+- `stage` 选择 `intake`、`design`、`production`、`review`，`owner` 写当前跟进者，`blocker` 填正在等待谁提供什么，解除后留空。
+- 版本按时间追加且编号唯一。首版登记所有交付镜头，后续每版列出经核对需要新做、重出或重审的镜头，使用渲染清单的镜头 ID。只交模型或改动确实未影响成片时 `affected_shots` 可为空。影响范围由制作人核对装配、材质、相机和用途后填写。
+- 上例的汇总会列出 `fold@v2` 和“新版待签”，继续沿用不受影响的 `hero`。动作镜头复核完成后，用其实际复核版本替换 `shot_reviews.fold`，所附证据写明渲染报告和镜头 ID、模型摘要、成片及原尺寸审查结果。清空已消除的阻塞。在客户真正批准后才更新 `approval`；保存历次签收的原始记录。
+- 证据可填相对本款目录的现存文件（可带 `#` 锚点）或 HTTPS 链接。工具检查本地文件是否存在，线上证据内容、权限和签收人的身份由经办人核实。当前版签收仍有阻塞或待复核镜头时显示“签收待复核”。退出码 `1` 表示至少一条工单失败或状态记录有误，其他款仍可查；`2` 表示查询参数或队列无效。请从表格的“签收”列判断各款交付状态。
