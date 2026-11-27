@@ -2,9 +2,11 @@
 
 给 AI 制作搭档一句概念、一张草图、实拍参考或已有工程，按项目交付可编辑的 Blender 场景、效果图和展示动画。方向未定时，先访谈、找真实先例、做白模选型。方向确定后逐件复核几何、连接与动作，修正源模型，再用定稿的模型出整套图。包内脚本可生成工单、检查网格、对比每毫米截面、测试绑定和批量渲染。
 
-![原创桌面音量控制器，哑光深色机身与铝色旋钮的横幅效果图](examples/finished/banner.png)
+| DJI 口袋云台相机研究 · V7 成品 | 同机位白模 | 双镜头局部 |
+| --- | --- | --- |
+| ![DJI 口袋云台相机研究，V7 着色成品](examples/dji/pocket-v7-hero.jpg) | ![V7 同一机位白模，用于核对机身与云台的轮廓](examples/dji/pocket-v7-clay.jpg) | ![V7 镜头模组斜前方特写](examples/dji/pocket-v7-optics.jpg) |
 
-这台控制器有两个可打开的版本。基础场景演示批量静帧与旋钮动画，精修场景演示如何在同一模型上分配新材质、制作细节并为横竖版单独布置机位。[基础场景](examples/demo.blend) · [精修场景](examples/finished/volume-controller.blend) · [旋钮竖幅特写](examples/finished/portrait.png) · [同机位白模小样](examples/finished/clay.png)
+前两张出自同一版 Blender 工程，归档时固定在第 62 帧、使用同一台 88 mm 相机补渲。先看白模中云台与机身的轮廓，再对照着色图中的高光、反射与材质分界；右图单独看镜头模组。配图来自本项目的 DJI 产品 CG 研究。[图片来源与版本](examples/dji/sources.md)
 
 ## 安装与调用
 
@@ -18,13 +20,13 @@
 
 > 使用 $product-cg-studio 处理 products.json 里的每款产品。逐款完成建模或修复、出样、精修和交付，汇总可打开的工程、成品、已验项目和缺件。
 
-> 使用 $product-cg-studio。我想做一盏能折起来放进包里的阅读灯，只有这张草图。先和我聊清使用方式、支撑和收纳，再找几个可以实际点开看的案例。我还没决定摆桌面还是夹书上，希望看完两种方向再选。
+> 使用 $product-cg-studio。我想做一台口袋云台相机，只有大致的机身和屏幕轮廓。先找几个 DJI 案例，帮我比较手持走拍和桌面口播各需要怎样的握持、支撑和取景，再选方向做白模。
 
 ## 从概念到第一版白模
 
 1. 把手头的草图交给 AI，或者直接说出想做的东西。它会复述能看懂的部分，针对会改变设计或交付的取舍，实际向你提出至少 10 个问题。可以分轮回答，也可以指定哪些由它代拟。[客户访谈与按品类换题](references/concept-intake.md)
-2. 打开相似案例，对照图中的结构、材料与使用状态。可以说“我喜欢 A 的收纳方式、B 的柔光，夹书会压到书页，所以我想做成桌面版”。技能把每个选择对应到零件、约束、材质或镜头。[查找与筛选先例](references/design-precedents.md) · [可直接查看的阅读灯参考板](examples/concept/lighting-references.md)
-3. 核对交回的设计简报。阅读灯示例中，桌面支撑和书夹支撑需要不同的连接、运动测试和出图角度。原始草图、方向对照图及模拟反馈展示了怎样把这个取舍交给建模与渲染。[查看图解与交接单](examples/concept/handoff.md)
+2. 打开相似案例，对照图中的结构、材料与使用状态。比如想单手边走边拍，就让设计师在白模上同时画出手指握区、屏幕的视线和云台转动的空间。[查找与筛选先例](references/design-precedents.md) · [DJI 官方产品参考板](examples/concept/dji-references.md)
+3. 核对交回的设计简报。相机示例用 V1 起模复演图讨论初始轮廓，用 V7 姿态图讨论动作，再演示如何把模拟客户选中的使用方式转成白模、结构测试和镜头。[从机身轮廓到云台姿态的交接示例](examples/concept/handoff.md)
 
 批量处理创意项目时，复制[概念工单示例](examples/concept/products.json)，从技能目录运行下列命令。脚本准备访谈和记录文件。把生成的工单交给启用了本技能的 AI，由它打开草图、实际访谈、上网检索并开展后续制作。
 
@@ -41,15 +43,19 @@ python scripts/prepare_queue.py examples/concept/products.json --out work/concep
 | 折叠、转动、滑动或柔性变形 | 建真实基础绑定，按配合面测净隙、支承和行程；硬件复核保形，柔性部位同时查权重、变形及固定端。以故障样件验证检查能定位错误，再对修后件复跑。[装配与动作测试](references/assembly-and-rig.md) |
 | 修完需要用于网页、展板或作品集 | 冻结工程与依赖版本，按画面用途分镜。重出受影响的整机、局部和状态图，看成套联系表、原像素局部和实际版位。[渲染、CMF 与渠道验收](references/cmf-stills.md) |
 
-### 一次可以自己复验的圆角修改
+### 用同一侧视角检查云台支承
+
+| V3 · 正右视 | V4 · 正右视 |
+| --- | --- |
+| ![DJI 口袋云台相机 V3，侧视镜头支承轮廓](examples/dji/pocket-v3-gimbal-side.png) | ![V4 对应侧视，比较横桥和斜臂的轮廓](examples/dji/pocket-v4-gimbal-side.png) |
+
+沿两张图从机身顶部往镜头看，比较横桥向后伸了多远、斜臂在哪里接上。这个视角可以定位轮廓变化。要量销孔配合、倒角半径或运动间隙，还需要在工程里选择相应的零件和基准面。[图源与迭代记录](examples/dji/sources.md) · [装配与动作复验](references/assembly-and-rig.md)
+
+### 用标准试件复验每毫米截面
 
 同一块 12 × 10 × 8 mm 数字试件，初稿误用了 R2 圆角。独立保存的设计参考为 R1。沿 Z = 0 mm 的中部截面，测得两者轮廓的最大采样距离约 0.4142 mm，局部圆弧拟合出的半径正好差 1 mm。重开初稿修改倒角后，三轴共 30 个非空截面全部与数字参考重合。同一灯光和机位重新渲染后，修正版与参考图的 RGB 像素也一致。这里的 1 mm 是采样站距，实物还原精度取决于参考、配准和测量误差。
 
-| 初稿 · R2 | 修后 · R1 |
-| --- | --- |
-| ![初稿圆角更宽](examples/section-gauge/draft.png) | ![修正后圆角收窄](examples/section-gauge/corrected.png) |
-
-想读原始数据，可下载[复验样件与原始报告](examples/verification-evidence.zip)，解压后打开 `sections/qa/draft/index.html` 查看逐站叠图。`rig/` 中按故障保留可编辑工程和逐帧结果。也可用上面截面说明中的命令，从源码重建参考、初稿、修正版和移位对照，再用下列命令复拍同一机位。
+随包的[试件工程与测量数据](examples/verification-data.zip)含逐站 CSV、原始轮廓、可重开的工程和绑定测试。需要查看当时的叠图时，下载[完整原始验证档案](https://raw.githubusercontent.com/AJ-nb/3d-asset-archive/main/downloads/product-cg-verification-evidence.zip)，解压后打开 `sections/qa/draft/index.html`。也可用[截面说明](references/sections.md)中的命令离线重建报告，再从相同机位复拍试件。
 
 ```sh
 blender -b --disable-autoexec section-gauge-run/corrected.blend --python-exit-code 1 -P examples/section-gauge/render_gauge.py -- work/gauge-corrected.png
@@ -97,7 +103,7 @@ blender -b --factory-startup --disable-autoexec work/remake/blockout.blend --pyt
 
 - 工单报告应列出两个可制作的原创简报。可以在清单副本中给其中一款添加不存在的参考图，检查报告是否点名缺件，并继续生成另一款的工单。
 - 在渲染清单副本中把一个相机改成不存在的名字。报告应给出那一项的错误及可选机位，另一项仍应出片。修正相机名后，用 `--only` 和新的输出目录复跑该项。
-- 查看精修横图中底脚与桌面的接触，以及竖图中旋钮侧槽和盘面细纹。我们在同一台机器上从生成脚本重建了工程，白模、横幅与竖幅的 RGB 像素均与包内定稿一致。换用不同 Blender 版本、引擎或硬件时，按规格与画面对照复核。
+- 打开控制器试跑输出的横幅和竖图，分别检查底脚与桌面的接触、旋钮侧槽和盘面细纹。用同一工程与相机重渲可疑部位，核对画幅和材质效果。
 
 ## 三个项目怎样改变了流程
 
