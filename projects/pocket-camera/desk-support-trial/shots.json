@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "jobs": [
+    {"id": "a", "blend": "desk-study.blend", "scene": "A - Lift-out desk dock", "camera": "HERO | shared projection", "frame": 62, "resolution": [960, 940]},
+    {"id": "b", "blend": "desk-study.blend", "scene": "B - Detachable fan-foot dock", "camera": "HERO | shared projection", "frame": 62, "resolution": [960, 940]},
+    {"id": "routing", "blend": "desk-study.blend", "scene": "A - Lift-out desk dock", "camera": "ROUTING | both ends and laptop keyboard", "frame": 62, "resolution": [960, 470]},
+    {"id": "lift", "blend": "desk-study.blend", "scene": "A - Lift-out desk dock", "camera": "PACK | after camera lifted", "frame": 94, "resolution": [700, 500]},
+    {"id": "bundle", "blend": "desk-study.blend", "scene": "B - Detachable fan-foot dock", "camera": "PACK | after camera lifted", "frame": 110, "resolution": [700, 500]}
+  ]
+}

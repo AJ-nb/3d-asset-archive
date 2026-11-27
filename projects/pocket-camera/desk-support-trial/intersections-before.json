@@ -1,0 +1,36 @@
+{
+  "scene": "B - Detachable fan-foot dock",
+  "revision": "before foot redesign",
+  "columns": [
+    "frame",
+    "first_object",
+    "second_object",
+    "intersecting_triangle_pairs"
+  ],
+  "contacts": [
+    [
+      107,
+      "B | fan blade 2",
+      "B | rubber foot 3",
+      35
+    ],
+    [
+      108,
+      "B | fan blade 2",
+      "B | rubber foot 3",
+      40
+    ],
+    [
+      108,
+      "B | rubber foot 2",
+      "B | rubber foot 3",
+      11
+    ],
+    [
+      110,
+      "B | fan blade 1",
+      "B | rubber foot 2",
+      34
+    ]
+  ]
+}

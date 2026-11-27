@@ -12,6 +12,8 @@ Archive for 3D project files, models, renders, and documentation.
 
 从参考建模或已有工程起步，逐件核对连接、倒角、每毫米截面和实际绑定动作，修回源模型后完成 CMF 精修、多姿态效果图和动画。包内有批量工单、可运行的 Blender 检查与渲染脚本，以及带故障对照、工程和成片的原创示例。[截面对比](skills/product-cg-studio/references/sections.md) · [装配与动作复验](skills/product-cg-studio/references/assembly-and-rig.md) · [历史项目返工经验](skills/product-cg-studio/references/iteration-lessons.md)
 
+多款产品并行时，每款工单可以单独记录尺寸冲突、裁决人、改模后需要重出的镜头和客户实际签收的版本。桌面支撑试用把这些设计问题落到了同一台 DJI 相机上，可下载白模查看底部供电与桌面支撑的关系。[工单与交付状态](skills/product-cg-studio/references/production-queue.md) · [桌面支撑试用与可编辑白模](projects/pocket-camera/desk-support-trial/)
+
 ## 项目档案
 
 | 项目 | 内容 | 归档 |
