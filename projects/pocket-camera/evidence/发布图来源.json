@@ -1,0 +1,573 @@
+{
+  "size": [
+    1440,
+    1920
+  ],
+  "color": "embedded sRGB IEC61966-2.1",
+  "method": "Original project images, cropped for publication; typography added. No generative process imagery. Coordinates are fractions of sources.",
+  "pages": [
+    {
+      "file": "00_小红书发布图/01_封面_从零做一台云台相机.jpg",
+      "sha256": "aae93fb152d3707741d390381ff566151aea03ed1f6ac59bf6c1f7fac34a78ad",
+      "sources": [
+        {
+          "source": "02_历版效果图/V7_终版/06-Cutout.png",
+          "source_sha256": "4b0a28813c868d2c41b7a7553f9742ec6d765ed952270e9196ffd3db3bbe4fd6",
+          "normalized_crop": null,
+          "frame_on_page": [
+            490,
+            619,
+            797,
+            1137
+          ],
+          "fit": "contain",
+          "trim_transparent_margin": true
+        },
+        {
+          "source": "05_同机位补拍/V1起模复演/02_握把主壳放样.png",
+          "source_sha256": "5d448cd959629a41987d3e109e59a6348f391fc2d769624be2270f049e44d0ca",
+          "normalized_crop": [
+            0.08,
+            0.12,
+            0.92,
+            0.9
+          ],
+          "frame_on_page": [
+            78,
+            644,
+            312,
+            244
+          ],
+          "fit": "contain",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "03_建模过程原片/20_V7终版_云台后侧白模.png",
+          "source_sha256": "d4b4f4309331f3e722b90050285486b203f929c06a07b2e3cafb3feca234cec8",
+          "normalized_crop": [
+            0.13,
+            0.13,
+            0.86,
+            0.86
+          ],
+          "frame_on_page": [
+            78,
+            1016,
+            312,
+            244
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "02_历版效果图/V7_终版/08-Optics-Oblique.png",
+          "source_sha256": "67b366d729c75906cd4293655e975c9d5cbd8d6800babd251fa5bc4c2babb49a",
+          "normalized_crop": [
+            0.16,
+            0.1,
+            0.83,
+            0.79
+          ],
+          "frame_on_page": [
+            78,
+            1388,
+            312,
+            244
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        }
+      ]
+    },
+    {
+      "file": "00_小红书发布图/02_起模_空场景到横屏.jpg",
+      "sha256": "3e4d847f5a3198e379cd639e77b223e3478bfb3d54d0dcf7f7082f4e872e72ce",
+      "sources": [
+        {
+          "source": "05_同机位补拍/V1起模复演/01_空场景.png",
+          "source_sha256": "94140ad170e55c6ab1b170f1d286b1fa1c0a1695e4604a1ef018edd90351037a",
+          "normalized_crop": null,
+          "frame_on_page": [
+            76,
+            376,
+            418,
+            687
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "05_同机位补拍/V1起模复演/02_握把主壳放样.png",
+          "source_sha256": "5d448cd959629a41987d3e109e59a6348f391fc2d769624be2270f049e44d0ca",
+          "normalized_crop": null,
+          "frame_on_page": [
+            510,
+            376,
+            418,
+            687
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "05_同机位补拍/V1起模复演/03_机身与横屏组件.png",
+          "source_sha256": "d8dc2a2db16c70639195662e6278b577f6957dc3451a8dcccf660670aa5c8a4f",
+          "normalized_crop": null,
+          "frame_on_page": [
+            944,
+            376,
+            418,
+            687
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "03_建模过程原片/03_V1_正面照片配准.png",
+          "source_sha256": "914097eb18d573a7c1b1757d2c351ce0920352a464941f2ad6c41c9fc3a541d3",
+          "normalized_crop": [
+            0.033,
+            0.154,
+            0.966,
+            0.97
+          ],
+          "frame_on_page": [
+            76,
+            1303,
+            606,
+            422
+          ],
+          "fit": "contain",
+          "trim_transparent_margin": false
+        }
+      ]
+    },
+    {
+      "file": "00_小红书发布图/03_结构_从侧面找到问题.jpg",
+      "sha256": "ed291580a27c62b0f679fd65d84138b5daf0a78d6b0bbbc123ad98a8ace88c19",
+      "sources": [
+        {
+          "source": "03_建模过程原片/07_V4_支臂正侧面改前改后.jpg",
+          "source_sha256": "044737f6166c7719d8733f4648954c78c32b8a2d3bbba6b7ab5a97778e649d7d",
+          "normalized_crop": [
+            0.032,
+            0.162,
+            0.482,
+            0.91
+          ],
+          "frame_on_page": [
+            76,
+            373,
+            634,
+            652
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "03_建模过程原片/07_V4_支臂正侧面改前改后.jpg",
+          "source_sha256": "044737f6166c7719d8733f4648954c78c32b8a2d3bbba6b7ab5a97778e649d7d",
+          "normalized_crop": [
+            0.518,
+            0.162,
+            0.969,
+            0.91
+          ],
+          "frame_on_page": [
+            726,
+            373,
+            634,
+            652
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "04_Blender工程实拍/00_V3_当时反馈原始截图.png",
+          "source_sha256": "fcd35fbf221b42f2bac195655d666f73c00e623002c8330a2efd2cbbbca4057e",
+          "normalized_crop": [
+            0.443,
+            0.102,
+            0.607,
+            0.438
+          ],
+          "frame_on_page": [
+            76,
+            1224,
+            372,
+            431
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "03_建模过程原片/04_V2_握把壁厚截面.png",
+          "source_sha256": "a8502bd83110f1c72f04fc36a0b38db4cc6df754614f963b214e1b2b5ea2f83c",
+          "normalized_crop": [
+            0.065,
+            0.176,
+            0.584,
+            0.867
+          ],
+          "frame_on_page": [
+            501,
+            1230,
+            394,
+            392
+          ],
+          "fit": "contain",
+          "trim_transparent_margin": false
+        }
+      ]
+    },
+    {
+      "file": "00_小红书发布图/04_几何_镜头正面与支承.jpg",
+      "sha256": "45b58385bd15a40cc8945f6f1a6099d1321f9751bb19c1130e727c48585361d0",
+      "sources": [
+        {
+          "source": "03_建模过程原片/11_V5_镜头破面修复对照.jpg",
+          "source_sha256": "80dc364cda910be6240e9fc2209bc91fc07f15a9b3eb9f503c75ce3cb8f97740",
+          "normalized_crop": [
+            0.021,
+            0.15,
+            0.478,
+            0.928
+          ],
+          "frame_on_page": [
+            76,
+            374,
+            634,
+            661
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "03_建模过程原片/11_V5_镜头破面修复对照.jpg",
+          "source_sha256": "80dc364cda910be6240e9fc2209bc91fc07f15a9b3eb9f503c75ce3cb8f97740",
+          "normalized_crop": [
+            0.507,
+            0.15,
+            0.966,
+            0.928
+          ],
+          "frame_on_page": [
+            726,
+            374,
+            634,
+            661
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "03_建模过程原片/22_V7终版_支承内构白模.png",
+          "source_sha256": "89b9ae1e7197cd9cb1bf6c02ad7a5877e8dc588593ae8a5e6aea8844cef43908",
+          "normalized_crop": null,
+          "frame_on_page": [
+            76,
+            1215,
+            386,
+            437
+          ],
+          "fit": "contain",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "03_建模过程原片/23_V7终版_支承内构线框.png",
+          "source_sha256": "3e73260392f413f60d512ad74b8ab4874816f863544330e05b94aab33e886077",
+          "normalized_crop": null,
+          "frame_on_page": [
+            469,
+            1215,
+            386,
+            437
+          ],
+          "fit": "contain",
+          "trim_transparent_margin": false
+        }
+      ]
+    },
+    {
+      "file": "00_小红书发布图/05_同机位_白模线框成品.jpg",
+      "sha256": "391d8338ff498894384e901206e78adc32fa9170fe983915b9b11896c3183ebe",
+      "sources": [
+        {
+          "source": "05_同机位补拍/V7终版对照/01_整机白模.png",
+          "source_sha256": "b06bdfb9711c115ccb66bc0395a9e1e126c67e8ef4cbe7d904f041cebb6a6db9",
+          "normalized_crop": null,
+          "frame_on_page": [
+            76,
+            395,
+            418,
+            962
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "05_同机位补拍/V7终版对照/02_整机线框.png",
+          "source_sha256": "072323b6d2593372f0076b89d5d50642e0ac10396074458bc0ad32170935499d",
+          "normalized_crop": null,
+          "frame_on_page": [
+            510,
+            395,
+            418,
+            962
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "05_同机位补拍/V7终版对照/03_整机成品.png",
+          "source_sha256": "9259da68ce9a458994af23c5900c62091efcff7c909fc7f55d92047fa45dc833",
+          "normalized_crop": null,
+          "frame_on_page": [
+            944,
+            395,
+            418,
+            962
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        }
+      ]
+    },
+    {
+      "file": "00_小红书发布图/06_工程_材质节点与摄影棚.jpg",
+      "sha256": "7137528f4062130c36a921bd2bfd987589a24ff7fbd79b7206000d92ea38e4d4",
+      "sources": [
+        {
+          "source": "04_Blender工程实拍/05_V7_支臂材质节点.png",
+          "source_sha256": "5f0ca1af63ab1d05e255c1fd15e31b52bab55ef447abe4a8d5bbf269e6d6262a",
+          "normalized_crop": [
+            0.036,
+            0.102,
+            0.845,
+            0.836
+          ],
+          "frame_on_page": [
+            76,
+            367,
+            1288,
+            574
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "04_Blender工程实拍/07_V7_棚灯机位与主视觉.png",
+          "source_sha256": "f62a0f7114f95cba252e57b2a4ec0ca7161941656e11cba9ee225036d70a68cc",
+          "normalized_crop": [
+            0.033,
+            0.083,
+            0.968,
+            0.803
+          ],
+          "frame_on_page": [
+            76,
+            1081,
+            1288,
+            571
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        }
+      ]
+    },
+    {
+      "file": "00_小红书发布图/07_成品_双镜与云台.jpg",
+      "sha256": "5f94eb9dce859da0876daab82a019af17f9dad2d56421ab1c1b4a1440a1e8d34",
+      "sources": [
+        {
+          "source": "02_历版效果图/V7_终版/08-Optics-Oblique.png",
+          "source_sha256": "67b366d729c75906cd4293655e975c9d5cbd8d6800babd251fa5bc4c2babb49a",
+          "normalized_crop": null,
+          "frame_on_page": [
+            76,
+            363,
+            898,
+            768
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "02_历版效果图/V7_终版/02-Optics.png",
+          "source_sha256": "b519ef12483e72c7777d0663d420c3b31066ae1711e12aa7a360632d580865de",
+          "normalized_crop": [
+            0.285,
+            0.075,
+            0.744,
+            0.535
+          ],
+          "frame_on_page": [
+            988,
+            363,
+            376,
+            375
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "02_历版效果图/V7_终版/02-Optics.png",
+          "source_sha256": "b519ef12483e72c7777d0663d420c3b31066ae1711e12aa7a360632d580865de",
+          "normalized_crop": [
+            0.293,
+            0.515,
+            0.744,
+            0.968
+          ],
+          "frame_on_page": [
+            988,
+            754,
+            376,
+            377
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "02_历版效果图/V7_终版/03-Axis.png",
+          "source_sha256": "6c9b0d13492eeae95ea6729a19f2ae83776d97ff075d0ad1775ff606cb6e9767",
+          "normalized_crop": [
+            0.02,
+            0.01,
+            0.99,
+            0.95
+          ],
+          "frame_on_page": [
+            76,
+            1252,
+            634,
+            421
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "02_历版效果图/V7_终版/04-Controls.png",
+          "source_sha256": "c9b147560115f08828e30d5bb0524fc68fa9d12daeaaeff6832c11b32bb76dec",
+          "normalized_crop": [
+            0.123,
+            0.09,
+            0.933,
+            0.79
+          ],
+          "frame_on_page": [
+            726,
+            1252,
+            638,
+            421
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        }
+      ]
+    },
+    {
+      "file": "00_小红书发布图/08_动画_转屏与关键帧.jpg",
+      "sha256": "b55cf2e67e7c960a8decb342dd659b1232297f52093a530c83284eff15a502a9",
+      "sources": [
+        {
+          "source": "provenance/动画抽帧/Pulse-0019.png",
+          "source_sha256": "a2192ad9152030645d516007e70c7ae7d1dc6d18fb1ba1fbae2dbfa2f7bb4e5e",
+          "normalized_crop": null,
+          "frame_on_page": [
+            76,
+            371,
+            418,
+            664
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "provenance/动画抽帧/Pulse-0095.png",
+          "source_sha256": "077e2692040b144a8ae7455c779b0e384fdb0c1aa0de3b1ddbf43095533cfac0",
+          "normalized_crop": null,
+          "frame_on_page": [
+            510,
+            371,
+            418,
+            664
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "provenance/动画抽帧/Pulse-0257.png",
+          "source_sha256": "9b73d43c4b6d9634fc0b296c947b1f3ec405303f34d63d59b7c9741046e4e8c7",
+          "normalized_crop": null,
+          "frame_on_page": [
+            944,
+            371,
+            418,
+            664
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "04_Blender工程实拍/06_CG_转屏与动画时间线.png",
+          "source_sha256": "e78dd97faef4c9d80307c3eb407922b46baf5c2aa89d7f068749718cb2b99a86",
+          "normalized_crop": null,
+          "frame_on_page": [
+            76,
+            1235,
+            776,
+            440
+          ],
+          "fit": "contain",
+          "trim_transparent_margin": false
+        }
+      ]
+    },
+    {
+      "file": "00_小红书发布图/09_前作附页_三套4K棚拍.jpg",
+      "sha256": "cd8d7469127291f8e02c66e23d4288fab511498a96c957db5c8f3a33059089d3",
+      "sources": [
+        {
+          "source": "01_历史4K原图/01_经典黑/classic-black-01-hero.png",
+          "source_sha256": "fe90ffd22a3a8012fb49a16eec3c43a5e9899a8ac888b4af3f2b722b4ccf04a7",
+          "normalized_crop": null,
+          "frame_on_page": [
+            76,
+            395,
+            418,
+            960
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "01_历史4K原图/02_珍珠白/pearl-white-01-hero.png",
+          "source_sha256": "d9a85f4c9b8b9939c1f2034d53d33556ca0aa6856d4f13ff1172b48ca46562eb",
+          "normalized_crop": null,
+          "frame_on_page": [
+            510,
+            395,
+            418,
+            960
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        },
+        {
+          "source": "01_历史4K原图/03_白模/white-clay-01-hero.png",
+          "source_sha256": "646f86818867d2b5712b032679f5577e7745276fe46bc495de72ec60a43f9093",
+          "normalized_crop": null,
+          "frame_on_page": [
+            944,
+            395,
+            418,
+            960
+          ],
+          "fit": "fit",
+          "trim_transparent_margin": false
+        }
+      ]
+    }
+  ]
+}

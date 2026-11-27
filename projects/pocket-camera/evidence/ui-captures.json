@@ -1,0 +1,332 @@
+{
+  "capture_count": 8,
+  "historical_attachment_count": 1,
+  "recaptured_count": 7,
+  "recaptured_app": "Blender 5.2.3 LTS",
+  "recaptured_dimensions": [
+    2260,
+    1280
+  ],
+  "publication_context": "00 为历史反馈原附件。01 至 07 为本次打开工程补拍。早期分件来自现存 V1 完整工程，白模为 V7 Final 的单色观察。",
+  "source_check": "八张截图均已核对实际像素和 SHA-256；补拍核对三个源工程，与第 07 张配对的 4K 主视觉另有源图哈希。",
+  "captures": [
+    {
+      "id": "historical_v3",
+      "file": "04_Blender工程实拍/00_V3_当时反馈原始截图.png",
+      "caption": "用户反馈镜头与下方连接结构时随消息提交的 V3 Blender 工程桌面截图。",
+      "frame": 1,
+      "app_version": "5.2.2 LTS (as shown in original title bar)",
+      "source": "C:\\Users\\Arjen\\AppData\\Local\\Temp\\codex-clipboard-79df1bfb-1c05-448f-942e-496bd0f8dde6.png",
+      "source_sha256": "fcd35fbf221b42f2bac195655d666f73c00e623002c8330a2efd2cbbbca4057e",
+      "screenshot_sha256": "fcd35fbf221b42f2bac195655d666f73c00e623002c8330a2efd2cbbbca4057e",
+      "recaptured": false,
+      "window_pixels": [
+        2560,
+        1392
+      ],
+      "capture_method": "原附件按字节复制",
+      "capture_origin": "用户历史消息随附原图。原始 PNG 文件和归档件按字节一致。",
+      "source_file_last_written_utc": "2026-11-26T05:59:16.857042+00:00",
+      "blend_path_visible_in_original": "D:/oc/output/dji-osmo-pocket-4p-v3/DJI-Osmo-Pocket-4P-Classic-Black-V3.blend"
+    },
+    {
+      "id": "early",
+      "file": "04_Blender工程实拍/01_V1_早期分件与装配.png",
+      "caption": "打开现存第一版完整工程，以零件颜色观察早期外观装配。界面分色由 Blender 对象显示生成。",
+      "frame": 1,
+      "source": "D:\\oc\\output\\dji-osmo-pocket-4p\\DJI-Osmo-Pocket-4P-Classic-Black.blend",
+      "source_sha256": "dc24ae6d9d30a0b125d51ebdae2e0312c946a7796e3fb350e1d25547e4191708",
+      "recaptured": true,
+      "window_pixels": [
+        2260,
+        1280
+      ],
+      "screenshot_sha256": "461cb48e5c4a105c388722ffa8fae0e970f8027acc7f45e8137bf879875137a9",
+      "scene": "DJI Osmo Pocket 4P | Classic Black",
+      "workspace": "Layout",
+      "app_version": "5.2.3 LTS",
+      "source_saved_during_capture": false,
+      "capture_method": "bpy.ops.screen.screenshot (native window framebuffer; full Blender client area)",
+      "active_object": "04P | Dual camera rear housing",
+      "native_areas": [
+        "PROPERTIES",
+        "OUTLINER",
+        "DOPESHEET_EDITOR",
+        "VIEW_3D"
+      ],
+      "last_written_utc": "2026-11-27T07:03:48.378402+00:00",
+      "view_display_and_editors": "Solid / Random object colors / orthographic front three-quarter / Outliner",
+      "capture_origin": "本次在单独的 Blender 窗口重开对应存档，设置观察方式后截取。"
+    },
+    {
+      "id": "clay",
+      "file": "04_Blender工程实拍/02_V7_整机白模.png",
+      "caption": "打开 V7 Final，用视口单色工作室照明观察整机。该图是对最终几何的白模复查。",
+      "frame": 62,
+      "source": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\DJI-Osmo-Pocket-4P-V7-Final.blend",
+      "source_sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+      "recaptured": true,
+      "window_pixels": [
+        2260,
+        1280
+      ],
+      "screenshot_sha256": "def1bdd709941915866bc1f008de3e976ecd45c1eb966d0f009be493effcbdb7",
+      "scene": "Osmo Pocket 4P | V7",
+      "workspace": "布局",
+      "app_version": "5.2.3 LTS",
+      "source_saved_during_capture": false,
+      "capture_method": "bpy.ops.screen.screenshot (native window framebuffer; full Blender client area)",
+      "active_object": "04P | Dual camera rear housing",
+      "native_areas": [
+        "PROPERTIES",
+        "OUTLINER",
+        "DOPESHEET_EDITOR",
+        "VIEW_3D"
+      ],
+      "last_written_utc": "2026-11-27T07:03:57.069895+00:00",
+      "view_display_and_editors": "Solid / Single color / studio light / world cavity / orthographic front three-quarter",
+      "capture_origin": "本次在单独的 Blender 窗口重开对应存档，设置观察方式后截取。"
+    },
+    {
+      "id": "wire",
+      "file": "04_Blender工程实拍/03_V7_镜头面板与线框.png",
+      "caption": "V7 Final 镜头正面。白色实体与原生拓扑边同屏，展示保护窗、镜圈与倒角排线。",
+      "frame": 62,
+      "source": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\DJI-Osmo-Pocket-4P-V7-Final.blend",
+      "source_sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+      "recaptured": true,
+      "window_pixels": [
+        2260,
+        1280
+      ],
+      "screenshot_sha256": "669c31697b6e3dc4704719eea4a74af96dc22763e305ef36acd5edd14132bd91",
+      "scene": "Osmo Pocket 4P | V7",
+      "workspace": "布局",
+      "app_version": "5.2.3 LTS",
+      "source_saved_during_capture": false,
+      "capture_method": "bpy.ops.screen.screenshot (native window framebuffer; full Blender client area)",
+      "active_object": "04P | Milled dual-pocket optical face",
+      "native_areas": [
+        "PROPERTIES",
+        "OUTLINER",
+        "DOPESHEET_EDITOR",
+        "VIEW_3D"
+      ],
+      "last_written_utc": "2026-11-27T07:04:01.614559+00:00",
+      "view_display_and_editors": "Solid / Single color / selected optical front and local mesh-wire overlay / modifier properties",
+      "capture_origin": "本次在单独的 Blender 窗口重开对应存档，设置观察方式后截取。"
+    },
+    {
+      "id": "joints",
+      "file": "04_Blender工程实拍/04_V7_云台传动支承.png",
+      "caption": "V7 Final 云台后侧，隔离偏航、横滚、俯仰相关的实际零件。隔离仅用于显示内部支撑关系。",
+      "frame": 62,
+      "source": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\DJI-Osmo-Pocket-4P-V7-Final.blend",
+      "source_sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+      "recaptured": true,
+      "window_pixels": [
+        2260,
+        1280
+      ],
+      "screenshot_sha256": "459e802be34b03648d553344e07610a725777ba83151f443e7957db9bd23be05",
+      "scene": "Osmo Pocket 4P | V7",
+      "workspace": "布局",
+      "app_version": "5.2.3 LTS",
+      "source_saved_during_capture": false,
+      "capture_method": "bpy.ops.screen.screenshot (native window framebuffer; full Blender client area)",
+      "active_object": "04P | Offset rising pan arm",
+      "native_areas": [
+        "PROPERTIES",
+        "OUTLINER",
+        "DOPESHEET_EDITOR",
+        "VIEW_3D"
+      ],
+      "last_written_utc": "2026-11-27T07:04:06.265073+00:00",
+      "view_display_and_editors": "Solid / Random object colors / isolated pan, roll and tilt geometry / rear three-quarter",
+      "capture_origin": "本次在单独的 Blender 窗口重开对应存档，设置观察方式后截取。"
+    },
+    {
+      "id": "shader",
+      "file": "04_Blender工程实拍/05_V7_支臂材质节点.png",
+      "caption": "V7 Final 偏航支臂着色树。显示工程内的切线空间法线贴图、法线节点与 Principled 材质。",
+      "frame": 62,
+      "source": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\DJI-Osmo-Pocket-4P-V7-Final.blend",
+      "source_sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+      "recaptured": true,
+      "window_pixels": [
+        2260,
+        1280
+      ],
+      "screenshot_sha256": "5f0ca1af63ab1d05e255c1fd15e31b52bab55ef447abe4a8d5bbf269e6d6262a",
+      "scene": "Osmo Pocket 4P | V7",
+      "workspace": "布局",
+      "app_version": "5.2.3 LTS",
+      "source_saved_during_capture": false,
+      "capture_method": "bpy.ops.screen.screenshot (native window framebuffer; full Blender client area)",
+      "active_object": "04P | Offset rising pan arm",
+      "native_areas": [
+        "PROPERTIES",
+        "OUTLINER",
+        "DOPESHEET_EDITOR",
+        "NODE_EDITOR",
+        "VIEW_3D"
+      ],
+      "last_written_utc": "2026-11-27T07:04:10.915444+00:00",
+      "view_display_and_editors": "Solid / single color + Shader Editor / original nodes temporarily arranged for readability in memory",
+      "capture_origin": "本次在单独的 Blender 窗口重开对应存档，设置观察方式后截取。"
+    },
+    {
+      "id": "film",
+      "file": "04_Blender工程实拍/06_CG_转屏与动画时间线.png",
+      "caption": "打开成片源工程，查看转屏过程与原生控制器的关键帧、切镜时间标记。画面为实体视图。",
+      "frame": 95,
+      "source": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\Pulse-15s.blend",
+      "source_sha256": "b8866c77f41802db12b36fb9fa67a4460bfb005564e59f91ff0f5d684e169a4b",
+      "recaptured": true,
+      "window_pixels": [
+        2260,
+        1280
+      ],
+      "screenshot_sha256": "e78dd97faef4c9d80307c3eb407922b46baf5c2aa89d7f068749718cb2b99a86",
+      "scene": "Pulse | 15s studio",
+      "workspace": "布局",
+      "app_version": "5.2.3 LTS",
+      "source_saved_during_capture": false,
+      "capture_method": "bpy.ops.screen.screenshot (native window framebuffer; full Blender client area)",
+      "active_object": "Osmo 4P | mechanical FK",
+      "native_areas": [
+        "PROPERTIES",
+        "OUTLINER",
+        "DOPESHEET_EDITOR",
+        "VIEW_3D",
+        "DOPESHEET_EDITOR"
+      ],
+      "last_written_utc": "2026-11-27T07:04:44.498522+00:00",
+      "view_display_and_editors": "Solid / active editorial camera and Action Editor / Film | stabilizer and display / markers and selected keyframes",
+      "capture_origin": "本次在单独的 Blender 窗口重开对应存档，设置观察方式后截取。"
+    },
+    {
+      "id": "studio",
+      "file": "04_Blender工程实拍/07_V7_棚灯机位与主视觉.png",
+      "caption": "V7 Final 棚拍。左侧显示 V7 摄影集合的六盏实际面光、主视相机和模型。右侧图像编辑器打开工程原存的 4K 主视觉，属性面板显示主灯的功率与尺寸。",
+      "frame": 62,
+      "source": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\DJI-Osmo-Pocket-4P-V7-Final.blend",
+      "source_sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+      "recaptured": true,
+      "window_pixels": [
+        2260,
+        1280
+      ],
+      "screenshot_sha256": "f62a0f7114f95cba252e57b2a4ec0ca7161941656e11cba9ee225036d70a68cc",
+      "scene": "Osmo Pocket 4P | V7",
+      "workspace": "布局",
+      "app_version": "5.2.3 LTS",
+      "source_saved_during_capture": false,
+      "capture_method": "bpy.ops.screen.screenshot (native window framebuffer; full Blender client area)",
+      "active_object": "Studio V7 | Key",
+      "native_areas": [
+        "PROPERTIES",
+        "OUTLINER",
+        "DOPESHEET_EDITOR",
+        "VIEW_3D",
+        "IMAGE_EDITOR"
+      ],
+      "paired_original_render": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\renders\\01-Hero.png",
+      "paired_render_sha256": "225dbbd174e5e166fb0f33a8b370b2540142b708e4c12f425b3bac4b134952e3",
+      "photography_collection_objects": {
+        "Studio V7 | Key": {
+          "world_position_m": [
+            -0.13500000536441803,
+            -0.13500000536441803,
+            0.23800000548362732
+          ],
+          "power_w": 0.2915000021457672,
+          "size_m": [
+            0.10499999672174454,
+            0.17399999499320984
+          ],
+          "shape": "RECTANGLE"
+        },
+        "Studio V7 | Upright strip": {
+          "world_position_m": [
+            0.10900000482797623,
+            0.055000003427267075,
+            0.15900000929832458
+          ],
+          "power_w": 0.2199999988079071,
+          "size_m": [
+            0.041999999433755875,
+            0.18700000643730164
+          ],
+          "shape": "RECTANGLE"
+        },
+        "Studio V7 | Soft fill": {
+          "world_position_m": [
+            0.09600000083446503,
+            -0.18200001120567322,
+            0.13700000941753387
+          ],
+          "power_w": 0.14000000059604645,
+          "size_m": [
+            0.11800000071525574,
+            0.16599999368190765
+          ],
+          "shape": "RECTANGLE"
+        },
+        "Studio V7 | Rear": {
+          "world_position_m": [
+            -0.0860000029206276,
+            0.10400000214576721,
+            0.22600001096725464
+          ],
+          "power_w": 0.2915000021457672,
+          "size_m": [
+            0.09600000083446503,
+            0.13300000131130219
+          ],
+          "shape": "RECTANGLE"
+        },
+        "Studio V7 | Crown": {
+          "world_position_m": [
+            0.00800000037997961,
+            0.0010000000474974513,
+            0.24800001084804535
+          ],
+          "power_w": 0.08139999955892563,
+          "size_m": [
+            0.1080000028014183,
+            0.035999998450279236
+          ],
+          "shape": "RECTANGLE"
+        },
+        "Studio V7 | Eye strip": {
+          "world_position_m": [
+            -0.010000000707805157,
+            -0.14500001072883606,
+            0.14800000190734863
+          ],
+          "power_w": 0.052799999713897705,
+          "size_m": [
+            0.04600000008940697,
+            0.00800000037997961
+          ],
+          "shape": "RECTANGLE"
+        }
+      },
+      "camera": {
+        "name": "Plate | 01-Hero",
+        "world_position_m": [
+          0.24117480218410492,
+          -0.44661998748779297,
+          0.17725640535354614
+        ],
+        "focal_length_mm": 88.0,
+        "type": "PERSP",
+        "ortho_scale_m": 6.0
+      },
+      "last_written_utc": "2026-11-27T07:10:39.667829+00:00",
+      "view_display_and_editors": "Solid / six V7 studio area lights and hero camera isolated for display / Image Editor with prior V7 4K master / physical key-light settings",
+      "capture_origin": "本次在单独的 Blender 窗口重开对应存档，设置观察方式后截取。"
+    }
+  ]
+}

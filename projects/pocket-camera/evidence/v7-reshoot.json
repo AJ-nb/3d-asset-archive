@@ -1,0 +1,393 @@
+{
+  "source_file": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\DJI-Osmo-Pocket-4P-V7-Final.blend",
+  "source_sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+  "blender": "5.2.2 LTS",
+  "frame": 62,
+  "native_resolution": [
+    2160,
+    3840
+  ],
+  "scene": "Osmo Pocket 4P | V7",
+  "camera": {
+    "object": "Plate | 01-Hero",
+    "lens_mm": 88.0,
+    "sensor_fit": "VERTICAL",
+    "sensor_height_mm": 32.0,
+    "sensor_width_mm": 36.0,
+    "type": "PERSP",
+    "shift_xy": [
+      0.0,
+      0.0
+    ],
+    "pixel_aspect_xy": [
+      1.0,
+      1.0
+    ],
+    "matrix_world": [
+      [
+        0.8799054026603699,
+        -0.09030260890722275,
+        0.46648892760276794,
+        0.24117480218410492
+      ],
+      [
+        0.47514891624450684,
+        0.16722692549228668,
+        -0.8638684153556824,
+        -0.44661998748779297
+      ],
+      [
+        5.8954725545845577e-08,
+        0.9817742109298706,
+        0.19005106389522552,
+        0.17725640535354614
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "dof": false
+  },
+  "test_points_xyz_m": "x=y=0, z as key",
+  "projected_test_points_pixels": {
+    "0.016": [
+      1079.9996,
+      3154.7594
+    ],
+    "0.052": [
+      1079.9997,
+      2456.1167
+    ],
+    "0.085": [
+      1079.9997,
+      1799.4141
+    ],
+    "0.115": [
+      1079.9997,
+      1188.4005
+    ],
+    "0.138": [
+      1079.9998,
+      710.6275
+    ],
+    "0.15": [
+      1079.9998,
+      458.0617
+    ]
+  },
+  "active_product_objects": 155,
+  "renderer": {
+    "engine": "CYCLES",
+    "device": "GPU",
+    "device_names": [
+      "NVIDIA GeForce RTX 5070"
+    ],
+    "samples": 152,
+    "adaptive_threshold": 0.014000000432133675,
+    "denoise": true,
+    "transform": "AgX",
+    "look": "AgX - Medium High Contrast",
+    "exposure": -0.550000011920929,
+    "gamma": 1.0,
+    "color_encoding": "16-bit RGB PNG"
+  },
+  "active_studio_lights": {
+    "Key • round softbox": {
+      "energy": 2.4049999713897705,
+      "color": [
+        0.9399999976158142,
+        0.9700000286102295,
+        1.0
+      ]
+    },
+    "Fill • near lens axis": {
+      "energy": 0.5199999809265137,
+      "color": [
+        1.0,
+        0.8899999856948853,
+        0.7900000214576721
+      ]
+    },
+    "Edge • vertical cool strip": {
+      "energy": 1.8200000524520874,
+      "color": [
+        0.7400000095367432,
+        0.8399999737739563,
+        1.0
+      ]
+    },
+    "Rim • upper white": {
+      "energy": 1.4299999475479126,
+      "color": [
+        1.0,
+        0.9200000166893005,
+        0.8399999737739563
+      ]
+    },
+    "Backdrop • gradient": {
+      "energy": 1.690000057220459,
+      "color": [
+        0.49000000953674316,
+        0.6899999976158142,
+        1.0
+      ]
+    },
+    "Rear detail • broad neutral": {
+      "energy": 0.8190000057220459,
+      "color": [
+        0.9399999976158142,
+        0.9599999785423279,
+        1.0
+      ]
+    },
+    "Optical glass | overhead strip": {
+      "energy": 0.2199999988079071,
+      "color": [
+        0.9300000071525574,
+        1.0,
+        0.9599999785423279
+      ]
+    },
+    "Studio V7 | Key": {
+      "energy": 0.2915000021457672,
+      "color": [
+        1.0,
+        0.9549999833106995,
+        0.9110000133514404
+      ]
+    },
+    "Studio V7 | Upright strip": {
+      "energy": 0.2199999988079071,
+      "color": [
+        0.8100000023841858,
+        0.8999999761581421,
+        1.0
+      ]
+    },
+    "Studio V7 | Soft fill": {
+      "energy": 0.14000000059604645,
+      "color": [
+        0.9200000166893005,
+        0.9599999785423279,
+        1.0
+      ]
+    },
+    "Studio V7 | Rear": {
+      "energy": 0.2915000021457672,
+      "color": [
+        0.9200000166893005,
+        0.9599999785423279,
+        1.0
+      ]
+    },
+    "Studio V7 | Crown": {
+      "energy": 0.08139999955892563,
+      "color": [
+        1.0,
+        0.9900000095367432,
+        0.949999988079071
+      ]
+    },
+    "Studio V7 | Eye strip": {
+      "energy": 0.052799999713897705,
+      "color": [
+        0.8299999833106995,
+        0.9100000262260437,
+        1.0
+      ]
+    }
+  },
+  "plates": [
+    {
+      "file": "05_同机位补拍\\V7终版对照\\01_整机白模.png",
+      "sha256": "b06bdfb9711c115ccb66bc0395a9e1e126c67e8ef4cbe7d904f041cebb6a6db9",
+      "bytes": 25294964,
+      "engine": "CYCLES",
+      "started_utc": "2026-11-27T07:09:26.531632+00:00",
+      "finished_utc": "2026-11-27T07:09:56.993595+00:00",
+      "elapsed_seconds": 30.46,
+      "method": "All renderable product material slots overridden with a single neutral clay; original studio sweep, lights, camera, rig and pose."
+    },
+    {
+      "file": "05_同机位补拍\\V7终版对照\\02_整机线框.png",
+      "sha256": "072323b6d2593372f0076b89d5d50642e0ac10396074458bc0ad32170935499d",
+      "bytes": 29184308,
+      "finished_utc": "2026-11-27T07:12:38.859834+00:00",
+      "method": "Original evaluated mesh polygon edges, including modifier output and excluding tessellation-only diagonals. Depth-tested from the hero perspective camera. Antialiased technical-line pass composited over the native Cycles clay at original resolution.",
+      "edge_pass": {
+        "eligible_evaluated_edges": 567937,
+        "triangle_occluders": 560045,
+        "vertex_count": 281763,
+        "ray_tests": 2490306,
+        "ray_sample_projected_max_step_px": 2.5,
+        "ray_bias_mm": 0.002,
+        "visible_segment_count_by_object": {
+          "04P | 1-inch wide angle / black window mask": 2,
+          "04P | 1-inch wide angle / flat removable glass": 278,
+          "04P | 1-inch wide angle / protector metal edge": 565,
+          "04P | 1-inch wide angle / satin collar": 15294,
+          "04P | 3X telephoto / coated convex front element": 1152,
+          "04P | 3X telephoto / inner retaining ring": 1048,
+          "04P | 3X telephoto / outer barrel lip": 707,
+          "04P | 3X telephoto / satin collar": 15950,
+          "04P | 3X telephoto / shadow sleeve": 367,
+          "04P | 3X telephoto / stepped optical cartridge": 54,
+          "04P | Dual camera rear housing": 5747,
+          "04P | Left tilt motor end cap": 59,
+          "04P | Left tilt side casing": 176,
+          "04P | Milled dual-pocket optical face": 10555,
+          "04P | Offset rising pan arm": 22293,
+          "04P | Pan motor rotating collar": 746,
+          "04P | Pan seat seam": 162,
+          "04P | Rear roll bridge": 4300,
+          "04P | Right tilt motor end cap": 686,
+          "04P | Right tilt side casing": 783,
+          "04P | Roll motor rotor flange": 32,
+          "04P | Sensor legend": 3080,
+          "04P | Telephoto legend": 3944,
+          "Accessory latch • recess +1": 59,
+          "Controls • lower grip fascia": 833,
+          "Controls • shortcut button surround": 5371,
+          "Controls • shortcut panel border": 739,
+          "Custom • C legend": 193,
+          "Custom • button": 560,
+          "Custom • recess": 565,
+          "Display pivot • upper shoulder trim": 1111,
+          "Display • perimeter gasket": 618,
+          "Display • recessed cover glass": 570,
+          "Display • recessed outer carrier": 512,
+          "Handle • lower cap and connector carrier": 344,
+          "Handle • molded upper shell": 8238,
+          "Joystick • molded thumb knurl": 515,
+          "Joystick • raised collar": 663,
+          "Joystick • recessed seal": 1144,
+          "Joystick • rocking cap": 1164,
+          "Lanyard • bridge": 204,
+          "Lanyard • recessed channel": 36,
+          "Lower fascia • OSMO": 650,
+          "REC • recess": 775,
+          "REC • red ring": 397,
+          "REC • smooth button": 794,
+          "Speaker grille • bar 1": 174,
+          "Speaker grille • bar 2": 174,
+          "Speaker grille • bar 3": 174,
+          "Speaker grille • lattice 1": 57,
+          "Speaker grille • lattice 2": 57,
+          "Speaker grille • lattice 3": 57,
+          "Speaker grille • lattice 4": 57,
+          "Speaker grille • lattice 5": 57,
+          "Speaker grille • lattice 6": 57,
+          "Speaker grille • lattice 7": 57,
+          "Speaker grille • lattice 8": 57,
+          "Speaker grille • lattice 9": 57,
+          "Speaker • mesh bed": 452,
+          "Status LED • green indicator": 451,
+          "Status LED • surround": 413,
+          "Zoom • button": 629,
+          "Zoom • magnifier outline": 465,
+          "Zoom • magnifier stem": 23,
+          "Zoom • plus": 26,
+          "Zoom • plus.001": 31,
+          "Zoom • recess": 565
+        },
+        "visible_smooth_segments": 107736,
+        "visible_sharp_segments": 10389,
+        "sharp_threshold_face_normal_dot": 0.94,
+        "elapsed_seconds": 13.21,
+        "camera_world_to_clip": [
+          [
+            8.603520393371582,
+            4.645900726318359,
+            5.828010216646362e-07,
+            -1.9312921040182118e-07
+          ],
+          [
+            -0.4966643452644348,
+            0.919748067855835,
+            5.399758338928223,
+            -0.42658084630966187
+          ],
+          [
+            -0.46655890345573425,
+            0.8639979362487793,
+            -0.19007955491542816,
+            0.5308938026428223
+          ],
+          [
+            -0.46648895740509033,
+            0.8638684153556824,
+            -0.19005104899406433,
+            0.5320140719413757
+          ]
+        ]
+      },
+      "line_widths_px": [
+        1.6666666666666667,
+        2.6666666666666665
+      ],
+      "ink_srgb8": [
+        30,
+        44,
+        54
+      ],
+      "line_strengths_0_255": [
+        154,
+        196
+      ],
+      "antialiasing_scale": 3,
+      "nonzero_mask_pixel_count": 1457563,
+      "mask_bbox_xyxy": [
+        400,
+        257,
+        1607,
+        3539
+      ],
+      "geometry_segments_sha256": "159849f7d00345077e870106a43e0a1e6279d8ffe1f11c2cfbdbc79a348b434d"
+    },
+    {
+      "file": "05_同机位补拍\\V7终版对照\\03_整机成品.png",
+      "sha256": "9259da68ce9a458994af23c5900c62091efcff7c909fc7f55d92047fa45dc833",
+      "bytes": 27582251,
+      "engine": "CYCLES",
+      "started_utc": "2026-11-27T07:08:51.786509+00:00",
+      "finished_utc": "2026-11-27T07:09:26.528866+00:00",
+      "elapsed_seconds": 34.74,
+      "method": "V7 Final materials, original hero camera and light recipe."
+    }
+  ],
+  "clay_linear_rgb": [
+    0.63,
+    0.65,
+    0.66
+  ],
+  "clay_roughness": 0.6,
+  "source_sha256_after_render": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+  "verification": {
+    "all_png_crc_full_decode": true,
+    "all_native_2160x3840_rgb16": true,
+    "source_hash_unchanged": true,
+    "composition": "Identical frame, lens, camera transform, sensor-fit, pose and resolution. The same clay pixels underlie the wire pass.",
+    "original_4k_archive": false,
+    "max_camera_anchor_disagreement_px": 0.00035,
+    "historical_hero_reprojection": {
+      "historical_source": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\renders\\01-Hero.png",
+      "historical_sha256": "225dbbd174e5e166fb0f33a8b370b2540142b708e4c12f425b3bac4b134952e3",
+      "historical_center_crop_xyxy": [
+        264,
+        0,
+        1416,
+        2048
+      ],
+      "comparison_size": [
+        288,
+        512
+      ],
+      "mean_abs_difference_u8": 0.2526,
+      "p95_abs_difference_u8": 1.0,
+      "pearson_rgb": 0.99986359
+    }
+  }
+}

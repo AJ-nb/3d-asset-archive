@@ -1,0 +1,845 @@
+{
+  "schema_version": 1,
+  "source_scope": "V1–V7 与 CG15 原项目；各阶段可复核的代表原片，历史 4K 全量清单另见本包总目录。",
+  "how_to_verify": "source_path 与 archive_path 两端做 SHA-256，并检查像素尺寸。archive_path 相对整套归档根目录。",
+  "sequence_note": "文件编号是发布和阅读的讲解顺序。无从零建模实时录像，V1 清空场景起模由代码和初版保存文件佐证。终版素模在 V7 Final 检查时从已完工模型输出。",
+  "photos": [
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p\\references\\dji-store-front-device-transparent.png",
+      "archive_path": "03_建模过程原片/01_参考_官方正面裁图.png",
+      "sha256": "b0858dc80746beeec46ed4249e332d48764179d70a6af36d10c27919dfd3b48d",
+      "bytes": 157287,
+      "copy_verified": true,
+      "version": "V1",
+      "source_relative": "references/dji-store-front-device-transparent.png",
+      "category": "比例参考",
+      "width": 282,
+      "height": 834,
+      "detail": "照片读点与比例依据。单独引用需标注 DJI。",
+      "credits": {
+        "credit": "DJI 商店官方商品图，原项目裁去附件并保留透明通道",
+        "external": [
+          "https://se-cdn.djiits.com/tpc/uploads/sku/cover/9a749ee117fa62efd044b6163a035bb7@ultra.png"
+        ]
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的外部参考裁图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p\\previews\\04-orthographic.png",
+      "archive_path": "03_建模过程原片/02_V1_整机五向正交.png",
+      "sha256": "d55b5be5ea8ca9fd2d330015d8ff556c86bfdc464ac891db5052956da59b36db",
+      "bytes": 346792,
+      "copy_verified": true,
+      "version": "V1",
+      "source_relative": "previews/04-orthographic.png",
+      "category": "初版形体",
+      "width": 1350,
+      "height": 800,
+      "detail": "初版已生成的五个正交方向，具备机身、屏幕、云台和双镜头。",
+      "credits": {
+        "credit": "项目原始建模输出或基于模型计算的图表",
+        "external": []
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p\\previews\\05-reference-fit.png",
+      "archive_path": "03_建模过程原片/03_V1_正面照片配准.png",
+      "sha256": "914097eb18d573a7c1b1757d2c351ce0920352a464941f2ad6c41c9fc3a541d3",
+      "bytes": 293075,
+      "copy_verified": true,
+      "version": "V1",
+      "source_relative": "previews/05-reference-fit.png",
+      "category": "初版比例",
+      "width": 1240,
+      "height": 835,
+      "detail": "正视渲染、参考图与投影差异。",
+      "credits": {
+        "credit": "图中含 DJI 商店商品正面参考或从该图测得的投影，模型与分析属本项目",
+        "external": [
+          "https://se-cdn.djiits.com/tpc/uploads/sku/cover/9a749ee117fa62efd044b6163a035bb7@ultra.png"
+        ]
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v2\\previews\\06-wall-section.png",
+      "archive_path": "03_建模过程原片/04_V2_握把壁厚截面.png",
+      "sha256": "a8502bd83110f1c72f04fc36a0b38db4cc6df754614f963b214e1b2b5ea2f83c",
+      "bytes": 53998,
+      "copy_verified": true,
+      "version": "V2",
+      "source_relative": "previews/06-wall-section.png",
+      "category": "壁厚",
+      "width": 1090,
+      "height": 646,
+      "detail": "握把实体截面和模型厚度读数。",
+      "credits": {
+        "credit": "项目原始建模输出或基于模型计算的图表",
+        "external": []
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v2\\previews\\07-detail-comparison.jpg",
+      "archive_path": "03_建模过程原片/05_V2_结构细节记录.jpg",
+      "sha256": "ad538622677023bf2b9432bde1a18823db082b81af0cc19404d80e74a60c1d48",
+      "bytes": 194725,
+      "copy_verified": true,
+      "version": "V2",
+      "source_relative": "previews/07-detail-comparison.jpg",
+      "category": "尺寸与细节",
+      "width": 1440,
+      "height": 1280,
+      "detail": "官网、V1、V2 的屏肩、镜圈、按键与底部接口。",
+      "credits": {
+        "credit": "左列是 DJI 官网机身正斜侧和底部照片，中、右列是项目 V1、V2 模型",
+        "external": [
+          "https://www-cdn.djiits.com/dps/989fdacd9ada761ba9d9c872fc492a8c.jpg",
+          "https://www-cdn.djiits.com/dps/9bdc03324d8442a62df588b990ec53d2.jpg"
+        ]
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v3\\previews\\08-section-z112.png",
+      "archive_path": "03_建模过程原片/06_V3_Z112逐毫米截面.png",
+      "sha256": "51672249a7cb3a6490455d8992a23d33b454c0baf4df85a01810ce20b551be97",
+      "bytes": 107619,
+      "copy_verified": true,
+      "version": "V3",
+      "source_relative": "previews/08-section-z112.png",
+      "category": "模型切片",
+      "width": 1416,
+      "height": 958,
+      "detail": "项目原有截面查看器在 Z112 的截面与版本对照，内含官方照片参考。",
+      "credits": {
+        "credit": "图中含 DJI 商店商品正面参考或从该图测得的投影，模型与分析属本项目",
+        "external": [
+          "https://se-cdn.djiits.com/tpc/uploads/sku/cover/9a749ee117fa62efd044b6163a035bb7@ultra.png"
+        ]
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v4\\previews\\同机位正侧面对照.jpg",
+      "archive_path": "03_建模过程原片/07_V4_支臂正侧面改前改后.jpg",
+      "sha256": "044737f6166c7719d8733f4648954c78c32b8a2d3bbba6b7ab5a97778e649d7d",
+      "bytes": 112662,
+      "copy_verified": true,
+      "version": "V4",
+      "source_relative": "previews/同机位正侧面对照.jpg",
+      "category": "云台重建",
+      "width": 1240,
+      "height": 828,
+      "detail": "V3 与 V4 同机位，能直接看到支臂、后桥与镜头外壳相对位置。",
+      "credits": {
+        "credit": "项目原始建模输出或基于模型计算的图表",
+        "external": []
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v4\\previews\\连接结构对照.jpg",
+      "archive_path": "03_建模过程原片/08_V4_云台背斜视参考与改型.jpg",
+      "sha256": "6c2a4739907ee0f35e38860db23536bcfd7623c90fc4c37544e2d3eb30a8910c",
+      "bytes": 164670,
+      "copy_verified": true,
+      "version": "V4",
+      "source_relative": "previews/连接结构对照.jpg",
+      "category": "云台重建",
+      "width": 1440,
+      "height": 742,
+      "detail": "DJI 后斜视与 V3、V4 同方向素模的遮挡关系。",
+      "credits": {
+        "credit": "左侧参考图来自 DJI 官网，V3 与 V4 对照为项目建模输出",
+        "external": [
+          "https://www-cdn.djiits.com/dps/26bd7b053062572541b9b99281f75616.jpg"
+        ]
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v5\\previews\\六向灰模.jpg",
+      "archive_path": "03_建模过程原片/09_V5_整机六向灰模.jpg",
+      "sha256": "0fae9db07229e430f4c52d0f9f59b1a2104641bfb88548c6b6225a3c723169eb",
+      "bytes": 92373,
+      "copy_verified": true,
+      "version": "V5",
+      "source_relative": "previews/六向灰模.jpg",
+      "category": "灰模",
+      "width": 1420,
+      "height": 670,
+      "detail": "该版六方向统一灰色表面，检查肩线、底部和侧面。",
+      "credits": {
+        "credit": "项目原始建模输出或基于模型计算的图表",
+        "external": []
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v5\\previews\\clay-lens.png",
+      "archive_path": "03_建模过程原片/10_V5_双镜头单材质近景.png",
+      "sha256": "d6bcff4f57f107f60245ab9cc4d3347f3852bb50d4ff9c950f2bea5085bee513",
+      "bytes": 605072,
+      "copy_verified": true,
+      "version": "V5",
+      "source_relative": "previews/clay-lens.png",
+      "category": "灰模",
+      "width": 800,
+      "height": 840,
+      "detail": "独立的镜头灰模原始视图。",
+      "credits": {
+        "credit": "项目原始建模输出或基于模型计算的图表",
+        "external": []
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v5\\previews\\镜头精修对照.jpg",
+      "archive_path": "03_建模过程原片/11_V5_镜头破面修复对照.jpg",
+      "sha256": "80dc364cda910be6240e9fc2209bc91fc07f15a9b3eb9f503c75ce3cb8f97740",
+      "bytes": 161587,
+      "copy_verified": true,
+      "version": "V5",
+      "source_relative": "previews/镜头精修对照.jpg",
+      "category": "表面修复",
+      "width": 1300,
+      "height": 790,
+      "detail": "两版镜头近景。正式色彩图的 V5 增加条形反射光，几何另有灰模检查。",
+      "credits": {
+        "credit": "项目原始建模输出或基于模型计算的图表",
+        "external": []
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v6\\previews\\四个活动接口.jpg",
+      "archive_path": "03_建模过程原片/12_V6_四个活动接口.jpg",
+      "sha256": "11d53cfe4c286fa4ffd199cd6fd0840a16e342580ed507447f9471d6ddb10c62",
+      "bytes": 226826,
+      "copy_verified": true,
+      "version": "V6",
+      "source_relative": "previews/四个活动接口.jpg",
+      "category": "装配",
+      "width": 1490,
+      "height": 1030,
+      "detail": "云台与屏轴实切及分件色块，可说明支承或旋转接口。",
+      "credits": {
+        "credit": "项目原始建模输出或基于模型计算的图表",
+        "external": []
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v6\\previews\\俯仰干涉对照.png",
+      "archive_path": "03_建模过程原片/13_V6_俯仰干涉截面.png",
+      "sha256": "7738ae09af023db4ad7532f34059e641e54615eaf9b71c4ffaf70e3421260982",
+      "bytes": 51591,
+      "copy_verified": true,
+      "version": "V6",
+      "source_relative": "previews/俯仰干涉对照.png",
+      "category": "运动检查",
+      "width": 1420,
+      "height": 712,
+      "detail": "V5 与 V6 的后壳和叉架切片，关系据模型计算。",
+      "credits": {
+        "credit": "项目原始建模输出或基于模型计算的图表",
+        "external": []
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v6\\previews\\线框与两种光照.jpg",
+      "archive_path": "03_建模过程原片/14_V6_线框和掠射光.jpg",
+      "sha256": "f9813d43994911b93fc4cb1015df256fb52a42dd6b262c1705aa32d4b476d3f1",
+      "bytes": 195393,
+      "copy_verified": true,
+      "version": "V6",
+      "source_relative": "previews/线框与两种光照.jpg",
+      "category": "材质前检查",
+      "width": 1450,
+      "height": 885,
+      "detail": "镜头前后、掠射光和局部网格同板。",
+      "credits": {
+        "credit": "项目原始建模输出或基于模型计算的图表",
+        "external": []
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\optics\\正面造型与官网对照.jpg",
+      "archive_path": "03_建模过程原片/15_V7基线_双摄重新拟形.jpg",
+      "sha256": "4d664c51e59bf8788a1a08db3a9ead15280b78480c93d86cd5f4e6086226621c",
+      "bytes": 411000,
+      "copy_verified": true,
+      "version": "V7",
+      "source_relative": "optics/正面造型与官网对照.jpg",
+      "category": "镜口拟形",
+      "width": 1510,
+      "height": 1188,
+      "detail": "官网、V6 与 V7 基线的双镜头轮廓。",
+      "credits": {
+        "credit": "左列为 DJI 商店官方图局部，右侧为项目模型",
+        "external": [
+          "https://se-cdn.djiits.com/tpc/uploads/sku/cover/9a749ee117fa62efd044b6163a035bb7@origin.png"
+        ]
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\optics\\广角保护窗双光照对照.jpg",
+      "archive_path": "03_建模过程原片/16_V7基线_广角保护窗双光照.jpg",
+      "sha256": "910abd475eaf4c315805a68884488cac90d5f8bd264d5873a632ae4e9a366eaa",
+      "bytes": 206588,
+      "copy_verified": true,
+      "version": "V7",
+      "source_relative": "optics/广角保护窗双光照对照.jpg",
+      "category": "材质与布光",
+      "width": 1470,
+      "height": 750,
+      "detail": "保持 V7 镜片几何，改变灯的入射方向检查保护窗边、高光和镀膜观感。",
+      "credits": {
+        "credit": "左列为 DJI 商店官方图局部，右侧为项目模型",
+        "external": [
+          "https://se-cdn.djiits.com/tpc/uploads/sku/cover/9a749ee117fa62efd044b6163a035bb7@origin.png"
+        ]
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\rig\\validation\\rig-poses.jpg",
+      "archive_path": "03_建模过程原片/17_V7_刚性关节动作灰模.jpg",
+      "sha256": "a42b9c248a33b77de502e4082628752b3bb68a91554a228ffe3ffd7bf4fe8ad1",
+      "bytes": 207457,
+      "copy_verified": true,
+      "version": "V7",
+      "source_relative": "rig/validation/rig-poses.jpg",
+      "category": "绑定验证",
+      "width": 1512,
+      "height": 1150,
+      "detail": "相同相机和中性表面的六个测试姿态。",
+      "credits": {
+        "credit": "项目原始建模输出或基于模型计算的图表",
+        "external": []
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\review\\mesh-final\\01-face-clay.png",
+      "archive_path": "03_建模过程原片/18_V7终版_镜头正面白模.png",
+      "sha256": "fa7fa102039a54af229cb3c96a4cb42d03115f3beb49d00023e4243d6cf5fc04",
+      "bytes": 1725097,
+      "copy_verified": true,
+      "version": "V7",
+      "source_relative": "review/mesh-final/01-face-clay.png",
+      "category": "终版素模",
+      "width": 1440,
+      "height": 1440,
+      "detail": "双镜头正面，WorkBench 单一材质。",
+      "credits": {
+        "credit": "项目原始建模输出或基于模型计算的图表",
+        "external": []
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "终版复核时输出的同机位素模/线框"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\review\\mesh-final\\01-face-wire.png",
+      "archive_path": "03_建模过程原片/19_V7终版_镜头正面线框.png",
+      "sha256": "8315ff55d3422bf2a2c37afb65c4a4f972a380a3ba6f6830d5f091c015e0d10b",
+      "bytes": 1961397,
+      "copy_verified": true,
+      "version": "V7",
+      "source_relative": "review/mesh-final/01-face-wire.png",
+      "category": "终版求值线框",
+      "width": 1440,
+      "height": 1440,
+      "detail": "与正面素模同机位，叠加模型可见边。",
+      "credits": {
+        "credit": "项目原始建模输出或基于模型计算的图表",
+        "external": []
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "终版复核时输出的同机位素模/线框"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\review\\mesh-final\\02-joint-clay.png",
+      "archive_path": "03_建模过程原片/20_V7终版_云台后侧白模.png",
+      "sha256": "d4b4f4309331f3e722b90050285486b203f929c06a07b2e3cafb3feca234cec8",
+      "bytes": 1674849,
+      "copy_verified": true,
+      "version": "V7",
+      "source_relative": "review/mesh-final/02-joint-clay.png",
+      "category": "终版素模",
+      "width": 1440,
+      "height": 1440,
+      "detail": "后桥、轴肩、握把侧面。",
+      "credits": {
+        "credit": "项目原始建模输出或基于模型计算的图表",
+        "external": []
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "终版复核时输出的同机位素模/线框"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\review\\mesh-final\\02-joint-wire.png",
+      "archive_path": "03_建模过程原片/21_V7终版_云台后侧线框.png",
+      "sha256": "73777b602e35b65580dcae7bf36ac2973ac2d4505596f2813d0f5ec04f6d7b14",
+      "bytes": 1962657,
+      "copy_verified": true,
+      "version": "V7",
+      "source_relative": "review/mesh-final/02-joint-wire.png",
+      "category": "终版求值线框",
+      "width": 1440,
+      "height": 1440,
+      "detail": "与后侧素模同机位，叠加模型可见边。",
+      "credits": {
+        "credit": "项目原始建模输出或基于模型计算的图表",
+        "external": []
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "终版复核时输出的同机位素模/线框"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\review\\mesh-final\\03-internal-clay.png",
+      "archive_path": "03_建模过程原片/22_V7终版_支承内构白模.png",
+      "sha256": "89b9ae1e7197cd9cb1bf6c02ad7a5877e8dc588593ae8a5e6aea8844cef43908",
+      "bytes": 1351084,
+      "copy_verified": true,
+      "version": "V7",
+      "source_relative": "review/mesh-final/03-internal-clay.png",
+      "category": "终版素模",
+      "width": 1440,
+      "height": 1440,
+      "detail": "隔离显示轴承支座与转轴。",
+      "credits": {
+        "credit": "项目原始建模输出或基于模型计算的图表",
+        "external": []
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "终版复核时输出的同机位素模/线框"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\review\\mesh-final\\03-internal-wire.png",
+      "archive_path": "03_建模过程原片/23_V7终版_支承内构线框.png",
+      "sha256": "3e73260392f413f60d512ad74b8ab4874816f863544330e05b94aab33e886077",
+      "bytes": 1548427,
+      "copy_verified": true,
+      "version": "V7",
+      "source_relative": "review/mesh-final/03-internal-wire.png",
+      "category": "终版求值线框",
+      "width": 1440,
+      "height": 1440,
+      "detail": "与支承内构素模同机位，叠加模型可见边。",
+      "credits": {
+        "credit": "项目原始建模输出或基于模型计算的图表",
+        "external": []
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "终版复核时输出的同机位素模/线框"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\rig\\validation\\final\\casting-comparison.jpg",
+      "archive_path": "03_建模过程原片/24_V7终版_压铸支臂法线与材质回读.jpg",
+      "sha256": "d9fdaeb4578c3b1e3e8eda9cc0f321b9175c851b2cf45c8351cc8b7cd8aeadd1",
+      "bytes": 51349,
+      "copy_verified": true,
+      "version": "V7",
+      "source_relative": "rig/validation/final/casting-comparison.jpg",
+      "category": "材质回读",
+      "width": 1320,
+      "height": 328,
+      "detail": "原生 Blender、GLB 回读、关闭法线图的局部布光比较。",
+      "credits": {
+        "credit": "项目原始建模输出或基于模型计算的图表",
+        "external": []
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\renders\\渲染联系表.jpg",
+      "archive_path": "03_建模过程原片/25_V7终版_八机位成品联系表.jpg",
+      "sha256": "4d65c8cf4ce2db431852680e3afb42c730fee49bb6519f043b5917e159fa516a",
+      "bytes": 235331,
+      "copy_verified": true,
+      "version": "V7",
+      "source_relative": "renders/渲染联系表.jpg",
+      "category": "成品联系表",
+      "width": 1600,
+      "height": 1080,
+      "detail": "同一发布版的八个交付机位。",
+      "credits": {
+        "credit": "整机为项目渲染；出现亮屏时屏内相册风景取自 DJI 商店图，裁切范围见屏显来源记录",
+        "external": [
+          "https://se-cdn.djiits.com/tpc/uploads/sku/cover/9a749ee117fa62efd044b6163a035bb7@origin.png"
+        ]
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\Pulse-contact.jpg",
+      "archive_path": "03_建模过程原片/26_15秒CG_成片联络表.jpg",
+      "sha256": "2cead7a217abfb9bd8128cd8df5d7036fde768e9bd03b6b2de7cb77bf3951dfb",
+      "bytes": 756108,
+      "copy_verified": true,
+      "version": "CG15",
+      "source_relative": "Pulse-contact.jpg",
+      "category": "CG 应用",
+      "width": 2870,
+      "height": 1756,
+      "detail": "另行制作的 15 秒短片，抽取代表帧作为静帧交付之后的延伸。",
+      "credits": {
+        "credit": "整机为项目渲染；出现亮屏时屏内相册风景取自 DJI 商店图，裁切范围见屏显来源记录",
+        "external": [
+          "https://se-cdn.djiits.com/tpc/uploads/sku/cover/9a749ee117fa62efd044b6163a035bb7@origin.png"
+        ]
+      },
+      "recreated_for_this_archive": false,
+      "role": "原项目保存的过程图或交付图",
+      "presentation_time": "该版本过程或交付记录"
+    }
+  ],
+  "evidence_documents": [
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p\\build_pocket.py",
+      "archive_path": "provenance/同期依据/V1/build_pocket.py",
+      "sha256": "a9441a6ffd0dcc405d522a7784ed8ba34f5448c26d77949f90aeb870e1f24105",
+      "bytes": 37062,
+      "copy_verified": true,
+      "version": "V1"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p\\build_gimbal.py",
+      "archive_path": "provenance/同期依据/V1/build_gimbal.py",
+      "sha256": "0b7c537d6f913078d22f7a269fd2f3aec6a6308d572ad9aa9c2aacda2b909b9a",
+      "bytes": 14380,
+      "copy_verified": true,
+      "version": "V1"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p\\references\\外观参考与坐标.md",
+      "archive_path": "provenance/同期依据/V1/references/外观参考与坐标.md",
+      "sha256": "541c9ea9df432752edb426c7c2d1b8ff289f167227953fe6235bffbdd5e118ce",
+      "bytes": 5455,
+      "copy_verified": true,
+      "version": "V1"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p\\建模校验.json",
+      "archive_path": "provenance/同期依据/V1/建模校验.json",
+      "sha256": "de22bf645579a76be8065ca519e982faef13a60b96f3e60966d0564fd38d70b8",
+      "bytes": 2506,
+      "copy_verified": true,
+      "version": "V1"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v2\\尺寸与官网校核.md",
+      "archive_path": "provenance/同期依据/V2/尺寸与官网校核.md",
+      "sha256": "b8b656ab8403b054df19df6ccaf68e6ffccdc61c5c6acf2346ef9cb533097803",
+      "bytes": 4850,
+      "copy_verified": true,
+      "version": "V2"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v2\\建模校验.json",
+      "archive_path": "provenance/同期依据/V2/建模校验.json",
+      "sha256": "55d64ced2a8c1a67ce18f6cc9c4b51246c9d4f312dc4581f9c62f46581849cb8",
+      "bytes": 27687,
+      "copy_verified": true,
+      "version": "V2"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v3\\1mm截面与修正记录.md",
+      "archive_path": "provenance/同期依据/V3/1mm截面与修正记录.md",
+      "sha256": "4c7cb8db2307d0c0b2eb1c9edae67b5d1499e851d0d825a47e2958b875d6b241",
+      "bytes": 4985,
+      "copy_verified": true,
+      "version": "V3"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v3\\1mm截面对照.html",
+      "archive_path": "provenance/同期依据/V3/1mm截面对照.html",
+      "sha256": "b789dd6d91f116b8e697a0e0caf2746c3fba7088582c967ad71f12deb62dea58",
+      "bytes": 17032560,
+      "copy_verified": true,
+      "version": "V3"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v3\\section-diff.csv",
+      "archive_path": "provenance/同期依据/V3/section-diff.csv",
+      "sha256": "142c6b760a0fe67209b0c917c97e7a140c06e3cc7c08ce8543ba36127435f23b",
+      "bytes": 38634,
+      "copy_verified": true,
+      "version": "V3"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v3\\work\\section-metrics.json",
+      "archive_path": "provenance/同期依据/V3/work/section-metrics.json",
+      "sha256": "bfde320d5cadbb38bb556ebb0914175e6a0dcc93449561ec0c4b7cd86ec3b540",
+      "bytes": 5888,
+      "copy_verified": true,
+      "version": "V3"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v4\\云台连接精修记录.md",
+      "archive_path": "provenance/同期依据/V4/云台连接精修记录.md",
+      "sha256": "9c8fb34df4032f2a4703f2975666725903e098b2c216ff3f6541923ae030ca88",
+      "bytes": 4982,
+      "copy_verified": true,
+      "version": "V4"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v4\\side-profile-diff.csv",
+      "archive_path": "provenance/同期依据/V4/side-profile-diff.csv",
+      "sha256": "e4759c92c7d8237b637a927df81b6234b36d809a12340138ab330e583e14a695",
+      "bytes": 12936,
+      "copy_verified": true,
+      "version": "V4"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v4\\connector-z-1mm.csv",
+      "archive_path": "provenance/同期依据/V4/connector-z-1mm.csv",
+      "sha256": "932c527dc35220adf9368f30ac74e0ad73b3a4c70863ee6d66a41952788d5a53",
+      "bytes": 4560,
+      "copy_verified": true,
+      "version": "V4"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v5\\精修与复核记录.md",
+      "archive_path": "provenance/同期依据/V5/精修与复核记录.md",
+      "sha256": "c17f0c9b7bb67c88976a36b2b4c568b374d4b5609f5390d0f0f2c94c4499f39a",
+      "bytes": 5862,
+      "copy_verified": true,
+      "version": "V5"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v6\\装配精修与验收.md",
+      "archive_path": "provenance/同期依据/V6/装配精修与验收.md",
+      "sha256": "d5113e241ed0f6bbf2fe756348a2d9c6f75453c219cbcd434cfaffcef76a0911",
+      "bytes": 10640,
+      "copy_verified": true,
+      "version": "V6"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v6\\assembly\\v6\\逐件装配清单.csv",
+      "archive_path": "provenance/同期依据/V6/assembly/v6/逐件装配清单.csv",
+      "sha256": "a41cd7a4c7456a2e5b338d6dfaf30008bf1b15925007834e0ac412f3765b82cb",
+      "bytes": 83626,
+      "copy_verified": true,
+      "version": "V6"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\验收记录.md",
+      "archive_path": "provenance/同期依据/V7/验收记录.md",
+      "sha256": "5b99268f55fa62474638b219e80e38c22d2c4afdcbbf1f4579ca7e64ab973d0a",
+      "bytes": 8564,
+      "copy_verified": true,
+      "version": "V7"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\optics\\镜头正面核验.md",
+      "archive_path": "provenance/同期依据/V7/optics/镜头正面核验.md",
+      "sha256": "0db60f51d90c4747d67c464e4174396d06ca4a51ccce47814ad74476a0f46f8d",
+      "bytes": 4641,
+      "copy_verified": true,
+      "version": "V7"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\sections\\整机三向逐毫米截面.html",
+      "archive_path": "provenance/同期依据/V7/sections/整机三向逐毫米截面.html",
+      "sha256": "b2ef30b16631c875ba6ecd84bd3c56885d296350f6a960961ae3e0620ee5bb50",
+      "bytes": 5989797,
+      "copy_verified": true,
+      "version": "V7"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\optics\\镜头组件逐毫米截面.html",
+      "archive_path": "provenance/同期依据/V7/optics/镜头组件逐毫米截面.html",
+      "sha256": "2539efaedbac0b1e62597d097bd2c129b357cc4701ed9e764594d3f8c1869224",
+      "bytes": 658410,
+      "copy_verified": true,
+      "version": "V7"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\review\\Final线框素模核验.md",
+      "archive_path": "provenance/同期依据/V7/review/Final线框素模核验.md",
+      "sha256": "14e577a037d68b9d8b32d98b86e1168e4beebe9f2443aa5e3009eb60067cb1ee",
+      "bytes": 1405,
+      "copy_verified": true,
+      "version": "V7"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\review\\source-equivalence-views.json",
+      "archive_path": "provenance/同期依据/V7/review/source-equivalence-views.json",
+      "sha256": "69e837f36b7f8a2adb9b5ee39a6f2e64844a4a9e8d1cd5227c3cc6af8e98c026",
+      "bytes": 3696,
+      "copy_verified": true,
+      "version": "V7"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\review\\render-evidence.json",
+      "archive_path": "provenance/同期依据/V7/review/render-evidence.json",
+      "sha256": "600eae87136e80fb3ba64fee603ee7a2cb192e613ce2643054eb367106426830",
+      "bytes": 5019,
+      "copy_verified": true,
+      "version": "V7"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\rig\\骨架与动作说明.md",
+      "archive_path": "provenance/同期依据/V7/rig/骨架与动作说明.md",
+      "sha256": "41dc7501ca3a2c93ed2e1e4f78db4cbb615060e422895a8fe205a69203d22cbf",
+      "bytes": 4034,
+      "copy_verified": true,
+      "version": "V7"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\rig\\validation\\poses.log",
+      "archive_path": "provenance/同期依据/V7/rig/validation/poses.log",
+      "sha256": "b8d94613142890e9ee81afcab4962e2392c327386fcdfea237135c339e74aecd",
+      "bytes": 915,
+      "copy_verified": true,
+      "version": "V7"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\rig\\validation\\final\\delivery.json",
+      "archive_path": "provenance/同期依据/V7/rig/validation/final/delivery.json",
+      "sha256": "c1edf87964e9d53a766eb4c1263c455ec7a3b9a2157184a1826e29750735ffe4",
+      "bytes": 3053,
+      "copy_verified": true,
+      "version": "V7"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\studio\\display-source.json",
+      "archive_path": "provenance/同期依据/V7/studio/display-source.json",
+      "sha256": "32788f673b47f934c18e9a553107213bcd8392de84107f78377653cdd757b5c6",
+      "bytes": 261,
+      "copy_verified": true,
+      "version": "V7"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\15秒执行分镜.md",
+      "archive_path": "provenance/同期依据/CG15/15秒执行分镜.md",
+      "sha256": "6593b8549767bd7ba2cfd28d939ff67f94b6c07f823db47841d5d6e5216ddbfb",
+      "bytes": 3381,
+      "copy_verified": true,
+      "version": "CG15"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\镜头数据.csv",
+      "archive_path": "provenance/同期依据/CG15/镜头数据.csv",
+      "sha256": "09680b03e9f0b548595987a54d9075b227ad4ff64ed348ddcd8f8c4454e2df3c",
+      "bytes": 13351,
+      "copy_verified": true,
+      "version": "CG15"
+    },
+    {
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\review\\film-qc.json",
+      "archive_path": "provenance/同期依据/CG15/review/film-qc.json",
+      "sha256": "748886fb9c14886c4030d56ff5b186962be5c5fb43e7be59b866523d6ef6ab05",
+      "bytes": 1684,
+      "copy_verified": true,
+      "version": "CG15"
+    }
+  ],
+  "original_editable_files": [
+    {
+      "version": "V1",
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p\\DJI-Osmo-Pocket-4P-Classic-Black.blend",
+      "sha256": "dc24ae6d9d30a0b125d51ebdae2e0312c946a7796e3fb350e1d25547e4191708",
+      "bytes": 596671
+    },
+    {
+      "version": "V2",
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v2\\DJI-Osmo-Pocket-4P-Classic-Black-V2.blend",
+      "sha256": "a663f2038ad0b3c839f57bb35965af89f0f4e832449e3491f419001975b8a8a6",
+      "bytes": 932719
+    },
+    {
+      "version": "V3",
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v3\\DJI-Osmo-Pocket-4P-Classic-Black-V3.blend",
+      "sha256": "5bce02b0021a293164bda6154f0ece6a295b3a634e9f629e9c72b142136c114e",
+      "bytes": 1232098
+    },
+    {
+      "version": "V4",
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v4\\DJI-Osmo-Pocket-4P-Classic-Black-V4.blend",
+      "sha256": "c0e715c0597f10135c5805e9452a74eba975d5f0e6ed92ce1e56cede4027d364",
+      "bytes": 4701029
+    },
+    {
+      "version": "V5",
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v5\\DJI-Osmo-Pocket-4P-Classic-Black-V5.blend",
+      "sha256": "25277afea822ea43c5a293408d657527f0b783053e8e703806c8c696da7577fc",
+      "bytes": 5155948
+    },
+    {
+      "version": "V6",
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v6\\DJI-Osmo-Pocket-4P-V6.blend",
+      "sha256": "3355393794bb776ae0525a359e3735dfb677fe06496c98165042cf28c8567d95",
+      "bytes": 7699770
+    },
+    {
+      "version": "V7",
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\DJI-Osmo-Pocket-4P-V7.blend",
+      "sha256": "bfe87db4162421066892bbb4beccead4ad88349b44713d4951a2d47e43aeefc3",
+      "bytes": 10663660
+    },
+    {
+      "version": "V7",
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-v7\\DJI-Osmo-Pocket-4P-V7-Final.blend",
+      "sha256": "136a14ee3a5d632842276f49a599b920a55c24ea7e46b47e3f4f37b9a6471392",
+      "bytes": 11478919
+    },
+    {
+      "version": "CG15",
+      "source_path": "D:\\oc\\output\\dji-osmo-pocket-4p-cg15\\Pulse-15s.blend",
+      "sha256": "b8866c77f41802db12b36fb9fa67a4460bfb005564e59f91ff0f5d684e169a4b",
+      "bytes": 15609347
+    }
+  ]
+}
