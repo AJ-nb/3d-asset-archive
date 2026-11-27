@@ -34,6 +34,8 @@
 
 在本项目目录内运行下列命令可用 [audit.py](audit.py) 重算一份结果。换一个新的输出文件名，保留已有的测量记录。
 
+使用 MCP 时，可把本目录设为工作区，把 `desk-study.blend` 和 [fold-checks.json](fold-checks.json) 交给 `audit_assembly`。这份清单覆盖 B 方案三条支脚之间的 12 对网格，从第 94 帧查到第 110 帧。[接入客户端与示例请求](../../../skills/product-cg-studio/mcp/README.md)
+
 ```sh
 blender -b --factory-startup --disable-autoexec desk-study.blend --python-exit-code 1 -P audit.py -- measured.json
 ```

@@ -128,18 +128,18 @@ def run_job(job, mode, blender, workspace, root, versions):
     return info
 
 
-def execute(args, jobs, blender, root):
+def execute(args, jobs, blender, root, write_report=write_json):
     for subdir in ("work", "logs", "shots"):
         (root / subdir).mkdir()
     summary = {job["id"]: {"status": "pending"} for job in jobs}
     report = {"mode": args.mode, "manifest": str(args.manifest.resolve()), "jobs": summary}
     report_file = root / "report.json"
     versions = {}
-    write_json(report_file, report)
+    write_report(report_file, report)
     for job in jobs:
         key = job["id"]
         summary[key] = {"status": "running"}
-        write_json(report_file, report)
+        write_report(report_file, report)
         print(f"[{key}] {args.mode}", flush=True)
         try:
             details = run_job(job, args.mode, blender, args.manifest.resolve().parent, root, versions)
@@ -152,7 +152,7 @@ def execute(args, jobs, blender, root):
         except (OSError, ValueError, RuntimeError) as exc:
             summary[key] = {"status": "failed", "error": str(exc)}
             print(f"  ERROR: {exc}", file=sys.stderr, flush=True)
-        write_json(report_file, report)
+        write_report(report_file, report)
     return int(any(result["status"] != "ok" for result in summary.values()))
 
 

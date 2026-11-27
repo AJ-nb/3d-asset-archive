@@ -10,6 +10,8 @@
 
 ## 安装与调用
 
+要让支持 MCP 的 AI 客户端直接运行 Blender 检查、提交后台渲染并查收文件，请按[本地 MCP 安装与 DJI 试跑](mcp/README.md)配置。分享包同时包含 Skill、MCP 服务与命令行脚本。
+
 下载分享包并解压，把完整的 `product-cg-studio` 文件夹复制到 Codex 的技能目录。默认位置为 Windows 的 `%USERPROFILE%\.codex\skills\` 或 macOS／Linux 的 `~/.codex/skills/`。设置过 `CODEX_HOME` 时放进它下面的 `skills/`。安装后应能看到 `skills/product-cg-studio/SKILL.md`。新开一个对话，附上素材或指定工作目录，发送下面任何一种请求。同事使用其他支持本地文件和 Blender 的 AI 工具时，也可以直接指定它阅读 [SKILL.md](SKILL.md) 并执行。
 
 > 使用 $product-cg-studio 接手这个手柄工程，保留原始外形和按钮布局。做一张按键朝上横放的桌面主视觉，另做一张手机竖图，能看清握把的细纹。交付两张原图和可重开的工程。

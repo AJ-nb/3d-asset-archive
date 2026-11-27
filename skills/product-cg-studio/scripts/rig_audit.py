@@ -10,6 +10,7 @@ from pathlib import Path
 import bmesh
 import bpy
 from mathutils import Vector
+from mathutils.bvhtree import BVHTree
 
 
 def number(value):
@@ -99,6 +100,14 @@ class Sample:
             raise ValueError(f"Ray missed {name}; inspect alignment and probe depth")
         return (obj.matrix_world @ location - origin).dot(direction) * self.mm
 
+    def surface_tree(self, name):
+        obj = self.mesh(name)
+        if not obj.data.polygons:
+            raise ValueError(f"Empty mesh surface: {name}")
+        vertices = [obj.matrix_world @ v.co for v in obj.data.vertices]
+        faces = [tuple(face.vertices) for face in obj.data.polygons]
+        return BVHTree.FromPolygons(vertices, faces)
+
     def inspect_shell(self, name):
         obj = self.mesh(name)
         bm = bmesh.new()
@@ -172,10 +181,38 @@ def check_skin(scene, spec):
             "bad_vertices": bad_count, "vertices": len(obj.data.vertices), "examples": examples}
 
 
+def check_surface_intersections(scene, mm, frames, pairs):
+    if not isinstance(pairs, list) or not pairs:
+        raise ValueError("Specify at least one pair of mesh object names")
+    seen = set()
+    for pair in pairs:
+        if (not isinstance(pair, list) or len(pair) != 2 or
+                any(not isinstance(name, str) or not name for name in pair) or pair[0] == pair[1]):
+            raise ValueError("Each pair needs two different mesh object names")
+        key = frozenset(pair)
+        if key in seen:
+            raise ValueError(f"Duplicate surface pair: {pair}")
+        seen.add(key)
+    names = {name for pair in pairs for name in pair}
+    rows = []
+    for frame in frames:
+        state = Sample(scene, frame, mm)
+        trees = {name: state.surface_tree(name) for name in names}
+        hits = []
+        for a, b in pairs:
+            overlap = trees[a].overlap(trees[b])
+            if overlap:
+                hits.append({"a": a, "b": b, "face_pairs": len(overlap)})
+        rows.append({"frame": frame, "pass": not hits, "pairs_with_surface_hits": hits})
+    return {"pass": all(r["pass"] for r in rows), "pairs": pairs, "samples": rows}
+
+
 def run_check(scene, mm, rest, frames, spec):
     kind = spec["type"]
     if kind == "skin":
         return check_skin(scene, spec)
+    if kind == "surface_intersection":
+        return check_surface_intersections(scene, mm, sample_frames(spec.get("frames", frames)), spec["pairs"])
     if kind == "closed_single_shell":
         rows = [{"frame": f, **Sample(scene, f, mm).inspect_shell(spec["object"])}
                 for f in sample_frames(spec.get("frames", frames))]

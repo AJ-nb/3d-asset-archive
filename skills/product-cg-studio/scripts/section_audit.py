@@ -33,9 +33,12 @@ def arguments():
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--parts", nargs="+", help="Exact mesh object names")
     group.add_argument("--collection", help="Mesh objects in a collection and its children")
+    parser.add_argument("--allow-absent-parts", action="store_true",
+                        help="Record absent named parts in a baseline for a later union comparison")
     parser.add_argument("--out", required=True, type=Path, help="New output directory")
     parser.add_argument("--reference", type=Path, help="Prior section_audit output directory")
     parser.add_argument("--pose", required=True, help="Assembly state shared by both inputs")
+    parser.add_argument("--scene", help="Exact scene in a multi-scene .blend (default: saved active scene)")
     parser.add_argument("--frame", type=int, default=1)
     parser.add_argument("--datum", help="Rigid unscaled datum object; default is world axes")
     parser.add_argument("--axes", default="XYZ", help="Any combination of X, Y, Z")
@@ -56,6 +59,8 @@ def arguments():
         parser.error("--range-mm must be a finite ascending interval")
     if not args.pose.strip() or (args.parts and len(args.parts) != len(set(args.parts))):
         parser.error("Provide a pose label and distinct part names")
+    if args.allow_absent_parts and (not args.parts or args.reference):
+        parser.error("--allow-absent-parts is for a named-parts baseline before comparison")
     return args
 
 
@@ -281,6 +286,8 @@ def read_windows(args, parts):
 
 
 def write_audit(args, out):
+    if args.scene is not None:
+        bpy.context.window.scene = bpy.data.scenes[args.scene]
     scene = bpy.context.scene
     scene.frame_set(args.frame)
     deps = bpy.context.evaluated_depsgraph_get()
@@ -319,7 +326,8 @@ def write_audit(args, out):
     manifest = dict(contract=contract, blend=source.name, blend_sha256=file_hash(source),
                     blender=bpy.app.version_string, scene=scene.name, mm_per_unit=scale,
                     datum_world_BU=np.asarray(datum).tolist(), probe_mm=args.probe_mm, parts={},
-                    collection=args.collection, reference_sha256=reference.get("blend_sha256"))
+                    present_parts=sorted(selected), collection=args.collection,
+                    reference_sha256=reference.get("blend_sha256"))
     listing = ['<!doctype html><html lang="zh"><meta charset="utf-8"><title>逐站截面</title>',
                '<h1>逐站截面</h1><p>橙色实线为当前版，蓝色虚线为参考版，黑线标出已采样的最大轮廓距离。坐标与距离均为 mm。</p>',
                '<p><a href="sections.csv">逐站数据</a> · <a href="coverage.csv">逐件覆盖</a> · <a href="manifest.json">坐标与版本</a></p>']
@@ -336,7 +344,8 @@ def write_audit(args, out):
         for number, part in enumerate(sorted(parts)):
             obj = scene.objects.get(part) if part in selected else None
             ref_file = reference.get("parts", {}).get(part)
-            if (obj and obj.type != "MESH") or (not obj and not ref_file):
+            reference_has_part = part in reference.get("present_parts", reference.get("parts", {}))
+            if (obj and obj.type != "MESH") or (not obj and not reference_has_part and not args.allow_absent_parts):
                 raise ValueError(f"Missing mesh or incorrect name: {part}")
             old = {}
             if ref_file:

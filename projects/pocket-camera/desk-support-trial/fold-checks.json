@@ -1,0 +1,25 @@
+{
+  "scene": "B - Detachable fan-foot dock",
+  "rest_frame": 94,
+  "frames": [94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110],
+  "checks": [
+    {
+      "id": "folding-feet-between-legs",
+      "type": "surface_intersection",
+      "pairs": [
+        ["B | fan blade 1", "B | fan blade 2"],
+        ["B | fan blade 1", "B | rubber foot 2"],
+        ["B | rubber foot 1", "B | fan blade 2"],
+        ["B | rubber foot 1", "B | rubber foot 2"],
+        ["B | fan blade 1", "B | fan blade 3"],
+        ["B | fan blade 1", "B | rubber foot 3"],
+        ["B | rubber foot 1", "B | fan blade 3"],
+        ["B | rubber foot 1", "B | rubber foot 3"],
+        ["B | fan blade 2", "B | fan blade 3"],
+        ["B | fan blade 2", "B | rubber foot 3"],
+        ["B | rubber foot 2", "B | fan blade 3"],
+        ["B | rubber foot 2", "B | rubber foot 3"]
+      ]
+    }
+  ]
+}
