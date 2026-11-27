@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品 CG 工作室"
+  short_description: "从参考建模或已有工程开始，完成多产品材质精修、效果图与动画批量交付"
+  default_prompt: "使用 $product-cg-studio 根据这批产品的参考和已有工程，逐款建模或修复，制作所需的效果图和动画，并交付可编辑工程及验收记录。"

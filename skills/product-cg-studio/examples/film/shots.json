@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "jobs": [
+    {
+      "id": "reveal",
+      "blend": "motion.blend",
+      "scene": "Volume control",
+      "camera": "Reveal",
+      "range": [1, 32]
+    },
+    {
+      "id": "dial",
+      "blend": "motion.blend",
+      "scene": "Volume control",
+      "camera": "Dial macro",
+      "range": [33, 72]
+    }
+  ]
+}

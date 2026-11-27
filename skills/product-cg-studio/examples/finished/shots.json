@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "jobs": [
+    {"id":"banner","blend":"volume-controller.blend","scene":"Studio","camera":"Hero","frame":1,"resolution":[1280,640]},
+    {"id":"portrait","blend":"volume-controller.blend","scene":"Studio","camera":"Detail","frame":1,"resolution":[800,1000]}
+  ]
+}
