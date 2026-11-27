@@ -50,7 +50,7 @@ blender -b --factory-startup --disable-autoexec desk-study.blend --python-exit-c
 
 打开 [desk-study.blend](desk-study.blend)。场景 `A - Lift-out desk dock` 和 `B - Detachable fan-foot dock` 共用机身、桌面和主机位。第 62 帧看使用状态，第 94 帧看机身提离，第 110 帧看 B 的支脚收拢。可以直接选择支脚、轴、底座和接线组件检查或修改。
 
-本工程保留 155 个可分别编辑的相机网格，以及本次新增的俯仰、拔线、提离与折脚动作。需要修改原机完整云台绑定时，请使用[档案 V7 工程](https://github.com/AJ-nb/3d-asset-archive/releases/download/pocket-process-v1/Pocket-Process-Full.zip)。本轮手机图里的屏幕、电脑与线材都在场景中建立，重开检查列有零张图像、零个链接库和零条外部资源路径。
+本工程保留 155 个可分别编辑的相机网格，以及本次新增的俯仰、拔线、提离与折脚动作。需要修改原机完整云台绑定时，请使用[V7 终版可携工程 .blend](../files/06_%E8%87%AA%E5%BB%BA%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%88%90%E7%89%87/dji-osmo-pocket-4p-v7/Portable-DJI-Osmo-Pocket-4P-V7-Final.blend?raw=1)。本轮手机图里的屏幕、电脑与线材都在场景中建立，重开检查列有零张图像、零个链接库和零条外部资源路径。
 
 镜头、机位、关键帧和输出像素见 [shots.json](shots.json)。在仓库根目录运行以下命令可重出镜头。每次选择新的输出目录，Blender 未加入 PATH 时给两条命令追加 `--blender` 和可执行程序路径。
 

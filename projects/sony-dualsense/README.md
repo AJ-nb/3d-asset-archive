@@ -2,6 +2,8 @@
 
 从接收第三方 FBX 高模开始记录 Blender 制作流程，包括模型导入与检查、白模、颜色与材料表现、灯光，以及产品原片和尺度概念。原片以实际输出尺寸归档。
 
+[浏览全部文件](FILES.md) · [10 个 Blender 工程](FILES.md#blender-工程) · [下载 V3 产品摄影工程 · 35.8 MB](https://github.com/AJ-nb/3d-asset-archive/raw/refs/heads/main/projects/sony-dualsense/00-来源与工程/08-V3产品与概念/DualSense-Product-Photography.blend) · [下载同机位四步工程 · 22.1 MB](https://github.com/AJ-nb/3d-asset-archive/raw/refs/heads/main/projects/sony-dualsense/03-同机位流程/DualSense-同机位渲染流程.blend)
+
 ![九张小红书发布图总览](小红书图组总览.jpg)
 
 | 目录 | 内容 |
@@ -18,7 +20,9 @@
 
 ## 下载原图与工程
 
-原片和大文件用 Git LFS 保存。安装 Git LFS 后，克隆仓库，再执行 `git lfs pull`。双击 `projects/sony-dualsense/打开看图.html` 可离线浏览图组及对应原件。在项目目录运行 `sha256sum --check 全包文件校验.sha256` 可核对归档文件。
+在浏览器中打开[完整文件目录](FILES.md)，可以逐项查看历史原图、下载任一版 Blender 工程、源素材和制作记录。[制作起点与素材来源](00-来源与工程/先读.md)记录了第三方高模的来源和已知授权情况。
+
+如需保留目录结构并离线浏览，安装 Git LFS 后运行以下命令。下载完成后，双击项目目录下的 `打开看图.html` 可按发布图回查原件。在该目录运行 `sha256sum --check 全包文件校验.sha256` 可核对归档文件。
 
 ```sh
 git lfs install

@@ -2,7 +2,9 @@
 
 依据公开资料重建的 Blender 产品 CG 项目。以预演工程与首轮装配样张为起点，记录白模、网格、材质、折叠动作与最终渲染。后肩轴线依据公开图推断，尺寸偏差见完整包内的装配复验记录。
 
-[下载完整制作档案](https://github.com/AJ-nb/3d-asset-archive/releases/download/mavic-4-pro-process-v1/Mavic-4-Pro-Process-Full.zip) · [下载 10 张小红书发布图](https://github.com/AJ-nb/3d-asset-archive/releases/download/mavic-4-pro-process-v1/Mavic-4-Pro-XHS-10-PNG.zip) · [发帖文案](小红书发布文案.md) · [SHA-256](SHA256SUMS)
+[浏览全部 266 个文件](FILES.md) · [下载后肩修订定稿 .blend](files/源工程与记录/05-后肩修订/Mavic-4-Pro-Rear-Fit-Final.blend?raw=1) · [查看 9 个 Blender 工程与修订记录](FILES.md#源工程与记录)
+
+[下载完整制作档案 ZIP](https://github.com/AJ-nb/3d-asset-archive/releases/download/mavic-4-pro-process-v1/Mavic-4-Pro-Process-Full.zip) · [下载 10 张小红书发布图](https://github.com/AJ-nb/3d-asset-archive/releases/download/mavic-4-pro-process-v1/Mavic-4-Pro-XHS-10-PNG.zip) · [发帖文案](小红书发布文案.md) · [SHA-256](SHA256SUMS)
 
 ![10 张竖版发布图总览](preview.jpg)
 
@@ -20,7 +22,7 @@
 
 ## 完整制作档案
 
-解压完整 ZIP，打开根目录的 **打开看图.html** 即可离线浏览。文件夹内保留原有相对路径。
+在线可从[文件目录](FILES.md)逐项浏览、下载，也可直接进入[原始文件夹](files/)。需要离线图册时，解压完整 ZIP 后打开根目录的 **打开看图.html**。
 
 | 文件夹 | 内容 |
 | --- | --- |
